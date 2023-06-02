@@ -15,6 +15,12 @@
     <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
     <li><a href=#Image-Matching>Image Matching</a></li>
     <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#diffusion-model>diffusion model</a></li>
+    <li><a href=#semantic-segmentation>semantic segmentation</a></li>
+    <li><a href=#image-restoration>image restoration</a></li>
+    <li><a href=#self-supervised>self-supervised</a></li>
+    <li><a href=#edge-detection>edge detection</a></li>
+    <li><a href=#transfer-learning>transfer learning</a></li>
   </ol>
 </details>
 
@@ -1631,6 +1637,100 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
+
+## diffusion model
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-06-01**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986](http://arxiv.org/abs/2306.00986)|null|
+|**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980](http://arxiv.org/abs/2306.00980)|null|
+|**2023-06-01**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974](http://arxiv.org/abs/2306.00974)|**[link](https://github.com/qihao067/sage)**|
+|**2023-06-01**|**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models**|Chang Liu et.al.|[2306.00973](http://arxiv.org/abs/2306.00973)|**[link](https://github.com/haoningwu3639/StoryGen)**|
+|**2023-06-01**|**ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation**|Shaozhe Hao et.al.|[2306.00971](http://arxiv.org/abs/2306.00971)|**[link](https://github.com/haoosz/vico)**|
+|**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
+|**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
+|**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|null|
+|**2023-06-01**|**Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance**|Jinbo Xing et.al.|[2306.00943](http://arxiv.org/abs/2306.00943)|null|
+|**2023-06-01**|**Inserting Anybody in Diffusion Models via Celeb Basis**|Ge Yuan et.al.|[2306.00926](http://arxiv.org/abs/2306.00926)|**[link](https://github.com/ygtxr1997/celebbasis)**|
+
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
+
+## semantic segmentation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-06-01**|**Geo-Tiles for Semantic Segmentation of Earth Observation Imagery**|Sebastian Bullinger et.al.|[2306.00823](http://arxiv.org/abs/2306.00823)|**[link](https://github.com/SBCV/EarthObservationTiles)**|
+|**2023-06-01**|**Exploring Open-Vocabulary Semantic Segmentation without Human Labels**|Jun Chen et.al.|[2306.00450](http://arxiv.org/abs/2306.00450)|null|
+|**2023-05-31**|**Fast-SNN: Fast Spiking Neural Network by Converting Quantized ANN**|Yangfan Hu et.al.|[2305.19868](http://arxiv.org/abs/2305.19868)|**[link](https://github.com/yangfan-hu/fast-snn)**|
+|**2023-06-01**|**Boosting Text-to-Image Diffusion Models with Fine-Grained Semantic Rewards**|Guian Fang et.al.|[2305.19599](http://arxiv.org/abs/2305.19599)|**[link](https://github.com/enderfga/finerewards)**|
+|**2023-05-30**|**TrueDeep: A systematic approach of crack detection with less data**|Ram Krishna Pandey et.al.|[2305.19088](http://arxiv.org/abs/2305.19088)|null|
+|**2023-05-28**|**Semantic Segmentation with Bidirectional Language Models Improves Long-form ASR**|W. Ronny Huang et.al.|[2305.18419](http://arxiv.org/abs/2305.18419)|null|
+|**2023-05-29**|**Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising**|Fu-Yun Wang et.al.|[2305.18264](http://arxiv.org/abs/2305.18264)|**[link](https://github.com/g-u-n/gen-l-video)**|
+|**2023-05-29**|**Contrastive Learning Based Recursive Dynamic Multi-Scale Network for Image Deraining**|Zhiying Jiang et.al.|[2305.18092](http://arxiv.org/abs/2305.18092)|null|
+|**2023-05-29**|**CamoDiffusion: Camouflaged Object Detection via Conditional Diffusion Models**|Zhongxi Chen et.al.|[2305.17932](http://arxiv.org/abs/2305.17932)|**[link](https://github.com/rapisurazurite/camodiffusion)**|
+|**2023-05-27**|**Condition-Invariant Semantic Segmentation**|Christos Sakaridis et.al.|[2305.17349](http://arxiv.org/abs/2305.17349)|**[link](https://github.com/syscv/ciss)**|
+
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
+
+## image restoration
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-06-01**|**Wavelet Image Restoration Using Multifractal Priors**|Karl Young et.al.|[2306.00309](http://arxiv.org/abs/2306.00309)|null|
+|**2023-06-01**|**Low-Light Image Enhancement with Wavelet-based Diffusion Models**|Hai Jiang et.al.|[2306.00306](http://arxiv.org/abs/2306.00306)|null|
+|**2023-05-31**|**A Unified Conditional Framework for Diffusion-based Image Restoration**|Yi Zhang et.al.|[2305.20049](http://arxiv.org/abs/2305.20049)|null|
+|**2023-05-30**|**Wide & deep learning for spatial & intensity adaptive image restoration**|Yadong Wang et.al.|[2305.18708](http://arxiv.org/abs/2305.18708)|**[link](https://github.com/Ydo-W/DparNet)**|
+|**2023-05-29**|**GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions**|Tao Wang et.al.|[2305.17863](http://arxiv.org/abs/2305.17863)|null|
+|**2023-05-28**|**PND-Net: Physics based Non-local Dual-domain Network for Metal Artifact Reduction**|Jinqiu Xia et.al.|[2305.17778](http://arxiv.org/abs/2305.17778)|null|
+|**2023-05-27**|**Rethinking PRL: A Multiscale Progressively Residual Learning Network for Inverse Halftoning**|Feiyu Li et.al.|[2305.17355](http://arxiv.org/abs/2305.17355)|**[link](https://github.com/feiyuli-cs/msprl)**|
+|**2023-05-24**|**Learning INR for Event-guided Rolling Shutter Frame Correction, Deblur, and Interpolation**|Yunfan Lu et.al.|[2305.15078](http://arxiv.org/abs/2305.15078)|**[link](https://github.com/yunfanLu/EG-RSDBI)**|
+|**2023-05-23**|**Generalized Expectation Maximization Framework for Blind Image Super Resolution**|Yuxiao Li et.al.|[2305.13880](http://arxiv.org/abs/2305.13880)|null|
+|**2023-05-23**|**WaveDM: Wavelet-Based Diffusion Models for Image Restoration**|Yi Huang et.al.|[2305.13819](http://arxiv.org/abs/2305.13819)|null|
+
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
+
+## self-supervised
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2021-09-09**|**Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders**|Fangyu Liu et.al.|[2104.08027](http://arxiv.org/abs/2104.08027)|**[link](https://github.com/cambridgeltl/mirror-bert)**|
+|**2022-07-11**|**Learned Camera Gain and Exposure Control for Improved Visual Feature Detection and Matching**|Justin Tomasi et.al.|[2102.04341](http://arxiv.org/abs/2102.04341)|null|
+
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
+
+## edge detection
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-05-31**|**SPAC-Net: Synthetic Pose-aware Animal ControlNet for Enhanced Pose Estimation**|Le Jiang et.al.|[2305.17845](http://arxiv.org/abs/2305.17845)|null|
+|**2023-05-16**|**A Geometric Calibration of the Tip of the Red Giant Branch in the Milky Way using Gaia DR3**|M. Dixon et.al.|[2305.09215](http://arxiv.org/abs/2305.09215)|null|
+|**2023-05-12**|**Vision and Control for Grasping Clear Plastic Bags**|Joohwan Seo et.al.|[2305.07631](http://arxiv.org/abs/2305.07631)|**[link](https://github.com/jaxwagner/eecs206b_final_project)**|
+|**2023-05-12**|**Edge-Enhanced Microscopy of Comlplex Object using Scalar and Vectorial Vortex Filtering**|Jigme Zangpo et.al.|[2305.07225](http://arxiv.org/abs/2305.07225)|null|
+|**2023-05-10**|**Novel Quantum Information Processing Methods and Investigation**|Zhang Ze Yu et.al.|[2305.05953](http://arxiv.org/abs/2305.05953)|null|
+|**2023-05-10**|**Low-Light Image Enhancement via Structure Modeling and Guidance**|Xiaogang Xu et.al.|[2305.05839](http://arxiv.org/abs/2305.05839)|null|
+|**2023-04-30**|**Multi-directional Sobel operator kernel on GPUs**|Qiong Chang et.al.|[2305.00515](http://arxiv.org/abs/2305.00515)|null|
+|**2023-04-30**|**Continuous motion of an electrically actuated water droplet over a PDMS-coated surface**|Supriya Upadhyay et.al.|[2305.00420](http://arxiv.org/abs/2305.00420)|null|
+|**2023-04-13**|**CATS: The Hubble Constant from Standardized TRGB and Type Ia Supernova Measurements**|D. Scolnic et.al.|[2304.06693](http://arxiv.org/abs/2304.06693)|null|
+|**2023-04-10**|**Reconstruction-driven Dynamic Refinement based Unsupervised Domain Adaptation for Joint Optic Disc and Cup Segmentation**|Ziyang Chen et.al.|[2304.04581](http://arxiv.org/abs/2304.04581)|null|
+
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
+
+## transfer learning
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-06-01**|**Improved Cross-Lingual Transfer Learning For Automatic Speech Translation**|Sameer Khurana et.al.|[2306.00789](http://arxiv.org/abs/2306.00789)|null|
+|**2023-06-01**|**Improving Polish to English Neural Machine Translation with Transfer Learning: Effects of Data Volume and Language Similarity**|Juuso Eronen et.al.|[2306.00660](http://arxiv.org/abs/2306.00660)|null|
+|**2023-06-01**|**The Effects of Input Type and Pronunciation Dictionary Usage in Transfer Learning for Low-Resource Text-to-Speech**|Phat Do et.al.|[2306.00535](http://arxiv.org/abs/2306.00535)|null|
+|**2023-06-01**|**Divide, Conquer, and Combine: Mixture of Semantic-Independent Experts for Zero-Shot Dialogue State Tracking**|Qingyue Wang et.al.|[2306.00434](http://arxiv.org/abs/2306.00434)|null|
+|**2023-06-01**|**Adapting Pre-trained Language Models to Vision-Language Tasks via Dynamic Visual Prompting**|Shubin Huang et.al.|[2306.00409](http://arxiv.org/abs/2306.00409)|null|
+|**2023-06-01**|**Autism Disease Detection Using Transfer Learning Techniques: Performance Comparison Between Central Processing Unit vs Graphics Processing Unit Functions for Neural Networks**|Mst Shapna Akter et.al.|[2306.00283](http://arxiv.org/abs/2306.00283)|null|
+|**2023-06-01**|**Transfer Learning for Underrepresented Music Generation**|Anahita Doosti et.al.|[2306.00281](http://arxiv.org/abs/2306.00281)|null|
+|**2023-06-01**|**Maximal Domain Independent Representations Improve Transfer Learning**|Adrian Shuai Li et.al.|[2306.00262](http://arxiv.org/abs/2306.00262)|null|
+|**2023-06-01**|**Towards Foundation Models for Scientific Machine Learning: Characterizing Scaling and Transfer Behavior**|Shashank Subramanian et.al.|[2306.00258](http://arxiv.org/abs/2306.00258)|null|
+|**2023-05-31**|**Pre-Trained Language-Meaning Models for Multilingual Parsing and Generation**|Chunliu Wang et.al.|[2306.00124](http://arxiv.org/abs/2306.00124)|**[link](https://github.com/wangchunliu/drs-pretrained-lmm)**|
 
 <p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
 
