@@ -33,7 +33,7 @@ keywords:
     "self-supervised":
         filters: ["self","cs"]
      "supervised":
-        filters: ["supervised"]
+        filters: ["supervised","cs"]
     "multi-scale":
         filters: ["multi-scale","cs"]
     "edge detection":
