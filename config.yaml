@@ -31,7 +31,9 @@ keywords:
     "image restoration":
         filters: ["image restoration","cs.CV"]
     "self-supervised":
-        filters: ["self-supervised"]
+        filters: ["self","supervised"]
+     "supervised":
+        filters: ["supervised"]
     "multi-scale":
         filters: ["multi-scale","cs"]
     "edge detection":
