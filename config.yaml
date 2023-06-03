@@ -31,7 +31,7 @@ keywords:
     "image restoration":
         filters: ["image restoration","cs.CV"]
     "self-supervised":
-        filters: ["self","supervised"]
+        filters: ["self","cs"]
      "supervised":
         filters: ["supervised"]
     "multi-scale":
