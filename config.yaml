@@ -25,16 +25,16 @@ keywords:
     "diffusion model": 
         filters: ["diffusion model"]
     "semantic segmentation":
-        filters: ["semantic segmentation"]
+        filters: ["semantic segmentation","cs.CV"]
     "image denoising":
-        filters: ["denoising", "image "]
+        filters: ["denoising", "image","cs"]
     "image restoration":
-        filters: ["image restoration"]
+        filters: ["image restoration","cs.CV"]
     "self-supervised":
         filters: ["self-supervised"]
     "multi-scale":
-        filters: ["multi-scale"]
+        filters: ["multi-scale","cs"]
     "edge detection":
-        filters: ["edge detection"]
+        filters: ["edge detection","cs.CV"]
     "transfer learning":
-        filters: ["transfer learning"]
+        filters: ["transfer learning","cs"]
