@@ -7,6 +7,8 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
+## GitPages on https://theneao.github.io/cv-arxiv-daily
+
 ## Updated on 2023.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
@@ -139,7 +141,7 @@ layout: default
 |**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124](http://arxiv.org/abs/2305.10124)|**[link](https://github.com/omerb01/puq)**|
 |**2023-05-17**|**Restoring Images Captured in Arbitrary Hybrid Adverse Weather Conditions in One Go**|Ye-Cong Wan et.al.|[2305.09996](http://arxiv.org/abs/2305.09996)|**[link](https://github.com/jeasco/rahc)**|
 |**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995](http://arxiv.org/abs/2305.08995)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
-|**2023-05-15**|**Toward Moir√©-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
+|**2023-05-15**|**Toward Moir®¶-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
 |**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979](http://arxiv.org/abs/2305.07979)|**[link](https://github.com/yunguo224/ug2_deraining)**|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge

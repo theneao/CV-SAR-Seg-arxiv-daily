@@ -292,7 +292,7 @@ def json_to_md(filename,md_filename,
             f.write(f"[![Forks][forks-shield]][forks-url]\n")
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
-                
+        f.write("## GitPages on " +"https://theneao.github.io/cv-arxiv-daily"+ "\n\n")       
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
