@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.06.12
+## Updated on 2023.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering**|Chaoning Zhang et.al.|[2306.06211](http://arxiv.org/abs/2306.06211)|null|
 |**2023-06-03**|**Hierarchical Multiresolution Feature- and Prior-based Graphs for Classification**|Faezeh Fallah et.al.|[2306.02143](http://arxiv.org/abs/2306.02143)|null|
 |**2023-05-31**|**SPAC-Net: Synthetic Pose-aware Animal ControlNet for Enhanced Pose Estimation**|Le Jiang et.al.|[2305.17845](http://arxiv.org/abs/2305.17845)|**[link](https://github.com/ostadabbas/SPAC-Net-Synthetic-Pose-aware-Animal-ControlNet)**|
 |**2023-05-16**|**A Geometric Calibration of the Tip of the Red Giant Branch in the Milky Way using Gaia DR3**|M. Dixon et.al.|[2305.09215](http://arxiv.org/abs/2305.09215)|null|
@@ -49,6 +50,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**A Brief Review of Hypernetworks in Deep Learning**|Vinod Kumar Chauhan et.al.|[2306.06955](http://arxiv.org/abs/2306.06955)|null|
+|**2023-06-12**|**Differentiable Multi-Fidelity Fusion: Efficient Learning of Physics Simulations with Neural Architecture Search and Transfer Learning**|Yuwen Deng et.al.|[2306.06904](http://arxiv.org/abs/2306.06904)|null|
+|**2023-06-12**|**Generating Synthetic Datasets by Interpolating along Generalized Geodesics**|Jiaojiao Fan et.al.|[2306.06866](http://arxiv.org/abs/2306.06866)|null|
+|**2023-06-11**|**VBSF-TLD: Validation-Based Approach for Soft Computing-Inspired Transfer Learning in Drone Detection**|Jaskaran Singh et.al.|[2306.06797](http://arxiv.org/abs/2306.06797)|null|
+|**2023-06-11**|**An information-Theoretic Approach to Semi-supervised Transfer Learning**|Daniel Jakubovitz et.al.|[2306.06731](http://arxiv.org/abs/2306.06731)|null|
+|**2023-06-10**|**Enhancing Low Resource NER Using Assisting Language And Transfer Learning**|Maithili Sabane et.al.|[2306.06477](http://arxiv.org/abs/2306.06477)|null|
+|**2023-06-10**|**Augmentations of Forman's Ricci Curvature and their Applications in Community Detection**|Lukas Fesser et.al.|[2306.06474](http://arxiv.org/abs/2306.06474)|null|
+|**2023-06-09**|**Understanding the Benefits of Image Augmentations**|Matthew Iceland et.al.|[2306.06254](http://arxiv.org/abs/2306.06254)|null|
+|**2023-06-09**|**PoET: A generative model of protein families as sequences-of-sequences**|Timothy F. Truong Jr et.al.|[2306.06156](http://arxiv.org/abs/2306.06156)|null|
+|**2023-06-13**|**End-to-End Neural Network Compression via $\frac{\ell_1}{\ell_2}$ Regularized Latency Surrogates**|Anshul Nasery et.al.|[2306.05785](http://arxiv.org/abs/2306.05785)|null|
+|**2023-06-09**|**Data-Link: High Fidelity Manufacturing Datasets for Model2Real Transfer under Industrial Settings**|Sunny Katyara et.al.|[2306.05766](http://arxiv.org/abs/2306.05766)|null|
+|**2023-06-09**|**Emotion Detection from EEG using Transfer Learning**|Sidharth Sidharth et.al.|[2306.05680](http://arxiv.org/abs/2306.05680)|null|
+|**2023-06-09**|**Customizing General-Purpose Foundation Models for Medical Report Generation**|Bang Yang et.al.|[2306.05642](http://arxiv.org/abs/2306.05642)|null|
 |**2023-06-08**|**PEFT-SER: On the Use of Parameter Efficient Transfer Learning Approaches For Speech Emotion Recognition Using Pre-trained Speech Models**|Tiantian Feng et.al.|[2306.05350](http://arxiv.org/abs/2306.05350)|null|
 |**2023-06-08**|**T3L: Translate-and-Test Transfer Learning for Cross-Lingual Text Classification**|Inigo Jauregi Unanue et.al.|[2306.04996](http://arxiv.org/abs/2306.04996)|**[link](https://github.com/inigo-jauregi/t3l)**|
 |**2023-06-09**|**Generalization Performance of Transfer Learning: Overparameterized and Underparameterized Regimes**|Peizhong Ju et.al.|[2306.04901](http://arxiv.org/abs/2306.04901)|null|
@@ -101,6 +115,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280](http://arxiv.org/abs/2306.07280)|null|
+|**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257](http://arxiv.org/abs/2306.07257)|null|
+|**2023-06-12**|**Diffusion Models for Black-Box Optimization**|Siddarth Krishnamoorthy et.al.|[2306.07180](http://arxiv.org/abs/2306.07180)|null|
+|**2023-06-12**|**InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions**|Jiale Xu et.al.|[2306.07154](http://arxiv.org/abs/2306.07154)|null|
+|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991](http://arxiv.org/abs/2306.06991)|**[link](https://github.com/sail-sg/fdm)**|
+|**2023-06-13**|**VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models**|Sheng-Yen Chou et.al.|[2306.06874](http://arxiv.org/abs/2306.06874)|null|
+|**2023-06-12**|**HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models**|Ji-Sang Hwang et.al.|[2306.06814](http://arxiv.org/abs/2306.06814)|null|
+|**2023-06-11**|**Stable Remaster: Bridging the Gap Between Old Content and New Displays**|Nathan Paull et.al.|[2306.06803](http://arxiv.org/abs/2306.06803)|**[link](https://github.com/naston/stableremaster)**|
+|**2023-06-10**|**How movement bias to attractive regions determines population spread and critical habitat size**|Vivian Dornelas et.al.|[2306.06450](http://arxiv.org/abs/2306.06450)|null|
+|**2023-06-10**|**Language-Guided Traffic Simulation via Scene-Level Diffusion**|Ziyuan Zhong et.al.|[2306.06344](http://arxiv.org/abs/2306.06344)|null|
+|**2023-06-09**|**Boosting GUI Prototyping with Diffusion Models**|Jialiang Wei et.al.|[2306.06233](http://arxiv.org/abs/2306.06233)|null|
+|**2023-06-09**|**Aladdin: Zero-Shot Hallucination of Stylized 3D Assets from Abstract Scene Descriptions**|Ian Huang et.al.|[2306.06212](http://arxiv.org/abs/2306.06212)|**[link](https://github.com/ianhuang0630/aladdin)**|
+|**2023-06-09**|**Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model**|Yule Wang et.al.|[2306.06138](http://arxiv.org/abs/2306.06138)|null|
+|**2023-06-09**|**Beyond Diffusion: A Generalized Mean-Field Theory of Turbulent Dust Transport in Protoplanetary Disks**|Fabian Binkert et.al.|[2306.06103](http://arxiv.org/abs/2306.06103)|null|
+|**2023-06-09**|**Beyond Surface Statistics: Scene Representations in a Latent Diffusion Model**|Yida Chen et.al.|[2306.05720](http://arxiv.org/abs/2306.05720)|null|
+|**2023-06-12**|**Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion**|Haogeng Liu et.al.|[2306.05708](http://arxiv.org/abs/2306.05708)|null|
+|**2023-06-09**|**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**|Xingchen Zhou et.al.|[2306.05668](http://arxiv.org/abs/2306.05668)|null|
+|**2023-06-08**|**BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping**|Jiatao Gu et.al.|[2306.05544](http://arxiv.org/abs/2306.05544)|null|
 |**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427](http://arxiv.org/abs/2306.05427)|null|
 |**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
 |**2023-06-08**|**PriSampler: Mitigating Property Inference of Diffusion Models**|Hailong Hu et.al.|[2306.05208](http://arxiv.org/abs/2306.05208)|null|
@@ -188,6 +220,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Video-to-Music Recommendation using Temporal Alignment of Segments**|Laure Prétet et.al.|[2306.07187](http://arxiv.org/abs/2306.07187)|null|
+|**2023-06-12**|**Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**|Peter Stratton et.al.|[2306.06850](http://arxiv.org/abs/2306.06850)|**[link](https://github.com/peterstratton/volume-droid)**|
+|**2023-06-12**|**AerialFormer: Multi-resolution Transformer for Aerial Image Segmentation**|Kashu Yamazaki et.al.|[2306.06842](http://arxiv.org/abs/2306.06842)|null|
+|**2023-06-11**|**3rd Place Solution for PVUW Challenge 2023: Video Panoptic Segmentation**|Jinming Su et.al.|[2306.06753](http://arxiv.org/abs/2306.06753)|null|
+|**2023-06-09**|**SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers**|Bowen Zhang et.al.|[2306.06289](http://arxiv.org/abs/2306.06289)|**[link](https://github.com/zbwxp/SegVit)**|
+|**2023-06-09**|**Data-Link: High Fidelity Manufacturing Datasets for Model2Real Transfer under Industrial Settings**|Sunny Katyara et.al.|[2306.05766](http://arxiv.org/abs/2306.05766)|null|
+|**2023-06-09**|**Illumination Controllable Dehazing Network based on Unsupervised Retinex Embedding**|Jie Gui et.al.|[2306.05675](http://arxiv.org/abs/2306.05675)|**[link](https://github.com/xiaofeng-life/icdehazing)**|
+|**2023-06-08**|**A Novel Confidence Induced Class Activation Mapping for MRI Brain Tumor Segmentation**|Yu-Jen Chen et.al.|[2306.05476](http://arxiv.org/abs/2306.05476)|**[link](https://github.com/windstormer/Cfd-CAM)**|
 |**2023-06-08**|**Mesh-MLP: An all-MLP Architecture for Mesh Classification and Semantic Segmentation**|Qiujie Dong et.al.|[2306.05246](http://arxiv.org/abs/2306.05246)|null|
 |**2023-06-08**|**Unsupervised augmentation optimization for few-shot medical image segmentation**|Quan Quan et.al.|[2306.05107](http://arxiv.org/abs/2306.05107)|null|
 |**2023-06-08**|**Improving Visual Prompt Tuning for Self-supervised Vision Transformers**|Seungryong Yoo et.al.|[2306.05067](http://arxiv.org/abs/2306.05067)|**[link](https://github.com/ryongithub/gatedprompttuning)**|
@@ -242,6 +282,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration**|Kechun Liu et.al.|[2306.06513](http://arxiv.org/abs/2306.06513)|null|
+|**2023-06-09**|**Illumination Controllable Dehazing Network based on Unsupervised Retinex Embedding**|Jie Gui et.al.|[2306.05675](http://arxiv.org/abs/2306.05675)|**[link](https://github.com/xiaofeng-life/icdehazing)**|
 |**2023-06-08**|**HQ-50K: A Large-scale, High-quality Dataset for Image Restoration**|Qinhong Yang et.al.|[2306.05390](http://arxiv.org/abs/2306.05390)|**[link](https://github.com/littleyaang/hq-50k)**|
 |**2023-06-06**|**BokehOrNot: Transforming Bokeh Effect with Image Transformer and Lens Metadata Embedding**|Zhihao Yang et.al.|[2306.04032](http://arxiv.org/abs/2306.04032)|**[link](https://github.com/indicator0/bokehornot)**|
 |**2023-06-06**|**Convergent Bregman Plug-and-Play Image Restoration for Poisson Inverse Problems**|Samuel Hurault et.al.|[2306.03466](http://arxiv.org/abs/2306.03466)|null|
