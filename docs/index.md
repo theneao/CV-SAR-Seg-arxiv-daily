@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.06.14
+## Updated on 2023.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -50,6 +50,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning**|Arnav Chavan et.al.|[2306.07967](http://arxiv.org/abs/2306.07967)|**[link](https://github.com/arnav0400/vit-slim)**|
+|**2023-06-13**|**CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems**|Md Shahriar Iqbal et.al.|[2306.07888](http://arxiv.org/abs/2306.07888)|null|
+|**2023-06-13**|**Robustness and Generalization Performance of Deep Learning Models on Cyber-Physical Systems: A Comparative Study**|Alexander Windmann et.al.|[2306.07737](http://arxiv.org/abs/2306.07737)|null|
+|**2023-06-14**|**Few-shot Multi-domain Knowledge Rearming for Context-aware Defence against Advanced Persistent Threats**|Gaolei Li et.al.|[2306.07685](http://arxiv.org/abs/2306.07685)|null|
+|**2023-06-12**|**EriBERTa: A Bilingual Pre-Trained Language Model for Clinical Natural Language Processing**|Iker de la Iglesia et.al.|[2306.07373](http://arxiv.org/abs/2306.07373)|null|
 |**2023-06-12**|**A Brief Review of Hypernetworks in Deep Learning**|Vinod Kumar Chauhan et.al.|[2306.06955](http://arxiv.org/abs/2306.06955)|null|
 |**2023-06-12**|**Differentiable Multi-Fidelity Fusion: Efficient Learning of Physics Simulations with Neural Architecture Search and Transfer Learning**|Yuwen Deng et.al.|[2306.06904](http://arxiv.org/abs/2306.06904)|null|
 |**2023-06-12**|**Generating Synthetic Datasets by Interpolating along Generalized Geodesics**|Jiaojiao Fan et.al.|[2306.06866](http://arxiv.org/abs/2306.06866)|null|
@@ -115,6 +120,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation**|Shuai Yang et.al.|[2306.07954](http://arxiv.org/abs/2306.07954)|null|
+|**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881](http://arxiv.org/abs/2306.07881)|null|
+|**2023-06-13**|**StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models**|Yinghao Aaron Li et.al.|[2306.07691](http://arxiv.org/abs/2306.07691)|null|
+|**2023-06-15**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618](http://arxiv.org/abs/2306.07618)|null|
+|**2023-06-13**|**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model**|Xin Zhang et.al.|[2306.07596](http://arxiv.org/abs/2306.07596)|null|
+|**2023-06-13**|**User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems**|Marc Finzi et.al.|[2306.07526](http://arxiv.org/abs/2306.07526)|null|
+|**2023-06-13**|**Multi-objective Molecular Optimization for Opioid Use Disorder Treatment Using Generative Network Complex**|Hongsong Feng et.al.|[2306.07484](http://arxiv.org/abs/2306.07484)|null|
+|**2023-06-13**|**3D molecule generation by denoising voxel grids**|Pedro O. Pinheiro et.al.|[2306.07473](http://arxiv.org/abs/2306.07473)|null|
 |**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280](http://arxiv.org/abs/2306.07280)|null|
 |**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257](http://arxiv.org/abs/2306.07257)|null|
 |**2023-06-12**|**Diffusion Models for Black-Box Optimization**|Siddarth Krishnamoorthy et.al.|[2306.07180](http://arxiv.org/abs/2306.07180)|null|
@@ -220,6 +233,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Low-Resource White-Box Semantic Segmentation of Supporting Towers on 3D Point Clouds via Signature Shape Identification**|Diogo Lavado et.al.|[2306.07809](http://arxiv.org/abs/2306.07809)|null|
 |**2023-06-12**|**Video-to-Music Recommendation using Temporal Alignment of Segments**|Laure Prétet et.al.|[2306.07187](http://arxiv.org/abs/2306.07187)|null|
 |**2023-06-12**|**Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**|Peter Stratton et.al.|[2306.06850](http://arxiv.org/abs/2306.06850)|**[link](https://github.com/peterstratton/volume-droid)**|
 |**2023-06-12**|**AerialFormer: Multi-resolution Transformer for Aerial Image Segmentation**|Kashu Yamazaki et.al.|[2306.06842](http://arxiv.org/abs/2306.06842)|null|
@@ -236,7 +250,7 @@ layout: default
 |**2023-06-07**|**UniBoost: Unsupervised Unimodal Pre-training for Boosting Zero-shot Vision-Language Tasks**|Yanan Sun et.al.|[2306.04715](http://arxiv.org/abs/2306.04715)|null|
 |**2023-06-06**|**DenseDINO: Boosting Dense Self-Supervised Learning with Token-Based Point-Level Consistency**|Yike Yuan et.al.|[2306.04654](http://arxiv.org/abs/2306.04654)|null|
 |**2023-06-07**|**PhenoBench -- A Large Dataset and Benchmarks for Semantic Image Interpretation in the Agricultural Domain**|Jan Weyler et.al.|[2306.04557](http://arxiv.org/abs/2306.04557)|null|
-|**2023-06-07**|**CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation**|Boyuan Sun et.al.|[2306.04300](http://arxiv.org/abs/2306.04300)|**[link](https://github.com/bbbbchan/corrmatch)**|
+|**2023-06-14**|**CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation**|Boyuan Sun et.al.|[2306.04300](http://arxiv.org/abs/2306.04300)|**[link](https://github.com/bbbbchan/corrmatch)**|
 |**2023-06-07**|**Randomized 3D Scene Generation for Generalizable Self-supervised Pre-training**|Lanxiao Li et.al.|[2306.04237](http://arxiv.org/abs/2306.04237)|null|
 |**2023-06-06**|**Accurate Fine-Grained Segmentation of Human Anatomy in Radiographs via Volumetric Pseudo-Labeling**|Constantin Seibold et.al.|[2306.03934](http://arxiv.org/abs/2306.03934)|**[link](https://github.com/constantinseibold/chestxrayanatomysegmentation)**|
 |**2023-06-06**|**Towards Label-free Scene Understanding by Vision Foundation Models**|Runnan Chen et.al.|[2306.03899](http://arxiv.org/abs/2306.03899)|**[link](https://github.com/runnanchen/label-free-scene-understanding)**|
