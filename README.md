@@ -5,7 +5,7 @@
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.06.16
+## Updated on 2023.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2021-09-09**|**Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders**|Fangyu Liu et.al.|[2104.08027](http://arxiv.org/abs/2104.08027)|**[link](https://github.com/cambridgeltl/mirror-bert)**|
 |**2022-07-11**|**Learned Camera Gain and Exposure Control for Improved Visual Feature Detection and Matching**|Justin Tomasi et.al.|[2102.04341](http://arxiv.org/abs/2102.04341)|null|
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 ## edge detection
 
@@ -56,12 +56,17 @@
 |**2023-03-02**|**Scalable optical neural networks based on temporal computing**|Shuang Zheng et.al.|[2303.01287](http://arxiv.org/abs/2303.01287)|null|
 |**2023-03-26**|**Attention-based Point Cloud Edge Sampling**|Chengzhi Wu et.al.|[2302.14673](http://arxiv.org/abs/2302.14673)|**[link](https://github.com/JunweiZheng93/APES)**|
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 ## transfer learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**A Comparison of Self-Supervised Pretraining Approaches for Predicting Disease Risk from Chest Radiograph Images**|Yanru Chen et.al.|[2306.08955](http://arxiv.org/abs/2306.08955)|null|
+|**2023-06-14**|**Iterative self-transfer learning: A general methodology for response time-history prediction based on small dataset**|Yongjia Xu et.al.|[2306.08700](http://arxiv.org/abs/2306.08700)|null|
+|**2023-06-14**|**SMC-UDA: Structure-Modal Constraint for Unsupervised Cross-Domain Renal Segmentation**|Zhusi Zhong et.al.|[2306.08213](http://arxiv.org/abs/2306.08213)|null|
+|**2023-06-14**|**Solving Large-scale Spatial Problems with Convolutional Neural Networks**|Damian Owerko et.al.|[2306.08191](http://arxiv.org/abs/2306.08191)|null|
+|**2023-06-13**|**PersonaPKT: Building Personalized Dialogue Agents via Parameter-efficient Knowledge Transfer**|Xu Han et.al.|[2306.08126](http://arxiv.org/abs/2306.08126)|null|
 |**2023-06-13**|**One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning**|Arnav Chavan et.al.|[2306.07967](http://arxiv.org/abs/2306.07967)|**[link](https://github.com/arnav0400/vit-slim)**|
 |**2023-06-13**|**CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems**|Md Shahriar Iqbal et.al.|[2306.07888](http://arxiv.org/abs/2306.07888)|null|
 |**2023-06-13**|**Robustness and Generalization Performance of Deep Learning Models on Cyber-Physical Systems: A Comparative Study**|Alexander Windmann et.al.|[2306.07737](http://arxiv.org/abs/2306.07737)|null|
@@ -128,12 +133,32 @@
 |**2023-05-31**|**Deep into The Domain Shift: Transfer Learning through Dependence Regularization**|Shumin Ma et.al.|[2305.19499](http://arxiv.org/abs/2305.19499)|**[link](https://github.com/yzr1991/deep_into_the_domain_shift)**|
 |**2023-05-30**|**Transfer Learning With Efficient Estimators to Optimally Leverage Historical Data in Analysis of Randomized Trials**|Lauren D. Liao et.al.|[2305.19180](http://arxiv.org/abs/2305.19180)|null|
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 ## diffusion model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337](http://arxiv.org/abs/2306.09337)|null|
+|**2023-06-15**|**ArtFusion: Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330](http://arxiv.org/abs/2306.09330)|**[link](https://github.com/chendaryen/artfusion)**|
+|**2023-06-15**|**Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**|Laurynas Karazija et.al.|[2306.09316](http://arxiv.org/abs/2306.09316)|null|
+|**2023-06-15**|**Fast Training of Diffusion Models with Masked Transformers**|Hongkai Zheng et.al.|[2306.09305](http://arxiv.org/abs/2306.09305)|**[link](https://github.com/anima-lab/maskdit)**|
+|**2023-06-15**|**A Score-based Nonlinear Filter for Data Assimilation**|Feng Bao et.al.|[2306.09282](http://arxiv.org/abs/2306.09282)|null|
+|**2023-06-15**|**Conditional Human Sketch Synthesis with Explicit Abstraction Control**|Dar-Yen Chen et.al.|[2306.09274](http://arxiv.org/abs/2306.09274)|null|
+|**2023-06-15**|**Towards Faster Non-Asymptotic Convergence for Diffusion-Based Generative Models**|Gen Li et.al.|[2306.09251](http://arxiv.org/abs/2306.09251)|null|
+|**2023-06-15**|**Training Diffusion Classifiers with Denoising Assistance**|Chandramouli Sastry et.al.|[2306.09192](http://arxiv.org/abs/2306.09192)|null|
+|**2023-06-15**|**DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks in the Physical World**|Caixin Kang et.al.|[2306.09124](http://arxiv.org/abs/2306.09124)|null|
+|**2023-06-15**|**Relation-Aware Diffusion Model for Controllable Poster Layout Generation**|Fengheng Li et.al.|[2306.09086](http://arxiv.org/abs/2306.09086)|**[link](https://github.com/liuan0803/radm)**|
+|**2023-06-15**|**Parameterizing Vertical Mixing Coefficients in the Ocean Surface Boundary Layer using Neural Networks**|Aakash Sane et.al.|[2306.09045](http://arxiv.org/abs/2306.09045)|null|
+|**2023-06-15**|**Annotator Consensus Prediction for Medical Image Segmentation with Diffusion Models**|Tomer Amit et.al.|[2306.09004](http://arxiv.org/abs/2306.09004)|**[link](https://github.com/tomeramit/annotator-consensus-prediction)**|
+|**2023-06-15**|**When Hyperspectral Image Classification Meets Diffusion Models: An Unsupervised Feature Learning Framework**|Jingyi Zhou et.al.|[2306.08964](http://arxiv.org/abs/2306.08964)|null|
+|**2023-06-15**|**RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation**|Gabriel Bénédict et.al.|[2306.08947](http://arxiv.org/abs/2306.08947)|**[link](https://github.com/gabriben/recfusion)**|
+|**2023-06-15**|**Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment**|Royi Rassin et.al.|[2306.08877](http://arxiv.org/abs/2306.08877)|**[link](https://github.com/royira/syntax-guided-generation)**|
+|**2023-06-15**|**OMS-DPM: Optimizing the Model Schedule for Diffusion Probabilistic Models**|Enshu Liu et.al.|[2306.08860](http://arxiv.org/abs/2306.08860)|**[link](https://github.com/jsttlgdkycy/oms-dpm)**|
+|**2023-06-14**|**InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models**|Yingheng Wang et.al.|[2306.08757](http://arxiv.org/abs/2306.08757)|null|
+|**2023-06-14**|**VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing**|Paul Couairon et.al.|[2306.08707](http://arxiv.org/abs/2306.08707)|null|
+|**2023-06-14**|**GHP-MOFassemble: Diffusion modeling, high throughput screening, and molecular dynamics for rational discovery of novel metal-organic frameworks for carbon capture at scale**|Hyun Park et.al.|[2306.08695](http://arxiv.org/abs/2306.08695)|null|
+|**2023-06-14**|**Norm-guided latent space exploration for text-to-image generation**|Dvir Samuel et.al.|[2306.08687](http://arxiv.org/abs/2306.08687)|null|
 |**2023-06-13**|**Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation**|Shuai Yang et.al.|[2306.07954](http://arxiv.org/abs/2306.07954)|null|
 |**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881](http://arxiv.org/abs/2306.07881)|null|
 |**2023-06-13**|**StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models**|Yinghao Aaron Li et.al.|[2306.07691](http://arxiv.org/abs/2306.07691)|null|
@@ -243,12 +268,18 @@
 |**2023-06-01**|**Random advection-diffusion models and their statistics**|Stefano Lepri et.al.|[2306.00463](http://arxiv.org/abs/2306.00463)|null|
 |**2023-06-01**|**Controllable Motion Diffusion Model**|Yi Shi et.al.|[2306.00416](http://arxiv.org/abs/2306.00416)|null|
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 ## semantic segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Infinite Photorealistic Worlds using Procedural Generation**|Alexander Raistrick et.al.|[2306.09310](http://arxiv.org/abs/2306.09310)|null|
+|**2023-06-15**|**Neural World Models for Computer Vision**|Anthony Hu et.al.|[2306.09179](http://arxiv.org/abs/2306.09179)|null|
+|**2023-06-15**|**Contrast, Stylize and Adapt: Unsupervised Contrastive Learning Framework for Domain Adaptive Semantic Segmentation**|Tianyu Li et.al.|[2306.09098](http://arxiv.org/abs/2306.09098)|**[link](https://github.com/cxa9264/confeti)**|
+|**2023-06-15**|**A Self-Supervised Miniature One-Shot Texture Segmentation (MOSTS) Model for Real-Time Robot Navigation and Embedded Applications**|Yu Chen et.al.|[2306.08814](http://arxiv.org/abs/2306.08814)|null|
+|**2023-06-13**|**BPKD: Boundary Privileged Knowledge Distillation For Semantic Segmentation**|Liyang Liu et.al.|[2306.08075](http://arxiv.org/abs/2306.08075)|**[link](https://github.com/akideliu/bpkd)**|
+|**2023-06-13**|**Efficient 3D Semantic Segmentation with Superpoint Transformer**|Damien Robert et.al.|[2306.08045](http://arxiv.org/abs/2306.08045)|null|
 |**2023-06-13**|**Low-Resource White-Box Semantic Segmentation of Supporting Towers on 3D Point Clouds via Signature Shape Identification**|Diogo Lavado et.al.|[2306.07809](http://arxiv.org/abs/2306.07809)|null|
 |**2023-06-12**|**Video-to-Music Recommendation using Temporal Alignment of Segments**|Laure Prétet et.al.|[2306.07187](http://arxiv.org/abs/2306.07187)|null|
 |**2023-06-12**|**Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**|Peter Stratton et.al.|[2306.06850](http://arxiv.org/abs/2306.06850)|**[link](https://github.com/peterstratton/volume-droid)**|
@@ -308,12 +339,14 @@
 |**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957](http://arxiv.org/abs/2305.15957)|null|
 |**2023-05-25**|**Knowledge Diffusion for Distillation**|Tao Huang et.al.|[2305.15712](http://arxiv.org/abs/2305.15712)|**[link](https://github.com/hunto/diffkd)**|
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 ## image restoration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Exploring the Application of Large-scale Pre-trained Models on Adverse Weather Removal**|Zhentao Tan et.al.|[2306.09008](http://arxiv.org/abs/2306.09008)|null|
+|**2023-06-14**|**Investigation of the Challenges of Underwater-Visual-Monocular-SLAM**|Michele Grimaldi et.al.|[2306.08738](http://arxiv.org/abs/2306.08738)|null|
 |**2023-06-13**|**Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration**|Kechun Liu et.al.|[2306.06513](http://arxiv.org/abs/2306.06513)|null|
 |**2023-06-09**|**Illumination Controllable Dehazing Network based on Unsupervised Retinex Embedding**|Jie Gui et.al.|[2306.05675](http://arxiv.org/abs/2306.05675)|**[link](https://github.com/xiaofeng-life/icdehazing)**|
 |**2023-06-08**|**HQ-50K: A Large-scale, High-quality Dataset for Image Restoration**|Qinhong Yang et.al.|[2306.05390](http://arxiv.org/abs/2306.05390)|**[link](https://github.com/littleyaang/hq-50k)**|
@@ -346,7 +379,7 @@
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
 |**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979](http://arxiv.org/abs/2305.07979)|**[link](https://github.com/yunguo224/ug2_deraining)**|
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
