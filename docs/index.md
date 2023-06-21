@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.06.19
+## Updated on 2023.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -50,6 +50,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning**|Jifan Zhang et.al.|[2306.09910](http://arxiv.org/abs/2306.09910)|**[link](https://github.com/efficienttraining/labelbench)**|
+|**2023-06-16**|**Can robots mold soft plastic materials by shaping depth images?**|Ege Gursoy et.al.|[2306.09848](http://arxiv.org/abs/2306.09848)|null|
+|**2023-06-16**|**Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions**|Dongshuo Yin et.al.|[2306.09729](http://arxiv.org/abs/2306.09729)|null|
+|**2023-06-16**|**Cross-corpus Readability Compatibility Assessment for English Texts**|Zhenzhen Li et.al.|[2306.09704](http://arxiv.org/abs/2306.09704)|**[link](https://github.com/zimzsh/cross-corpus-readability-compatibility-assessment-for-english-texts)**|
+|**2023-06-16**|**Early-times Yang-Mills dynamics and the characterization of strongly interacting matter with statistical learning**|Matthew R. Heffernan et.al.|[2306.09619](http://arxiv.org/abs/2306.09619)|null|
+|**2023-06-15**|**Understanding and Mitigating Extrapolation Failures in Physics-Informed Neural Networks**|Lukas Fesser et.al.|[2306.09478](http://arxiv.org/abs/2306.09478)|**[link](https://github.com/lfesser97/understanding-and-mitigating-extrapolation-failures-in-physics-informed-neural-networks)**|
 |**2023-06-15**|**A Comparison of Self-Supervised Pretraining Approaches for Predicting Disease Risk from Chest Radiograph Images**|Yanru Chen et.al.|[2306.08955](http://arxiv.org/abs/2306.08955)|null|
 |**2023-06-14**|**Iterative self-transfer learning: A general methodology for response time-history prediction based on small dataset**|Yongjia Xu et.al.|[2306.08700](http://arxiv.org/abs/2306.08700)|null|
 |**2023-06-14**|**SMC-UDA: Structure-Modal Constraint for Unsupervised Cross-Domain Renal Segmentation**|Zhusi Zhong et.al.|[2306.08213](http://arxiv.org/abs/2306.08213)|null|
@@ -125,8 +131,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337](http://arxiv.org/abs/2306.09337)|null|
-|**2023-06-15**|**ArtFusion: Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330](http://arxiv.org/abs/2306.09330)|**[link](https://github.com/chendaryen/artfusion)**|
+|**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001](http://arxiv.org/abs/2306.10001)|**[link](https://github.com/yoavkurtz/gor)**|
+|**2023-06-16**|**Towards Better Certified Segmentation via Diffusion Models**|Othmane Laousy et.al.|[2306.09949](http://arxiv.org/abs/2306.09949)|null|
+|**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935](http://arxiv.org/abs/2306.09935)|null|
+|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|null|
+|**2023-06-16**|**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation**|Yifei Zeng et.al.|[2306.09864](http://arxiv.org/abs/2306.09864)|null|
+|**2023-06-16**|**Understanding Deep Generative Models with Generalized Empirical Likelihoods**|Suman Ravuri et.al.|[2306.09780](http://arxiv.org/abs/2306.09780)|null|
+|**2023-06-16**|**The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models**|Roy Voetman et.al.|[2306.09762](http://arxiv.org/abs/2306.09762)|null|
+|**2023-06-16**|**CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models**|Hao-Wen Dong et.al.|[2306.09635](http://arxiv.org/abs/2306.09635)|null|
+|**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551](http://arxiv.org/abs/2306.09551)|null|
+|**2023-06-15**|**Hierarchical Planning and Control for Box Loco-Manipulation**|Zhaoming Xie et.al.|[2306.09532](http://arxiv.org/abs/2306.09532)|null|
+|**2023-06-15**|**R2-Diff: Denoising by diffusion as a refinement of retrieved motion for image-based motion prediction**|Takeru Oba et.al.|[2306.09483](http://arxiv.org/abs/2306.09483)|null|
+|**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337](http://arxiv.org/abs/2306.09337)|**[link](https://github.com/muelea/buddi)**|
+|**2023-06-19**|**ArtFusion: Controllable Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330](http://arxiv.org/abs/2306.09330)|**[link](https://github.com/chendaryen/artfusion)**|
 |**2023-06-15**|**Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**|Laurynas Karazija et.al.|[2306.09316](http://arxiv.org/abs/2306.09316)|null|
 |**2023-06-15**|**Fast Training of Diffusion Models with Masked Transformers**|Hongkai Zheng et.al.|[2306.09305](http://arxiv.org/abs/2306.09305)|**[link](https://github.com/anima-lab/maskdit)**|
 |**2023-06-15**|**A Score-based Nonlinear Filter for Data Assimilation**|Feng Bao et.al.|[2306.09282](http://arxiv.org/abs/2306.09282)|null|
@@ -258,12 +275,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**|Yuqi Wang et.al.|[2306.10013](http://arxiv.org/abs/2306.10013)|null|
+|**2023-06-15**|**SSL4EO-L: Datasets and Foundation Models for Landsat Imagery**|Adam J. Stewart et.al.|[2306.09424](http://arxiv.org/abs/2306.09424)|**[link](https://github.com/microsoft/torchgeo)**|
 |**2023-06-15**|**Infinite Photorealistic Worlds using Procedural Generation**|Alexander Raistrick et.al.|[2306.09310](http://arxiv.org/abs/2306.09310)|null|
 |**2023-06-15**|**Neural World Models for Computer Vision**|Anthony Hu et.al.|[2306.09179](http://arxiv.org/abs/2306.09179)|null|
 |**2023-06-15**|**Contrast, Stylize and Adapt: Unsupervised Contrastive Learning Framework for Domain Adaptive Semantic Segmentation**|Tianyu Li et.al.|[2306.09098](http://arxiv.org/abs/2306.09098)|**[link](https://github.com/cxa9264/confeti)**|
 |**2023-06-15**|**A Self-Supervised Miniature One-Shot Texture Segmentation (MOSTS) Model for Real-Time Robot Navigation and Embedded Applications**|Yu Chen et.al.|[2306.08814](http://arxiv.org/abs/2306.08814)|**[link](https://github.com/mszuyx/mosts)**|
 |**2023-06-13**|**BPKD: Boundary Privileged Knowledge Distillation For Semantic Segmentation**|Liyang Liu et.al.|[2306.08075](http://arxiv.org/abs/2306.08075)|**[link](https://github.com/akideliu/bpkd)**|
-|**2023-06-13**|**Efficient 3D Semantic Segmentation with Superpoint Transformer**|Damien Robert et.al.|[2306.08045](http://arxiv.org/abs/2306.08045)|null|
+|**2023-06-13**|**Efficient 3D Semantic Segmentation with Superpoint Transformer**|Damien Robert et.al.|[2306.08045](http://arxiv.org/abs/2306.08045)|**[link](https://github.com/drprojects/superpoint_transformer)**|
 |**2023-06-13**|**Low-Resource White-Box Semantic Segmentation of Supporting Towers on 3D Point Clouds via Signature Shape Identification**|Diogo Lavado et.al.|[2306.07809](http://arxiv.org/abs/2306.07809)|null|
 |**2023-06-12**|**Video-to-Music Recommendation using Temporal Alignment of Segments**|Laure Prétet et.al.|[2306.07187](http://arxiv.org/abs/2306.07187)|null|
 |**2023-06-12**|**Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**|Peter Stratton et.al.|[2306.06850](http://arxiv.org/abs/2306.06850)|**[link](https://github.com/peterstratton/volume-droid)**|
