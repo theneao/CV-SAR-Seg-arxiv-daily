@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.06.28
+## Updated on 2023.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Delving into Crispness: Guided Label Refinement for Crisp Edge Detection**|Yunfan Ye et.al.|[2306.15172](http://arxiv.org/abs/2306.15172)|null|
 |**2023-06-26**|**Integrated lithium niobate microwave photonic processing engine**|Hanke Feng et.al.|[2306.14415](http://arxiv.org/abs/2306.14415)|null|
 |**2023-06-22**|**XAI-TRIS: Non-linear benchmarks to quantify ML explanation performance**|Benedict Clark et.al.|[2306.12816](http://arxiv.org/abs/2306.12816)|**[link](https://github.com/braindatalab/xai-tris)**|
 |**2023-06-21**|**A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering**|Chaoning Zhang et.al.|[2306.06211](http://arxiv.org/abs/2306.06211)|null|
@@ -52,11 +53,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Theater Aid System for the Visually Impaired Through Transfer Learning of Spatio-Temporal Graph Convolution Networks**|Leyla Benhamida et.al.|[2306.16357](http://arxiv.org/abs/2306.16357)|null|
+|**2023-06-28**|**Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning**|Lucas Jarnac et.al.|[2306.16296](http://arxiv.org/abs/2306.16296)|null|
+|**2023-06-28**|**Recent Advances in Optimal Transport for Machine Learning**|Eduardo Fernandes Montesuma et.al.|[2306.16156](http://arxiv.org/abs/2306.16156)|null|
+|**2023-06-28**|**A serial dual-channel library occupancy detection system based on Faster RCNN**|Guoqiang Yang et.al.|[2306.16080](http://arxiv.org/abs/2306.16080)|null|
+|**2023-06-28**|**DUET: 2D Structured and Approximately Equivariant Representations**|Xavier Suau et.al.|[2306.16058](http://arxiv.org/abs/2306.16058)|null|
+|**2023-06-28**|**Transfer Learning with Random Coefficient Ridge Regression**|Hongzhe Zhang et.al.|[2306.15915](http://arxiv.org/abs/2306.15915)|null|
+|**2023-06-27**|**Differentially Private Video Activity Recognition**|Zelun Luo et.al.|[2306.15742](http://arxiv.org/abs/2306.15742)|null|
+|**2023-06-27**|**Semi-supervised Multimodal Representation Learning through a Global Workspace**|Benjamin Devillers et.al.|[2306.15711](http://arxiv.org/abs/2306.15711)|**[link](https://github.com/bdvllrs/bimgw)**|
+|**2023-06-27**|**Approximated Prompt Tuning for Vision-Language Pre-trained Models**|Qiong Wu et.al.|[2306.15706](http://arxiv.org/abs/2306.15706)|null|
+|**2023-06-27**|**CamemBERT-bio: a Tasty French Language Model Better for your Health**|Rian Touchent et.al.|[2306.15550](http://arxiv.org/abs/2306.15550)|null|
+|**2023-06-27**|**Transferability Metrics for Object Detection**|Louis Fouquet et.al.|[2306.15306](http://arxiv.org/abs/2306.15306)|**[link](https://github.com/dataiku-research/transferability_metrics_for_object_detection)**|
+|**2023-06-26**|**Deep Transfer Learning for Intelligent Vehicle Perception: a Survey**|Xinyu Liu et.al.|[2306.15110](http://arxiv.org/abs/2306.15110)|null|
 |**2023-06-26**|**Transfer Learning across Several Centuries: Machine and Historian Integrated Method to Decipher Royal Secretary's Diary**|Sojung Lucia Kim et.al.|[2306.14592](http://arxiv.org/abs/2306.14592)|null|
 |**2023-06-25**|**GPT-assisted learning of structure-property relationships by graph neural networks: Application to rare-earth doped phosphors**|Xiang Zhang et.al.|[2306.14238](http://arxiv.org/abs/2306.14238)|null|
 |**2023-06-25**|**A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity**|Shams Nafisa Ali et.al.|[2306.14169](http://arxiv.org/abs/2306.14169)|null|
 |**2023-06-25**|**Semi-supervised Object Detection: A Survey on Recent Research and Progress**|Yanyang Wang et.al.|[2306.14106](http://arxiv.org/abs/2306.14106)|null|
-|**2023-06-24**|**Minigrid & Miniworld: Modular & Customizable Reinforcement Learning Environments for Goal-Oriented Tasks**|Maxime Chevalier-Boisvert et.al.|[2306.13831](http://arxiv.org/abs/2306.13831)|null|
+|**2023-06-24**|**Minigrid & Miniworld: Modular & Customizable Reinforcement Learning Environments for Goal-Oriented Tasks**|Maxime Chevalier-Boisvert et.al.|[2306.13831](http://arxiv.org/abs/2306.13831)|**[link](https://github.com/farama-foundation/miniworld)**|
 |**2023-06-23**|**Curvature-enhanced Graph Convolutional Network for Biomolecular Interaction Prediction**|Cong Shen et.al.|[2306.13699](http://arxiv.org/abs/2306.13699)|**[link](https://github.com/cs-bio/cgcn)**|
 |**2023-06-23**|**Variance-Covariance Regularization Improves Representation Learning**|Jiachen Zhu et.al.|[2306.13292](http://arxiv.org/abs/2306.13292)|null|
 |**2023-06-20**|**EEG Decoding for Datasets with Heterogenous Electrode Configurations using Transfer Learning Graph Neural Networks**|Jinpei Han et.al.|[2306.13109](http://arxiv.org/abs/2306.13109)|null|
@@ -160,6 +173,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**DoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy**|Yiwen Zhang et.al.|[2306.16324](http://arxiv.org/abs/2306.16324)|null|
+|**2023-06-28**|**SVNR: Spatially-variant Noise Removal with Denoising Diffusion**|Naama Pearl et.al.|[2306.16052](http://arxiv.org/abs/2306.16052)|null|
+|**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Yuan Sun et.al.|[2306.15857](http://arxiv.org/abs/2306.15857)|null|
+|**2023-06-27**|**Easing Color Shifts in Score-Based Diffusion Models**|Katherine Deck et.al.|[2306.15832](http://arxiv.org/abs/2306.15832)|**[link](https://github.com/bischtob/easing-color-shifts)**|
 |**2023-06-26**|**Restart Sampling for Improving Generative Processes**|Yilun Xu et.al.|[2306.14878](http://arxiv.org/abs/2306.14878)|**[link](https://github.com/newbeeer/diffusion_restart_sampling)**|
 |**2023-06-26**|**ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion**|Yingjun Du et.al.|[2306.14770](http://arxiv.org/abs/2306.14770)|null|
 |**2023-06-26**|**DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models**|Ximing Xing et.al.|[2306.14685](http://arxiv.org/abs/2306.14685)|null|
@@ -350,6 +367,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Land Cover Segmentation with Sparse Annotations from Sentinel-2 Imagery**|Marco Galatola et.al.|[2306.16252](http://arxiv.org/abs/2306.16252)|**[link](https://github.com/links-ads/spada)**|
+|**2023-06-28**|**GraSS: Contrastive Learning with Gradient Guided Sampling Strategy for Remote Sensing Image Semantic Segmentation**|Zhaoyang Zhang et.al.|[2306.15868](http://arxiv.org/abs/2306.15868)|null|
+|**2023-06-27**|**What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation**|Benedikt Blumenstiel et.al.|[2306.15521](http://arxiv.org/abs/2306.15521)|**[link](https://github.com/blumenstiel/mess)**|
+|**2023-06-27**|**Enhancing Navigation Benchmarking and Perception Data Generation for Row-based Crops in Simulation**|Mauro Martini et.al.|[2306.15517](http://arxiv.org/abs/2306.15517)|null|
+|**2023-06-27**|**SSC-RS: Elevate LiDAR Semantic Scene Completion with Representation Separation and BEV Fusion**|Jianbiao Mei et.al.|[2306.15349](http://arxiv.org/abs/2306.15349)|**[link](https://github.com/jieqianyu/ssc-rs)**|
+|**2023-06-27**|**Hierarchical Dense Correlation Distillation for Few-Shot Segmentation-Extended Abstract**|Bohao Peng et.al.|[2306.15278](http://arxiv.org/abs/2306.15278)|null|
+|**2023-06-27**|**Semantic Segmentation Using Super Resolution Technique as Pre-Processing**|Chih-Chia Chen et.al.|[2306.15218](http://arxiv.org/abs/2306.15218)|null|
+|**2023-06-28**|**MIMIC: Masked Image Modeling with Image Correspondences**|Kalyani Marathe et.al.|[2306.15128](http://arxiv.org/abs/2306.15128)|**[link](https://github.com/raivnlab/mimic)**|
 |**2023-06-26**|**Localized Text-to-Image Generation for Free via Cross Attention Control**|Yutong He et.al.|[2306.14636](http://arxiv.org/abs/2306.14636)|null|
 |**2023-06-26**|**AME-CAM: Attentive Multiple-Exit CAM for Weakly Supervised Segmentation on MRI Brain Tumor**|Yu-Jen Chen et.al.|[2306.14505](http://arxiv.org/abs/2306.14505)|**[link](https://github.com/windstormer/ame-cam)**|
 |**2023-06-25**|**On Evaluating the Adversarial Robustness of Semantic Segmentation Models**|Levente Halmosi et.al.|[2306.14217](http://arxiv.org/abs/2306.14217)|null|
@@ -441,6 +466,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Cutting-Edge Techniques for Depth Map Super-Resolution**|Ryan Peterson et.al.|[2306.15244](http://arxiv.org/abs/2306.15244)|null|
 |**2023-06-23**|**ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration**|Jiaqi Ma et.al.|[2306.13653](http://arxiv.org/abs/2306.13653)|**[link](https://github.com/leonmakise/prores)**|
 |**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090](http://arxiv.org/abs/2306.13090)|**[link](https://github.com/va1shn9v/promptir)**|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
