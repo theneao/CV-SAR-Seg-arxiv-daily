@@ -40,3 +40,5 @@ keywords:
         filters: ["edge detection","cs.CV"]
     "transfer learning":
         filters: ["transfer learning","cs"]
+    "SAM":
+        filters: ["Segment Anything Model","cs"]
