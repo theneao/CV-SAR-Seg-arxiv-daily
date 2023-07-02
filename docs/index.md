@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.06.30
+## Updated on 2023.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Pupil-driven quantitative differential phase contrast imaging**|Shuhe Zhang et.al.|[2306.17088](http://arxiv.org/abs/2306.17088)|null|
 |**2023-06-27**|**Delving into Crispness: Guided Label Refinement for Crisp Edge Detection**|Yunfan Ye et.al.|[2306.15172](http://arxiv.org/abs/2306.15172)|null|
 |**2023-06-26**|**Integrated lithium niobate microwave photonic processing engine**|Hanke Feng et.al.|[2306.14415](http://arxiv.org/abs/2306.14415)|null|
 |**2023-06-22**|**XAI-TRIS: Non-linear benchmarks to quantify ML explanation performance**|Benedict Clark et.al.|[2306.12816](http://arxiv.org/abs/2306.12816)|**[link](https://github.com/braindatalab/xai-tris)**|
@@ -53,6 +54,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Noise-Aware Quantum Software Testing**|Asmar Muqeet et.al.|[2306.16992](http://arxiv.org/abs/2306.16992)|**[link](https://github.com/asmarmuqeet/qoin)**|
+|**2023-06-29**|**Obeying the Order: Introducing Ordered Transfer Hyperparameter Optimisation**|Sigrid Passano Hellan et.al.|[2306.16916](http://arxiv.org/abs/2306.16916)|**[link](https://github.com/sighellan/syne-tune)**|
+|**2023-06-29**|**Sampling weights of deep neural networks**|Erik Lien Bolager et.al.|[2306.16830](http://arxiv.org/abs/2306.16830)|**[link](https://gitlab.com/felix.dietrich/swimnetworks)**|
+|**2023-06-29**|**Transfer Learning with Semi-Supervised Dataset Annotation for Birdcall Classification**|Anthony Miyaguchi et.al.|[2306.16760](http://arxiv.org/abs/2306.16760)|**[link](https://github.com/dsgt-birdclef/birdclef-2023)**|
+|**2023-06-29**|**Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train**|Zhao Wang et.al.|[2306.16741](http://arxiv.org/abs/2306.16741)|**[link](https://github.com/med-air/endo-fm)**|
+|**2023-06-29**|**Multi-Scenario Ranking with Adaptive Feature Learning**|Yu Tian et.al.|[2306.16732](http://arxiv.org/abs/2306.16732)|null|
+|**2023-06-26**|**A Collaborative Transfer Learning Framework for Cross-domain Recommendation**|Wei Zhang et.al.|[2306.16425](http://arxiv.org/abs/2306.16425)|null|
 |**2023-06-28**|**Theater Aid System for the Visually Impaired Through Transfer Learning of Spatio-Temporal Graph Convolution Networks**|Leyla Benhamida et.al.|[2306.16357](http://arxiv.org/abs/2306.16357)|null|
 |**2023-06-28**|**Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning**|Lucas Jarnac et.al.|[2306.16296](http://arxiv.org/abs/2306.16296)|null|
 |**2023-06-28**|**Recent Advances in Optimal Transport for Machine Learning**|Eduardo Fernandes Montesuma et.al.|[2306.16156](http://arxiv.org/abs/2306.16156)|null|
@@ -173,6 +181,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Generate Anything Anywhere in Any Scene**|Yuheng Li et.al.|[2306.17154](http://arxiv.org/abs/2306.17154)|null|
+|**2023-06-29**|**Filtered-Guided Diffusion: Fast Filter Guidance for Black-Box Diffusion Models**|Zeqi Gu et.al.|[2306.17141](http://arxiv.org/abs/2306.17141)|**[link](https://github.com/jaclyngu/filteredguideddiffusion)**|
+|**2023-06-29**|**ID-Pose: Sparse-view Camera Pose Estimation by Inverting Diffusion Models**|Weihao Cheng et.al.|[2306.17140](http://arxiv.org/abs/2306.17140)|null|
+|**2023-06-29**|**Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation**|Zibo Zhao et.al.|[2306.17115](http://arxiv.org/abs/2306.17115)|**[link](https://github.com/neuralcarver/michelangelo)**|
+|**2023-06-29**|**Learning Structure-Guided Diffusion Model for 2D Human Pose Estimation**|Zhongwei Qiu et.al.|[2306.17074](http://arxiv.org/abs/2306.17074)|null|
+|**2023-06-29**|**One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**|Minghua Liu et.al.|[2306.16928](http://arxiv.org/abs/2306.16928)|null|
+|**2023-06-28**|**PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing**|Wenjing Huang et.al.|[2306.16894](http://arxiv.org/abs/2306.16894)|null|
+|**2023-06-29**|**SaGess: Sampling Graph Denoising Diffusion Model for Scalable Graph Generation**|Stratis Limnios et.al.|[2306.16827](http://arxiv.org/abs/2306.16827)|null|
+|**2023-06-29**|**Graph Denoising Diffusion for Inverse Protein Folding**|Kai Yi et.al.|[2306.16819](http://arxiv.org/abs/2306.16819)|null|
+|**2023-06-29**|**DiffusionSTR: Diffusion Model for Scene Text Recognition**|Masato Fujitake et.al.|[2306.16707](http://arxiv.org/abs/2306.16707)|null|
+|**2023-06-29**|**Self-Supervised MRI Reconstruction with Unrolled Diffusion Models**|Yilmaz Korkmaz et.al.|[2306.16654](http://arxiv.org/abs/2306.16654)|**[link](https://github.com/yilmazkorkmaz1/ssdiffrecon)**|
 |**2023-06-28**|**DoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy**|Yiwen Zhang et.al.|[2306.16324](http://arxiv.org/abs/2306.16324)|null|
 |**2023-06-28**|**SVNR: Spatially-variant Noise Removal with Denoising Diffusion**|Naama Pearl et.al.|[2306.16052](http://arxiv.org/abs/2306.16052)|null|
 |**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Yuan Sun et.al.|[2306.15857](http://arxiv.org/abs/2306.15857)|null|
@@ -367,6 +386,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Analysis of LiDAR Configurations on Off-road Semantic Segmentation Performance**|Jinhee Yu et.al.|[2306.16551](http://arxiv.org/abs/2306.16551)|null|
 |**2023-06-28**|**Land Cover Segmentation with Sparse Annotations from Sentinel-2 Imagery**|Marco Galatola et.al.|[2306.16252](http://arxiv.org/abs/2306.16252)|**[link](https://github.com/links-ads/spada)**|
 |**2023-06-28**|**GraSS: Contrastive Learning with Gradient Guided Sampling Strategy for Remote Sensing Image Semantic Segmentation**|Zhaoyang Zhang et.al.|[2306.15868](http://arxiv.org/abs/2306.15868)|null|
 |**2023-06-27**|**What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation**|Benedikt Blumenstiel et.al.|[2306.15521](http://arxiv.org/abs/2306.15521)|**[link](https://github.com/blumenstiel/mess)**|
@@ -506,6 +526,31 @@ layout: default
 |**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995](http://arxiv.org/abs/2305.08995)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
 |**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979](http://arxiv.org/abs/2305.07979)|**[link](https://github.com/yunguo224/ug2_deraining)**|
+
+## SAM
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization**|Yingxin Lai et.al.|[2306.17075](http://arxiv.org/abs/2306.17075)|**[link](https://github.com/laiyingxin2/dadf)**|
+|**2023-06-29**|**The Segment Anything Model (SAM) for Remote Sensing Applications: From Zero to One Shot**|Lucas Prado Osco et.al.|[2306.16623](http://arxiv.org/abs/2306.16623)|null|
+|**2023-06-28**|**RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model**|Keyan Chen et.al.|[2306.16269](http://arxiv.org/abs/2306.16269)|**[link](https://github.com/KyanChen/RSPrompter)**|
+|**2023-06-28**|**Effective Transfer of Pretrained Large Visual Model for Fabric Defect Segmentation via Specifc Knowledge Injection**|Zhewei Chen et.al.|[2306.16186](http://arxiv.org/abs/2306.16186)|null|
+|**2023-06-24**|**Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging**|Evan Kellener et.al.|[2306.15692](http://arxiv.org/abs/2306.15692)|null|
+|**2023-06-27**|**CellViT: Vision Transformers for Precise Cell Segmentation and Classification**|Fabian Hörst et.al.|[2306.15350](http://arxiv.org/abs/2306.15350)|**[link](https://github.com/tio-ikim/cellvit)**|
+|**2023-06-26**|**MedLSAM: Localize and Segment Anything Model for 3D Medical Images**|Wenhui Lei et.al.|[2306.14752](http://arxiv.org/abs/2306.14752)|**[link](https://github.com/openmedlab/medlsam)**|
+|**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289](http://arxiv.org/abs/2306.14289)|**[link](https://github.com/chaoningzhang/mobilesam)**|
+|**2023-06-25**|**When SAM Meets Sonar Images**|Lin Wang et.al.|[2306.14109](http://arxiv.org/abs/2306.14109)|**[link](https://github.com/wangsssky/sonarsam)**|
+|**2023-06-23**|**Curvature-enhanced Graph Convolutional Network for Biomolecular Interaction Prediction**|Cong Shen et.al.|[2306.13699](http://arxiv.org/abs/2306.13699)|**[link](https://github.com/cs-bio/cgcn)**|
+|**2023-06-23**|**3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation**|Shizhan Gong et.al.|[2306.13465](http://arxiv.org/abs/2306.13465)|null|
+|**2023-06-23**|**Robustness of Segment Anything Model (SAM) for Autonomous Driving in Adverse Weather Conditions**|Xinru Shan et.al.|[2306.13290](http://arxiv.org/abs/2306.13290)|null|
+|**2023-06-22**|**Ladder Fine-tuning approach for SAM integrating complementary network**|Shurong Chai et.al.|[2306.12737](http://arxiv.org/abs/2306.12737)|**[link](https://github.com/11yxk/sam-lst)**|
+|**2023-06-21**|**Comparative Analysis of Segment Anything Model and U-Net for Breast Tumor Detection in Ultrasound and Mammography Images**|Mohsen Ahmadi et.al.|[2306.12510](http://arxiv.org/abs/2306.12510)|null|
+|**2023-06-21**|**Fast Segment Anything**|Xu Zhao et.al.|[2306.12156](http://arxiv.org/abs/2306.12156)|**[link](https://github.com/casia-iva-lab/fastsam)**|
+|**2023-06-20**|**Segment Anything Model (SAM) for Radiation Oncology**|Lian Zhang et.al.|[2306.11730](http://arxiv.org/abs/2306.11730)|null|
+|**2023-06-22**|**Enlighten Anything: When Segment Anything Model Meets Low-Light Image Enhancement**|Qihan Zhao et.al.|[2306.10286](http://arxiv.org/abs/2306.10286)|**[link](https://github.com/zhangbaijin/enlighten-anything)**|
+|**2023-06-15**|**Temporally-Extended Prompts Optimization for SAM in Interactive Medical Image Segmentation**|Chuyun Shen et.al.|[2306.08958](http://arxiv.org/abs/2306.08958)|null|
+|**2023-06-14**|**TomoSAM: a 3D Slicer extension using SAM for tomography segmentation**|Federico Semeraro et.al.|[2306.08609](http://arxiv.org/abs/2306.08609)|**[link](https://github.com/fsemerar/slicertomosam)**|
+|**2023-06-13**|**Robustness of SAM: Segment Anything Under Corruptions and Beyond**|Yu Qiao et.al.|[2306.07713](http://arxiv.org/abs/2306.07713)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
