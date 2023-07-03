@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.07.02
+## Updated on 2023.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -65,7 +65,7 @@ layout: default
 |**2023-06-28**|**Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning**|Lucas Jarnac et.al.|[2306.16296](http://arxiv.org/abs/2306.16296)|null|
 |**2023-06-28**|**Recent Advances in Optimal Transport for Machine Learning**|Eduardo Fernandes Montesuma et.al.|[2306.16156](http://arxiv.org/abs/2306.16156)|null|
 |**2023-06-28**|**A serial dual-channel library occupancy detection system based on Faster RCNN**|Guoqiang Yang et.al.|[2306.16080](http://arxiv.org/abs/2306.16080)|null|
-|**2023-06-28**|**DUET: 2D Structured and Approximately Equivariant Representations**|Xavier Suau et.al.|[2306.16058](http://arxiv.org/abs/2306.16058)|null|
+|**2023-06-30**|**DUET: 2D Structured and Approximately Equivariant Representations**|Xavier Suau et.al.|[2306.16058](http://arxiv.org/abs/2306.16058)|null|
 |**2023-06-28**|**Transfer Learning with Random Coefficient Ridge Regression**|Hongzhe Zhang et.al.|[2306.15915](http://arxiv.org/abs/2306.15915)|null|
 |**2023-06-27**|**Differentially Private Video Activity Recognition**|Zelun Luo et.al.|[2306.15742](http://arxiv.org/abs/2306.15742)|null|
 |**2023-06-27**|**Semi-supervised Multimodal Representation Learning through a Global Workspace**|Benjamin Devillers et.al.|[2306.15711](http://arxiv.org/abs/2306.15711)|**[link](https://github.com/bdvllrs/bimgw)**|
@@ -537,7 +537,7 @@ layout: default
 |**2023-06-28**|**Effective Transfer of Pretrained Large Visual Model for Fabric Defect Segmentation via Specifc Knowledge Injection**|Zhewei Chen et.al.|[2306.16186](http://arxiv.org/abs/2306.16186)|null|
 |**2023-06-24**|**Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging**|Evan Kellener et.al.|[2306.15692](http://arxiv.org/abs/2306.15692)|null|
 |**2023-06-27**|**CellViT: Vision Transformers for Precise Cell Segmentation and Classification**|Fabian Hörst et.al.|[2306.15350](http://arxiv.org/abs/2306.15350)|**[link](https://github.com/tio-ikim/cellvit)**|
-|**2023-06-26**|**MedLSAM: Localize and Segment Anything Model for 3D Medical Images**|Wenhui Lei et.al.|[2306.14752](http://arxiv.org/abs/2306.14752)|**[link](https://github.com/openmedlab/medlsam)**|
+|**2023-06-30**|**MedLSAM: Localize and Segment Anything Model for 3D Medical Images**|Wenhui Lei et.al.|[2306.14752](http://arxiv.org/abs/2306.14752)|**[link](https://github.com/openmedlab/medlsam)**|
 |**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289](http://arxiv.org/abs/2306.14289)|**[link](https://github.com/chaoningzhang/mobilesam)**|
 |**2023-06-25**|**When SAM Meets Sonar Images**|Lin Wang et.al.|[2306.14109](http://arxiv.org/abs/2306.14109)|**[link](https://github.com/wangsssky/sonarsam)**|
 |**2023-06-23**|**Curvature-enhanced Graph Convolutional Network for Biomolecular Interaction Prediction**|Cong Shen et.al.|[2306.13699](http://arxiv.org/abs/2306.13699)|**[link](https://github.com/cs-bio/cgcn)**|
