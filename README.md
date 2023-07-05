@@ -5,7 +5,7 @@
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.07.03
+## Updated on 2023.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2021-09-09**|**Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders**|Fangyu Liu et.al.|[2104.08027](http://arxiv.org/abs/2104.08027)|**[link](https://github.com/cambridgeltl/mirror-bert)**|
 |**2022-07-11**|**Learned Camera Gain and Exposure Control for Improved Visual Feature Detection and Matching**|Justin Tomasi et.al.|[2102.04341](http://arxiv.org/abs/2102.04341)|null|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230705>back to top</a>)</p>
 
 ## edge detection
 
@@ -38,7 +38,7 @@
 |**2023-06-27**|**Delving into Crispness: Guided Label Refinement for Crisp Edge Detection**|Yunfan Ye et.al.|[2306.15172](http://arxiv.org/abs/2306.15172)|null|
 |**2023-06-26**|**Integrated lithium niobate microwave photonic processing engine**|Hanke Feng et.al.|[2306.14415](http://arxiv.org/abs/2306.14415)|null|
 |**2023-06-22**|**XAI-TRIS: Non-linear benchmarks to quantify ML explanation performance**|Benedict Clark et.al.|[2306.12816](http://arxiv.org/abs/2306.12816)|**[link](https://github.com/braindatalab/xai-tris)**|
-|**2023-06-21**|**A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering**|Chaoning Zhang et.al.|[2306.06211](http://arxiv.org/abs/2306.06211)|null|
+|**2023-07-03**|**A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering**|Chaoning Zhang et.al.|[2306.06211](http://arxiv.org/abs/2306.06211)|null|
 |**2023-06-03**|**Hierarchical Multiresolution Feature- and Prior-based Graphs for Classification**|Faezeh Fallah et.al.|[2306.02143](http://arxiv.org/abs/2306.02143)|null|
 |**2023-05-31**|**SPAC-Net: Synthetic Pose-aware Animal ControlNet for Enhanced Pose Estimation**|Le Jiang et.al.|[2305.17845](http://arxiv.org/abs/2305.17845)|**[link](https://github.com/ostadabbas/SPAC-Net-Synthetic-Pose-aware-Animal-ControlNet)**|
 |**2023-05-16**|**A Geometric Calibration of the Tip of the Red Giant Branch in the Milky Way using Gaia DR3**|M. Dixon et.al.|[2305.09215](http://arxiv.org/abs/2305.09215)|null|
@@ -61,15 +61,20 @@
 |**2023-03-02**|**Scalable optical neural networks based on temporal computing**|Shuang Zheng et.al.|[2303.01287](http://arxiv.org/abs/2303.01287)|null|
 |**2023-03-26**|**Attention-based Point Cloud Edge Sampling**|Chengzhi Wu et.al.|[2302.14673](http://arxiv.org/abs/2302.14673)|**[link](https://github.com/JunweiZheng93/APES)**|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230705>back to top</a>)</p>
 
 ## transfer learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Scalable method for Bayesian experimental design without integrating over posterior distribution**|Vinh Hoang et.al.|[2306.17615](http://arxiv.org/abs/2306.17615)|null|
+|**2023-06-30**|**Towards the extraction of robust sign embeddings for low resource sign language recognition**|Mathieu De Coster et.al.|[2306.17558](http://arxiv.org/abs/2306.17558)|null|
+|**2023-06-30**|**Why does my medical AI look at pictures of birds? Exploring the efficacy of transfer learning across domain boundaries**|Frederic Jonske et.al.|[2306.17555](http://arxiv.org/abs/2306.17555)|null|
+|**2023-06-30**|**Audio Embeddings as Teachers for Music Classification**|Yiwei Ding et.al.|[2306.17424](http://arxiv.org/abs/2306.17424)|null|
+|**2023-06-29**|**Prediction of COVID-19 Patients' Emergency Room Revisit using Multi-Source Transfer Learning**|Yuelyu Ji et.al.|[2306.17257](http://arxiv.org/abs/2306.17257)|null|
 |**2023-06-29**|**Noise-Aware Quantum Software Testing**|Asmar Muqeet et.al.|[2306.16992](http://arxiv.org/abs/2306.16992)|**[link](https://github.com/asmarmuqeet/qoin)**|
 |**2023-06-29**|**Obeying the Order: Introducing Ordered Transfer Hyperparameter Optimisation**|Sigrid Passano Hellan et.al.|[2306.16916](http://arxiv.org/abs/2306.16916)|**[link](https://github.com/sighellan/syne-tune)**|
-|**2023-06-29**|**Sampling weights of deep neural networks**|Erik Lien Bolager et.al.|[2306.16830](http://arxiv.org/abs/2306.16830)|**[link](https://gitlab.com/felix.dietrich/swimnetworks)**|
+|**2023-06-29**|**Sampling weights of deep neural networks**|Erik Lien Bolager et.al.|[2306.16830](http://arxiv.org/abs/2306.16830)|**[link](https://gitlab.com/felix.dietrich/swimnetworks-paper)**|
 |**2023-06-29**|**Transfer Learning with Semi-Supervised Dataset Annotation for Birdcall Classification**|Anthony Miyaguchi et.al.|[2306.16760](http://arxiv.org/abs/2306.16760)|**[link](https://github.com/dsgt-birdclef/birdclef-2023)**|
 |**2023-06-29**|**Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train**|Zhao Wang et.al.|[2306.16741](http://arxiv.org/abs/2306.16741)|**[link](https://github.com/med-air/endo-fm)**|
 |**2023-06-29**|**Multi-Scenario Ranking with Adaptive Feature Learning**|Yu Tian et.al.|[2306.16732](http://arxiv.org/abs/2306.16732)|null|
@@ -190,16 +195,21 @@
 |**2023-05-31**|**Deep into The Domain Shift: Transfer Learning through Dependence Regularization**|Shumin Ma et.al.|[2305.19499](http://arxiv.org/abs/2305.19499)|**[link](https://github.com/yzr1991/deep_into_the_domain_shift)**|
 |**2023-05-30**|**Transfer Learning With Efficient Estimators to Optimally Leverage Historical Data in Analysis of Randomized Trials**|Lauren D. Liao et.al.|[2305.19180](http://arxiv.org/abs/2305.19180)|null|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230705>back to top</a>)</p>
 
 ## diffusion model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**|Luhuan Wu et.al.|[2306.17775](http://arxiv.org/abs/2306.17775)|null|
+|**2023-06-30**|**Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling**|Li Sanqian et.al.|[2306.17717](http://arxiv.org/abs/2306.17717)|null|
+|**2023-06-30**|**Counting Guidance for High Fidelity Text-to-Image Synthesis**|Wonjun Kang et.al.|[2306.17567](http://arxiv.org/abs/2306.17567)|null|
+|**2023-06-30**|**Class-Incremental Learning using Diffusion Model for Distillation and Replay**|Quentin Jodelet et.al.|[2306.17560](http://arxiv.org/abs/2306.17560)|null|
+|**2023-06-29**|**Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models**|Simian Luo et.al.|[2306.17203](http://arxiv.org/abs/2306.17203)|**[link](https://github.com/luosiallen/Diff-Foley)**|
 |**2023-06-29**|**Generate Anything Anywhere in Any Scene**|Yuheng Li et.al.|[2306.17154](http://arxiv.org/abs/2306.17154)|null|
 |**2023-06-29**|**Filtered-Guided Diffusion: Fast Filter Guidance for Black-Box Diffusion Models**|Zeqi Gu et.al.|[2306.17141](http://arxiv.org/abs/2306.17141)|**[link](https://github.com/jaclyngu/filteredguideddiffusion)**|
 |**2023-06-29**|**ID-Pose: Sparse-view Camera Pose Estimation by Inverting Diffusion Models**|Weihao Cheng et.al.|[2306.17140](http://arxiv.org/abs/2306.17140)|null|
-|**2023-06-29**|**Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation**|Zibo Zhao et.al.|[2306.17115](http://arxiv.org/abs/2306.17115)|**[link](https://github.com/neuralcarver/michelangelo)**|
+|**2023-07-03**|**Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation**|Zibo Zhao et.al.|[2306.17115](http://arxiv.org/abs/2306.17115)|**[link](https://github.com/neuralcarver/michelangelo)**|
 |**2023-06-29**|**Learning Structure-Guided Diffusion Model for 2D Human Pose Estimation**|Zhongwei Qiu et.al.|[2306.17074](http://arxiv.org/abs/2306.17074)|null|
 |**2023-06-29**|**One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**|Minghua Liu et.al.|[2306.16928](http://arxiv.org/abs/2306.16928)|null|
 |**2023-06-28**|**PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing**|Wenjing Huang et.al.|[2306.16894](http://arxiv.org/abs/2306.16894)|null|
@@ -397,16 +407,17 @@
 |**2023-06-01**|**Random advection-diffusion models and their statistics**|Stefano Lepri et.al.|[2306.00463](http://arxiv.org/abs/2306.00463)|null|
 |**2023-06-01**|**Controllable Motion Diffusion Model**|Yi Shi et.al.|[2306.00416](http://arxiv.org/abs/2306.00416)|null|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230705>back to top</a>)</p>
 
 ## semantic segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Achieving RGB-D level Segmentation Performance from a Single ToF Camera**|Pranav Sharma et.al.|[2306.17636](http://arxiv.org/abs/2306.17636)|null|
 |**2023-06-28**|**Analysis of LiDAR Configurations on Off-road Semantic Segmentation Performance**|Jinhee Yu et.al.|[2306.16551](http://arxiv.org/abs/2306.16551)|null|
 |**2023-06-28**|**Land Cover Segmentation with Sparse Annotations from Sentinel-2 Imagery**|Marco Galatola et.al.|[2306.16252](http://arxiv.org/abs/2306.16252)|**[link](https://github.com/links-ads/spada)**|
-|**2023-06-28**|**GraSS: Contrastive Learning with Gradient Guided Sampling Strategy for Remote Sensing Image Semantic Segmentation**|Zhaoyang Zhang et.al.|[2306.15868](http://arxiv.org/abs/2306.15868)|null|
-|**2023-06-27**|**What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation**|Benedikt Blumenstiel et.al.|[2306.15521](http://arxiv.org/abs/2306.15521)|**[link](https://github.com/blumenstiel/mess)**|
+|**2023-07-03**|**GraSS: Contrastive Learning with Gradient Guided Sampling Strategy for Remote Sensing Image Semantic Segmentation**|Zhaoyang Zhang et.al.|[2306.15868](http://arxiv.org/abs/2306.15868)|null|
+|**2023-06-27**|**What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation**|Benedikt Blumenstiel et.al.|[2306.15521](http://arxiv.org/abs/2306.15521)|**[link](https://github.com/blumenstiel/SAN-MESS)**|
 |**2023-06-27**|**Enhancing Navigation Benchmarking and Perception Data Generation for Row-based Crops in Simulation**|Mauro Martini et.al.|[2306.15517](http://arxiv.org/abs/2306.15517)|null|
 |**2023-06-27**|**SSC-RS: Elevate LiDAR Semantic Scene Completion with Representation Separation and BEV Fusion**|Jianbiao Mei et.al.|[2306.15349](http://arxiv.org/abs/2306.15349)|**[link](https://github.com/jieqianyu/ssc-rs)**|
 |**2023-06-27**|**Hierarchical Dense Correlation Distillation for Few-Shot Segmentation-Extended Abstract**|Bohao Peng et.al.|[2306.15278](http://arxiv.org/abs/2306.15278)|null|
@@ -499,12 +510,13 @@
 |**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957](http://arxiv.org/abs/2305.15957)|null|
 |**2023-05-25**|**Knowledge Diffusion for Distillation**|Tao Huang et.al.|[2305.15712](http://arxiv.org/abs/2305.15712)|**[link](https://github.com/hunto/diffkd)**|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230705>back to top</a>)</p>
 
 ## image restoration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**FarSight: A Physics-Driven Whole-Body Biometric System at Large Distance and Altitude**|Feng Liu et.al.|[2306.17206](http://arxiv.org/abs/2306.17206)|null|
 |**2023-06-27**|**Cutting-Edge Techniques for Depth Map Super-Resolution**|Ryan Peterson et.al.|[2306.15244](http://arxiv.org/abs/2306.15244)|null|
 |**2023-06-23**|**ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration**|Jiaqi Ma et.al.|[2306.13653](http://arxiv.org/abs/2306.13653)|**[link](https://github.com/leonmakise/prores)**|
 |**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090](http://arxiv.org/abs/2306.13090)|**[link](https://github.com/va1shn9v/promptir)**|
@@ -546,12 +558,13 @@
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
 |**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979](http://arxiv.org/abs/2305.07979)|**[link](https://github.com/yunguo224/ug2_deraining)**|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230705>back to top</a>)</p>
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Topological Data Analysis Guided Segment Anything Model Prompt Optimization for Zero-Shot Segmentation in Biological Imaging**|Ruben Glatt et.al.|[2306.17400](http://arxiv.org/abs/2306.17400)|null|
 |**2023-06-29**|**Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization**|Yingxin Lai et.al.|[2306.17075](http://arxiv.org/abs/2306.17075)|**[link](https://github.com/laiyingxin2/dadf)**|
 |**2023-06-29**|**The Segment Anything Model (SAM) for Remote Sensing Applications: From Zero to One Shot**|Lucas Prado Osco et.al.|[2306.16623](http://arxiv.org/abs/2306.16623)|null|
 |**2023-06-28**|**RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model**|Keyan Chen et.al.|[2306.16269](http://arxiv.org/abs/2306.16269)|**[link](https://github.com/KyanChen/RSPrompter)**|
@@ -559,7 +572,7 @@
 |**2023-06-24**|**Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging**|Evan Kellener et.al.|[2306.15692](http://arxiv.org/abs/2306.15692)|null|
 |**2023-06-27**|**CellViT: Vision Transformers for Precise Cell Segmentation and Classification**|Fabian Hörst et.al.|[2306.15350](http://arxiv.org/abs/2306.15350)|**[link](https://github.com/tio-ikim/cellvit)**|
 |**2023-06-30**|**MedLSAM: Localize and Segment Anything Model for 3D Medical Images**|Wenhui Lei et.al.|[2306.14752](http://arxiv.org/abs/2306.14752)|**[link](https://github.com/openmedlab/medlsam)**|
-|**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289](http://arxiv.org/abs/2306.14289)|**[link](https://github.com/chaoningzhang/mobilesam)**|
+|**2023-07-01**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289](http://arxiv.org/abs/2306.14289)|**[link](https://github.com/chaoningzhang/mobilesam)**|
 |**2023-06-25**|**When SAM Meets Sonar Images**|Lin Wang et.al.|[2306.14109](http://arxiv.org/abs/2306.14109)|**[link](https://github.com/wangsssky/sonarsam)**|
 |**2023-06-23**|**Curvature-enhanced Graph Convolutional Network for Biomolecular Interaction Prediction**|Cong Shen et.al.|[2306.13699](http://arxiv.org/abs/2306.13699)|**[link](https://github.com/cs-bio/cgcn)**|
 |**2023-06-23**|**3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation**|Shizhan Gong et.al.|[2306.13465](http://arxiv.org/abs/2306.13465)|null|
@@ -573,7 +586,7 @@
 |**2023-06-14**|**TomoSAM: a 3D Slicer extension using SAM for tomography segmentation**|Federico Semeraro et.al.|[2306.08609](http://arxiv.org/abs/2306.08609)|**[link](https://github.com/fsemerar/slicertomosam)**|
 |**2023-06-13**|**Robustness of SAM: Segment Anything Under Corruptions and Beyond**|Yu Qiao et.al.|[2306.07713](http://arxiv.org/abs/2306.07713)|null|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230705>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
