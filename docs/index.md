@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.07.07
+## Updated on 2023.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -54,6 +54,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**A Hybrid End-to-End Spatio-Temporal Attention Neural Network with Graph-Smooth Signals for EEG Emotion Recognition**|Shadi Sartipi et.al.|[2307.03068](http://arxiv.org/abs/2307.03068)|null|
+|**2023-07-06**|**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**|José Morano et.al.|[2307.03008](http://arxiv.org/abs/2307.03008)|**[link](https://github.com/j-morano/multimodal-ssl-fpn)**|
+|**2023-07-06**|**Molecular Simulation for Atmospheric Reaction Exploration and Discovery: Non-Equilibrium Dynamics, Roaming and Glycolaldehyde Formation Following Photo-Induced Decomposition of syn-Acetaldehyde Oxide**|Meenu Upadhyay et.al.|[2307.02994](http://arxiv.org/abs/2307.02994)|null|
+|**2023-07-06**|**Transfer Learning for the Efficient Detection of COVID-19 from Smartphone Audio Data**|Mattia Giovanni Campana et.al.|[2307.02975](http://arxiv.org/abs/2307.02975)|**[link](https://github.com/mattiacampana/transfer-learning-covid-19)**|
+|**2023-07-06**|**PUFFIN: A Path-Unifying Feed-Forward Interfaced Network for Vapor Pressure Prediction**|Vinicius Viena Santana et.al.|[2307.02903](http://arxiv.org/abs/2307.02903)|null|
 |**2023-07-04**|**Pretraining Conformer with ASR or ASV for Anti-Spoofing Countermeasure**|Yikang Wang et.al.|[2307.01546](http://arxiv.org/abs/2307.01546)|null|
 |**2023-07-04**|**On Conditional and Compositional Language Model Differentiable Prompting**|Jonathan Pilault et.al.|[2307.01446](http://arxiv.org/abs/2307.01446)|null|
 |**2023-07-03**|**Exploring Spoken Named Entity Recognition: A Cross-Lingual Perspective**|Moncef Benaicha et.al.|[2307.01310](http://arxiv.org/abs/2307.01310)|**[link](https://github.com/moncefbenaicha/spokenner)**|
@@ -66,7 +71,7 @@ layout: default
 |**2023-06-30**|**Scalable method for Bayesian experimental design without integrating over posterior distribution**|Vinh Hoang et.al.|[2306.17615](http://arxiv.org/abs/2306.17615)|null|
 |**2023-06-30**|**Towards the extraction of robust sign embeddings for low resource sign language recognition**|Mathieu De Coster et.al.|[2306.17558](http://arxiv.org/abs/2306.17558)|null|
 |**2023-06-30**|**Why does my medical AI look at pictures of birds? Exploring the efficacy of transfer learning across domain boundaries**|Frederic Jonske et.al.|[2306.17555](http://arxiv.org/abs/2306.17555)|**[link](https://github.com/tio-ikim/transfer-learning-across-domain-boundaries)**|
-|**2023-06-30**|**Audio Embeddings as Teachers for Music Classification**|Yiwei Ding et.al.|[2306.17424](http://arxiv.org/abs/2306.17424)|null|
+|**2023-06-30**|**Audio Embeddings as Teachers for Music Classification**|Yiwei Ding et.al.|[2306.17424](http://arxiv.org/abs/2306.17424)|**[link](https://github.com/suncerock/EAsT-music-classification)**|
 |**2023-06-29**|**Prediction of COVID-19 Patients' Emergency Room Revisit using Multi-Source Transfer Learning**|Yuelyu Ji et.al.|[2306.17257](http://arxiv.org/abs/2306.17257)|null|
 |**2023-06-29**|**Noise-Aware Quantum Software Testing**|Asmar Muqeet et.al.|[2306.16992](http://arxiv.org/abs/2306.16992)|**[link](https://github.com/asmarmuqeet/qoin)**|
 |**2023-06-29**|**Obeying the Order: Introducing Ordered Transfer Hyperparameter Optimisation**|Sigrid Passano Hellan et.al.|[2306.16916](http://arxiv.org/abs/2306.16916)|**[link](https://github.com/sighellan/syne-tune)**|
@@ -195,6 +200,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model**|Tianhao Wu et.al.|[2307.03177](http://arxiv.org/abs/2307.03177)|null|
+|**2023-07-06**|**Patterning of nonlocal transport models in biology: the impact of spatial dimension**|Thomas Jun Jewell et.al.|[2307.03117](http://arxiv.org/abs/2307.03117)|null|
+|**2023-07-06**|**How to Detect Unauthorized Data Usages in Text-to-image Diffusion Models**|Zhenting Wang et.al.|[2307.03108](http://arxiv.org/abs/2307.03108)|null|
+|**2023-07-06**|**On the Cultural Gap in Text-to-Image Generation**|Bingshuai Liu et.al.|[2307.02971](http://arxiv.org/abs/2307.02971)|null|
+|**2023-07-06**|**Probabilistic and Semantic Descriptions of Image Manifolds and Their Applications**|Peter Tu et.al.|[2307.02881](http://arxiv.org/abs/2307.02881)|null|
+|**2023-07-06**|**A Critical Look at the Current Usage of Foundation Model for Dense Recognition Task**|Shiqi Yang et.al.|[2307.02862](http://arxiv.org/abs/2307.02862)|null|
+|**2023-07-06**|**Censored Sampling of Diffusion Models Using 3 Minutes of Human Feedback**|TaeHo Yoon et.al.|[2307.02770](http://arxiv.org/abs/2307.02770)|**[link](https://github.com/tetrzim/diffusion-human-feedback)**|
+|**2023-07-06**|**Towards Symmetry-Aware Generation of Periodic Materials**|Youzhi Luo et.al.|[2307.02707](http://arxiv.org/abs/2307.02707)|null|
+|**2023-07-06**|**Applying a Color Palette with Local Control using Diffusion Models**|Vaibhav Vavilala et.al.|[2307.02698](http://arxiv.org/abs/2307.02698)|null|
+|**2023-07-05**|**Pattern formation and bifurcation analysis of delay induced fractional-order epidemic spreading on networks**|Jiaying Zhou et.al.|[2307.02669](http://arxiv.org/abs/2307.02669)|null|
+|**2023-07-05**|**Diffusion Models for Computational Design at the Example of Floor Plans**|Joern Ploennigs et.al.|[2307.02511](http://arxiv.org/abs/2307.02511)|null|
 |**2023-07-05**|**DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models**|Chong Mou et.al.|[2307.02421](http://arxiv.org/abs/2307.02421)|**[link](https://github.com/mc-e/dragondiffusion)**|
 |**2023-07-05**|**RADiff: Controllable Diffusion Models for Radio Astronomical Maps Generation**|Renato Sortino et.al.|[2307.02392](http://arxiv.org/abs/2307.02392)|null|
 |**2023-07-05**|**Detecting Images Generated by Deep Diffusion Models using their Local Intrinsic Dimensionality**|Peter Lorenz et.al.|[2307.02347](http://arxiv.org/abs/2307.02347)|**[link](https://github.com/deepfake-study/deepfake_multilid)**|
@@ -425,12 +441,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**Art Authentication with Vision Transformers**|Ludovica Schaerf et.al.|[2307.03039](http://arxiv.org/abs/2307.03039)|null|
+|**2023-07-05**|**Spherical Feature Pyramid Networks For Semantic Segmentation**|Thomas Walker et.al.|[2307.02658](http://arxiv.org/abs/2307.02658)|null|
 |**2023-07-05**|**AxonCallosumEM Dataset: Axon Semantic Segmentation of Whole Corpus Callosum cross section from EM Images**|Ao Cheng et.al.|[2307.02464](http://arxiv.org/abs/2307.02464)|null|
 |**2023-07-05**|**RADiff: Controllable Diffusion Models for Radio Astronomical Maps Generation**|Renato Sortino et.al.|[2307.02392](http://arxiv.org/abs/2307.02392)|null|
 |**2023-07-05**|**Prompting Diffusion Representations for Cross-Domain Semantic Segmentation**|Rui Gong et.al.|[2307.02138](http://arxiv.org/abs/2307.02138)|null|
 |**2023-07-05**|**Line Graphics Digitization: A Step Towards Full Automation**|Omar Moured et.al.|[2307.02065](http://arxiv.org/abs/2307.02065)|null|
 |**2023-07-05**|**Multi-Modal Prototypes for Open-Set Semantic Segmentation**|Yuhuan Yang et.al.|[2307.02003](http://arxiv.org/abs/2307.02003)|null|
-|**2023-07-05**|**The KiTS21 Challenge: Automatic segmentation of kidneys, renal tumors, and renal cysts in corticomedullary-phase CT**|Nicholas Heller et.al.|[2307.01984](http://arxiv.org/abs/2307.01984)|null|
+|**2023-07-05**|**The KiTS21 Challenge: Automatic segmentation of kidneys, renal tumors, and renal cysts in corticomedullary-phase CT**|Nicholas Heller et.al.|[2307.01984](http://arxiv.org/abs/2307.01984)|**[link](https://github.com/neheller/kits21)**|
 |**2023-07-04**|**Augment Features Beyond Color for Domain Generalized Segmentation**|Qiyu Sun et.al.|[2307.01703](http://arxiv.org/abs/2307.01703)|null|
 |**2023-07-04**|**Exploiting Richness of Learned Compressed Representation of Images for Semantic Segmentation**|Ravi Kakaiya et.al.|[2307.01524](http://arxiv.org/abs/2307.01524)|null|
 |**2023-07-04**|**Semantic Segmentation on 3D Point Clouds with High Density Variations**|Ryan Faulkner et.al.|[2307.01489](http://arxiv.org/abs/2307.01489)|null|
@@ -592,6 +610,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-05**|**ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking**|Yuanyou Xu et.al.|[2307.02508](http://arxiv.org/abs/2307.02508)|null|
 |**2023-07-05**|**AxonCallosumEM Dataset: Axon Semantic Segmentation of Whole Corpus Callosum cross section from EM Images**|Ao Cheng et.al.|[2307.02464](http://arxiv.org/abs/2307.02464)|null|
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197](http://arxiv.org/abs/2307.01197)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**SAMAug: Point Prompt Augmentation for Segment Anything Model**|Haixing Dai et.al.|[2307.01187](http://arxiv.org/abs/2307.01187)|null|
