@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.07.14
+## Updated on 2023.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -59,12 +59,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-12**|**Feature Embeddings from Large-Scale Acoustic Bird Classifiers Enable Few-Shot Transfer Learning**|Burooj Ghani et.al.|[2307.06292](http://arxiv.org/abs/2307.06292)|null|
+|**2023-07-13**|**Agreement Tracking for Multi-Issue Negotiation Dialogues**|Amogh Mannekote et.al.|[2307.06524](http://arxiv.org/abs/2307.06524)|null|
+|**2023-07-12**|**Feature Embeddings from Large-Scale Acoustic Bird Classifiers Enable Few-Shot Transfer Learning**|Burooj Ghani et.al.|[2307.06292](http://arxiv.org/abs/2307.06292)|**[link](https://github.com/facebookresearch/audiomae)**|
 |**2023-07-12**|**Prototypical Contrastive Transfer Learning for Multimodal Language Understanding**|Seitaro Otsuki et.al.|[2307.05942](http://arxiv.org/abs/2307.05942)|null|
 |**2023-07-06**|**LogitMat : Zeroshot Learning Algorithm for Recommender Systems without Transfer Learning or Pretrained Models**|Hao Wang et.al.|[2307.05680](http://arxiv.org/abs/2307.05680)|null|
 |**2023-07-11**|**A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions**|Peng Yan et.al.|[2307.05638](http://arxiv.org/abs/2307.05638)|null|
 |**2023-07-11**|**Channel Selection for Wi-Fi 7 Multi-Link Operation via Optimistic-Weighted VDN and Parallel Transfer Reinforcement Learning**|Pedro Enrique Iturria-Rivera et.al.|[2307.05419](http://arxiv.org/abs/2307.05419)|null|
-|**2023-07-11**|**Multi-fidelity Emulator for Cosmological Large Scale 21 cm Lightcone Images: a Few-shot Transfer Learning Approach with GAN**|Kangning Diao et.al.|[2307.04976](http://arxiv.org/abs/2307.04976)|null|
+|**2023-07-11**|**Multi-fidelity Emulator for Cosmological Large Scale 21 cm Lightcone Images: a Few-shot Transfer Learning Approach with GAN**|Kangning Diao et.al.|[2307.04976](http://arxiv.org/abs/2307.04976)|**[link](https://github.com/dkn16/multi-fidel-gan-21cm)**|
 |**2023-07-10**|**SimpleMTOD: A Simple Language Model for Multimodal Task-Oriented Dialogue with Symbolic Scene Representation**|Bhathiya Hemanthage et.al.|[2307.04907](http://arxiv.org/abs/2307.04907)|null|
 |**2023-07-10**|**Advances and Challenges in Meta-Learning: A Technical Review**|Anna Vettoruzzo et.al.|[2307.04722](http://arxiv.org/abs/2307.04722)|null|
 |**2023-07-11**|**Generalization Error of First-Order Methods for Statistical Learning with Generic Oracles**|Kevin Scaman et.al.|[2307.04679](http://arxiv.org/abs/2307.04679)|null|
@@ -75,7 +76,7 @@ layout: default
 |**2023-07-06**|**To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology**|Tushar Kataria et.al.|[2307.03275](http://arxiv.org/abs/2307.03275)|null|
 |**2023-07-06**|**Vision Language Transformers: A Survey**|Clayton Fields et.al.|[2307.03254](http://arxiv.org/abs/2307.03254)|null|
 |**2023-07-06**|**A Hybrid End-to-End Spatio-Temporal Attention Neural Network with Graph-Smooth Signals for EEG Emotion Recognition**|Shadi Sartipi et.al.|[2307.03068](http://arxiv.org/abs/2307.03068)|null|
-|**2023-07-09**|**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**|José Morano et.al.|[2307.03008](http://arxiv.org/abs/2307.03008)|**[link](https://github.com/j-morano/multimodal-ssl-fpn)**|
+|**2023-07-13**|**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**|José Morano et.al.|[2307.03008](http://arxiv.org/abs/2307.03008)|**[link](https://github.com/j-morano/multimodal-ssl-fpn)**|
 |**2023-07-06**|**Molecular Simulation for Atmospheric Reaction Exploration and Discovery: Non-Equilibrium Dynamics, Roaming and Glycolaldehyde Formation Following Photo-Induced Decomposition of syn-Acetaldehyde Oxide**|Meenu Upadhyay et.al.|[2307.02994](http://arxiv.org/abs/2307.02994)|null|
 |**2023-07-06**|**Transfer Learning for the Efficient Detection of COVID-19 from Smartphone Audio Data**|Mattia Giovanni Campana et.al.|[2307.02975](http://arxiv.org/abs/2307.02975)|**[link](https://github.com/mattiacampana/transfer-learning-covid-19)**|
 |**2023-07-08**|**PUFFIN: A Path-Unifying Feed-Forward Interfaced Network for Vapor Pressure Prediction**|Vinicius Viena Santana et.al.|[2307.02903](http://arxiv.org/abs/2307.02903)|null|
@@ -220,10 +221,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**|Nataniel Ruiz et.al.|[2307.06949](http://arxiv.org/abs/2307.06949)|null|
+|**2023-07-14**|**PC-Droid: Faster diffusion and improved quality for particle cloud generation**|Matthew Leigh et.al.|[2307.06836](http://arxiv.org/abs/2307.06836)|null|
+|**2023-07-13**|**AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion**|Shuo Huang et.al.|[2307.06526](http://arxiv.org/abs/2307.06526)|null|
+|**2023-07-13**|**Improving Nonalcoholic Fatty Liver Disease Classification Performance With Latent Diffusion Models**|Romain Hardy et.al.|[2307.06507](http://arxiv.org/abs/2307.06507)|null|
 |**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272](http://arxiv.org/abs/2307.06272)|null|
 |**2023-07-12**|**Diffusion Based Multi-Agent Adversarial Tracking**|Sean Ye et.al.|[2307.06244](http://arxiv.org/abs/2307.06244)|null|
 |**2023-07-12**|**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models**|Sanghyun Kim et.al.|[2307.05977](http://arxiv.org/abs/2307.05977)|**[link](https://github.com/nannullna/safe-diffusion)**|
-|**2023-07-11**|**WHFast512: A symplectic N-body integrator for planetary systems optimized with AVX512 instructions**|Pejvak Javaheri et.al.|[2307.05683](http://arxiv.org/abs/2307.05683)|null|
+|**2023-07-11**|**WHFast512: A symplectic N-body integrator for planetary systems optimized with AVX512 instructions**|Pejvak Javaheri et.al.|[2307.05683](http://arxiv.org/abs/2307.05683)|**[link](https://github.com/hannorein/rebound)**|
 |**2023-07-07**|**AutoDecoding Latent 3D Diffusion Models**|Evangelos Ntavelis et.al.|[2307.05445](http://arxiv.org/abs/2307.05445)|null|
 |**2023-07-11**|**Metropolis Sampling for Constrained Diffusion Models**|Nic Fishman et.al.|[2307.05439](http://arxiv.org/abs/2307.05439)|null|
 |**2023-07-11**|**Geometric Neural Diffusion Processes**|Emile Mathieu et.al.|[2307.05431](http://arxiv.org/abs/2307.05431)|**[link](https://github.com/cambridge-mlg/neural_diffusion_processes)**|
@@ -481,6 +486,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**YOLIC: An Efficient Method for Object Localization and Classification on Edge Devices**|Kai Su et.al.|[2307.06689](http://arxiv.org/abs/2307.06689)|null|
+|**2023-07-13**|**WaterScenes: A Multi-Task 4D Radar-Camera Fusion Dataset and Benchmark for Autonomous Driving on Water Surfaces**|Shanliang Yao et.al.|[2307.06505](http://arxiv.org/abs/2307.06505)|**[link](https://github.com/waterscenes/waterscenes)**|
 |**2023-07-12**|**Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution**|Mostafa Dehghani et.al.|[2307.06304](http://arxiv.org/abs/2307.06304)|null|
 |**2023-07-12**|**OG: Equip vision occupancy with instance segmentation and visual grounding**|Zichao Dong et.al.|[2307.05873](http://arxiv.org/abs/2307.05873)|null|
 |**2023-07-11**|**Automatic Generation of Semantic Parts for Face Image Synthesis**|Tomaso Fontanini et.al.|[2307.05317](http://arxiv.org/abs/2307.05317)|null|
