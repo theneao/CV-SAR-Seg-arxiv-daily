@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.07.19
+## Updated on 2023.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -59,12 +59,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Gradient Sparsification For Masked Fine-Tuning of Transformers**|James O' Neill et.al.|[2307.10098](http://arxiv.org/abs/2307.10098)|null|
+|**2023-07-19**|**Revisiting invariances and introducing priors in Gromov-Wasserstein distances**|Pinar Demetci et.al.|[2307.10093](http://arxiv.org/abs/2307.10093)|null|
+|**2023-07-19**|**From West to East: Who can understand the music of the others better?**|Charilaos Papaioannou et.al.|[2307.09795](http://arxiv.org/abs/2307.09795)|**[link](https://github.com/pxaris/ccml)**|
+|**2023-07-17**|**Study of Vision Transformers for Covid-19 Detection from Chest X-rays**|Sandeep Angara et.al.|[2307.09402](http://arxiv.org/abs/2307.09402)|null|
+|**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233](http://arxiv.org/abs/2307.09233)|null|
+|**2023-07-18**|**Detecting Throat Cancer from Speech Signals Using Machine Learning: A Reproducible Literature Review**|Mary Paterson et.al.|[2307.09230](http://arxiv.org/abs/2307.09230)|null|
+|**2023-07-18**|**A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future**|Chaoyang Zhu et.al.|[2307.09220](http://arxiv.org/abs/2307.09220)|null|
+|**2023-07-18**|**Evaluate Fine-tuning Strategies for Fetal Head Ultrasound Image Segmentation with U-Net**|Fangyijie Wang et.al.|[2307.09067](http://arxiv.org/abs/2307.09067)|**[link](https://github.com/13204942/ft_methods_for_fetal_head_segmentation)**|
+|**2023-07-18**|**Face-PAST: Facial Pose Awareness and Style Transfer Networks**|Sunder Ali Khowaja et.al.|[2307.09020](http://arxiv.org/abs/2307.09020)|null|
+|**2023-07-18**|**Alioth: A Machine Learning Based Interference-Aware Performance Monitor for Multi-Tenancy Applications in Public Cloud**|Tianyao Shi et.al.|[2307.08949](http://arxiv.org/abs/2307.08949)|**[link](https://github.com/sthowling/alioth)**|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702](http://arxiv.org/abs/2307.08702)|null|
 |**2023-07-18**|**Revisiting the Robustness of the Minimum Error Entropy Criterion: A Transfer Learning Case Study**|Luis Pedro Silvestrin et.al.|[2307.08572](http://arxiv.org/abs/2307.08572)|**[link](https://github.com/lpsilvestrin/mee-finetune)**|
 |**2023-07-17**|**Domain Adaptation using Silver Standard Masks for Lateral Ventricle Segmentation in FLAIR MRI**|Owen Crystal et.al.|[2307.08456](http://arxiv.org/abs/2307.08456)|null|
 |**2023-07-17**|**Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**|Zhiyuan Peng et.al.|[2307.08303](http://arxiv.org/abs/2307.08303)|null|
 |**2023-07-16**|**SHAMSUL: Simultaneous Heatmap-Analysis to investigate Medical Significance Utilizing Local interpretability methods**|Mahbub Ul Alam et.al.|[2307.08003](http://arxiv.org/abs/2307.08003)|**[link](https://github.com/anondo1969/shamsul)**|
-|**2023-07-16**|**S2R-ViT for Multi-Agent Cooperative Perception: Bridging the Gap from Simulation to Reality**|Jinlong Li et.al.|[2307.07935](http://arxiv.org/abs/2307.07935)|null|
+|**2023-07-18**|**S2R-ViT for Multi-Agent Cooperative Perception: Bridging the Gap from Simulation to Reality**|Jinlong Li et.al.|[2307.07935](http://arxiv.org/abs/2307.07935)|null|
 |**2023-07-15**|**SoccerKDNet: A Knowledge Distillation Framework for Action Recognition in Soccer Videos**|Sarosij Bose et.al.|[2307.07768](http://arxiv.org/abs/2307.07768)|null|
 |**2023-07-14**|**MGit: A Model Versioning and Management System**|Wei Hao et.al.|[2307.07507](http://arxiv.org/abs/2307.07507)|null|
 |**2023-07-14**|**Improving Zero-Shot Generalization for CLIP with Synthesized Prompts**|Zhengbo Wang et.al.|[2307.07397](http://arxiv.org/abs/2307.07397)|**[link](https://github.com/mrflogs/SHIP)**|
@@ -235,10 +245,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159](http://arxiv.org/abs/2307.10159)|**[link](https://github.com/sd-fabric/fabric)**|
+|**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
+|**2023-07-19**|**Modelling the Spatial Spread of COVID-19 in aGerman District using a Diffusion Model**|Moritz Schäfer et.al.|[2307.09956](http://arxiv.org/abs/2307.09956)|null|
+|**2023-07-19**|**BSDM: Background Suppression Diffusion Model for Hyperspectral Anomaly Detection**|Jitao Ma et.al.|[2307.09861](http://arxiv.org/abs/2307.09861)|**[link](https://github.com/majitao-xd/bsdm-had)**|
+|**2023-07-19**|**A Siamese-based Verification System for Open-set Architecture Attribution of Synthetic Images**|Lydia Abady et.al.|[2307.09822](http://arxiv.org/abs/2307.09822)|null|
+|**2023-07-19**|**DiffDP: Radiotherapy Dose Prediction via a Diffusion Model**|Zhenghao Feng et.al.|[2307.09794](http://arxiv.org/abs/2307.09794)|null|
+|**2023-07-19**|**Text2Layer: Layered Image Generation using Latent Diffusion Model**|Xinyang Zhang et.al.|[2307.09781](http://arxiv.org/abs/2307.09781)|null|
+|**2023-07-18**|**An approximate maximum likelihood estimator of drift parameters in a multidimensional diffusion model**|Miljenko Huzak et.al.|[2307.09199](http://arxiv.org/abs/2307.09199)|null|
+|**2023-07-18**|**DiTTO: Diffusion-inspired Temporal Transformer Operator**|Oded Ovadia et.al.|[2307.09072](http://arxiv.org/abs/2307.09072)|null|
+|**2023-07-18**|**Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond**|Yang Zhao et.al.|[2307.08996](http://arxiv.org/abs/2307.08996)|null|
+|**2023-07-17**|**Autoregressive Diffusion Model for Graph Generation**|Lingkai Kong et.al.|[2307.08849](http://arxiv.org/abs/2307.08849)|null|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702](http://arxiv.org/abs/2307.08702)|null|
 |**2023-07-17**|**SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**|Vic De Ridder et.al.|[2307.08693](http://arxiv.org/abs/2307.08693)|null|
 |**2023-07-17**|**Identity-Preserving Aging of Face Images via Latent Diffusion Models**|Sudipta Banerjee et.al.|[2307.08585](http://arxiv.org/abs/2307.08585)|null|
-|**2023-07-17**|**Synthetic Lagrangian Turbulence by Generative Diffusion Models**|Tianyi Li et.al.|[2307.08529](http://arxiv.org/abs/2307.08529)|null|
+|**2023-07-17**|**Synthetic Lagrangian Turbulence by Generative Diffusion Models**|Tianyi Li et.al.|[2307.08529](http://arxiv.org/abs/2307.08529)|**[link](https://github.com/smartturb/diffusion-lagr)**|
 |**2023-07-17**|**Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation**|Luozhou Wang et.al.|[2307.08448](http://arxiv.org/abs/2307.08448)|**[link](https://github.com/andysonys/selective-diffusion-distillation)**|
 |**2023-07-18**|**Unstoppable Attack: Label-Only Model Inversion via Conditional Diffusion Model**|Rongke Liu et.al.|[2307.08424](http://arxiv.org/abs/2307.08424)|null|
 |**2023-07-17**|**Complexity Matters: Rethinking the Latent Space for Generative Modeling**|Tianyang Hu et.al.|[2307.08283](http://arxiv.org/abs/2307.08283)|null|
@@ -519,6 +540,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Boundary-Refined Prototype Generation: A General End-to-End Paradigm for Semi-Supervised Semantic Segmentation**|Junhao Dong et.al.|[2307.10097](http://arxiv.org/abs/2307.10097)|null|
+|**2023-07-19**|**U-CE: Uncertainty-aware Cross-Entropy for Semantic Segmentation**|Steven Landgraf et.al.|[2307.09947](http://arxiv.org/abs/2307.09947)|null|
+|**2023-07-19**|**Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation**|Changqi Wang et.al.|[2307.09755](http://arxiv.org/abs/2307.09755)|null|
+|**2023-07-19**|**ClickSeg: 3D Instance Segmentation with Click-Level Weak Annotations**|Leyao Liu et.al.|[2307.09732](http://arxiv.org/abs/2307.09732)|null|
+|**2023-07-14**|**LEST: Large-scale LiDAR Semantic Segmentation with Transformer**|Chuanyu Luo et.al.|[2307.09367](http://arxiv.org/abs/2307.09367)|null|
+|**2023-07-19**|**Disentangle then Parse:Night-time Semantic Segmentation with Illumination Disentanglement**|Zhixiang Wei et.al.|[2307.09362](http://arxiv.org/abs/2307.09362)|null|
+|**2023-07-18**|**MarS3D: A Plug-and-Play Motion-Aware Model for Semantic Segmentation on Multi-Scan 3D Point Clouds**|Jiahui Liu et.al.|[2307.09316](http://arxiv.org/abs/2307.09316)|null|
+|**2023-07-18**|**CG-fusion CAM: Online segmentation of laser-induced damage on large-aperture optics**|Yueyue Han et.al.|[2307.09161](http://arxiv.org/abs/2307.09161)|null|
+|**2023-07-18**|**Mining of Single-Class by Active Learning for Semantic Segmentation**|Hugues Lambert et.al.|[2307.09109](http://arxiv.org/abs/2307.09109)|null|
+|**2023-07-18**|**EgoVM: Achieving Precise Ego-Localization using Lightweight Vectorized Maps**|Yuzhe He et.al.|[2307.08991](http://arxiv.org/abs/2307.08991)|null|
+|**2023-07-19**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779](http://arxiv.org/abs/2307.08779)|null|
 |**2023-07-17**|**A Nested U-Structure for Instrument Segmentation in Robotic Surgery**|Yanjie Xia et.al.|[2307.08630](http://arxiv.org/abs/2307.08630)|null|
 |**2023-07-17**|**Scale-Aware Modulation Meet Transformer**|Weifeng Lin et.al.|[2307.08579](http://arxiv.org/abs/2307.08579)|**[link](https://github.com/afeng-x/smt)**|
 |**2023-07-17**|**Variational Probabilistic Fusion Network for RGB-T Semantic Segmentation**|Baihong Lin et.al.|[2307.08536](http://arxiv.org/abs/2307.08536)|null|
@@ -672,6 +704,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**NTIRE 2023 Quality Assessment of Video Enhancement Challenge**|Xiaohong Liu et.al.|[2307.09729](http://arxiv.org/abs/2307.09729)|null|
+|**2023-07-18**|**Unleashing the Imagination of Text: A Novel Framework for Text-to-image Person Retrieval via Exploring the Power of Words**|Delong Liu et.al.|[2307.09059](http://arxiv.org/abs/2307.09059)|null|
+|**2023-07-18**|**Soft-IntroVAE for Continuous Latent space Image Super-Resolution**|Zhi-Song Liu et.al.|[2307.09008](http://arxiv.org/abs/2307.09008)|null|
 |**2023-07-16**|**LUCYD: A Feature-Driven Richardson-Lucy Deconvolution Network**|Tomáš Chobola et.al.|[2307.07998](http://arxiv.org/abs/2307.07998)|**[link](https://github.com/ctom2/lucyd-deconvolution)**|
 |**2023-07-15**|**DRM-IR: Task-Adaptive Deep Unfolding Network for All-In-One Image Restoration**|Yuanshuo Cheng et.al.|[2307.07688](http://arxiv.org/abs/2307.07688)|null|
 |**2023-07-12**|**Latent Graph Attention for Enhanced Spatial Context**|Ayush Singh et.al.|[2307.04149](http://arxiv.org/abs/2307.04149)|null|
@@ -721,7 +756,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-15**|**Open Scene Understanding: Grounded Situation Recognition Meets Segment Anything for Helping People with Visual Impairments**|Ruiping Liu et.al.|[2307.07757](http://arxiv.org/abs/2307.07757)|null|
+|**2023-07-12**|**SAM-Path: A Segment Anything Model for Semantic Segmentation in Digital Pathology**|Jingwei Zhang et.al.|[2307.09570](http://arxiv.org/abs/2307.09570)|null|
+|**2023-07-15**|**Open Scene Understanding: Grounded Situation Recognition Meets Segment Anything for Helping People with Visual Impairments**|Ruiping Liu et.al.|[2307.07757](http://arxiv.org/abs/2307.07757)|**[link](https://github.com/ruipingl/opensu)**|
 |**2023-07-11**|**$\mathrm{SAM^{Med}}$ : A medical image annotation framework based on large vision model**|Chenglong Wang et.al.|[2307.05617](http://arxiv.org/abs/2307.05617)|null|
 |**2023-07-07**|**Large AI Model-Based Semantic Communications**|Feibo Jiang et.al.|[2307.03492](http://arxiv.org/abs/2307.03492)|null|
 |**2023-07-10**|**ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking**|Yuanyou Xu et.al.|[2307.02508](http://arxiv.org/abs/2307.02508)|null|
