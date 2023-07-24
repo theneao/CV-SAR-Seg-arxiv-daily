@@ -171,7 +171,7 @@ layout: default
 |**2023-06-19**|**Transformer Training Strategies for Forecasting Multiple Load Time Series**|Matthias Hertel et.al.|[2306.10891](http://arxiv.org/abs/2306.10891)|null|
 |**2023-06-23**|**Text-Driven Foley Sound Generation With Latent Diffusion Model**|Yi Yuan et.al.|[2306.10359](http://arxiv.org/abs/2306.10359)|**[link](https://github.com/yyua8222/dcase2023_task7)**|
 |**2023-06-17**|**Persian Semantic Role Labeling Using Transfer Learning and BERT-Based Models**|Saeideh Niksirat Aghdam et.al.|[2306.10339](http://arxiv.org/abs/2306.10339)|null|
-|**2023-06-16**|**Neural Priming for Sample-Efficient Adaptation**|Matthew Wallingford et.al.|[2306.10191](http://arxiv.org/abs/2306.10191)|null|
+|**2023-06-16**|**Neural Priming for Sample-Efficient Adaptation**|Matthew Wallingford et.al.|[2306.10191](http://arxiv.org/abs/2306.10191)|**[link](https://github.com/raivnlab/neural-priming)**|
 |**2023-06-16**|**LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning**|Jifan Zhang et.al.|[2306.09910](http://arxiv.org/abs/2306.09910)|**[link](https://github.com/efficienttraining/labelbench)**|
 |**2023-06-16**|**Can robots mold soft plastic materials by shaping depth images?**|Ege Gursoy et.al.|[2306.09848](http://arxiv.org/abs/2306.09848)|null|
 |**2023-06-16**|**Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions**|Dongshuo Yin et.al.|[2306.09729](http://arxiv.org/abs/2306.09729)|null|
