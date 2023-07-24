@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.07.21
+## Updated on 2023.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Integrated Photonic Fractional Convolution Accelerator**|Kevin Zelaya et.al.|[2307.10976](http://arxiv.org/abs/2307.10976)|null|
 |**2023-07-11**|**Compact Twice Fusion Network for Edge Detection**|Yachuan Li et.al.|[2307.04952](http://arxiv.org/abs/2307.04952)|**[link](https://github.com/li-yachuan/ctfn-pytorch-master)**|
 |**2023-07-08**|**Edge-Aware Mirror Network for Camouflaged Object Detection**|Dongyue Sun et.al.|[2307.03932](http://arxiv.org/abs/2307.03932)|**[link](https://github.com/sdy1999/eamnet)**|
 |**2023-07-08**|**On a cylindrical scanning modality in three-dimensional Compton scatter tomography**|James W. Webber et.al.|[2307.03896](http://arxiv.org/abs/2307.03896)|null|
@@ -59,6 +60,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Transfer Learning and Bias Correction with Pre-trained Audio Embeddings**|Changhong Wang et.al.|[2307.10834](http://arxiv.org/abs/2307.10834)|**[link](https://github.com/changhongw/audio-embedding-bias)**|
+|**2023-07-20**|**Predicting human motion intention for pHRI assistive control**|Paolo Franceschi et.al.|[2307.10743](http://arxiv.org/abs/2307.10743)|null|
+|**2023-07-20**|**Transfer Learning for Inverse Design of Tunable Graphene-Based Metasurfaces**|Mehdi Kiani et.al.|[2307.10641](http://arxiv.org/abs/2307.10641)|null|
+|**2023-07-20**|**Pluvio: Assembly Clone Search for Out-of-domain Architectures and Libraries through Transfer Learning and Conditional Variational Information Bottleneck**|Zhiwei Fu et.al.|[2307.10631](http://arxiv.org/abs/2307.10631)|null|
+|**2023-07-19**|**Eye Disease Classification Using Deep Learning Techniques**|Tareq Babaqi et.al.|[2307.10501](http://arxiv.org/abs/2307.10501)|null|
+|**2023-07-19**|**Novel Batch Active Learning Approach and Its Application to Synthetic Aperture Radar Datasets**|James Chapman et.al.|[2307.10495](http://arxiv.org/abs/2307.10495)|**[link](https://github.com/chapman20j/sar_bal)**|
+|**2023-07-19**|**Determination of the critical points for systems of directed percolation class using machine learning**|M. Ali Saif et.al.|[2307.10456](http://arxiv.org/abs/2307.10456)|null|
 |**2023-07-19**|**Gradient Sparsification For Masked Fine-Tuning of Transformers**|James O' Neill et.al.|[2307.10098](http://arxiv.org/abs/2307.10098)|null|
 |**2023-07-19**|**Revisiting invariances and introducing priors in Gromov-Wasserstein distances**|Pinar Demetci et.al.|[2307.10093](http://arxiv.org/abs/2307.10093)|null|
 |**2023-07-19**|**From West to East: Who can understand the music of the others better?**|Charilaos Papaioannou et.al.|[2307.09795](http://arxiv.org/abs/2307.09795)|**[link](https://github.com/pxaris/ccml)**|
@@ -245,6 +253,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994](http://arxiv.org/abs/2307.10994)|null|
+|**2023-07-20**|**Structure-preserving schemes for drift-diffusion systems on general meshes: DDFV vs HFV**|Stella Krell et.al.|[2307.10911](http://arxiv.org/abs/2307.10911)|null|
+|**2023-07-20**|**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**|Jinheng Xie et.al.|[2307.10816](http://arxiv.org/abs/2307.10816)|**[link](https://github.com/sierkinhane/boxdiff)**|
+|**2023-07-21**|**AdjointDPM: Adjoint Sensitivity Method for Gradient Backpropagation of Diffusion Probabilistic Models**|Jiachun Pan et.al.|[2307.10711](http://arxiv.org/abs/2307.10711)|null|
+|**2023-07-20**|**Reference-based Painterly Inpainting via Diffusion: Crossing the Wild Reference Domain Gap**|Dejia Xu et.al.|[2307.10584](http://arxiv.org/abs/2307.10584)|null|
+|**2023-07-19**|**PreDiff: Precipitation Nowcasting with Latent Diffusion Models**|Zhihan Gao et.al.|[2307.10422](http://arxiv.org/abs/2307.10422)|null|
+|**2023-07-19**|**TokenFlow: Consistent Diffusion Features for Consistent Video Editing**|Michal Geyer et.al.|[2307.10373](http://arxiv.org/abs/2307.10373)|null|
+|**2023-07-19**|**Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls**|Lejun Min et.al.|[2307.10304](http://arxiv.org/abs/2307.10304)|**[link](https://github.com/aik2mlj/polyffusion)**|
+|**2023-07-18**|**Modeling pattern formation in communities by using information particles**|Junichi Miyakoshi et.al.|[2307.10270](http://arxiv.org/abs/2307.10270)|null|
 |**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159](http://arxiv.org/abs/2307.10159)|**[link](https://github.com/sd-fabric/fabric)**|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
 |**2023-07-19**|**Modelling the Spatial Spread of COVID-19 in aGerman District using a Diffusion Model**|Moritz Schäfer et.al.|[2307.09956](http://arxiv.org/abs/2307.09956)|null|
@@ -540,6 +557,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Spinal nerve segmentation method and dataset construction in endoscopic surgical scenarios**|Shaowu Peng et.al.|[2307.10955](http://arxiv.org/abs/2307.10955)|**[link](https://github.com/zzzzzzpc/funet)**|
+|**2023-07-20**|**Label Calibration for Semantic Segmentation Under Domain Shift**|Ondrej Bohdal et.al.|[2307.10842](http://arxiv.org/abs/2307.10842)|null|
+|**2023-07-20**|**Gradient-Semantic Compensation for Incremental Semantic Segmentation**|Wei Cong et.al.|[2307.10822](http://arxiv.org/abs/2307.10822)|null|
+|**2023-07-20**|**TwinLiteNet: An Efficient and Lightweight Model for Driveable Area and Lane Segmentation in Self-Driving Cars**|Quang Huy Che et.al.|[2307.10705](http://arxiv.org/abs/2307.10705)|**[link](https://github.com/chequanghuy/TwinLiteNet)**|
+|**2023-07-19**|**CPCM: Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation**|Lizhao Liu et.al.|[2307.10316](http://arxiv.org/abs/2307.10316)|**[link](https://github.com/lizhaoliu-Lec/CPCM)**|
+|**2023-07-18**|**Towards Automated Semantic Segmentation in Mammography Images**|Cesar A. Sierra-Franco et.al.|[2307.10296](http://arxiv.org/abs/2307.10296)|null|
+|**2023-07-17**|**On the Real-Time Semantic Segmentation of Aphid Clusters in the Wild**|Raiyan Rahman et.al.|[2307.10267](http://arxiv.org/abs/2307.10267)|null|
 |**2023-07-19**|**Boundary-Refined Prototype Generation: A General End-to-End Paradigm for Semi-Supervised Semantic Segmentation**|Junhao Dong et.al.|[2307.10097](http://arxiv.org/abs/2307.10097)|null|
 |**2023-07-19**|**U-CE: Uncertainty-aware Cross-Entropy for Semantic Segmentation**|Steven Landgraf et.al.|[2307.09947](http://arxiv.org/abs/2307.09947)|null|
 |**2023-07-19**|**Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation**|Changqi Wang et.al.|[2307.09755](http://arxiv.org/abs/2307.09755)|null|
@@ -704,6 +728,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Physics-Driven Turbulence Image Restoration with Stochastic Refinement**|Ajay Jaiswal et.al.|[2307.10603](http://arxiv.org/abs/2307.10603)|null|
 |**2023-07-19**|**NTIRE 2023 Quality Assessment of Video Enhancement Challenge**|Xiaohong Liu et.al.|[2307.09729](http://arxiv.org/abs/2307.09729)|null|
 |**2023-07-18**|**Unleashing the Imagination of Text: A Novel Framework for Text-to-image Person Retrieval via Exploring the Power of Words**|Delong Liu et.al.|[2307.09059](http://arxiv.org/abs/2307.09059)|null|
 |**2023-07-18**|**Soft-IntroVAE for Continuous Latent space Image Super-Resolution**|Zhi-Song Liu et.al.|[2307.09008](http://arxiv.org/abs/2307.09008)|null|
