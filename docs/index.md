@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.08.04
+## Updated on 2023.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -63,6 +63,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**Curricular Transfer Learning for Sentence Encoded Tasks**|Jader Martins Camboim de Sá et.al.|[2308.01849](http://arxiv.org/abs/2308.01849)|null|
+|**2023-08-03**|**Deep Learning-based Prediction of Stress and Strain Maps in Arterial Walls for Improved Cardiovascular Risk Assessment**|Yasin Shokrollahi1 et.al.|[2308.01771](http://arxiv.org/abs/2308.01771)|null|
+|**2023-08-03**|**IndoHerb: Indonesia Medicinal Plants Recognition using Transfer Learning and Deep Learning**|Muhammad Salman Ikrar Musyaffa et.al.|[2308.01604](http://arxiv.org/abs/2308.01604)|null|
 |**2023-08-02**|**Grasp Stability Assessment Through Attention-Guided Cross-Modality Fusion and Transfer Learning**|Zhuangzhuang Zhang et.al.|[2308.00980](http://arxiv.org/abs/2308.00980)|null|
 |**2023-08-01**|**Understanding Activation Patterns in Artificial Neural Networks by Exploring Stochastic Processes**|Stephan Johann Lehmler et.al.|[2308.00858](http://arxiv.org/abs/2308.00858)|null|
 |**2023-07-31**|**Cardiac MRI Orientation Recognition and Standardization using Deep Neural Networks**|Ruoxuan Zhen et.al.|[2308.00615](http://arxiv.org/abs/2308.00615)|**[link](https://github.com/rxzhen/mscmr-orient)**|
@@ -286,6 +289,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling**|Zhao Yang et.al.|[2308.01850](http://arxiv.org/abs/2308.01850)|**[link](https://github.com/yangzhao1230/pcmdm)**|
+|**2023-08-03**|**DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models**|Jianxin Lin et.al.|[2308.01655](http://arxiv.org/abs/2308.01655)|null|
+|**2023-08-03**|**Reference-Free Isotropic 3D EM Reconstruction using Diffusion Models**|Kyungryun Lee et.al.|[2308.01594](http://arxiv.org/abs/2308.01594)|null|
+|**2023-08-03**|**Adversarial Training of Denoising Diffusion Model Using Dual Discriminators for High-Fidelity Multi-Speaker TTS**|Myeongjin Ko et.al.|[2308.01573](http://arxiv.org/abs/2308.01573)|**[link](https://github.com/komyeongjin/specdiff-gan)**|
+|**2023-08-03**|**Motion Planning Diffusion: Learning and Planning of Robot Motions with Diffusion Models**|Joao Carvalho et.al.|[2308.01557](http://arxiv.org/abs/2308.01557)|null|
+|**2023-08-03**|**MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies**|Ke Chen et.al.|[2308.01546](http://arxiv.org/abs/2308.01546)|null|
+|**2023-08-02**|**Reverse Stable Diffusion: What prompt was used to generate this image?**|Florinel-Alin Croitoru et.al.|[2308.01472](http://arxiv.org/abs/2308.01472)|null|
 |**2023-08-02**|**Patched Denoising Diffusion Models For High-Resolution Image Synthesis**|Zheng Ding et.al.|[2308.01316](http://arxiv.org/abs/2308.01316)|null|
 |**2023-08-02**|**Contrast-augmented Diffusion Model with Fine-grained Sequence Alignment for Markup-to-Image Generation**|Guojin Zhong et.al.|[2308.01147](http://arxiv.org/abs/2308.01147)|**[link](https://github.com/zgj77/fsacdm)**|
 |**2023-08-02**|**Exploiting Synthetic Data for Data Imbalance Problems: Baselines from a Data Perspective**|Moon Ye-Bin et.al.|[2308.00994](http://arxiv.org/abs/2308.00994)|null|
@@ -647,6 +657,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment**|Zhiwei Zhang et.al.|[2308.01686](http://arxiv.org/abs/2308.01686)|null|
+|**2023-08-03**|**Assessing Systematic Weaknesses of DNNs using Counterfactuals**|Sujan Sai Gannamaneni et.al.|[2308.01614](http://arxiv.org/abs/2308.01614)|null|
+|**2023-08-03**|**Target-point Attention Transformer: A novel trajectory predict network for end-to-end autonomous driving**|Jingyu Du et.al.|[2308.01496](http://arxiv.org/abs/2308.01496)|null|
 |**2023-08-02**|**DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation**|Jingfan Chen et.al.|[2308.01127](http://arxiv.org/abs/2308.01127)|null|
 |**2023-08-02**|**Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation**|Quan Tang et.al.|[2308.01045](http://arxiv.org/abs/2308.01045)|null|
 |**2023-08-02**|**Training-Free Instance Segmentation from Semantic Image Segmentation Masks**|Yuchen Shen et.al.|[2308.00949](http://arxiv.org/abs/2308.00949)|**[link](https://github.com/ssyc123/tfiseg)**|
