@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.08.18
+## Updated on 2023.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -324,7 +324,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545](http://arxiv.org/abs/2308.08545)|null|
 |**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367](http://arxiv.org/abs/2308.08367)|null|
-|**2023-08-16**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
+|**2023-08-18**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
 |**2023-08-15**|**Interplay between particle trapping and heterogeneity in anomalous diffusion**|Haroldo V. Ribeiro et.al.|[2308.07989](http://arxiv.org/abs/2308.07989)|null|
 |**2023-08-15**|**Monte Carlo guided Diffusion for Bayesian linear inverse problems**|Gabriel Cardoso et.al.|[2308.07983](http://arxiv.org/abs/2308.07983)|null|
 |**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863](http://arxiv.org/abs/2308.07863)|null|
