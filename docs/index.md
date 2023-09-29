@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.09.27
+## Updated on 2023.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800](http://arxiv.org/abs/2309.14800)|null|
 |**2023-09-13**|**Temporal compressive edge imaging enabled by a lensless diffuser camera**|Ze Zheng et.al.|[2309.07198](http://arxiv.org/abs/2309.07198)|null|
 |**2023-09-06**|**MEGANet: Multi-Scale Edge-Guided Attention Network for Weak Boundary Polyp Segmentation**|Nhat-Tan Bui et.al.|[2309.03329](http://arxiv.org/abs/2309.03329)|**[link](https://github.com/dinhhieuhoang/meganet)**|
 |**2023-09-05**|**DeNISE: Deep Networks for Improved Segmentation Edges**|Sander Riisøen Jyhne et.al.|[2309.02091](http://arxiv.org/abs/2309.02091)|null|
@@ -78,6 +79,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Cross-Modal Multi-Tasking for Speech-to-Text Translation via Hard Parameter Sharing**|Brian Yan et.al.|[2309.15826](http://arxiv.org/abs/2309.15826)|null|
+|**2023-09-27**|**Question answering using deep learning in low resource Indian language Marathi**|Dhiraj Amin et.al.|[2309.15779](http://arxiv.org/abs/2309.15779)|null|
+|**2023-09-27**|**Classification of skyrmionic textures and extraction of Hamiltonian parameters via machine learning**|Dushuo Feng et.al.|[2309.15679](http://arxiv.org/abs/2309.15679)|null|
+|**2023-09-27**|**OceanBench: The Sea Surface Height Edition**|J. Emmanuel Johnson et.al.|[2309.15599](http://arxiv.org/abs/2309.15599)|**[link](https://github.com/jejjohnson/oceanbench)**|
+|**2023-09-27**|**Confidence-based Visual Dispersal for Few-shot Unsupervised Domain Adaptation**|Yizhe Xiong et.al.|[2309.15575](http://arxiv.org/abs/2309.15575)|**[link](https://github.com/bostoncake/c-visdit)**|
+|**2023-09-27**|**Robust Internal Representations for Domain Generalization**|Mohammad Rostami et.al.|[2309.15522](http://arxiv.org/abs/2309.15522)|null|
+|**2023-09-27**|**VideoAdviser: Video Knowledge Distillation for Multimodal Transfer Learning**|Yanan Wang et.al.|[2309.15494](http://arxiv.org/abs/2309.15494)|null|
+|**2023-09-27**|**Cross-Dataset Experimental Study of Radar-Camera Fusion in Bird's-Eye View**|Lukas Stäcker et.al.|[2309.15465](http://arxiv.org/abs/2309.15465)|null|
+|**2023-09-27**|**Detecting quantum phase transitions in a frustrated spin chain via transfer learning of a quantum classifier algorithm**|André J. Ferreira-Martins et.al.|[2309.15339](http://arxiv.org/abs/2309.15339)|null|
+|**2023-09-26**|**Boosting High Resolution Image Classification with Scaling-up Transformers**|Yi Wang et.al.|[2309.15277](http://arxiv.org/abs/2309.15277)|null|
+|**2023-09-26**|**Zero-Shot Constrained Motion Planning Transformers Using Learned Sampling Dictionaries**|Jacob J. Johnson et.al.|[2309.15272](http://arxiv.org/abs/2309.15272)|null|
+|**2023-09-26**|**An Ensemble Model for Distorted Images in Real Scenarios**|Boyuan Ji et.al.|[2309.14998](http://arxiv.org/abs/2309.14998)|null|
+|**2023-09-26**|**Transferring climate change knowledge**|Francesco Immorlano et.al.|[2309.14780](http://arxiv.org/abs/2309.14780)|null|
+|**2023-09-26**|**BLIP-Adapter: Parameter-Efficient Transfer Learning for Mobile Screenshot Captioning**|Ching-Yu Chiang et.al.|[2309.14774](http://arxiv.org/abs/2309.14774)|**[link](https://github.com/rainyugg/blip-adapter)**|
+|**2023-09-26**|**XGV-BERT: Leveraging Contextualized Language Model and Graph Neural Network for Efficient Software Vulnerability Detection**|Vu Le Anh Quan et.al.|[2309.14677](http://arxiv.org/abs/2309.14677)|null|
+|**2023-09-26**|**ALEX: Towards Effective Graph Transfer Learning with Noisy Labels**|Jingyang Yuan et.al.|[2309.14673](http://arxiv.org/abs/2309.14673)|null|
+|**2023-09-25**|**Unveiling the Potential of Deep Learning Models for Solar Flare Prediction in Near-Limb Regions**|Chetraj Pandey et.al.|[2309.14483](http://arxiv.org/abs/2309.14483)|null|
+|**2023-09-25**|**Incorporating Ensemble and Transfer Learning For An End-To-End Auto-Colorized Image Detection Model**|Ahmed Samir Ragab et.al.|[2309.14478](http://arxiv.org/abs/2309.14478)|null|
 |**2023-09-25**|**Chop & Learn: Recognizing and Generating Object-State Compositions**|Nirat Saini et.al.|[2309.14339](http://arxiv.org/abs/2309.14339)|null|
 |**2023-09-24**|**Policy Stitching: Learning Transferable Robot Policies**|Pingcheng Jian et.al.|[2309.13753](http://arxiv.org/abs/2309.13753)|null|
 |**2023-09-24**|**Crack-Net: Prediction of Crack Propagation in Composites**|Hao Xu et.al.|[2309.13626](http://arxiv.org/abs/2309.13626)|null|
@@ -455,6 +474,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842](http://arxiv.org/abs/2309.15842)|null|
+|**2023-09-27**|**Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation**|David Junhao Zhang et.al.|[2309.15818](http://arxiv.org/abs/2309.15818)|**[link](https://github.com/showlab/show-1)**|
+|**2023-09-27**|**Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack**|Xiaoliang Dai et.al.|[2309.15807](http://arxiv.org/abs/2309.15807)|null|
+|**2023-09-27**|**Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation**|Xin Yuan et.al.|[2309.15726](http://arxiv.org/abs/2309.15726)|null|
+|**2023-09-27**|**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing**|Kai Wang et.al.|[2309.15664](http://arxiv.org/abs/2309.15664)|**[link](https://github.com/wangkai930418/DPL)**|
+|**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533](http://arxiv.org/abs/2309.15533)|null|
+|**2023-09-27**|**High-Fidelity Speech Synthesis with Minimal Supervision: All Using Diffusion Models**|Chunyu Qiang et.al.|[2309.15512](http://arxiv.org/abs/2309.15512)|null|
+|**2023-09-27**|**DreamCom: Finetuning Text-guided Inpainting Model for Image Composition**|Lingxiao Lu et.al.|[2309.15508](http://arxiv.org/abs/2309.15508)|null|
+|**2023-09-27**|**LD4MRec: Simplifying and Powering Diffusion Model for Multimedia Recommendation**|Penghang Yu et.al.|[2309.15363](http://arxiv.org/abs/2309.15363)|null|
+|**2023-09-26**|**Learning Using Generated Privileged Information by Text-to-Image Diffusion Models**|Rafael-Edy Menadil et.al.|[2309.15238](http://arxiv.org/abs/2309.15238)|null|
+|**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103](http://arxiv.org/abs/2309.15103)|null|
+|**2023-09-26**|**The ATM implied skew in the ADO-Heston model**|Andrey Itkin et.al.|[2309.15044](http://arxiv.org/abs/2309.15044)|null|
+|**2023-09-26**|**FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing**|Songyan Chen et.al.|[2309.14934](http://arxiv.org/abs/2309.14934)|null|
+|**2023-09-27**|**ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models**|Shengqi Liu et.al.|[2309.14872](http://arxiv.org/abs/2309.14872)|null|
+|**2023-09-26**|**On a class of solvable stationary non equilibrium states for mass exchange models**|Monia Capanna et.al.|[2309.14836](http://arxiv.org/abs/2309.14836)|null|
+|**2023-09-26**|**Diffusion-based Holistic Texture Rectification and Synthesis**|Guoqing Hao et.al.|[2309.14759](http://arxiv.org/abs/2309.14759)|null|
+|**2023-09-26**|**On quantifying and improving realism of images generated with diffusion**|Yunzhuo Chen et.al.|[2309.14756](http://arxiv.org/abs/2309.14756)|null|
+|**2023-09-26**|**Text-image guided Diffusion Model for generating Deepfake celebrity interactions**|Yunzhuo Chen et.al.|[2309.14751](http://arxiv.org/abs/2309.14751)|null|
+|**2023-09-26**|**Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement**|Jiancheng Huang et.al.|[2309.14709](http://arxiv.org/abs/2309.14709)|null|
+|**2023-09-26**|**Efficient Post-training Quantization with FP8 Formats**|Haihao Shen et.al.|[2309.14592](http://arxiv.org/abs/2309.14592)|**[link](https://github.com/intel/neural-compressor)**|
 |**2023-09-25**|**Bayesian parameter estimation for characterising mobile ion vacancies in perovskite solar cells**|Samuel G. McCallum et.al.|[2309.14302](http://arxiv.org/abs/2309.14302)|null|
 |**2023-09-25**|**Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models**|Yangming Li et.al.|[2309.14068](http://arxiv.org/abs/2309.14068)|null|
 |**2023-09-24**|**VoiceLDM: Text-to-Speech with Environmental Context**|Yeonghyeon Lee et.al.|[2309.13664](http://arxiv.org/abs/2309.13664)|null|
@@ -1122,14 +1161,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
+|**2023-09-27**|**Rapid Network Adaptation: Learning to Adapt Neural Networks Using Test-Time Feedback**|Teresa Yeo et.al.|[2309.15762](http://arxiv.org/abs/2309.15762)|null|
+|**2023-09-27**|**CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs**|Ao Wang et.al.|[2309.15755](http://arxiv.org/abs/2309.15755)|null|
+|**2023-09-27**|**InfraParis: A multi-modal and multi-task autonomous driving dataset**|Gianni Franchi et.al.|[2309.15751](http://arxiv.org/abs/2309.15751)|null|
+|**2023-09-27**|**Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation**|Xin Yuan et.al.|[2309.15726](http://arxiv.org/abs/2309.15726)|null|
+|**2023-09-27**|**Learning from SAM: Harnessing a Segmentation Foundation Model for Sim2Real Domain Adaptation through Regularization**|Mayara E. Bonani et.al.|[2309.15562](http://arxiv.org/abs/2309.15562)|null|
+|**2023-09-27**|**Investigating the changes in BOLD responses during viewing of images with varied complexity: An fMRI time-series based analysis on human vision**|Naveen Kanigiri et.al.|[2309.15495](http://arxiv.org/abs/2309.15495)|**[link](https://github.com/naveen7102/fmri-time-series-classification)**|
+|**2023-09-27**|**The Robust Semantic Segmentation UNCV2023 Challenge Results**|Xuanlong Yu et.al.|[2309.15478](http://arxiv.org/abs/2309.15478)|null|
+|**2023-09-27**|**Inherit with Distillation and Evolve with Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory**|Danpei Zhao et.al.|[2309.15413](http://arxiv.org/abs/2309.15413)|null|
+|**2023-09-27**|**Seeing Beyond the Patch: Scale-Adaptive Semantic Segmentation of High-resolution Remote Sensing Imagery based on Reinforcement Learning**|Yinhe Liu et.al.|[2309.15372](http://arxiv.org/abs/2309.15372)|null|
+|**2023-09-26**|**M $^{3}$ 3D: Learning 3D priors using Multi-Modal Masked Autoencoders for 2D image and video understanding**|Muhammad Abdullah Jamal et.al.|[2309.15313](http://arxiv.org/abs/2309.15313)|null|
+|**2023-09-26**|**ZiCo-BC: A Bias Corrected Zero-Shot NAS for Vision Tasks**|Kartikeya Bhardwaj et.al.|[2309.14666](http://arxiv.org/abs/2309.14666)|null|
+|**2023-09-25**|**Dynamic Scene Graph Representation for Surgical Video**|Felix Holm et.al.|[2309.14538](http://arxiv.org/abs/2309.14538)|null|
+|**2023-09-27**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
 |**2023-09-25**|**CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free**|Monika Wysoczańska et.al.|[2309.14289](http://arxiv.org/abs/2309.14289)|null|
 |**2023-09-25**|**Calibration-based Dual Prototypical Contrastive Learning Approach for Domain Generalization Semantic Segmentation**|Muxin Liao et.al.|[2309.14282](http://arxiv.org/abs/2309.14282)|null|
 |**2023-09-25**|**Informative Data Mining for One-Shot Cross-Domain Semantic Segmentation**|Yuxi Wang et.al.|[2309.14241](http://arxiv.org/abs/2309.14241)|null|
 |**2023-09-25**|**Masked Image Residual Learning for Scaling Deeper Vision Transformers**|Guoxi Huang et.al.|[2309.14136](http://arxiv.org/abs/2309.14136)|null|
 |**2023-09-25**|**Small Objects Matters in Weakly-supervised Semantic Segmentation**|Cheolhyun Mun et.al.|[2309.14117](http://arxiv.org/abs/2309.14117)|null|
 |**2023-09-26**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065](http://arxiv.org/abs/2309.14065)|**[link](https://github.com/Fourier7754/AsymFormer)**|
-|**2023-09-25**|**Weakly Supervised Semantic Segmentation by Knowledge Graph Inference**|Jia Zhang et.al.|[2309.14057](http://arxiv.org/abs/2309.14057)|null|
+|**2023-09-25**|**Weakly Supervised Semantic Segmentation by Knowledge Graph Inference**|Jia Zhang et.al.|[2309.14057](http://arxiv.org/abs/2309.14057)|**[link](https://github.com/jia-zhang666/grm_layer)**|
 |**2023-09-24**|**Distribution-Aware Continual Test Time Adaptation for Semantic Segmentation**|Jiayi Ni et.al.|[2309.13604](http://arxiv.org/abs/2309.13604)|null|
 |**2023-09-24**|**LOGICSEG: Parsing Visual Semantics with Neural Logic Learning and Reasoning**|Liulei Li et.al.|[2309.13556](http://arxiv.org/abs/2309.13556)|null|
 |**2023-09-24**|**Towards Robust Robot 3D Perception in Urban Environments: The UT Campus Object Dataset**|Arthur Zhang et.al.|[2309.13549](http://arxiv.org/abs/2309.13549)|null|
@@ -1532,6 +1583,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdiraa et.al.|[2309.15563](http://arxiv.org/abs/2309.15563)|null|
+|**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533](http://arxiv.org/abs/2309.15533)|null|
+|**2023-09-27**|**Survey on Deep Face Restoration: From Non-blind to Blind and Beyond**|Wenjie Li et.al.|[2309.15490](http://arxiv.org/abs/2309.15490)|**[link](https://github.com/24wenjie-li/awesome-face-restoration)**|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506](http://arxiv.org/abs/2309.12506)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715](http://arxiv.org/abs/2309.11715)|null|
 |**2023-09-19**|**Local Lipschitz continuity for energy integrals with slow growth and lower order terms**|Michela Eleuteri et.al.|[2309.10727](http://arxiv.org/abs/2309.10727)|null|
@@ -1621,6 +1675,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Learning from SAM: Harnessing a Segmentation Foundation Model for Sim2Real Domain Adaptation through Regularization**|Mayara E. Bonani et.al.|[2309.15562](http://arxiv.org/abs/2309.15562)|null|
 |**2023-09-24**|**A SAM-based Solution for Hierarchical Panoptic Segmentation of Crops and Weeds Competition**|Khoa Dang Nguyen et.al.|[2309.13578](http://arxiv.org/abs/2309.13578)|null|
 |**2023-09-24**|**MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**|Sekeun Kim et.al.|[2309.13539](http://arxiv.org/abs/2309.13539)|null|
 |**2023-09-22**|**NOC: High-Quality Neural Object Cloning with 3D Lifting of Segment Anything**|Xiaobao Wei et.al.|[2309.12790](http://arxiv.org/abs/2309.12790)|null|
