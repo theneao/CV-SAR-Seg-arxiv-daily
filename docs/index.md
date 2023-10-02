@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.09.29
+## Updated on 2023.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -79,11 +79,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-29**|**Mixup Your Own Pairs**|Yilei Wu et.al.|[2309.16633](http://arxiv.org/abs/2309.16633)|**[link](https://github.com/yilei-wu/supremix)**|
+|**2023-09-28**|**Transfer Learning for Bayesian Optimization on Heterogeneous Search Spaces**|Zhou Fan et.al.|[2309.16597](http://arxiv.org/abs/2309.16597)|null|
+|**2023-09-28**|**Meeting Recognition with Continuous Speech Separation and Transcription-Supported Diarization**|Thilo von Neumann et.al.|[2309.16482](http://arxiv.org/abs/2309.16482)|null|
+|**2023-09-28**|**Nondestructive chicken egg fertility detection using CNN-transfer learning algorithms**|Shoffan Saifullah et.al.|[2309.16257](http://arxiv.org/abs/2309.16257)|null|
 |**2023-09-27**|**Cross-Modal Multi-Tasking for Speech-to-Text Translation via Hard Parameter Sharing**|Brian Yan et.al.|[2309.15826](http://arxiv.org/abs/2309.15826)|null|
 |**2023-09-27**|**Question answering using deep learning in low resource Indian language Marathi**|Dhiraj Amin et.al.|[2309.15779](http://arxiv.org/abs/2309.15779)|null|
 |**2023-09-27**|**Classification of skyrmionic textures and extraction of Hamiltonian parameters via machine learning**|Dushuo Feng et.al.|[2309.15679](http://arxiv.org/abs/2309.15679)|null|
 |**2023-09-27**|**OceanBench: The Sea Surface Height Edition**|J. Emmanuel Johnson et.al.|[2309.15599](http://arxiv.org/abs/2309.15599)|**[link](https://github.com/jejjohnson/oceanbench)**|
-|**2023-09-27**|**Confidence-based Visual Dispersal for Few-shot Unsupervised Domain Adaptation**|Yizhe Xiong et.al.|[2309.15575](http://arxiv.org/abs/2309.15575)|**[link](https://github.com/bostoncake/c-visdit)**|
+|**2023-09-29**|**Confidence-based Visual Dispersal for Few-shot Unsupervised Domain Adaptation**|Yizhe Xiong et.al.|[2309.15575](http://arxiv.org/abs/2309.15575)|**[link](https://github.com/bostoncake/c-visdit)**|
 |**2023-09-27**|**Robust Internal Representations for Domain Generalization**|Mohammad Rostami et.al.|[2309.15522](http://arxiv.org/abs/2309.15522)|null|
 |**2023-09-27**|**VideoAdviser: Video Knowledge Distillation for Multimodal Transfer Learning**|Yanan Wang et.al.|[2309.15494](http://arxiv.org/abs/2309.15494)|null|
 |**2023-09-27**|**Cross-Dataset Experimental Study of Radar-Camera Fusion in Bird's-Eye View**|Lukas Stäcker et.al.|[2309.15465](http://arxiv.org/abs/2309.15465)|null|
@@ -474,6 +478,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608](http://arxiv.org/abs/2309.16608)|null|
+|**2023-09-28**|**CCEdit: Creative and Controllable Video Editing via Diffusion Models**|Ruoyu Feng et.al.|[2309.16496](http://arxiv.org/abs/2309.16496)|null|
+|**2023-09-28**|**Distilling ODE Solvers of Diffusion Models into Smaller Steps**|Sanghwan Kim et.al.|[2309.16421](http://arxiv.org/abs/2309.16421)|null|
+|**2023-09-28**|**DeepPCR: Parallelizing Sequential Operations in Neural Networks**|Federico Danieli et.al.|[2309.16318](http://arxiv.org/abs/2309.16318)|null|
+|**2023-09-28**|**Long time behavior of the field-road diffusion model: an entropy method and a finite volume scheme**|Matthieu Alfaro et.al.|[2309.16242](http://arxiv.org/abs/2309.16242)|null|
+|**2023-09-28**|**Object Motion Guided Human Motion Synthesis**|Jiaman Li et.al.|[2309.16237](http://arxiv.org/abs/2309.16237)|null|
+|**2023-09-28**|**Compositional Sculpting of Iterative Generative Processes**|Timur Garipov et.al.|[2309.16115](http://arxiv.org/abs/2309.16115)|**[link](https://github.com/timgaripov/compositional-sculpting)**|
+|**2023-09-27**|**High Perceptual Quality Wireless Image Delivery with Denoising Diffusion Models**|Selim F. Yilmaz et.al.|[2309.15889](http://arxiv.org/abs/2309.15889)|null|
 |**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842](http://arxiv.org/abs/2309.15842)|null|
 |**2023-09-27**|**Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation**|David Junhao Zhang et.al.|[2309.15818](http://arxiv.org/abs/2309.15818)|**[link](https://github.com/showlab/show-1)**|
 |**2023-09-27**|**Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack**|Xiaoliang Dai et.al.|[2309.15807](http://arxiv.org/abs/2309.15807)|null|
@@ -1161,6 +1173,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Cross-City Matters: A Multimodal Remote Sensing Benchmark Dataset for Cross-City Semantic Segmentation using High-Resolution Domain Adaptation Networks**|Danfeng Hong et.al.|[2309.16499](http://arxiv.org/abs/2309.16499)|null|
+|**2023-09-28**|**Open Compound Domain Adaptation with Object Style Compensation for Semantic Segmentation**|Tingliang Feng et.al.|[2309.16127](http://arxiv.org/abs/2309.16127)|null|
 |**2023-09-27**|**Rapid Network Adaptation: Learning to Adapt Neural Networks Using Test-Time Feedback**|Teresa Yeo et.al.|[2309.15762](http://arxiv.org/abs/2309.15762)|null|
 |**2023-09-27**|**CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs**|Ao Wang et.al.|[2309.15755](http://arxiv.org/abs/2309.15755)|null|
 |**2023-09-27**|**InfraParis: A multi-modal and multi-task autonomous driving dataset**|Gianni Franchi et.al.|[2309.15751](http://arxiv.org/abs/2309.15751)|null|
@@ -1173,7 +1187,7 @@ layout: default
 |**2023-09-26**|**M $^{3}$ 3D: Learning 3D priors using Multi-Modal Masked Autoencoders for 2D image and video understanding**|Muhammad Abdullah Jamal et.al.|[2309.15313](http://arxiv.org/abs/2309.15313)|null|
 |**2023-09-26**|**ZiCo-BC: A Bias Corrected Zero-Shot NAS for Vision Tasks**|Kartikeya Bhardwaj et.al.|[2309.14666](http://arxiv.org/abs/2309.14666)|null|
 |**2023-09-25**|**Dynamic Scene Graph Representation for Surgical Video**|Felix Holm et.al.|[2309.14538](http://arxiv.org/abs/2309.14538)|null|
-|**2023-09-27**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
+|**2023-09-29**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
 |**2023-09-25**|**CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free**|Monika Wysoczańska et.al.|[2309.14289](http://arxiv.org/abs/2309.14289)|null|
 |**2023-09-25**|**Calibration-based Dual Prototypical Contrastive Learning Approach for Domain Generalization Semantic Segmentation**|Muxin Liao et.al.|[2309.14282](http://arxiv.org/abs/2309.14282)|null|
 |**2023-09-25**|**Informative Data Mining for One-Shot Cross-Domain Semantic Segmentation**|Yuxi Wang et.al.|[2309.14241](http://arxiv.org/abs/2309.14241)|null|
@@ -1675,6 +1689,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Meeting Recognition with Continuous Speech Separation and Transcription-Supported Diarization**|Thilo von Neumann et.al.|[2309.16482](http://arxiv.org/abs/2309.16482)|null|
 |**2023-09-27**|**Learning from SAM: Harnessing a Segmentation Foundation Model for Sim2Real Domain Adaptation through Regularization**|Mayara E. Bonani et.al.|[2309.15562](http://arxiv.org/abs/2309.15562)|null|
 |**2023-09-24**|**A SAM-based Solution for Hierarchical Panoptic Segmentation of Crops and Weeds Competition**|Khoa Dang Nguyen et.al.|[2309.13578](http://arxiv.org/abs/2309.13578)|null|
 |**2023-09-24**|**MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**|Sekeun Kim et.al.|[2309.13539](http://arxiv.org/abs/2309.13539)|null|
