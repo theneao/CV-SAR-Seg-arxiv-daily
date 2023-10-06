@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.10.04
+## Updated on 2023.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -79,6 +79,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Hybrid Quantum Machine Learning Assisted Classification of COVID-19 from Computed Tomography Scans**|Leo Sünkel et.al.|[2310.02748](http://arxiv.org/abs/2310.02748)|null|
+|**2023-10-04**|**Comparative Analysis of Imbalanced Malware Byteplot Image Classification using Transfer Learning**|Jayasudha M et.al.|[2310.02742](http://arxiv.org/abs/2310.02742)|null|
+|**2023-10-05**|**Hybrid Inception Architecture with Residual Connection: Fine-tuned Inception-ResNet Deep Learning Model for Lung Inflammation Diagnosis from Chest Radiographs**|Mehdi Neshat et.al.|[2310.02591](http://arxiv.org/abs/2310.02591)|null|
+|**2023-10-03**|**Reducing Intraspecies and Interspecies Covariate Shift in Traumatic Brain Injury EEG of Humans and Mice Using Transfer Euclidean Alignment**|Manoj Vishwanath et.al.|[2310.02398](http://arxiv.org/abs/2310.02398)|null|
+|**2023-10-03**|**Graph Neural Network-based EEG Classification: A Survey**|Dominik Klepl et.al.|[2310.02152](http://arxiv.org/abs/2310.02152)|null|
+|**2023-10-03**|**PAD-Phys: Exploiting Physiology for Presentation Attack Detection in Face Biometrics**|Luis F. Gomez et.al.|[2310.02140](http://arxiv.org/abs/2310.02140)|null|
+|**2023-10-03**|**An evaluation of pre-trained models for feature extraction in image classification**|Erick da Silva Puls et.al.|[2310.02037](http://arxiv.org/abs/2310.02037)|null|
+|**2023-10-02**|**Toward Scalable Visual Servoing Using Deep Reinforcement Learning and Optimal Control**|Salar Asayesh et.al.|[2310.01360](http://arxiv.org/abs/2310.01360)|null|
+|**2023-10-02**|**ScaLearn: Simple and Highly Parameter-Efficient Task Transfer by Learning to Scale**|Markus Frohmann et.al.|[2310.01217](http://arxiv.org/abs/2310.01217)|**[link](https://github.com/cpjku/scalearn)**|
+|**2023-10-03**|**A Theoretical Analysis of the Test Error of Finite-Rank Kernel Ridge Regression**|Tin Sum Cheng et.al.|[2310.00987](http://arxiv.org/abs/2310.00987)|null|
+|**2023-10-01**|**Data-Efficient Power Flow Learning for Network Contingencies**|Parikshit Pareek et.al.|[2310.00763](http://arxiv.org/abs/2310.00763)|null|
+|**2023-09-30**|**An easy zero-shot learning combination: Texture Sensitive Semantic Segmentation IceHrNet and Advanced Style Transfer Learning Strategy**|Zhiyong Yang et.al.|[2310.00310](http://arxiv.org/abs/2310.00310)|**[link](https://github.com/pl23k/icehrnet)**|
+|**2023-09-29**|**Fusing simulation and monitoring data for real-time settlement prediction during tunnel construction: A multi-fidelity deep operator network (DeepONet)**|Chen Xu et.al.|[2310.00057](http://arxiv.org/abs/2310.00057)|null|
+|**2023-09-29**|**AI ensemble for signal detection of higher order gravitational wave modes of quasi-circular, spinning, non-precessing binary black hole mergers**|Minyang Tian et.al.|[2310.00052](http://arxiv.org/abs/2310.00052)|null|
+|**2023-10-03**|**Pretrain, Prompt, and Transfer: Evolving Digital Twins for Time-to-Event Analysis in Cyber-physical Systems**|Qinghua Xu et.al.|[2310.00032](http://arxiv.org/abs/2310.00032)|null|
 |**2023-09-29**|**Are Odd Radio Circles virial shocks around massive galaxies? Implications for cosmic-ray diffusion in the circumgalactic medium**|Shotaro Yamasaki et.al.|[2309.17451](http://arxiv.org/abs/2309.17451)|null|
 |**2023-09-29**|**Glioma subtype classification from histopathological images using in-domain and out-of-domain transfer learning: An experimental study**|Vladimir Despotovic et.al.|[2309.17223](http://arxiv.org/abs/2309.17223)|null|
 |**2023-09-29**|**A Survey of Incremental Transfer Learning: Combining Peer-to-Peer Federated Learning and Domain Incremental Learning for Multicenter Collaboration**|Yixing Huang et.al.|[2309.17192](http://arxiv.org/abs/2309.17192)|**[link](https://github.com/yixinghuang/itlsurvey)**|
@@ -481,6 +496,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020](http://arxiv.org/abs/2310.03020)|null|
+|**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015](http://arxiv.org/abs/2310.03015)|null|
+|**2023-10-04**|**Probing Intersectional Biases in Vision-Language Models with Counterfactual Examples**|Phillip Howard et.al.|[2310.02988](http://arxiv.org/abs/2310.02988)|null|
+|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|null|
+|**2023-10-04**|**Fast, Expressive SE $(n)$ Equivariant Networks through Weight-Sharing in Position-Orientation Space**|Erik J Bekkers et.al.|[2310.02970](http://arxiv.org/abs/2310.02970)|**[link](https://github.com/ebekkers/ponita)**|
+|**2023-10-04**|**Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts**|Shiyi Du et.al.|[2310.02906](http://arxiv.org/abs/2310.02906)|null|
+|**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848](http://arxiv.org/abs/2310.02848)|null|
+|**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
+|**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664](http://arxiv.org/abs/2310.02664)|null|
+|**2023-10-05**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601](http://arxiv.org/abs/2310.02601)|null|
+|**2023-10-04**|**SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D**|Weiyu Li et.al.|[2310.02596](http://arxiv.org/abs/2310.02596)|null|
+|**2023-10-04**|**Generalization in diffusion models arises from geometry-adaptive harmonic representation**|Zahra Kadkhodaie et.al.|[2310.02557](http://arxiv.org/abs/2310.02557)|null|
+|**2023-10-04**|**Prepare Ansatz for VQE with Diffusion Model**|Yilin Shen et.al.|[2310.02511](http://arxiv.org/abs/2310.02511)|null|
+|**2023-10-04**|**Learning to Reach Goals via Diffusion**|Vineet Jain et.al.|[2310.02505](http://arxiv.org/abs/2310.02505)|null|
+|**2023-10-03**|**FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models**|Yingqian Cui et.al.|[2310.02401](http://arxiv.org/abs/2310.02401)|null|
+|**2023-10-03**|**Generalized Schrödinger Bridge Matching**|Guan-Horng Liu et.al.|[2310.02233](http://arxiv.org/abs/2310.02233)|null|
+|**2023-10-03**|**A Variable Eddington Factor Model for Thermal Radiative Transfer with Closure based on Data-Driven Shape Function**|Joseph M. Coale et.al.|[2310.02072](http://arxiv.org/abs/2310.02072)|null|
+|**2023-10-03**|**Global Attractor for a Reaction-Diffusion Model Arising in Biological Dynamic in 3D Soil Structure**|Mohamed Elghandouri et.al.|[2310.02060](http://arxiv.org/abs/2310.02060)|null|
+|**2023-10-03**|**AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model**|Zibin Dong et.al.|[2310.02054](http://arxiv.org/abs/2310.02054)|null|
+|**2023-10-03**|**Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation**|Jun Li et.al.|[2310.01819](http://arxiv.org/abs/2310.01819)|null|
 |**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444](http://arxiv.org/abs/2309.17444)|null|
 |**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400](http://arxiv.org/abs/2309.17400)|null|
 |**2023-09-29**|**Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation**|Tuan Le et.al.|[2309.17296](http://arxiv.org/abs/2309.17296)|null|
@@ -1192,6 +1227,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**CLIP Is Also a Good Teacher: A New Learning Framework for Inductive Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2310.02296](http://arxiv.org/abs/2310.02296)|null|
+|**2023-10-03**|**TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation**|Yahia Dalbah et.al.|[2310.02260](http://arxiv.org/abs/2310.02260)|**[link](https://github.com/yahidar/transradar)**|
+|**2023-10-03**|**Exploring Model Learning Heterogeneity for Boosting Ensemble Robustness**|Yanzhao Wu et.al.|[2310.02237](http://arxiv.org/abs/2310.02237)|**[link](https://github.com/git-disl/heterobust)**|
+|**2023-10-03**|**TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards**|Derek Cheng et.al.|[2310.02162](http://arxiv.org/abs/2310.02162)|null|
+|**2023-10-03**|**Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**|Hossein Shreim et.al.|[2310.01828](http://arxiv.org/abs/2310.01828)|null|
+|**2023-10-03**|**Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving**|Maneekwan Toyungyernsub et.al.|[2310.01723](http://arxiv.org/abs/2310.01723)|null|
+|**2023-10-02**|**CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction**|Size Wu et.al.|[2310.01403](http://arxiv.org/abs/2310.01403)|**[link](https://github.com/wusize/clipself)**|
+|**2023-10-02**|**Efficient Remote Sensing Segmentation With Generative Adversarial Transformer**|Luyi Qiu et.al.|[2310.01292](http://arxiv.org/abs/2310.01292)|null|
+|**2023-10-02**|**LoCUS: Learning Multiscale 3D-consistent Features from Posed Images**|Dominik A. Kloepfer et.al.|[2310.01095](http://arxiv.org/abs/2310.01095)|null|
+|**2023-10-02**|**Improved Crop and Weed Detection with Diverse Data Ensemble Learning in Agriculture**|Muhammad Hamza Asad et.al.|[2310.01055](http://arxiv.org/abs/2310.01055)|null|
+|**2023-10-02**|**Multi-task Learning with 3D-Aware Regularization**|Wei-Hong Li et.al.|[2310.00986](http://arxiv.org/abs/2310.00986)|**[link](https://github.com/vico-uoe/mtpsl)**|
+|**2023-10-01**|**Propagating Semantic Labels in Video Data**|David Balaban et.al.|[2310.00783](http://arxiv.org/abs/2310.00783)|null|
+|**2023-10-01**|**Counterfactual Image Generation for adversarially robust and interpretable Classifiers**|Rafael Bischof et.al.|[2310.00761](http://arxiv.org/abs/2310.00761)|null|
+|**2023-10-01**|**Win-Win: Training High-Resolution Vision Transformers from Two Windows**|Vincent Leroy et.al.|[2310.00632](http://arxiv.org/abs/2310.00632)|null|
+|**2023-09-30**|**Technical Report of 2023 ABO Fine-grained Semantic Segmentation Competition**|Zeyu Dong et.al.|[2310.00427](http://arxiv.org/abs/2310.00427)|null|
+|**2023-09-30**|**An easy zero-shot learning combination: Texture Sensitive Semantic Segmentation IceHrNet and Advanced Style Transfer Learning Strategy**|Zhiyong Yang et.al.|[2310.00310](http://arxiv.org/abs/2310.00310)|**[link](https://github.com/pl23k/icehrnet)**|
+|**2023-09-30**|**Dual-Augmented Transformer Network for Weakly Supervised Semantic Segmentation**|Jingliang Deng et.al.|[2310.00307](http://arxiv.org/abs/2310.00307)|null|
+|**2023-10-04**|**Text-image Alignment for Diffusion-based Perception**|Neehar Kondapaneni et.al.|[2310.00031](http://arxiv.org/abs/2310.00031)|null|
 |**2023-09-29**|**APNet: Urban-level Scene Segmentation of Aerial Images and Point Clouds**|Weijie Wei et.al.|[2309.17162](http://arxiv.org/abs/2309.17162)|null|
 |**2023-09-29**|**SegRCDB: Semantic Segmentation via Formula-Driven Supervised Learning**|Risa Shinoda et.al.|[2309.17083](http://arxiv.org/abs/2309.17083)|**[link](https://github.com/dahlian00/segrcdb)**|
 |**2023-09-29**|**Synthetic Data Generation and Deep Learning for the Topological Analysis of 3D Data**|Dylan Peek et.al.|[2309.16968](http://arxiv.org/abs/2309.16968)|null|
@@ -1623,6 +1676,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Deformation-Invariant Neural Network and Its Applications in Distorted Image Restoration and Analysis**|Han Zhang et.al.|[2310.02641](http://arxiv.org/abs/2310.02641)|null|
+|**2023-10-03**|**Leveraging Classic Deconvolution and Feature Extraction in Zero-Shot Image Restoration**|Tomáš Chobola et.al.|[2310.02097](http://arxiv.org/abs/2310.02097)|**[link](https://github.com/ctom2/cider)**|
+|**2023-10-02**|**A Restoration Network as an Implicit Prior**|Yuyang Hu et.al.|[2310.01391](http://arxiv.org/abs/2310.01391)|null|
+|**2023-10-02**|**Controlling Vision-Language Models for Universal Image Restoration**|Ziwei Luo et.al.|[2310.01018](http://arxiv.org/abs/2310.01018)|**[link](https://github.com/algolzw/daclip-uir)**|
+|**2023-10-02**|**JPEG Information Regularized Deep Image Prior for Denoising**|Tsukasa Takagi et.al.|[2310.00894](http://arxiv.org/abs/2310.00894)|null|
 |**2023-09-27**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdiraa et.al.|[2309.15563](http://arxiv.org/abs/2309.15563)|null|
 |**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533](http://arxiv.org/abs/2309.15533)|null|
 |**2023-09-27**|**Survey on Deep Face Restoration: From Non-blind to Blind and Beyond**|Wenjie Li et.al.|[2309.15490](http://arxiv.org/abs/2309.15490)|**[link](https://github.com/24wenjie-li/awesome-face-restoration)**|
@@ -1715,6 +1773,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Multi-Prompt Fine-Tuning of Foundation Models for Enhanced Medical Image Segmentation**|Xiangru Li et.al.|[2310.02381](http://arxiv.org/abs/2310.02381)|null|
+|**2023-10-03**|**Zero-Shot Refinement of Buildings' Segmentation Models using SAM**|Ali Mayladan et.al.|[2310.01845](http://arxiv.org/abs/2310.01845)|null|
+|**2023-10-01**|**Propagating Semantic Labels in Video Data**|David Balaban et.al.|[2310.00783](http://arxiv.org/abs/2310.00783)|null|
+|**2023-09-30**|**Exploring SAM Ablations for Enhancing Medical Segmentation in Radiology and Pathology**|Amin Ranem et.al.|[2310.00504](http://arxiv.org/abs/2310.00504)|null|
 |**2023-09-29**|**Are Odd Radio Circles virial shocks around massive galaxies? Implications for cosmic-ray diffusion in the circumgalactic medium**|Shotaro Yamasaki et.al.|[2309.17451](http://arxiv.org/abs/2309.17451)|null|
 |**2023-10-02**|**UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling**|Linghao Yang et.al.|[2309.17036](http://arxiv.org/abs/2309.17036)|null|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992](http://arxiv.org/abs/2309.16992)|**[link](https://github.com/vignywang/samfeat)**|
