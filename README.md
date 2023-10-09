@@ -5,7 +5,7 @@
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.10.06
+## Updated on 2023.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,12 +28,13 @@
 |**2021-09-09**|**Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders**|Fangyu Liu et.al.|[2104.08027](http://arxiv.org/abs/2104.08027)|**[link](https://github.com/cambridgeltl/mirror-bert)**|
 |**2022-07-11**|**Learned Camera Gain and Exposure Control for Improved Visual Feature Detection and Matching**|Justin Tomasi et.al.|[2102.04341](http://arxiv.org/abs/2102.04341)|null|
 
-<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
 
 ## edge detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-01**|**Quantum image edge detection based on eight-direction Sobel operator for NEQR**|Wenjie Liu et.al.|[2310.03037](http://arxiv.org/abs/2310.03037)|null|
 |**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800](http://arxiv.org/abs/2309.14800)|null|
 |**2023-09-13**|**Temporal compressive edge imaging enabled by a lensless diffuser camera**|Ze Zheng et.al.|[2309.07198](http://arxiv.org/abs/2309.07198)|null|
 |**2023-09-06**|**MEGANet: Multi-Scale Edge-Guided Attention Network for Weak Boundary Polyp Segmentation**|Nhat-Tan Bui et.al.|[2309.03329](http://arxiv.org/abs/2309.03329)|**[link](https://github.com/dinhhieuhoang/meganet)**|
@@ -86,12 +87,16 @@
 |**2023-03-02**|**Scalable optical neural networks based on temporal computing**|Shuang Zheng et.al.|[2303.01287](http://arxiv.org/abs/2303.01287)|null|
 |**2023-03-26**|**Attention-based Point Cloud Edge Sampling**|Chengzhi Wu et.al.|[2302.14673](http://arxiv.org/abs/2302.14673)|**[link](https://github.com/JunweiZheng93/APES)**|
 
-<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
 
 ## transfer learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**LumiNet: The Bright Side of Perceptual Knowledge Distillation**|Md. Ismail Hossain et.al.|[2310.03669](http://arxiv.org/abs/2310.03669)|null|
+|**2023-10-05**|**Network Alignment with Transferable Graph Autoencoders**|Jiashu He et.al.|[2310.03272](http://arxiv.org/abs/2310.03272)|**[link](https://github.com/graphmatching/graph-matching)**|
+|**2023-10-05**|**Detecting Electricity Service Equity Issues with Transfer Counterfactual Learning on Large-Scale Outage Datasets**|Song Wei et.al.|[2310.03258](http://arxiv.org/abs/2310.03258)|null|
+|**2023-10-04**|**Crossed-IoT device portability of Electromagnetic Side Channel Analysis: Challenges and Dataset**|Tharindu Lakshan Yasarathna et.al.|[2310.03119](http://arxiv.org/abs/2310.03119)|null|
 |**2023-10-04**|**Hybrid Quantum Machine Learning Assisted Classification of COVID-19 from Computed Tomography Scans**|Leo Sünkel et.al.|[2310.02748](http://arxiv.org/abs/2310.02748)|null|
 |**2023-10-04**|**Comparative Analysis of Imbalanced Malware Byteplot Image Classification using Transfer Learning**|Jayasudha M et.al.|[2310.02742](http://arxiv.org/abs/2310.02742)|null|
 |**2023-10-05**|**Hybrid Inception Architecture with Residual Connection: Fine-tuned Inception-ResNet Deep Learning Model for Lung Inflammation Diagnosis from Chest Radiographs**|Mehdi Neshat et.al.|[2310.02591](http://arxiv.org/abs/2310.02591)|null|
@@ -102,7 +107,7 @@
 |**2023-10-02**|**Toward Scalable Visual Servoing Using Deep Reinforcement Learning and Optimal Control**|Salar Asayesh et.al.|[2310.01360](http://arxiv.org/abs/2310.01360)|null|
 |**2023-10-02**|**ScaLearn: Simple and Highly Parameter-Efficient Task Transfer by Learning to Scale**|Markus Frohmann et.al.|[2310.01217](http://arxiv.org/abs/2310.01217)|**[link](https://github.com/cpjku/scalearn)**|
 |**2023-10-03**|**A Theoretical Analysis of the Test Error of Finite-Rank Kernel Ridge Regression**|Tin Sum Cheng et.al.|[2310.00987](http://arxiv.org/abs/2310.00987)|null|
-|**2023-10-01**|**Data-Efficient Power Flow Learning for Network Contingencies**|Parikshit Pareek et.al.|[2310.00763](http://arxiv.org/abs/2310.00763)|null|
+|**2023-10-06**|**Data-Efficient Power Flow Learning for Network Contingencies**|Parikshit Pareek et.al.|[2310.00763](http://arxiv.org/abs/2310.00763)|null|
 |**2023-09-30**|**An easy zero-shot learning combination: Texture Sensitive Semantic Segmentation IceHrNet and Advanced Style Transfer Learning Strategy**|Zhiyong Yang et.al.|[2310.00310](http://arxiv.org/abs/2310.00310)|**[link](https://github.com/pl23k/icehrnet)**|
 |**2023-09-29**|**Fusing simulation and monitoring data for real-time settlement prediction during tunnel construction: A multi-fidelity deep operator network (DeepONet)**|Chen Xu et.al.|[2310.00057](http://arxiv.org/abs/2310.00057)|null|
 |**2023-09-29**|**AI ensemble for signal detection of higher order gravitational wave modes of quasi-circular, spinning, non-precessing binary black hole mergers**|Minyang Tian et.al.|[2310.00052](http://arxiv.org/abs/2310.00052)|null|
@@ -505,21 +510,31 @@
 |**2023-05-31**|**Deep into The Domain Shift: Transfer Learning through Dependence Regularization**|Shumin Ma et.al.|[2305.19499](http://arxiv.org/abs/2305.19499)|**[link](https://github.com/yzr1991/deep_into_the_domain_shift)**|
 |**2023-05-30**|**Transfer Learning With Efficient Estimators to Optimally Leverage Historical Data in Analysis of Randomized Trials**|Lauren D. Liao et.al.|[2305.19180](http://arxiv.org/abs/2305.19180)|null|
 
-<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
 
 ## diffusion model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739](http://arxiv.org/abs/2310.03739)|**[link](https://github.com/mihirp1998/alignprop)**|
+|**2023-10-05**|**Certification of Deep Learning Models for Medical Image Segmentation**|Othmane Laousy et.al.|[2310.03664](http://arxiv.org/abs/2310.03664)|null|
+|**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602](http://arxiv.org/abs/2310.03602)|null|
+|**2023-10-05**|**Deep Generative Models of Music Expectation**|Ninon Lizé Masclef et.al.|[2310.03500](http://arxiv.org/abs/2310.03500)|null|
+|**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420](http://arxiv.org/abs/2310.03420)|null|
+|**2023-10-05**|**ACT-Net: Anchor-context Action Detection in Surgery Videos**|Luoying Hao et.al.|[2310.03377](http://arxiv.org/abs/2310.03377)|null|
+|**2023-10-05**|**Realistic Speech-to-Face Generation with Speech-Conditioned Latent Diffusion Model with Face Prior**|Jinting Wang et.al.|[2310.03363](http://arxiv.org/abs/2310.03363)|null|
+|**2023-10-05**|**Denoising Diffusion Step-aware Models**|Shuai Yang et.al.|[2310.03337](http://arxiv.org/abs/2310.03337)|null|
+|**2023-10-05**|**EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**|Yefei He et.al.|[2310.03270](http://arxiv.org/abs/2310.03270)|null|
+|**2023-10-04**|**Low-Energy Radiative Backgrounds in CCD-Based Dark-Matter Detectors**|Peizhi Du et.al.|[2310.03068](http://arxiv.org/abs/2310.03068)|null|
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020](http://arxiv.org/abs/2310.03020)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015](http://arxiv.org/abs/2310.03015)|null|
 |**2023-10-04**|**Probing Intersectional Biases in Vision-Language Models with Counterfactual Examples**|Phillip Howard et.al.|[2310.02988](http://arxiv.org/abs/2310.02988)|null|
-|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|null|
+|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|**[link](https://github.com/THU-LYJ-Lab/T3Bench)**|
 |**2023-10-04**|**Fast, Expressive SE $(n)$ Equivariant Networks through Weight-Sharing in Position-Orientation Space**|Erik J Bekkers et.al.|[2310.02970](http://arxiv.org/abs/2310.02970)|**[link](https://github.com/ebekkers/ponita)**|
 |**2023-10-04**|**Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts**|Shiyi Du et.al.|[2310.02906](http://arxiv.org/abs/2310.02906)|null|
 |**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848](http://arxiv.org/abs/2310.02848)|null|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
-|**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664](http://arxiv.org/abs/2310.02664)|null|
+|**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664](http://arxiv.org/abs/2310.02664)|**[link](https://github.com/sail-sg/DiffMemorize)**|
 |**2023-10-05**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601](http://arxiv.org/abs/2310.02601)|null|
 |**2023-10-04**|**SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D**|Weiyu Li et.al.|[2310.02596](http://arxiv.org/abs/2310.02596)|null|
 |**2023-10-04**|**Generalization in diffusion models arises from geometry-adaptive harmonic representation**|Zahra Kadkhodaie et.al.|[2310.02557](http://arxiv.org/abs/2310.02557)|null|
@@ -1238,16 +1253,17 @@
 |**2023-06-01**|**Random advection-diffusion models and their statistics**|Stefano Lepri et.al.|[2306.00463](http://arxiv.org/abs/2306.00463)|null|
 |**2023-06-01**|**Controllable Motion Diffusion Model**|Yi Shi et.al.|[2306.00416](http://arxiv.org/abs/2306.00416)|null|
 
-<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
 
 ## semantic segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Ammonia-Net: A Multi-task Joint Learning Model for Multi-class Segmentation and Classification in Tooth-marked Tongue Diagnosis**|Shunkai Shi et.al.|[2310.03472](http://arxiv.org/abs/2310.03472)|null|
 |**2023-10-03**|**CLIP Is Also a Good Teacher: A New Learning Framework for Inductive Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2310.02296](http://arxiv.org/abs/2310.02296)|null|
 |**2023-10-03**|**TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation**|Yahia Dalbah et.al.|[2310.02260](http://arxiv.org/abs/2310.02260)|**[link](https://github.com/yahidar/transradar)**|
 |**2023-10-03**|**Exploring Model Learning Heterogeneity for Boosting Ensemble Robustness**|Yanzhao Wu et.al.|[2310.02237](http://arxiv.org/abs/2310.02237)|**[link](https://github.com/git-disl/heterobust)**|
-|**2023-10-03**|**TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards**|Derek Cheng et.al.|[2310.02162](http://arxiv.org/abs/2310.02162)|null|
+|**2023-10-03**|**TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards**|Derek Cheng et.al.|[2310.02162](http://arxiv.org/abs/2310.02162)|**[link](https://github.com/kumarrobotics/treescope)**|
 |**2023-10-03**|**Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**|Hossein Shreim et.al.|[2310.01828](http://arxiv.org/abs/2310.01828)|null|
 |**2023-10-03**|**Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving**|Maneekwan Toyungyernsub et.al.|[2310.01723](http://arxiv.org/abs/2310.01723)|null|
 |**2023-10-02**|**CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction**|Size Wu et.al.|[2310.01403](http://arxiv.org/abs/2310.01403)|**[link](https://github.com/wusize/clipself)**|
@@ -1689,7 +1705,7 @@
 |**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957](http://arxiv.org/abs/2305.15957)|null|
 |**2023-05-25**|**Knowledge Diffusion for Distillation**|Tao Huang et.al.|[2305.15712](http://arxiv.org/abs/2305.15712)|**[link](https://github.com/hunto/diffkd)**|
 
-<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
 
 ## image restoration
 
@@ -1788,7 +1804,7 @@
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
 |**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979](http://arxiv.org/abs/2305.07979)|**[link](https://github.com/yunguo224/ug2_deraining)**|
 
-<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
 
 ## SAM
 
@@ -1881,7 +1897,7 @@
 |**2023-06-14**|**TomoSAM: a 3D Slicer extension using SAM for tomography segmentation**|Federico Semeraro et.al.|[2306.08609](http://arxiv.org/abs/2306.08609)|**[link](https://github.com/fsemerar/slicertomosam)**|
 |**2023-06-13**|**Robustness of SAM: Segment Anything Under Corruptions and Beyond**|Yu Qiao et.al.|[2306.07713](http://arxiv.org/abs/2306.07713)|null|
 
-<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
