@@ -5,7 +5,7 @@
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.10.18
+## Updated on 2023.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2021-09-09**|**Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders**|Fangyu Liu et.al.|[2104.08027](http://arxiv.org/abs/2104.08027)|**[link](https://github.com/cambridgeltl/mirror-bert)**|
 |**2022-07-11**|**Learned Camera Gain and Exposure Control for Improved Visual Feature Detection and Matching**|Justin Tomasi et.al.|[2102.04341](http://arxiv.org/abs/2102.04341)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231020>back to top</a>)</p>
 
 ## edge detection
 
@@ -53,7 +53,7 @@
 |**2023-08-23**|**MSECNet: Accurate and Robust Normal Estimation for 3D Point Clouds by Multi-Scale Edge Conditioning**|Haoyi Xiu et.al.|[2308.02237](http://arxiv.org/abs/2308.02237)|**[link](https://github.com/martianxiu/MSECNet)**|
 |**2023-07-31**|**Multispectral Image Segmentation in Agriculture: A Comprehensive Study on Fusion Approaches**|Nuno Cunha et.al.|[2308.00159](http://arxiv.org/abs/2308.00159)|**[link](https://github.com/cybonic/misagriculture)**|
 |**2023-07-31**|**Hybrid quantum transfer learning for crack image classification on NISQ hardware**|Alexander Geng et.al.|[2307.16723](http://arxiv.org/abs/2307.16723)|null|
-|**2023-10-16**|**PNT-Edge: Towards Robust Edge Detection with Noisy Labels by Learning Pixel-level Noise Transitions**|Wenjie Xuan et.al.|[2307.14070](http://arxiv.org/abs/2307.14070)|null|
+|**2023-10-16**|**PNT-Edge: Towards Robust Edge Detection with Noisy Labels by Learning Pixel-level Noise Transitions**|Wenjie Xuan et.al.|[2307.14070](http://arxiv.org/abs/2307.14070)|**[link](https://github.com/dreamxfar/pnt-edge)**|
 |**2023-07-20**|**Integrated Photonic Fractional Convolution Accelerator**|Kevin Zelaya et.al.|[2307.10976](http://arxiv.org/abs/2307.10976)|null|
 |**2023-07-11**|**Compact Twice Fusion Network for Edge Detection**|Yachuan Li et.al.|[2307.04952](http://arxiv.org/abs/2307.04952)|**[link](https://github.com/li-yachuan/ctfn-pytorch-master)**|
 |**2023-07-08**|**Edge-Aware Mirror Network for Camouflaged Object Detection**|Dongyue Sun et.al.|[2307.03932](http://arxiv.org/abs/2307.03932)|**[link](https://github.com/sdy1999/eamnet)**|
@@ -87,17 +87,21 @@
 |**2023-03-02**|**Scalable optical neural networks based on temporal computing**|Shuang Zheng et.al.|[2303.01287](http://arxiv.org/abs/2303.01287)|null|
 |**2023-03-26**|**Attention-based Point Cloud Edge Sampling**|Chengzhi Wu et.al.|[2302.14673](http://arxiv.org/abs/2302.14673)|**[link](https://github.com/JunweiZheng93/APES)**|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231020>back to top</a>)</p>
 
 ## transfer learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Prototype-based HyperAdapter for Sample-Efficient Multi-task Tuning**|Hao Zhao et.al.|[2310.11670](http://arxiv.org/abs/2310.11670)|**[link](https://github.com/bumble666/pha)**|
+|**2023-10-17**|**Predicting polymerization reactions via transfer learning using chemical language models**|Brenda S. Ferrari et.al.|[2310.11423](http://arxiv.org/abs/2310.11423)|**[link](https://github.com/ibm/headtailassign)**|
+|**2023-10-17**|**Relearning Forgotten Knowledge: on Forgetting, Overfit and Training-Free Ensembles of DNNs**|Uri Stern et.al.|[2310.11094](http://arxiv.org/abs/2310.11094)|null|
+|**2023-10-16**|**Electric dipole polarizability of low-lying excited states in atomic nuclei**|José Nicolás Orce et.al.|[2310.10775](http://arxiv.org/abs/2310.10775)|null|
 |**2023-10-16**|**UNO-DST: Leveraging Unlabelled Data in Zero-Shot Dialogue State Tracking**|Chuang Li et.al.|[2310.10492](http://arxiv.org/abs/2310.10492)|**[link](https://github.com/lichuangnus/uno-dst)**|
 |**2023-10-16**|**Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning**|Chong Li et.al.|[2310.10318](http://arxiv.org/abs/2310.10318)|**[link](https://github.com/znlp/functionalspecializationinmha)**|
 |**2023-10-16**|**Structural transfer learning of non-Gaussian DAG**|Mingyang Ren et.al.|[2310.10239](http://arxiv.org/abs/2310.10239)|null|
 |**2023-10-15**|**Class-Specific Data Augmentation: Bridging the Imbalance in Multiclass Breast Cancer Classification**|Kanan Mahammadli et.al.|[2310.09981](http://arxiv.org/abs/2310.09981)|null|
-|**2023-10-13**|**BanglaNLP at BLP-2023 Task 2: Benchmarking different Transformer Models for Sentiment Analysis of Bangla Social Media Posts**|Saumajit Saha et.al.|[2310.09238](http://arxiv.org/abs/2310.09238)|**[link](https://github.com/Saumajit/BanglaNLP/tree/main/Task_2)**|
+|**2023-10-18**|**BanglaNLP at BLP-2023 Task 2: Benchmarking different Transformer Models for Sentiment Analysis of Bangla Social Media Posts**|Saumajit Saha et.al.|[2310.09238](http://arxiv.org/abs/2310.09238)|**[link](https://github.com/Saumajit/BanglaNLP/tree/main/Task_2)**|
 |**2023-10-13**|**A Hybrid Transfer Learning Assisted Decision Support System for Accurate Prediction of Alzheimer Disease**|Mahin Khan Mahadi et.al.|[2310.08888](http://arxiv.org/abs/2310.08888)|null|
 |**2023-10-13**|**A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning**|Yash Shukla et.al.|[2310.08836](http://arxiv.org/abs/2310.08836)|**[link](https://github.com/shukla-yash/few-shot-policy-transfer)**|
 |**2023-10-16**|**Selectivity Drives Productivity: Efficient Dataset Pruning for Enhanced Transfer Learning**|Yihua Zhang et.al.|[2310.08782](http://arxiv.org/abs/2310.08782)|**[link](https://github.com/optml-group/dp4tl)**|
@@ -559,12 +563,29 @@
 |**2023-05-31**|**Deep into The Domain Shift: Transfer Learning through Dependence Regularization**|Shumin Ma et.al.|[2305.19499](http://arxiv.org/abs/2305.19499)|**[link](https://github.com/yzr1991/deep_into_the_domain_shift)**|
 |**2023-05-30**|**Transfer Learning With Efficient Estimators to Optimally Leverage Historical Data in Analysis of Randomized Trials**|Lauren D. Liao et.al.|[2305.19180](http://arxiv.org/abs/2305.19180)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231020>back to top</a>)</p>
 
 ## diffusion model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
+|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004](http://arxiv.org/abs/2310.12004)|null|
+|**2023-10-18**|**Bayesian Flow Networks in Continual Learning**|Mateusz Pyla et.al.|[2310.12001](http://arxiv.org/abs/2310.12001)|null|
+|**2023-10-18**|**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**|Renzhi Wang et.al.|[2310.11976](http://arxiv.org/abs/2310.11976)|**[link](https://github.com/rzhwang/infodiffusion)**|
+|**2023-10-18**|**To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**|Yimeng Zhang et.al.|[2310.11868](http://arxiv.org/abs/2310.11868)|**[link](https://github.com/optml-group/diffusion-mu-attack)**|
+|**2023-10-18**|**Equivariant Bootstrapping for Uncertainty Quantification in Imaging Inverse Problems**|Julian Tachella et.al.|[2310.11838](http://arxiv.org/abs/2310.11838)|**[link](https://github.com/tachella/equivariant_bootstrap)**|
+|**2023-10-18**|**Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts**|Xinhua Cheng et.al.|[2310.11784](http://arxiv.org/abs/2310.11784)|null|
+|**2023-10-18**|**Language Agents for Detecting Implicit Stereotypes in Text-to-image Models at Scale**|Qichao Wang et.al.|[2310.11778](http://arxiv.org/abs/2310.11778)|null|
+|**2023-10-18**|**On the Evaluation of Generative Models in Distributed Learning Tasks**|Zixiao Wang et.al.|[2310.11714](http://arxiv.org/abs/2310.11714)|null|
+|**2023-10-17**|**Reflection-Equivariant Diffusion for 3D Structure Determination from Isotopologue Rotational Spectra in Natural Abundance**|Austin Cheng et.al.|[2310.11609](http://arxiv.org/abs/2310.11609)|**[link](https://github.com/aspuru-guzik-group/kreed)**|
+|**2023-10-17**|**GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment**|Dhruba Ghosh et.al.|[2310.11513](http://arxiv.org/abs/2310.11513)|**[link](https://github.com/djghosh13/geneval)**|
+|**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|**[link](https://github.com/alexmaols/elucd)**|
+|**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142](http://arxiv.org/abs/2310.11142)|null|
+|**2023-10-17**|**3D Structure-guided Network for Tooth Alignment in 2D Photograph**|Yulong Dou et.al.|[2310.11106](http://arxiv.org/abs/2310.11106)|**[link](https://github.com/douyl/2DToothAlignment)**|
+|**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
+|**2023-10-18**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765](http://arxiv.org/abs/2310.10765)|null|
+|**2023-10-16**|**MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design**|Xiang Fu et.al.|[2310.10732](http://arxiv.org/abs/2310.10732)|null|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 |**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640](http://arxiv.org/abs/2310.10640)|**[link](https://github.com/hananshafi/llmblueprint)**|
 |**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639](http://arxiv.org/abs/2310.10639)|null|
@@ -1376,15 +1397,17 @@
 |**2023-06-01**|**Random advection-diffusion models and their statistics**|Stefano Lepri et.al.|[2306.00463](http://arxiv.org/abs/2306.00463)|null|
 |**2023-06-01**|**Controllable Motion Diffusion Model**|Yi Shi et.al.|[2306.00416](http://arxiv.org/abs/2306.00416)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231020>back to top</a>)</p>
 
 ## semantic segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**SegmATRon: Embodied Adaptive Semantic Segmentation for Indoor Environment**|Tatiana Zemskova et.al.|[2310.12031](http://arxiv.org/abs/2310.12031)|**[link](https://github.com/wingrune/segmatron)**|
+|**2023-10-16**|**IDRNet: Intervention-Driven Relation Network for Semantic Segmentation**|Zhenchao Jin et.al.|[2310.10755](http://arxiv.org/abs/2310.10755)|**[link](https://github.com/segmentationblwx/sssegmentation)**|
 |**2023-10-16**|**Motion2Language, Unsupervised learning of synchronized semantic motion segmentation**|Karim Radouane et.al.|[2310.10594](http://arxiv.org/abs/2310.10594)|null|
 |**2023-10-16**|**RefConv: Re-parameterized Refocusing Convolution for Powerful ConvNets**|Zhicheng Cai et.al.|[2310.10563](http://arxiv.org/abs/2310.10563)|**[link](https://github.com/Aiolus-X/RefConv)**|
-|**2023-10-17**|**Label-efficient Segmentation via Affinity Propagation**|Wentong Li et.al.|[2310.10533](http://arxiv.org/abs/2310.10533)|null|
+|**2023-10-17**|**Label-efficient Segmentation via Affinity Propagation**|Wentong Li et.al.|[2310.10533](http://arxiv.org/abs/2310.10533)|**[link](https://github.com/circleradon/apro)**|
 |**2023-10-16**|**On the Transferability of Learning Models for Semantic Segmentation for Remote Sensing Data**|Rongjun Qin et.al.|[2310.10490](http://arxiv.org/abs/2310.10490)|**[link](https://github.com/gdaosu/transferability-remote-sensing)**|
 |**2023-10-15**|**Top-K Pooling with Patch Contrastive Learning for Weakly-Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2310.09828](http://arxiv.org/abs/2310.09828)|null|
 |**2023-10-15**|**Image Augmentation with Controlled Diffusion for Weakly-Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2310.09760](http://arxiv.org/abs/2310.09760)|null|
@@ -1874,12 +1897,13 @@
 |**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957](http://arxiv.org/abs/2305.15957)|null|
 |**2023-05-25**|**Knowledge Diffusion for Distillation**|Tao Huang et.al.|[2305.15712](http://arxiv.org/abs/2305.15712)|**[link](https://github.com/hunto/diffkd)**|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231020>back to top</a>)</p>
 
 ## image restoration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**A Comparative Study of Image Restoration Networks for General Backbone Network Design**|Xiangyu Chen et.al.|[2310.11881](http://arxiv.org/abs/2310.11881)|null|
 |**2023-10-16**|**Unifying Image Processing as Visual Prompting Question Answering**|Yihao Liu et.al.|[2310.10513](http://arxiv.org/abs/2310.10513)|null|
 |**2023-10-17**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123](http://arxiv.org/abs/2310.10123)|null|
 |**2023-10-12**|**Frequency-Aware Re-Parameterization for Over-Fitting Based Image Compression**|Yun Ye et.al.|[2310.08068](http://arxiv.org/abs/2310.08068)|null|
@@ -1978,12 +2002,14 @@
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
 |**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979](http://arxiv.org/abs/2305.07979)|**[link](https://github.com/yunguo224/ug2_deraining)**|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231020>back to top</a>)</p>
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Towards Training-free Open-world Segmentation via Image Prompting Foundation Models**|Lv Tang et.al.|[2310.10912](http://arxiv.org/abs/2310.10912)|null|
+|**2023-10-16**|**Electric dipole polarizability of low-lying excited states in atomic nuclei**|José Nicolás Orce et.al.|[2310.10775](http://arxiv.org/abs/2310.10775)|null|
 |**2023-10-16**|**Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation**|SeungKyu Kim et.al.|[2310.10493](http://arxiv.org/abs/2310.10493)|null|
 |**2023-10-16**|**Recursive Segmentation Living Image: An eXplainable AI (XAI) Approach for Computing Structural Beauty of Images or the Livingness of Space**|Yao Qianxiang et.al.|[2310.10149](http://arxiv.org/abs/2310.10149)|null|
 |**2023-10-16**|**Black-box Targeted Adversarial Attack on Segment Anything (SAM)**|Sheng Zheng et.al.|[2310.10010](http://arxiv.org/abs/2310.10010)|null|
@@ -2083,7 +2109,7 @@
 |**2023-06-14**|**TomoSAM: a 3D Slicer extension using SAM for tomography segmentation**|Federico Semeraro et.al.|[2306.08609](http://arxiv.org/abs/2306.08609)|**[link](https://github.com/fsemerar/slicertomosam)**|
 |**2023-06-13**|**Robustness of SAM: Segment Anything Under Corruptions and Beyond**|Yu Qiao et.al.|[2306.07713](http://arxiv.org/abs/2306.07713)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231020>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
