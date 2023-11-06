@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.11.03
+## Updated on 2023.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -84,13 +84,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Scattering Vision Transformer: Spectral Mixing Matters**|Badri N. Patro et.al.|[2311.01310](http://arxiv.org/abs/2311.01310)|null|
+|**2023-11-02**|**M&M3D: Multi-Dataset Training and Efficient Network for Multi-view 3D Object Detection**|Hang Zhang et.al.|[2311.00986](http://arxiv.org/abs/2311.00986)|null|
+|**2023-11-02**|**IndoToD: A Multi-Domain Indonesian Benchmark For End-to-End Task-Oriented Dialogue Systems**|Muhammad Dehan Al Kautsar et.al.|[2311.00958](http://arxiv.org/abs/2311.00958)|**[link](https://github.com/dehanalkautsar/indotod)**|
+|**2023-11-01**|**The Quantum Cartpole: A benchmark environment for non-linear reinforcement learning**|Kai Meinerz et.al.|[2311.00756](http://arxiv.org/abs/2311.00756)|null|
+|**2023-10-31**|**Investigating Relative Performance of Transfer and Meta Learning**|Benji Alwis et.al.|[2311.00727](http://arxiv.org/abs/2311.00727)|null|
 |**2023-11-01**|**Transfer learning for improved generalizability in causal physics-informed neural networks for beam simulations**|Taniya Kapoor et.al.|[2311.00578](http://arxiv.org/abs/2311.00578)|null|
 |**2023-11-01**|**TLMCM Network for Medical Image Hierarchical Multi-Label Classification**|Meng Wu et.al.|[2311.00282](http://arxiv.org/abs/2311.00282)|null|
 |**2023-10-31**|**Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis**|Abhinav Nippani et.al.|[2311.00164](http://arxiv.org/abs/2311.00164)|**[link](https://github.com/virtuosoresearch/ml4roadsafety)**|
 |**2023-10-31**|**Dynamically Updating Event Representations for Temporal Relation Classification with Multi-category Learning**|Fei Cheng et.al.|[2310.20236](http://arxiv.org/abs/2310.20236)|null|
 |**2023-10-31**|**Self-supervised Pre-training for Precipitation Post-processor**|Sojung An et.al.|[2310.20187](http://arxiv.org/abs/2310.20187)|null|
 |**2023-10-30**|**Topological Learning for Motion Data via Mixed Coordinates**|Hengrui Luo et.al.|[2310.19960](http://arxiv.org/abs/2310.19960)|**[link](https://github.com/hrluo/topologicalmotionseries)**|
-|**2023-10-31**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721](http://arxiv.org/abs/2310.19721)|null|
+|**2023-10-31**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721](http://arxiv.org/abs/2310.19721)|**[link](https://github.com/medicl-vu/promise)**|
 |**2023-10-30**|**CreoleVal: Multilingual Multitask Benchmarks for Creoles**|Heather Lent et.al.|[2310.19567](http://arxiv.org/abs/2310.19567)|**[link](https://github.com/hclent/creoleval)**|
 |**2023-10-30**|**On consequences of finetuning on data with highly discriminative features**|Wojciech Masarczyk et.al.|[2310.19537](http://arxiv.org/abs/2310.19537)|null|
 |**2023-10-30**|**AdapINT: A Flexible and Adaptive In-Band Network Telemetry System Based on Deep Reinforcement Learning**|Penghui Zhang et.al.|[2310.19331](http://arxiv.org/abs/2310.19331)|null|
@@ -612,10 +617,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Time Series Anomaly Detection using Diffusion-based Models**|Ioana Pintilie et.al.|[2311.01452](http://arxiv.org/abs/2311.01452)|**[link](https://github.com/fbrad/diffusionae)**|
+|**2023-11-02**|**Constrained-Context Conditional Diffusion Models for Imitation Learning**|Vaibhav Saxena et.al.|[2311.01419](http://arxiv.org/abs/2311.01419)|null|
+|**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380](http://arxiv.org/abs/2311.01380)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
+|**2023-11-02**|**DP-Mix: Mixup-based Data Augmentation for Differentially Private Learning**|Wenxuan Bao et.al.|[2311.01295](http://arxiv.org/abs/2311.01295)|**[link](https://github.com/wenxuan-bao/dp-mix)**|
+|**2023-11-02**|**Optimal Transport-Guided Conditional Score-Based Diffusion Models**|Xiang Gu et.al.|[2311.01226](http://arxiv.org/abs/2311.01226)|**[link](https://github.com/xjtu-xgu/otcs)**|
+|**2023-11-02**|**Diffusion Models for Reinforcement Learning: A Survey**|Zhengbang Zhu et.al.|[2311.01223](http://arxiv.org/abs/2311.01223)|**[link](https://github.com/apexrl/diff4rlsurvey)**|
+|**2023-11-02**|**Add and Thin: Diffusion for Temporal Point Processes**|David Lüdke et.al.|[2311.01139](http://arxiv.org/abs/2311.01139)|null|
+|**2023-11-02**|**Infusion: Internal Diffusion for Video Inpainting**|Nicolas Cherel et.al.|[2311.01090](http://arxiv.org/abs/2311.01090)|null|
+|**2023-11-02**|**Expanding Expressiveness of Diffusion Models with Limited Data via Self-Distillation based Fine-Tuning**|Jiwan Hur et.al.|[2311.01018](http://arxiv.org/abs/2311.01018)|null|
+|**2023-11-02**|**Act As You Wish: Fine-Grained Control of Motion Diffusion Model with Hierarchical Semantic Graphs**|Peng Jin et.al.|[2311.01015](http://arxiv.org/abs/2311.01015)|**[link](https://github.com/jpthu17/graphmotion)**|
+|**2023-11-02**|**Optimal Noise pursuit for Augmenting Text-to-Video Generation**|Shijie Ma et.al.|[2311.00949](http://arxiv.org/abs/2311.00949)|null|
+|**2023-11-02**|**Gaussian Mixture Solvers for Diffusion Models**|Hanzhong Guo et.al.|[2311.00941](http://arxiv.org/abs/2311.00941)|**[link](https://github.com/guohanzhong/gms)**|
+|**2023-11-02**|**Bridging the Gap: Addressing Discrepancies in Diffusion Model Training for Classifier-Free Guidance**|Niket Patel et.al.|[2311.00938](http://arxiv.org/abs/2311.00938)|null|
+|**2023-11-02**|**Towards High-quality HDR Deghosting with Conditional Diffusion Models**|Qingsen Yan et.al.|[2311.00932](http://arxiv.org/abs/2311.00932)|null|
+|**2023-11-01**|**HIDM: Emulating Large Scale HI Maps using Score-based Diffusion Models**|Sultan Hassan et.al.|[2311.00833](http://arxiv.org/abs/2311.00833)|null|
+|**2023-11-01**|**Quantum Computational Algorithms for Derivative Pricing and Credit Risk in a Regime Switching Economy**|Eric Ghysels et.al.|[2311.00825](http://arxiv.org/abs/2311.00825)|null|
 |**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618](http://arxiv.org/abs/2311.00618)|null|
 |**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613](http://arxiv.org/abs/2311.00613)|null|
 |**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500](http://arxiv.org/abs/2311.00500)|**[link](https://github.com/sail-sg/d-trak)**|
-|**2023-11-01**|**Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model**|Xuan Liu et.al.|[2311.00496](http://arxiv.org/abs/2311.00496)|null|
+|**2023-11-01**|**Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model**|Xuan Liu et.al.|[2311.00496](http://arxiv.org/abs/2311.00496)|**[link](https://github.com/xuanliu2000/vgcdm)**|
 |**2023-11-01**|**Diffusion models for probabilistic programming**|Simon Dirmeier et.al.|[2311.00474](http://arxiv.org/abs/2311.00474)|null|
 |**2023-11-01**|**Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos**|Divyanshu Mishra et.al.|[2311.00469](http://arxiv.org/abs/2311.00469)|null|
 |**2023-11-01**|**LatentWarp: Consistent Diffusion Latents for Zero-Shot Video-to-Video Translation**|Yuxiang Bao et.al.|[2311.00353](http://arxiv.org/abs/2311.00353)|null|
@@ -1540,12 +1561,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**AiluRus: A Scalable ViT Framework for Dense Prediction**|Jin Li et.al.|[2311.01197](http://arxiv.org/abs/2311.01197)|**[link](https://github.com/caddyless/ailurus)**|
+|**2023-11-02**|**A deep learning experiment for semantic segmentation of overlapping characters in palimpsests**|Michela Perino et.al.|[2311.01130](http://arxiv.org/abs/2311.01130)|null|
+|**2023-11-02**|**Overhead Line Defect Recognition Based on Unsupervised Semantic Segmentation**|Weixi Wang et.al.|[2311.00979](http://arxiv.org/abs/2311.00979)|null|
 |**2023-11-01**|**PAUMER: Patch Pausing Transformer for Semantic Segmentation**|Evann Courdier et.al.|[2311.00586](http://arxiv.org/abs/2311.00586)|null|
 |**2023-10-31**|**Joint Depth Prediction and Semantic Segmentation with Multi-View SAM**|Mykhailo Shvets et.al.|[2311.00134](http://arxiv.org/abs/2311.00134)|null|
 |**2023-10-31**|**Bilateral Network with Residual U-blocks and Dual-Guided Attention for Real-time Semantic Segmentation**|Liang Liao et.al.|[2310.20305](http://arxiv.org/abs/2310.20305)|**[link](https://github.com/likelidoa/bidganet)**|
 |**2023-10-31**|**Annotator: A Generic Active Learning Baseline for LiDAR Semantic Segmentation**|Binhui Xie et.al.|[2310.20293](http://arxiv.org/abs/2310.20293)|null|
 |**2023-10-30**|**Dynamic Gaussian Splatting from Markerless Motion Capture can Reconstruct Infants Movements**|R. James Cotton et.al.|[2310.19441](http://arxiv.org/abs/2310.19441)|null|
-|**2023-10-30**|**Resource Constrained Semantic Segmentation for Waste Sorting**|Elisa Cascina et.al.|[2310.19407](http://arxiv.org/abs/2310.19407)|null|
+|**2023-10-30**|**Resource Constrained Semantic Segmentation for Waste Sorting**|Elisa Cascina et.al.|[2310.19407](http://arxiv.org/abs/2310.19407)|**[link](https://github.com/anubis09/resource_constrained_semantic_segmentation_for_waste_sorting)**|
 |**2023-10-30**|**L2T-DLN: Learning to Teach with Dynamic Loss Network**|Zhoyang Hai et.al.|[2310.19313](http://arxiv.org/abs/2310.19313)|null|
 |**2023-10-30**|**Revisiting Evaluation Metrics for Semantic Segmentation: Optimization and Evaluation of Fine-grained Intersection over Union**|Zifu Wang et.al.|[2310.19252](http://arxiv.org/abs/2310.19252)|**[link](https://github.com/zifuwanggg/jdtlosses)**|
 |**2023-10-30**|**Modular Anti-noise Deep Learning Network for Robotic Grasp Detection Based on RGB Images**|Zhaocong Li et.al.|[2310.19223](http://arxiv.org/abs/2310.19223)|null|
@@ -1554,7 +1578,7 @@ layout: default
 |**2023-10-29**|**Mask Propagation for Efficient Video Semantic Segmentation**|Yuetian Weng et.al.|[2310.18954](http://arxiv.org/abs/2310.18954)|**[link](https://github.com/ziplab/mpvss)**|
 |**2023-10-28**|**Exploring Data Augmentations on Self-/Semi-/Fully- Supervised Pre-trained Models**|Shentong Mo et.al.|[2310.18850](http://arxiv.org/abs/2310.18850)|null|
 |**2023-10-28**|**One-shot Localization and Segmentation of Medical Images with Foundation Models**|Deepa Anand et.al.|[2310.18642](http://arxiv.org/abs/2310.18642)|null|
-|**2023-10-28**|**Switching Temporary Teachers for Semi-Supervised Semantic Segmentation**|Jaemin Na et.al.|[2310.18640](http://arxiv.org/abs/2310.18640)|null|
+|**2023-10-28**|**Switching Temporary Teachers for Semi-Supervised Semantic Segmentation**|Jaemin Na et.al.|[2310.18640](http://arxiv.org/abs/2310.18640)|**[link](https://github.com/naver-ai/dual-teacher)**|
 |**2023-10-27**|**A Self-Supervised Approach to Land Cover Segmentation**|Charles Moore et.al.|[2310.18251](http://arxiv.org/abs/2310.18251)|null|
 |**2023-10-27**|**SmooSeg: Smoothness Prior for Unsupervised Semantic Segmentation**|Mengcheng Lan et.al.|[2310.17874](http://arxiv.org/abs/2310.17874)|**[link](https://github.com/mc-lan/smooseg)**|
 |**2023-10-26**|**Image Prior and Posterior Conditional Probability Representation for Efficient Damage Assessment**|Jie Wei et.al.|[2310.17801](http://arxiv.org/abs/2310.17801)|null|
@@ -2086,6 +2110,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Convergent plug-and-play with proximal denoiser and unconstrained regularization parameter**|Samuel Hurault et.al.|[2311.01216](http://arxiv.org/abs/2311.01216)|null|
 |**2023-10-31**|**Image Restoration with Point Spread Function Regularization and Active Learning**|Peng Jia et.al.|[2311.00186](http://arxiv.org/abs/2311.00186)|null|
 |**2023-10-27**|**Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal**|Yu-Wei Chen et.al.|[2310.18293](http://arxiv.org/abs/2310.18293)|null|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047](http://arxiv.org/abs/2310.16047)|null|
@@ -2193,9 +2218,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning**|Gaoang Wang et.al.|[2311.01004](http://arxiv.org/abs/2311.01004)|null|
 |**2023-10-31**|**Joint Depth Prediction and Semantic Segmentation with Multi-View SAM**|Mykhailo Shvets et.al.|[2311.00134](http://arxiv.org/abs/2311.00134)|null|
 |**2023-10-31**|**Team I2R-VI-FF Technical Report on EPIC-KITCHENS VISOR Hand Object Segmentation Challenge 2023**|Fen Fang et.al.|[2310.20120](http://arxiv.org/abs/2310.20120)|null|
-|**2023-10-31**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721](http://arxiv.org/abs/2310.19721)|null|
+|**2023-10-31**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721](http://arxiv.org/abs/2310.19721)|**[link](https://github.com/medicl-vu/promise)**|
 |**2023-10-30**|**A High-Resolution Dataset for Instance Detection with Multi-View Instance Capture**|Qianqian Shen et.al.|[2310.19257](http://arxiv.org/abs/2310.19257)|null|
 |**2023-10-28**|**Audio-Visual Instance Segmentation**|Ruohao Guo et.al.|[2310.18709](http://arxiv.org/abs/2310.18709)|null|
 |**2023-10-26**|**Task-driven Prompt Evolution for Foundation Models**|Rachana Sathish et.al.|[2310.17128](http://arxiv.org/abs/2310.17128)|null|
