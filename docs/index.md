@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.11.06
+## Updated on 2023.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -30,7 +30,7 @@ layout: default
 |**2023-10-01**|**Quantum image edge detection based on eight-direction Sobel operator for NEQR**|Wenjie Liu et.al.|[2310.03037](http://arxiv.org/abs/2310.03037)|null|
 |**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800](http://arxiv.org/abs/2309.14800)|null|
 |**2023-09-13**|**Temporal compressive edge imaging enabled by a lensless diffuser camera**|Ze Zheng et.al.|[2309.07198](http://arxiv.org/abs/2309.07198)|null|
-|**2023-10-29**|**MEGANet: Multi-Scale Edge-Guided Attention Network for Weak Boundary Polyp Segmentation**|Nhat-Tan Bui et.al.|[2309.03329](http://arxiv.org/abs/2309.03329)|**[link](https://github.com/uark-aicv/meganet)**|
+|**2023-11-05**|**MEGANet: Multi-Scale Edge-Guided Attention Network for Weak Boundary Polyp Segmentation**|Nhat-Tan Bui et.al.|[2309.03329](http://arxiv.org/abs/2309.03329)|**[link](https://github.com/uark-aicv/meganet)**|
 |**2023-09-05**|**DeNISE: Deep Networks for Improved Segmentation Edges**|Sander Riisøen Jyhne et.al.|[2309.02091](http://arxiv.org/abs/2309.02091)|null|
 |**2023-08-29**|**A Pseudo-Boolean Polynomials Approach for Image Edge Detection**|Tendai Mapungwana Chikake et.al.|[2308.15557](http://arxiv.org/abs/2308.15557)|**[link](https://github.com/Tenfleques/pBp-edge-detection)**|
 |**2023-08-29**|**Pseudo-Boolean Polynomials Approach To Edge Detection And Image Segmentation**|Tendai Mapungwana Chikake et.al.|[2308.15453](http://arxiv.org/abs/2308.15453)|null|
@@ -84,6 +84,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Risk of Transfer Learning and its Applications in Finance**|Haoyang Cao et.al.|[2311.03283](http://arxiv.org/abs/2311.03283)|null|
+|**2023-11-06**|**Machine Learning-Based Tea Leaf Disease Detection: A Comprehensive Review**|Faruk Ahmed et.al.|[2311.03240](http://arxiv.org/abs/2311.03240)|null|
+|**2023-11-06**|**Quantifying the value of information transfer in population-based SHM**|Aidan J. Hughes et.al.|[2311.03083](http://arxiv.org/abs/2311.03083)|null|
+|**2023-11-06**|**TabRepo: A Large Scale Repository of Tabular Model Evaluations and its AutoML Applications**|David Salinas et.al.|[2311.02971](http://arxiv.org/abs/2311.02971)|**[link](https://github.com/autogluon/tabrepo)**|
+|**2023-11-06**|**Understanding Deep Representation Learning via Layerwise Feature Compression and Discrimination**|Peng Wang et.al.|[2311.02960](http://arxiv.org/abs/2311.02960)|null|
+|**2023-11-06**|**AttentioNet: Monitoring Student Attention Type in Learning with EEG-Based Measurement System**|Dhruv Verma et.al.|[2311.02924](http://arxiv.org/abs/2311.02924)|null|
+|**2023-11-05**|**AI Techniques for Uncovering Resolved Planetary Nebula Candidates from Wide-field VPHAS+ Survey Data**|Ruiqi Sun et.al.|[2311.02607](http://arxiv.org/abs/2311.02607)|null|
+|**2023-11-03**|**Robust Fine-Tuning of Vision-Language Models for Domain Generalization**|Kevin Vogt-Lowell et.al.|[2311.02236](http://arxiv.org/abs/2311.02236)|**[link](https://github.com/mit-ll/robust-vision-language-finetuning)**|
+|**2023-11-03**|**Active Learning-Based Species Range Estimation**|Christian Lange et.al.|[2311.02061](http://arxiv.org/abs/2311.02061)|**[link](https://github.com/chris-lange/sdm_active_sampling)**|
+|**2023-11-03**|**A Data-Driven Approach to Coarse-Graining Simple Liquids in Confinement**|Ishan Nadkarni et.al.|[2311.02042](http://arxiv.org/abs/2311.02042)|null|
+|**2023-11-03**|**Vicinal Risk Minimization for Few-Shot Cross-lingual Transfer in Abusive Language Detection**|Gretel Liz De la Peña Sarracén et.al.|[2311.02025](http://arxiv.org/abs/2311.02025)|null|
+|**2023-11-03**|**CheX-Nomaly: Segmenting Lung Abnormalities from Chest Radiographs using Machine Learning**|Sanskriti Singh et.al.|[2311.01777](http://arxiv.org/abs/2311.01777)|null|
+|**2023-11-03**|**Capturing Local and Global Features in Medical Images by Using Ensemble CNN-Transformer**|Javad Mirzapour Kaleybar et.al.|[2311.01731](http://arxiv.org/abs/2311.01731)|null|
+|**2023-11-02**|**Adversary ML Resilience in Autonomous Driving Through Human Centered Perception Mechanisms**|Aakriti Shah et.al.|[2311.01478](http://arxiv.org/abs/2311.01478)|null|
 |**2023-11-02**|**Scattering Vision Transformer: Spectral Mixing Matters**|Badri N. Patro et.al.|[2311.01310](http://arxiv.org/abs/2311.01310)|null|
 |**2023-11-02**|**M&M3D: Multi-Dataset Training and Efficient Network for Multi-view 3D Object Detection**|Hang Zhang et.al.|[2311.00986](http://arxiv.org/abs/2311.00986)|null|
 |**2023-11-02**|**IndoToD: A Multi-Domain Indonesian Benchmark For End-to-End Task-Oriented Dialogue Systems**|Muhammad Dehan Al Kautsar et.al.|[2311.00958](http://arxiv.org/abs/2311.00958)|**[link](https://github.com/dehanalkautsar/indotod)**|
@@ -617,6 +631,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models**|Yangming Li et.al.|[2311.03303](http://arxiv.org/abs/2311.03303)|null|
+|**2023-11-06**|**LDM3D-VR: Latent Diffusion Model for 3D VR**|Gabriela Ben Melech Stan et.al.|[2311.03226](http://arxiv.org/abs/2311.03226)|null|
+|**2023-11-06**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118](http://arxiv.org/abs/2311.03118)|null|
+|**2023-11-06**|**AnyText: Multilingual Visual Text Generation And Editing**|Yuxiang Tuo et.al.|[2311.03054](http://arxiv.org/abs/2311.03054)|null|
+|**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008](http://arxiv.org/abs/2311.03008)|null|
+|**2023-11-06**|**Diffusion-based Radiotherapy Dose Prediction Guided by Inter-slice Aware Structure Encoding**|Zhenghao Feng et.al.|[2311.02991](http://arxiv.org/abs/2311.02991)|null|
+|**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848](http://arxiv.org/abs/2311.02848)|null|
+|**2023-11-04**|**From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models**|Zhuoshi Pan et.al.|[2311.02373](http://arxiv.org/abs/2311.02373)|null|
+|**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358](http://arxiv.org/abs/2311.02358)|null|
+|**2023-11-04**|**Stable Diffusion Reference Only: Image Prompt and Blueprint Jointly Guided Multi-Condition Diffusion Model for Secondary Painting**|Hao Ai et.al.|[2311.02343](http://arxiv.org/abs/2311.02343)|**[link](https://github.com/aihao2000/stable-diffusion-reference-only)**|
+|**2023-11-03**|**Patch-based Selection and Refinement for Early Object Detection**|Tianyi Zhang et.al.|[2311.02274](http://arxiv.org/abs/2311.02274)|null|
+|**2023-11-03**|**Sparse Training of Discrete Diffusion Models for Graph Generation**|Yiming Qin et.al.|[2311.02142](http://arxiv.org/abs/2311.02142)|**[link](https://github.com/qym7/sparsediff)**|
+|**2023-11-03**|**Quantum circuit synthesis with diffusion models**|Florian Fürrutter et.al.|[2311.02041](http://arxiv.org/abs/2311.02041)|**[link](https://github.com/florianfuerrutter/genqc)**|
+|**2023-11-03**|**Latent Diffusion Model for Conditional Reservoir Facies Generation**|Daesoo Lee et.al.|[2311.01968](http://arxiv.org/abs/2311.01968)|null|
+|**2023-11-03**|**On the Generalization Properties of Diffusion Models**|Puheng Li et.al.|[2311.01797](http://arxiv.org/abs/2311.01797)|**[link](https://github.com/lphleo/diffusion_generalization)**|
+|**2023-11-06**|**CDGraph: Dual Conditional Social Graph Synthesizing via Diffusion Model**|Jui-Yi Tsai et.al.|[2311.01729](http://arxiv.org/abs/2311.01729)|null|
+|**2023-11-02**|**Improving Fairness using Vision-Language Driven Image Augmentation**|Moreno D'Incà et.al.|[2311.01573](http://arxiv.org/abs/2311.01573)|**[link](https://github.com/moreno98/vision-language-bias-control)**|
+|**2023-11-02**|**Exploring the Hyperparameter Space of Image Diffusion Models for Echocardiogram Generation**|Hadrien Reynaud et.al.|[2311.01567](http://arxiv.org/abs/2311.01567)|null|
+|**2023-11-02**|**Investigating the Behavior of Diffusion Models for Accelerating Electronic Structure Calculations**|Daniel Rothchild et.al.|[2311.01491](http://arxiv.org/abs/2311.01491)|null|
 |**2023-11-02**|**Time Series Anomaly Detection using Diffusion-based Models**|Ioana Pintilie et.al.|[2311.01452](http://arxiv.org/abs/2311.01452)|**[link](https://github.com/fbrad/diffusionae)**|
 |**2023-11-02**|**Constrained-Context Conditional Diffusion Models for Imitation Learning**|Vaibhav Saxena et.al.|[2311.01419](http://arxiv.org/abs/2311.01419)|null|
 |**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380](http://arxiv.org/abs/2311.01380)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
@@ -1561,6 +1594,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis**|Hanrong Ye et.al.|[2311.03355](http://arxiv.org/abs/2311.03355)|null|
+|**2023-11-06**|**Segmentation of Drone Collision Hazards in Airborne RADAR Point Clouds Using PointNet**|Hector Arroyo et.al.|[2311.03221](http://arxiv.org/abs/2311.03221)|null|
+|**2023-11-06**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105](http://arxiv.org/abs/2311.03105)|null|
+|**2023-11-06**|**COLA: COarse-LAbel multi-source LiDAR semantic segmentation for autonomous driving**|Jules Sanchez et.al.|[2311.03017](http://arxiv.org/abs/2311.03017)|null|
+|**2023-11-06**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926](http://arxiv.org/abs/2311.02926)|**[link](https://github.com/meatery/semantic-segmentation)**|
+|**2023-11-05**|**PotholeGuard: A Pothole Detection Approach by Point Cloud Semantic Segmentation**|Sahil Nawale et.al.|[2311.02641](http://arxiv.org/abs/2311.02641)|null|
+|**2023-11-05**|**TFNet: Tuning Fork Network with Neighborhood Pixel Aggregation for Improved Building Footprint Extraction**|Muhammad Ahmad Waseem et.al.|[2311.02617](http://arxiv.org/abs/2311.02617)|null|
+|**2023-11-03**|**Image Recognition of Oil Leakage Area Based on Logical Semantic Discrimination**|Weiying Lin et.al.|[2311.02256](http://arxiv.org/abs/2311.02256)|null|
+|**2023-11-03**|**MineSegSAT: An automated system to evaluate mining disturbed area extents from Sentinel-2 imagery**|Ezra MacDonald et.al.|[2311.01676](http://arxiv.org/abs/2311.01676)|**[link](https://github.com/macdonaldezra/minesegsat)**|
+|**2023-11-02**|**MemorySeg: Online LiDAR Semantic Segmentation with a Latent Memory**|Enxu Li et.al.|[2311.01556](http://arxiv.org/abs/2311.01556)|null|
 |**2023-11-02**|**AiluRus: A Scalable ViT Framework for Dense Prediction**|Jin Li et.al.|[2311.01197](http://arxiv.org/abs/2311.01197)|**[link](https://github.com/caddyless/ailurus)**|
 |**2023-11-02**|**A deep learning experiment for semantic segmentation of overlapping characters in palimpsests**|Michela Perino et.al.|[2311.01130](http://arxiv.org/abs/2311.01130)|null|
 |**2023-11-02**|**Overhead Line Defect Recognition Based on Unsupervised Semantic Segmentation**|Weixi Wang et.al.|[2311.00979](http://arxiv.org/abs/2311.00979)|null|
@@ -2110,6 +2153,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105](http://arxiv.org/abs/2311.03105)|null|
+|**2023-11-06**|**A New Extrapolation Economy Cascadic Multigrid Method for Image Restoration Problems**|Zhaoteng Chu et.al.|[2311.03010](http://arxiv.org/abs/2311.03010)|null|
+|**2023-11-06**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926](http://arxiv.org/abs/2311.02926)|**[link](https://github.com/meatery/semantic-segmentation)**|
+|**2023-11-03**|**Cascadic Tensor Multigrid Method and Economic Cascadic Tensor Multigrid Method for Image Restoration Problems**|Ziqi Yan et.al.|[2311.01924](http://arxiv.org/abs/2311.01924)|null|
 |**2023-11-02**|**Convergent plug-and-play with proximal denoiser and unconstrained regularization parameter**|Samuel Hurault et.al.|[2311.01216](http://arxiv.org/abs/2311.01216)|null|
 |**2023-10-31**|**Image Restoration with Point Spread Function Regularization and Active Learning**|Peng Jia et.al.|[2311.00186](http://arxiv.org/abs/2311.00186)|null|
 |**2023-10-27**|**Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal**|Yu-Wei Chen et.al.|[2310.18293](http://arxiv.org/abs/2310.18293)|null|
@@ -2218,6 +2265,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Masking Hyperspectral Imaging Data with Pretrained Models**|Elias Arbash et.al.|[2311.03053](http://arxiv.org/abs/2311.03053)|null|
+|**2023-11-06**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989](http://arxiv.org/abs/2311.01989)|null|
 |**2023-11-02**|**Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning**|Gaoang Wang et.al.|[2311.01004](http://arxiv.org/abs/2311.01004)|null|
 |**2023-10-31**|**Joint Depth Prediction and Semantic Segmentation with Multi-View SAM**|Mykhailo Shvets et.al.|[2311.00134](http://arxiv.org/abs/2311.00134)|null|
 |**2023-10-31**|**Team I2R-VI-FF Technical Report on EPIC-KITCHENS VISOR Hand Object Segmentation Challenge 2023**|Fen Fang et.al.|[2310.20120](http://arxiv.org/abs/2310.20120)|null|
