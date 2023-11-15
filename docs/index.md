@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.11.13
+## Updated on 2023.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -84,6 +84,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Lattice relaxation, electronic structure and continuum model for twisted bilayer MoTe $_2$**|Ning Mao et.al.|[2311.07533](http://arxiv.org/abs/2311.07533)|null|
+|**2023-11-13**|**Fine-Tuning the Retrieval Mechanism for Tabular Deep Learning**|Felix den Breejen et.al.|[2311.07343](http://arxiv.org/abs/2311.07343)|null|
+|**2023-11-13**|**C-Procgen: Empowering Procgen with Controllable Contexts**|Zhenxiong Tan et.al.|[2311.07312](http://arxiv.org/abs/2311.07312)|null|
+|**2023-11-13**|**TIAGo RL: Simulated Reinforcement Learning Environments with Tactile Data for Mobile Robots**|Luca Lach et.al.|[2311.07260](http://arxiv.org/abs/2311.07260)|null|
+|**2023-11-13**|**Developing a Named Entity Recognition Dataset for Tagalog**|Lester James V. Miranda et.al.|[2311.07161](http://arxiv.org/abs/2311.07161)|null|
+|**2023-11-13**|**PICS in Pics: Physics Informed Contour Selection for Rapid Image Segmentation**|Vikas Dwivedi et.al.|[2311.07002](http://arxiv.org/abs/2311.07002)|null|
+|**2023-11-12**|**Sharing, Teaching and Aligning: Knowledgeable Transfer Learning for Cross-Lingual Machine Reading Comprehension**|Tingfeng Cao et.al.|[2311.06758](http://arxiv.org/abs/2311.06758)|null|
+|**2023-11-12**|**Transfer Learning to Detect COVID-19 Coughs with Incremental Addition of Patient Coughs to Healthy People's Cough Detection Models**|Sudip Vhaduri et.al.|[2311.06707](http://arxiv.org/abs/2311.06707)|null|
+|**2023-11-10**|**Transfer Learning for Structured Pruning under Limited Task Data**|Lucio Dery et.al.|[2311.06382](http://arxiv.org/abs/2311.06382)|null|
+|**2023-11-10**|**Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks**|Bin Xiao et.al.|[2311.06242](http://arxiv.org/abs/2311.06242)|null|
+|**2023-11-10**|**Deep learning segmentation of fibrous cap in intravascular optical coherence tomography images**|Juhwan Lee et.al.|[2311.06202](http://arxiv.org/abs/2311.06202)|null|
+|**2023-11-10**|**Cluster Expansion by Transfer Learning from Empirical Potentials**|A. Dana et.al.|[2311.06179](http://arxiv.org/abs/2311.06179)|**[link](https://github.com/MosaicGroupPSU/orbis)**|
+|**2023-11-10**|**Deep Fast Vision: A Python Library for Accelerated Deep Transfer Learning Vision Prototyping**|Fabi Prezja et.al.|[2311.06169](http://arxiv.org/abs/2311.06169)|**[link](https://github.com/fabprezja/deep-fast-vision)**|
+|**2023-11-10**|**Comparing Male Nyala and Male Kudu Classification using Transfer Learning with ResNet-50 and VGG-16**|T. T Lemani et.al.|[2311.05981](http://arxiv.org/abs/2311.05981)|null|
+|**2023-11-10**|**Adaptive Variance Thresholding: A Novel Approach to Improve Existing Deep Transfer Vision Models and Advance Automatic Knee-Joint Osteoarthritis Classification**|Fabi Prezja et.al.|[2311.05799](http://arxiv.org/abs/2311.05799)|null|
+|**2023-11-09**|**Deep Learning Architecture for Network-Efficiency at the Edge**|Akrit Mudvari et.al.|[2311.05739](http://arxiv.org/abs/2311.05739)|null|
+|**2023-11-09**|**Enhancing Instance-Level Image Classification with Set-Level Labels**|Renyu Zhang et.al.|[2311.05659](http://arxiv.org/abs/2311.05659)|null|
 |**2023-11-09**|**Disentangling Quantum and Classical Contributions in Hybrid Quantum Machine Learning Architectures**|Michael Kölle et.al.|[2311.05559](http://arxiv.org/abs/2311.05559)|null|
 |**2023-11-09**|**Generalization in medical AI: a perspective on developing scalable models**|Joachim A. Behar et.al.|[2311.05418](http://arxiv.org/abs/2311.05418)|null|
 |**2023-11-09**|**Weakly-supervised Deep Cognate Detection Framework for Low-Resourced Languages Using Morphological Knowledge of Closely-Related Languages**|Koustava Goswami et.al.|[2311.05155](http://arxiv.org/abs/2311.05155)|**[link](https://github.com/koustavagoswami/weakly_supervised-cognate_detection)**|
@@ -642,6 +659,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
+|**2023-11-13**|**Robust semi-supervised segmentation with timestep ensembling diffusion models**|Margherita Rosnati et.al.|[2311.07421](http://arxiv.org/abs/2311.07421)|null|
+|**2023-11-13**|**Zero-Shot Duet Singing Voices Separation with Diffusion Models**|Chin-Yun Yu et.al.|[2311.07345](http://arxiv.org/abs/2311.07345)|null|
+|**2023-11-13**|**A Gaussian Process Based Method with Deep Kernel Learning for Pricing High-dimensional American Options**|Jirong Zhuang et.al.|[2311.07211](http://arxiv.org/abs/2311.07211)|null|
+|**2023-11-13**|**MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model**|Shuwei Shao et.al.|[2311.07198](http://arxiv.org/abs/2311.07198)|**[link](https://github.com/shuweishao/monodiffusion)**|
+|**2023-11-13**|**Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models**|Yuanbin Cheng et.al.|[2311.07110](http://arxiv.org/abs/2311.07110)|null|
+|**2023-11-12**|**Augmented Bridge Matching**|Valentin De Bortoli et.al.|[2311.06978](http://arxiv.org/abs/2311.06978)|null|
+|**2023-11-12**|**Sampler Scheduler for Diffusion Models**|Zitong Cheng et.al.|[2311.06845](http://arxiv.org/abs/2311.06845)|**[link](https://github.com/carzit/sd-webui-samplers-scheduler)**|
+|**2023-11-12**|**IMPUS: Image Morphing with Perceptually-Uniform Sampling Using Diffusion Models**|Zhaoyuan Yang et.al.|[2311.06792](http://arxiv.org/abs/2311.06792)|null|
+|**2023-11-11**|**A 3D Conditional Diffusion Model for Image Quality Transfer -- An Application to Low-Field MRI**|Seunghoi Kim et.al.|[2311.06631](http://arxiv.org/abs/2311.06631)|**[link](https://github.com/edshkim98/diffusioniqt)**|
+|**2023-11-11**|**Generative AI for Space-Air-Ground Integrated Networks (SAGIN)**|Ruichen Zhang et.al.|[2311.06523](http://arxiv.org/abs/2311.06523)|null|
+|**2023-11-11**|**Adversarial Fine-tuning using Generated Respiratory Sound to Address Class Imbalance**|June-Woo Kim et.al.|[2311.06480](http://arxiv.org/abs/2311.06480)|null|
+|**2023-11-10**|**On degenerate reaction-diffusion epidemic models with mass action or standard incidence mechanism**|Rachidi Salako et.al.|[2311.06434](http://arxiv.org/abs/2311.06434)|null|
+|**2023-11-10**|**Post-training Quantization with Progressive Calibration and Activation Relaxing for Text-to-Image Diffusion Models**|Siao Tang et.al.|[2311.06322](http://arxiv.org/abs/2311.06322)|null|
+|**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243](http://arxiv.org/abs/2311.06243)|null|
+|**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222](http://arxiv.org/abs/2311.06222)|null|
+|**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
+|**2023-11-10**|**Enhancing Rock Image Segmentation in Digital Rock Physics: A Fusion of Generative AI and State-of-the-Art Neural Networks**|Zhaoyang Ma et.al.|[2311.06079](http://arxiv.org/abs/2311.06079)|null|
+|**2023-11-10**|**Semantic Map Guided Synthesis of Wireless Capsule Endoscopy Images using Diffusion Models**|Haejin Lee et.al.|[2311.05889](http://arxiv.org/abs/2311.05889)|null|
+|**2023-11-10**|**Diffusion Shape Prior for Wrinkle-Accurate Cloth Registration**|Jingfan Guo et.al.|[2311.05828](http://arxiv.org/abs/2311.05828)|null|
 |**2023-11-09**|**LCM-LoRA: A Universal Stable-Diffusion Acceleration Module**|Simian Luo et.al.|[2311.05556](http://arxiv.org/abs/2311.05556)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
 |**2023-11-09**|**Onset of pattern formation for the stochastic Allen-Cahn equation**|Stella Brassesco et.al.|[2311.05526](http://arxiv.org/abs/2311.05526)|null|
 |**2023-11-09**|**3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models**|Haibo Yang et.al.|[2311.05464](http://arxiv.org/abs/2311.05464)|**[link](https://github.com/yanghb22-fdu/3dstyle-diffusion-official)**|
@@ -1628,6 +1665,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Temporal Performance Prediction for Deep Convolutional Long Short-Term Memory Networks**|Laura Fieback et.al.|[2311.07477](http://arxiv.org/abs/2311.07477)|null|
+|**2023-11-13**|**Simultaneous Clutter Detection and Semantic Segmentation of Moving Objects for Automotive Radar Data**|Johannes Kopp et.al.|[2311.07247](http://arxiv.org/abs/2311.07247)|null|
+|**2023-11-13**|**SpectralGPT: Spectral Foundation Model**|Danfeng Hong et.al.|[2311.07113](http://arxiv.org/abs/2311.07113)|null|
+|**2023-11-11**|**Unsupervised and semi-supervised co-salient object detection via segmentation frequency statistics**|Souradeep Chakraborty et.al.|[2311.06654](http://arxiv.org/abs/2311.06654)|null|
+|**2023-11-10**|**Lidar-based Norwegian tree species detection using deep learning**|Martijn Vermeer et.al.|[2311.06066](http://arxiv.org/abs/2311.06066)|null|
+|**2023-11-09**|**PolyMaX: General Dense Prediction with Mask Transformer**|Xuan Yang et.al.|[2311.05770](http://arxiv.org/abs/2311.05770)|**[link](https://github.com/google-research/deeplab2)**|
 |**2023-11-09**|**TLCFuse: Temporal Multi-Modality Fusion Towards Occlusion-Aware Semantic Segmentation-Aided Motion Planning**|Gustavo Salazar-Gomez et.al.|[2311.05319](http://arxiv.org/abs/2311.05319)|null|
 |**2023-11-09**|**Reducing the Side-Effects of Oscillations in Training of Quantized YOLO Networks**|Kartik Gupta et.al.|[2311.05109](http://arxiv.org/abs/2311.05109)|null|
 |**2023-11-07**|**Data exploitation: multi-task learning of object detection and semantic segmentation on partially annotated data**|Hoàng-Ân Lê et.al.|[2311.04040](http://arxiv.org/abs/2311.04040)|null|
@@ -2310,6 +2353,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images**|Yinsong Xu et.al.|[2311.06400](http://arxiv.org/abs/2311.06400)|null|
 |**2023-11-09**|**SAMVG: A Multi-stage Image Vectorization Model with the Segment-Anything Model**|Haokun Zhu et.al.|[2311.05276](http://arxiv.org/abs/2311.05276)|null|
 |**2023-11-08**|**Are foundation models efficient for medical image segmentation?**|Danielle Ferreira et.al.|[2311.04847](http://arxiv.org/abs/2311.04847)|null|
 |**2023-11-06**|**Masking Hyperspectral Imaging Data with Pretrained Models**|Elias Arbash et.al.|[2311.03053](http://arxiv.org/abs/2311.03053)|**[link](https://github.com/hifexplo/masking)**|
