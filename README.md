@@ -5,7 +5,7 @@
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.11.22
+## Updated on 2023.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,12 +28,14 @@
 |**2021-09-09**|**Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders**|Fangyu Liu et.al.|[2104.08027](http://arxiv.org/abs/2104.08027)|**[link](https://github.com/cambridgeltl/mirror-bert)**|
 |**2022-07-11**|**Learned Camera Gain and Exposure Control for Improved Visual Feature Detection and Matching**|Justin Tomasi et.al.|[2102.04341](http://arxiv.org/abs/2102.04341)|null|
 
-<p align=right>(<a href=#Updated-on-20231122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
 
 ## edge detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Reconfigurable Image Processing Metasurfaces with Phase-Change Materials**|Michele Cotrufo et.al.|[2311.13109](http://arxiv.org/abs/2311.13109)|null|
+|**2023-11-21**|**Unveiling the cosmic dawn and epoch of reionization using cosmic 21-cm signal**|Ankita Bera et.al.|[2311.13019](http://arxiv.org/abs/2311.13019)|null|
 |**2023-11-16**|**Depth Insight -- Contribution of Different Features to Indoor Single-image Depth Estimation**|Yihong Wu et.al.|[2311.10042](http://arxiv.org/abs/2311.10042)|null|
 |**2023-11-14**|**RoboSense At Edge: Detecting Slip, Crumple and Shape of the Object in Robotic Hand for Teleoprations**|Sudev Kumar Padhi et.al.|[2311.07888](http://arxiv.org/abs/2311.07888)|null|
 |**2023-10-28**|**Tracking and fast imaging of a translational object via Fourier modulation**|Shijian Li et.al.|[2310.18732](http://arxiv.org/abs/2310.18732)|null|
@@ -93,12 +95,20 @@
 |**2023-03-02**|**Scalable optical neural networks based on temporal computing**|Shuang Zheng et.al.|[2303.01287](http://arxiv.org/abs/2303.01287)|null|
 |**2023-03-26**|**Attention-based Point Cloud Edge Sampling**|Chengzhi Wu et.al.|[2302.14673](http://arxiv.org/abs/2302.14673)|**[link](https://github.com/JunweiZheng93/APES)**|
 
-<p align=right>(<a href=#Updated-on-20231122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
 
 ## transfer learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Transfer Learning-based Real-time Handgun Detection**|Youssef Elmir et.al.|[2311.13559](http://arxiv.org/abs/2311.13559)|null|
+|**2023-11-22**|**Recurrent neural networks and transfer learning for elasto-plasticity in woven composites**|Ehsan Ghane et.al.|[2311.13434](http://arxiv.org/abs/2311.13434)|null|
+|**2023-11-21**|**InteRACT: Transformer Models for Human Intent Prediction Conditioned on Robot Actions**|Kushal Kedia et.al.|[2311.12943](http://arxiv.org/abs/2311.12943)|null|
+|**2023-11-21**|**Digital Twin Framework for Optimal and Autonomous Decision-Making in Cyber-Physical Systems: Enhancing Reliability and Adaptability in the Oil and Gas Industry**|Carine Menezes Rebello et.al.|[2311.12755](http://arxiv.org/abs/2311.12755)|null|
+|**2023-11-21**|**Resilient Control of Networked Microgrids using Vertical Federated Reinforcement Learning: Designs and Real-Time Test-Bed Validations**|Sayak Mukherjee et.al.|[2311.12264](http://arxiv.org/abs/2311.12264)|null|
+|**2023-11-20**|**Broadband non-thermal emission of odd radio circles induced by galactic outflow remnants and their evolution**|Yutaka Fujita et.al.|[2311.12099](http://arxiv.org/abs/2311.12099)|null|
+|**2023-11-17**|**Using Guided Transfer Learning to Predispose AI Agent to Learn Efficiently from Small RNA-sequencing Datasets**|Kevin Li et.al.|[2311.12045](http://arxiv.org/abs/2311.12045)|null|
+|**2023-11-17**|**TransCDR: a deep learning model for enhancing the generalizability of cancer drug response prediction through transfer learning and multimodal data fusion for drug representation**|Xiaoqiong Xia et.al.|[2311.12040](http://arxiv.org/abs/2311.12040)|**[link](https://github.com/xiaoqiongxia/transcdr)**|
 |**2023-11-20**|**High-performance cVEP-BCI under minimal calibration**|Yining Miao et.al.|[2311.11596](http://arxiv.org/abs/2311.11596)|null|
 |**2023-11-20**|**Event Camera Data Dense Pre-training**|Yan Yang et.al.|[2311.11533](http://arxiv.org/abs/2311.11533)|null|
 |**2023-11-19**|**Towards interpretable-by-design deep learning algorithms**|Plamen Angelov et.al.|[2311.11396](http://arxiv.org/abs/2311.11396)|null|
@@ -690,12 +700,31 @@
 |**2023-05-31**|**Deep into The Domain Shift: Transfer Learning through Dependence Regularization**|Shumin Ma et.al.|[2305.19499](http://arxiv.org/abs/2305.19499)|**[link](https://github.com/yzr1991/deep_into_the_domain_shift)**|
 |**2023-05-30**|**Transfer Learning With Efficient Estimators to Optimally Leverage Historical Data in Analysis of Randomized Trials**|Lauren D. Liao et.al.|[2305.19180](http://arxiv.org/abs/2305.19180)|**[link](https://github.com/ldliao/tl4rct)**|
 
-<p align=right>(<a href=#Updated-on-20231122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
 
 ## diffusion model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space**|Katja Schwarz et.al.|[2311.13570](http://arxiv.org/abs/2311.13570)|null|
+|**2023-11-22**|**ADriver-I: A General World Model for Autonomous Driving**|Fan Jia et.al.|[2311.13549](http://arxiv.org/abs/2311.13549)|null|
+|**2023-11-22**|**DiffusionMat: Alpha Matting as Sequential Refinement Learning**|Yangyang Xu et.al.|[2311.13535](http://arxiv.org/abs/2311.13535)|null|
+|**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466](http://arxiv.org/abs/2311.13466)|null|
+|**2023-11-22**|**Guided Flows for Generative Modeling and Decision Making**|Qinqing Zheng et.al.|[2311.13443](http://arxiv.org/abs/2311.13443)|null|
+|**2023-11-22**|**Recognition-Guided Diffusion Model for Scene Text Image Super-Resolution**|Yuxuan Zhou et.al.|[2311.13317](http://arxiv.org/abs/2311.13317)|null|
+|**2023-11-22**|**Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**|Kai Yang et.al.|[2311.13231](http://arxiv.org/abs/2311.13231)|null|
+|**2023-11-22**|**Diffusion360: Seamless 360 Degree Panoramic Image Generation based on Diffusion Models**|Mengyang Feng et.al.|[2311.13141](http://arxiv.org/abs/2311.13141)|null|
+|**2023-11-22**|**Toward Robust Imperceptible Perturbation against Unauthorized Text-to-image Diffusion-based Synthesis**|Yixin Liu et.al.|[2311.13127](http://arxiv.org/abs/2311.13127)|null|
+|**2023-11-22**|**On the Limitation of Diffusion Models for Synthesizing Training Datasets**|Shin'ya Yamaguchi et.al.|[2311.13090](http://arxiv.org/abs/2311.13090)|null|
+|**2023-11-22**|**FusionFrames: Efficient Architectural Aspects for Text-to-Video Generation Pipeline**|Vladimir Arkhipkin et.al.|[2311.13073](http://arxiv.org/abs/2311.13073)|null|
+|**2023-11-21**|**Diffusion Model Alignment Using Direct Preference Optimization**|Bram Wallace et.al.|[2311.12908](http://arxiv.org/abs/2311.12908)|null|
+|**2023-11-21**|**Text-Guided Texturing by Synchronized Multi-View Diffusion**|Yuxin Liu et.al.|[2311.12891](http://arxiv.org/abs/2311.12891)|null|
+|**2023-11-21**|**Fine-Grained Open Domain Image Animation with Motion Guidance**|Zuozhuo Dai et.al.|[2311.12886](http://arxiv.org/abs/2311.12886)|null|
+|**2023-11-21**|**GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning**|Jiaxi Lv et.al.|[2311.12631](http://arxiv.org/abs/2311.12631)|null|
+|**2023-11-21**|**Stable Diffusion For Aerial Object Detection**|Yanan Jian et.al.|[2311.12345](http://arxiv.org/abs/2311.12345)|null|
+|**2023-11-21**|**LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis**|Peiang Zhao et.al.|[2311.12342](http://arxiv.org/abs/2311.12342)|null|
+|**2023-11-20**|**NeuroPrompts: An Adaptive Framework to Optimize Prompts for Text-to-Image Generation**|Shachar Rosenman et.al.|[2311.12229](http://arxiv.org/abs/2311.12229)|null|
+|**2023-11-20**|**Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models**|Rohit Gandikota et.al.|[2311.12092](http://arxiv.org/abs/2311.12092)|**[link](https://github.com/rohitgandikota/sliders)**|
 |**2023-11-20**|**An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2311.11919](http://arxiv.org/abs/2311.11919)|null|
 |**2023-11-20**|**Multiplicative noise removal based on a variable-order fractional diffusion model**|Yuhang Li et.al.|[2311.11680](http://arxiv.org/abs/2311.11680)|null|
 |**2023-11-20**|**Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model**|Chunming He et.al.|[2311.11638](http://arxiv.org/abs/2311.11638)|**[link](https://github.com/chunminghe/reti-diff)**|
@@ -1748,12 +1777,20 @@
 |**2023-06-01**|**Random advection-diffusion models and their statistics**|Stefano Lepri et.al.|[2306.00463](http://arxiv.org/abs/2306.00463)|null|
 |**2023-06-01**|**Controllable Motion Diffusion Model**|Yi Shi et.al.|[2306.00416](http://arxiv.org/abs/2306.00416)|null|
 
-<p align=right>(<a href=#Updated-on-20231122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
 
 ## semantic segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**DA-STC: Domain Adaptive Video Semantic Segmentation via Spatio-Temporal Consistency**|Zhe Zhang et.al.|[2311.13254](http://arxiv.org/abs/2311.13254)|**[link](https://github.com/zhe-sapi/da-stc)**|
+|**2023-11-22**|**Self-guided Few-shot Semantic Segmentation for Remote Sensing Imagery Based on Large Vision Models**|Xiyu Qi et.al.|[2311.13200](http://arxiv.org/abs/2311.13200)|null|
+|**2023-11-22**|**FuseNet: Self-Supervised Dual-Path Network for Medical Image Segmentation**|Amirhossein Kazerouni et.al.|[2311.13069](http://arxiv.org/abs/2311.13069)|null|
+|**2023-11-21**|**AI for Agriculture: the Comparison of Semantic Segmentation Methods for Crop Mapping with Sentinel-2 Imagery**|Irina Korotkova et.al.|[2311.12993](http://arxiv.org/abs/2311.12993)|null|
+|**2023-11-21**|**Mobile-Seed: Joint Semantic Segmentation and Boundary Detection for Mobile Robots**|Youqi Liao et.al.|[2311.12651](http://arxiv.org/abs/2311.12651)|null|
+|**2023-11-21**|**Instance-aware 3D Semantic Segmentation powered by Shape Generators and Classifiers**|Bo Sun et.al.|[2311.12291](http://arxiv.org/abs/2311.12291)|null|
+|**2023-11-20**|**Disentangling Structure and Appearance in ViT Feature Space**|Narek Tumanyan et.al.|[2311.12193](http://arxiv.org/abs/2311.12193)|null|
+|**2023-11-20**|**Model-aware 3D Eye Gaze from Weak and Few-shot Supervisions**|Nikola Popovic et.al.|[2311.12157](http://arxiv.org/abs/2311.12157)|**[link](https://github.com/dimitris-christodoulou57/model-aware_3d_eye_gaze)**|
 |**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863](http://arxiv.org/abs/2311.11863)|null|
 |**2023-11-20**|**Predicting urban tree cover from incomplete point labels and limited background information**|Hui Zhang et.al.|[2311.11592](http://arxiv.org/abs/2311.11592)|null|
 |**2023-11-20**|**Generalized Category Discovery in Semantic Segmentation**|Zhengyuan Peng et.al.|[2311.11525](http://arxiv.org/abs/2311.11525)|**[link](https://github.com/jethropeng/gcdss)**|
@@ -2337,7 +2374,7 @@
 |**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957](http://arxiv.org/abs/2305.15957)|null|
 |**2023-05-25**|**Knowledge Diffusion for Distillation**|Tao Huang et.al.|[2305.15712](http://arxiv.org/abs/2305.15712)|**[link](https://github.com/hunto/diffkd)**|
 
-<p align=right>(<a href=#Updated-on-20231122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
 
 ## image restoration
 
@@ -2345,13 +2382,13 @@
 |---|---|---|---|---|
 |**2023-11-20**|**Clarity ChatGPT: An Interactive and Adaptive Processing System for Image Restoration and Enhancement**|Yanyan Wei et.al.|[2311.11695](http://arxiv.org/abs/2311.11695)|null|
 |**2023-11-20**|**Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model**|Chunming He et.al.|[2311.11638](http://arxiv.org/abs/2311.11638)|**[link](https://github.com/chunminghe/reti-diff)**|
-|**2023-11-20**|**Deep Equilibrium Diffusion Restoration with Parallel Sampling**|Jiezhang Cao et.al.|[2311.11600](http://arxiv.org/abs/2311.11600)|null|
+|**2023-11-20**|**Deep Equilibrium Diffusion Restoration with Parallel Sampling**|Jiezhang Cao et.al.|[2311.11600](http://arxiv.org/abs/2311.11600)|**[link](https://github.com/caojiezhang/deqir)**|
 |**2023-11-14**|**The Perception-Robustness Tradeoff in Deterministic Image Restoration**|Guy Ohayon et.al.|[2311.09253](http://arxiv.org/abs/2311.09253)|null|
 |**2023-11-09**|**Dynamic Association Learning of Self-Attention and Convolution in Image Restoration**|Kui Jiang et.al.|[2311.05147](http://arxiv.org/abs/2311.05147)|null|
 |**2023-11-08**|**LuminanceL1Loss: A loss function which measures percieved brightness and colour differences**|Dominic De Jonge et.al.|[2311.04614](http://arxiv.org/abs/2311.04614)|null|
-|**2023-11-07**|**Energy-based Calibrated VAE with Test Time Free Lunch**|Yihong Luo et.al.|[2311.04071](http://arxiv.org/abs/2311.04071)|null|
+|**2023-11-21**|**Energy-Calibrated VAE with Test Time Free Lunch**|Yihong Luo et.al.|[2311.04071](http://arxiv.org/abs/2311.04071)|null|
 |**2023-11-07**|**Constrained Regularization by Denoising with Automatic Parameter Selection**|Pasquale Cascarano et.al.|[2311.03819](http://arxiv.org/abs/2311.03819)|null|
-|**2023-11-06**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105](http://arxiv.org/abs/2311.03105)|null|
+|**2023-11-22**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105](http://arxiv.org/abs/2311.03105)|null|
 |**2023-11-06**|**A New Extrapolation Economy Cascadic Multigrid Method for Image Restoration Problems**|Zhaoteng Chu et.al.|[2311.03010](http://arxiv.org/abs/2311.03010)|null|
 |**2023-11-08**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926](http://arxiv.org/abs/2311.02926)|**[link](https://github.com/meatery/semantic-segmentation)**|
 |**2023-11-03**|**Cascadic Tensor Multigrid Method and Economic Cascadic Tensor Multigrid Method for Image Restoration Problems**|Ziqi Yan et.al.|[2311.01924](http://arxiv.org/abs/2311.01924)|null|
@@ -2459,12 +2496,17 @@
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
 |**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979](http://arxiv.org/abs/2305.07979)|**[link](https://github.com/yunguo224/ug2_deraining)**|
 
-<p align=right>(<a href=#Updated-on-20231122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Self-guided Few-shot Semantic Segmentation for Remote Sensing Imagery Based on Large Vision Models**|Xiyu Qi et.al.|[2311.13200](http://arxiv.org/abs/2311.13200)|null|
+|**2023-11-21**|**Novel OCT mosaicking pipeline with Feature- and Pixel-based registration**|Jiacheng Wang et.al.|[2311.13052](http://arxiv.org/abs/2311.13052)|null|
+|**2023-11-21**|**GMISeg: General Medical Image Segmentation without Re-Training**|Jing Xu et.al.|[2311.12539](http://arxiv.org/abs/2311.12539)|null|
+|**2023-11-20**|**Broadband non-thermal emission of odd radio circles induced by galactic outflow remnants and their evolution**|Yutaka Fujita et.al.|[2311.12099](http://arxiv.org/abs/2311.12099)|null|
+|**2023-11-19**|**Few-Shot Classification & Segmentation Using Large Language Models Agent**|Tian Meng et.al.|[2311.12065](http://arxiv.org/abs/2311.12065)|null|
 |**2023-11-20**|**SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks**|Jin Ye et.al.|[2311.11969](http://arxiv.org/abs/2311.11969)|**[link](https://github.com/OpenGVLab/SAM-Med2D)**|
 |**2023-11-19**|**GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure**|Rafi Ibn Sultan et.al.|[2311.11319](http://arxiv.org/abs/2311.11319)|null|
 |**2023-11-18**|**A Foundation Model for Cell Segmentation**|Uriah Israel et.al.|[2311.11004](http://arxiv.org/abs/2311.11004)|null|
@@ -2597,7 +2639,7 @@
 |**2023-06-14**|**TomoSAM: a 3D Slicer extension using SAM for tomography segmentation**|Federico Semeraro et.al.|[2306.08609](http://arxiv.org/abs/2306.08609)|**[link](https://github.com/fsemerar/slicertomosam)**|
 |**2023-06-13**|**Robustness of SAM: Segment Anything Under Corruptions and Beyond**|Yu Qiao et.al.|[2306.07713](http://arxiv.org/abs/2306.07713)|null|
 
-<p align=right>(<a href=#Updated-on-20231122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
