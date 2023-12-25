@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2023.12.22
+## Updated on 2023.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al.|[2312.14053](http://arxiv.org/abs/2312.14053)|**[link](https://github.com/rashaalshawi/dual-attention-u-net-with-feature-infusion-pushing-the-boundaries-of-multiclass-defect-segmentation)**|
 |**2023-12-14**|**Automated Grain Boundary Detection for Bright-Field Transmission Electron Microscopy Images via U-Net**|Matthew J. Patrick et.al.|[2312.09392](http://arxiv.org/abs/2312.09392)|null|
 |**2023-12-10**|**Polar Linear Canonical Wavelet Transform: Theory and Its Application**|Hui Zhao et.al.|[2312.06702](http://arxiv.org/abs/2312.06702)|null|
 |**2023-12-09**|**A fast numerical algorithm for finding all real solutions to a system of N nonlinear equations in a finite domain**|Fernando Chueca-Diez et.al.|[2312.03927](http://arxiv.org/abs/2312.03927)|null|
@@ -95,8 +96,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**BrainTalker: Low-Resource Brain-to-Speech Synthesis with Transfer Learning using Wav2Vec 2.0**|Miseul Kim et.al.|[2312.13600](http://arxiv.org/abs/2312.13600)|null|
+|**2023-12-21**|**Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns**|Yifei Sun et.al.|[2312.13583](http://arxiv.org/abs/2312.13583)|**[link](https://github.com/zjunet/G-Tuning)**|
+|**2023-12-20**|**Bayesian Transfer Learning**|Piotr M. Suder et.al.|[2312.13484](http://arxiv.org/abs/2312.13484)|null|
 |**2023-12-20**|**1D-CNN Optimization for Non-contact Respiration Pattern Classification**|Md Zobaer Islam et.al.|[2312.13035](http://arxiv.org/abs/2312.13035)|null|
-|**2023-12-20**|**Heterogeneous Transfer Learning for Building High-Dimensional Generalized Linear Models with Disparate Datasets**|Ruzhang Zhao et.al.|[2312.12786](http://arxiv.org/abs/2312.12786)|null|
+|**2023-12-20**|**Heterogeneous Transfer Learning for Building High-Dimensional Generalized Linear Models with Disparate Datasets**|Ruzhang Zhao et.al.|[2312.12786](http://arxiv.org/abs/2312.12786)|**[link](https://github.com/ruzhangzhao/htlgmm)**|
 |**2023-12-20**|**A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models**|Julio Silva-Rodriguez et.al.|[2312.12730](http://arxiv.org/abs/2312.12730)|**[link](https://github.com/jusiro/clap)**|
 |**2023-12-19**|**H-ensemble: An Information Theoretic Approach to Reliable Few-Shot Multi-Source-Free Transfer**|Yanru Wu et.al.|[2312.12489](http://arxiv.org/abs/2312.12489)|null|
 |**2023-12-19**|**Value Explicit Pretraining for Goal-Based Transfer Learning**|Kiran Lekkala et.al.|[2312.12339](http://arxiv.org/abs/2312.12339)|null|
@@ -111,7 +115,7 @@ layout: default
 |**2023-12-16**|**Optimizing Dense Feed-Forward Neural Networks**|Luis Balderas et.al.|[2312.10560](http://arxiv.org/abs/2312.10560)|null|
 |**2023-12-15**|**One Self-Configurable Model to Solve Many Abstract Visual Reasoning Problems**|Mikołaj Małkiński et.al.|[2312.09997](http://arxiv.org/abs/2312.09997)|null|
 |**2023-12-18**|**Multi-Modality is All You Need for Transferable Recommender Systems**|Youhua Li et.al.|[2312.09602](http://arxiv.org/abs/2312.09602)|**[link](https://github.com/icde24/pmmrec)**|
-|**2023-12-18**|**GraphAr: An Efficient Storage Scheme for Graph Data in Data Lakes**|Xue Li et.al.|[2312.09577](http://arxiv.org/abs/2312.09577)|**[link](https://github.com/alibaba/graphar)**|
+|**2023-12-21**|**Enhancing Data Lakes with GraphAr: Efficient Graph Data Management with a Specialized Storage Scheme**|Xue Li et.al.|[2312.09577](http://arxiv.org/abs/2312.09577)|**[link](https://github.com/alibaba/graphar)**|
 |**2023-12-14**|**Weight subcloning: direct initialization of transformers using larger pretrained ones**|Mohammad Samragh et.al.|[2312.09299](http://arxiv.org/abs/2312.09299)|null|
 |**2023-12-14**|**Bayesian Optimization for Robust State Preparation in Quantum Many-Body Systems**|Tizian Blatz et.al.|[2312.09253](http://arxiv.org/abs/2312.09253)|null|
 |**2023-12-14**|**Applying Pre-Trained Deep-Learning Model on Wrist Angel Data -- An Analysis Plan**|Harald Vilhelm Skat-Rørdam et.al.|[2312.09052](http://arxiv.org/abs/2312.09052)|null|
@@ -808,15 +812,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-20**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271](http://arxiv.org/abs/2312.13271)|**[link](https://github.com/junwuzhang19/repaint123)**|
+|**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
+|**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124](http://arxiv.org/abs/2312.14124)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
+|**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091](http://arxiv.org/abs/2312.14091)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
+|**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980](http://arxiv.org/abs/2312.13980)|null|
+|**2023-12-21**|**Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models**|Xianfang Zeng et.al.|[2312.13913](http://arxiv.org/abs/2312.13913)|**[link](https://github.com/opentexture/paint3d)**|
+|**2023-12-21**|**Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**|Huan Ling et.al.|[2312.13763](http://arxiv.org/abs/2312.13763)|null|
+|**2023-12-21**|**Free-Editor: Zero-shot Text-driven 3D Scene Editing**|Nazmul Karim et.al.|[2312.13663](http://arxiv.org/abs/2312.13663)|null|
+|**2023-12-21**|**Diff-Oracle: Diffusion Model for Oracle Character Generation with Controllable Styles and Contents**|Jing Li et.al.|[2312.13631](http://arxiv.org/abs/2312.13631)|null|
+|**2023-12-21**|**Navigating the Structured What-If Spaces: Counterfactual Generation via Structured Diffusion**|Nishtha Madaan et.al.|[2312.13616](http://arxiv.org/abs/2312.13616)|null|
+|**2023-12-21**|**Front stability of infinitely steep travelling waves in population biology**|Matthew J Simpson et.al.|[2312.13601](http://arxiv.org/abs/2312.13601)|**[link](https://github.com/alex-tam/onephase_porousfisherstefanstability)**|
+|**2023-12-20**|**Unlocking Pre-trained Image Backbones for Semantic Image Synthesis**|Tariq Berrada et.al.|[2312.13314](http://arxiv.org/abs/2312.13314)|null|
+|**2023-12-21**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271](http://arxiv.org/abs/2312.13271)|**[link](https://github.com/junwuzhang19/repaint123)**|
 |**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253](http://arxiv.org/abs/2312.13253)|null|
 |**2023-12-20**|**Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model**|Saurabh Saxena et.al.|[2312.13252](http://arxiv.org/abs/2312.13252)|null|
 |**2023-12-20**|**Diffusion Models With Learned Adaptive Noise**|Subham Sekhar Sahoo et.al.|[2312.13236](http://arxiv.org/abs/2312.13236)|**[link](https://github.com/s-sahoo/mulan)**|
-|**2023-12-20**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016](http://arxiv.org/abs/2312.13016)|**[link](https://github.com/FreedomGu/DiffPortrait3D)**|
+|**2023-12-21**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016](http://arxiv.org/abs/2312.13016)|**[link](https://github.com/FreedomGu/DiffPortrait3D)**|
 |**2023-12-20**|**RadEdit: stress-testing biomedical vision models via diffusion image editing**|Fernando Pérez-García et.al.|[2312.12865](http://arxiv.org/abs/2312.12865)|null|
 |**2023-12-20**|**ReCo-Diff: Explore Retinex-Based Condition Strategy in Diffusion Model for Low-Light Image Enhancement**|Yuhui Wu et.al.|[2312.12826](http://arxiv.org/abs/2312.12826)|null|
 |**2023-12-20**|**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models**|Seunghoo Hong et.al.|[2312.12807](http://arxiv.org/abs/2312.12807)|null|
-|**2023-12-20**|**AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion**|Beibei Jing et.al.|[2312.12763](http://arxiv.org/abs/2312.12763)|null|
+|**2023-12-21**|**AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion**|Beibei Jing et.al.|[2312.12763](http://arxiv.org/abs/2312.12763)|null|
 |**2023-12-20**|**How Good Are Deep Generative Models for Solving Inverse Problems?**|Shichong Peng et.al.|[2312.12691](http://arxiv.org/abs/2312.12691)|null|
 |**2023-12-19**|**Surf-CDM: Score-Based Surface Cold-Diffusion Model For Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2312.12649](http://arxiv.org/abs/2312.12649)|null|
 |**2023-12-19**|**Fixed-point Inversion for Text-to-image diffusion models**|Barak Meiri et.al.|[2312.12540](http://arxiv.org/abs/2312.12540)|null|
@@ -2103,6 +2118,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149](http://arxiv.org/abs/2312.14149)|**[link](https://github.com/Qinying-Liu/TagAlign_code)**|
+|**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al.|[2312.14053](http://arxiv.org/abs/2312.14053)|**[link](https://github.com/rashaalshawi/dual-attention-u-net-with-feature-infusion-pushing-the-boundaries-of-multiclass-defect-segmentation)**|
+|**2023-12-21**|**Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection**|Soopil Kim et.al.|[2312.13783](http://arxiv.org/abs/2312.13783)|null|
+|**2023-12-21**|**Weakly Supervised Semantic Segmentation for Driving Scenes**|Dongseob Kim et.al.|[2312.13646](http://arxiv.org/abs/2312.13646)|**[link](https://github.com/k0u-id/carb)**|
+|**2023-12-20**|**DVIS++: Improved Decoupled Framework for Universal Video Segmentation**|Tao Zhang et.al.|[2312.13305](http://arxiv.org/abs/2312.13305)|**[link](https://github.com/zhang-tao-whu/DVIS_Plus)**|
 |**2023-12-20**|**BEVSeg2TP: Surround View Camera Bird's-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction**|Sushil Sharma et.al.|[2312.13081](http://arxiv.org/abs/2312.13081)|null|
 |**2023-12-20**|**Multi-task Learning To Improve Semantic Segmentation Of CBCT Scans Using Image Reconstruction**|Maximilian Ernst Tschuchnig et.al.|[2312.12990](http://arxiv.org/abs/2312.12990)|null|
 |**2023-12-20**|**TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training**|Yuqi Lin et.al.|[2312.12828](http://arxiv.org/abs/2312.12828)|**[link](https://github.com/linyq2117/tagclip)**|
@@ -2979,19 +2999,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**TinySAM: Pushing the Envelope for Efficient Segment Anything Model**|Han Shu et.al.|[2312.13789](http://arxiv.org/abs/2312.13789)|**[link](https://github.com/xinghaochen/tinysam)**|
 |**2023-12-20**|**Testing the Segment Anything Model on radiology data**|José Guilherme de Almeida et.al.|[2312.12880](http://arxiv.org/abs/2312.12880)|null|
 |**2023-12-20**|**Segment Anything Model Meets Image Harmonization**|Haoxing Chen et.al.|[2312.12729](http://arxiv.org/abs/2312.12729)|null|
 |**2023-12-19**|**Weakly Supervised Open-Vocabulary Object Detection**|Jianghang Lin et.al.|[2312.12437](http://arxiv.org/abs/2312.12437)|null|
 |**2023-12-19**|**Towards SAMBA: Segment Anything Model for Brain Tumor Segmentation in Sub-Sharan African Populations**|Mohannad Barakat et.al.|[2312.11775](http://arxiv.org/abs/2312.11775)|null|
 |**2023-12-17**|**SAI3D: Segment Any Instance in 3D Scenes**|Yingda Yin et.al.|[2312.11557](http://arxiv.org/abs/2312.11557)|null|
 |**2023-12-18**|**Appearance-based Refinement for Object-Centric Motion Segmentation**|Junyu Xie et.al.|[2312.11463](http://arxiv.org/abs/2312.11463)|null|
-|**2023-12-17**|**Cut your annotation cost: An empirical study on the use of weak, noisy, and SAM-generated annotations for segmentation network training**|Yixin Zhang et.al.|[2312.10600](http://arxiv.org/abs/2312.10600)|null|
+|**2023-12-20**|**How to Efficiently Annotate Images for Best-Performing Deep Learning Based Segmentation Models: An Empirical Study with Weak and Noisy Annotations and Segment Anything Model**|Yixin Zhang et.al.|[2312.10600](http://arxiv.org/abs/2312.10600)|null|
 |**2023-12-16**|**Mapping Housing Stock Characteristics from Drone Images for Climate Resilience in the Caribbean**|Isabelle Tingzon et.al.|[2312.10306](http://arxiv.org/abs/2312.10306)|null|
 |**2023-12-15**|**Osprey: Pixel Understanding with Visual Instruction Tuning**|Yuqian Yuan et.al.|[2312.10032](http://arxiv.org/abs/2312.10032)|**[link](https://github.com/circleradon/osprey)**|
 |**2023-12-15**|**SQA-SAM: Segmentation Quality Assessment for Medical Images Utilizing the Segment Anything Model**|Yizhe Zhang et.al.|[2312.09899](http://arxiv.org/abs/2312.09899)|null|
 |**2023-12-15**|**Collaborating Foundation models for Domain Generalized Semantic Segmentation**|Yasser Benigmim et.al.|[2312.09788](http://arxiv.org/abs/2312.09788)|**[link](https://github.com/yasserben/clouds)**|
 |**2023-12-15**|**MobileSAMv2: Faster Segment Anything to Everything**|Chaoning Zhang et.al.|[2312.09579](http://arxiv.org/abs/2312.09579)|**[link](https://github.com/chaoningzhang/mobilesam)**|
-|**2023-12-18**|**GraphAr: An Efficient Storage Scheme for Graph Data in Data Lakes**|Xue Li et.al.|[2312.09577](http://arxiv.org/abs/2312.09577)|**[link](https://github.com/alibaba/graphar)**|
+|**2023-12-21**|**Enhancing Data Lakes with GraphAr: Efficient Graph Data Management with a Specialized Storage Scheme**|Xue Li et.al.|[2312.09577](http://arxiv.org/abs/2312.09577)|**[link](https://github.com/alibaba/graphar)**|
 |**2023-12-14**|**Influence of Prompting Strategies on Segment Anything Model (SAM) for Short-axis Cardiac MRI segmentation**|Josh Stein et.al.|[2312.08932](http://arxiv.org/abs/2312.08932)|null|
 |**2023-12-13**|**ASLseg: Adapting SAM in the Loop for Semi-supervised Liver Tumor Segmentation**|Shiyun Chen et.al.|[2312.07969](http://arxiv.org/abs/2312.07969)|null|
 |**2023-12-18**|**Relax Image-Specific Prompt Requirement in SAM: A Single Generic Prompt for Segmenting Camouflaged Objects**|Jian Hu et.al.|[2312.07374](http://arxiv.org/abs/2312.07374)|**[link](https://github.com/jyLin8100/GenSAM)**|
