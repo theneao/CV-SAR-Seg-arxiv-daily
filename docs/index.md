@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.01.03
+## Updated on 2024.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -96,8 +96,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874](http://arxiv.org/abs/2401.01874)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
+|**2023-12-21**|**Discovery of a circular symmetry extended diffuse radio emission around an elliptical galaxy with the VLA FIRST survey**|Shobha Kumari et.al.|[2401.01278](http://arxiv.org/abs/2401.01278)|null|
+|**2024-01-02**|**GBSS:a global building semantic segmentation dataset for large-scale remote sensing building extraction**|Yuping Hu et.al.|[2401.01178](http://arxiv.org/abs/2401.01178)|null|
+|**2024-01-01**|**Self-supervised learning for skin cancer diagnosis with limited training data**|Hamish Haggerty et.al.|[2401.00692](http://arxiv.org/abs/2401.00692)|null|
+|**2023-12-30**|**AClassiHonk: A System Framework to Annotate and Classify Vehicular Honk from Road Traffic**|Biswajit Maitya et.al.|[2401.00154](http://arxiv.org/abs/2401.00154)|null|
+|**2023-12-29**|**FedLED: Label-Free Equipment Fault Diagnosis with Vertical Federated Transfer Learning**|Jie Shen et.al.|[2312.17451](http://arxiv.org/abs/2312.17451)|null|
 |**2023-12-28**|**OmniDialog: An Omnipotent Pre-training Model for Task-Oriented Dialogue System**|Mingtao Yang et.al.|[2312.16864](http://arxiv.org/abs/2312.16864)|null|
-|**2023-12-27**|**GRSDet: Learning to Generate Local Reverse Samples for Few-shot Object Detection**|Hefei Mei et.al.|[2312.16571](http://arxiv.org/abs/2312.16571)|null|
+|**2023-12-29**|**GRSDet: Learning to Generate Local Reverse Samples for Few-shot Object Detection**|Hefei Mei et.al.|[2312.16571](http://arxiv.org/abs/2312.16571)|null|
 |**2023-12-27**|**Soft Contrastive Learning for Time Series**|Seunghan Lee et.al.|[2312.16424](http://arxiv.org/abs/2312.16424)|**[link](https://github.com/seunghan96/softclt)**|
 |**2023-12-26**|**EnchantDance: Unveiling the Potential of Music-Driven Dance Movement**|Bo Han et.al.|[2312.15946](http://arxiv.org/abs/2312.15946)|**[link](https://github.com/fluide1022/EnchantDance)**|
 |**2023-12-25**|**TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning**|Jiexi Liu et.al.|[2312.15709](http://arxiv.org/abs/2312.15709)|null|
@@ -823,6 +829,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
+|**2024-01-03**|**DiffYOLO: Object Detection for Anti-Noise via YOLO and Diffusion Models**|Yichen Liu et.al.|[2401.01659](http://arxiv.org/abs/2401.01659)|null|
+|**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
+|**2024-01-03**|**S $^{2}$ -DMs:Skip-Step Diffusion Models**|Yixuan Wang et.al.|[2401.01520](http://arxiv.org/abs/2401.01520)|**[link](https://github.com/kingkingofall/skip-step-diffusion)**|
+|**2024-01-02**|**ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text**|Dingkun Yan et.al.|[2401.01456](http://arxiv.org/abs/2401.01456)|null|
+|**2024-01-02**|**VALD-MD: Visual Attribution via Latent Diffusion for Medical Diagnostics**|Ammar A. Siddiqui et.al.|[2401.01414](http://arxiv.org/abs/2401.01414)|null|
+|**2024-01-01**|**DiffAugment: Diffusion based Long-Tailed Visual Relationship Recognition**|Parul Gupta et.al.|[2401.01387](http://arxiv.org/abs/2401.01387)|null|
+|**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256](http://arxiv.org/abs/2401.01256)|null|
+|**2024-01-02**|**Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**|Renshuai Liu et.al.|[2401.01207](http://arxiv.org/abs/2401.01207)|null|
+|**2024-01-02**|**A comparative study of resistivity models for simulations of magnetic reconnection in the solar atmosphere. II. Plasmoid formation**|Øystein Håvard Færder et.al.|[2401.01177](http://arxiv.org/abs/2401.01177)|null|
+|**2024-01-02**|**Joint Generative Modeling of Scene Graphs and Images via Diffusion Models**|Bicheng Xu et.al.|[2401.01130](http://arxiv.org/abs/2401.01130)|null|
+|**2024-01-02**|**Robust single-particle cryo-EM image denoising and restoration**|Jing Zhang et.al.|[2401.01097](http://arxiv.org/abs/2401.01097)|null|
+|**2024-01-02**|**Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation**|Jinlong Xue et.al.|[2401.01044](http://arxiv.org/abs/2401.01044)|**[link](https://github.com/happylittlecat2333/Auffusion)**|
+|**2024-01-01**|**DiffMorph: Text-less Image Morphing with Diffusion Models**|Shounak Chatterjee et.al.|[2401.00739](http://arxiv.org/abs/2401.00739)|null|
+|**2024-01-01**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736](http://arxiv.org/abs/2401.00736)|null|
+|**2024-01-02**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616](http://arxiv.org/abs/2401.00616)|null|
+|**2024-01-03**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436](http://arxiv.org/abs/2401.00436)|null|
+|**2023-12-31**|**SynCDR : Training Cross Domain Retrieval Models with Synthetic Data**|Samarth Mishra et.al.|[2401.00420](http://arxiv.org/abs/2401.00420)|**[link](https://github.com/samarth4149/syncdr)**|
+|**2023-12-31**|**Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion**|Wei-Jer Chang et.al.|[2401.00391](http://arxiv.org/abs/2401.00391)|null|
+|**2023-12-30**|**Probing the Limits and Capabilities of Diffusion Models for the Anatomic Editing of Digital Twins**|Karim Kadry et.al.|[2401.00247](http://arxiv.org/abs/2401.00247)|null|
 |**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250](http://arxiv.org/abs/2312.17250)|**[link](https://github.com/chinhsuanwu/ifusion)**|
 |**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234](http://arxiv.org/abs/2312.17234)|null|
 |**2023-12-28**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225](http://arxiv.org/abs/2312.17225)|null|
@@ -2149,11 +2175,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Towards Robust Semantic Segmentation against Patch-based Attack via Attention Refinement**|Zheng Yuan et.al.|[2401.01750](http://arxiv.org/abs/2401.01750)|null|
+|**2024-01-03**|**S3Net: Innovating Stereo Matching and Semantic Segmentation with a Single-Branch Semantic Stereo Network in Satellite Epipolar Imagery**|Qingyuan Yang et.al.|[2401.01643](http://arxiv.org/abs/2401.01643)|null|
+|**2024-01-03**|**Context-Aware Interaction Network for RGB-T Semantic Segmentation**|Ying Lv et.al.|[2401.01624](http://arxiv.org/abs/2401.01624)|**[link](https://github.com/yinglv1106/cainet)**|
+|**2024-01-02**|**Off-Road LiDAR Intensity Based Semantic Segmentation**|Kasi Viswanath et.al.|[2401.01439](http://arxiv.org/abs/2401.01439)|**[link](https://github.com/moonlabiiserb/lidar-intensity-predictor)**|
+|**2024-01-02**|**Integrating Edges into U-Net Models with Explainable Activation Maps for Brain Tumor Segmentation using MR Images**|Subin Sahayam et.al.|[2401.01303](http://arxiv.org/abs/2401.01303)|null|
+|**2024-01-02**|**Physics-informed Generalizable Wireless Channel Modeling with Segmentation and Deep Learning: Fundamentals, Methodologies, and Challenges**|Ethan Zhu et.al.|[2401.01288](http://arxiv.org/abs/2401.01288)|null|
+|**2024-01-02**|**GBSS:a global building semantic segmentation dataset for large-scale remote sensing building extraction**|Yuping Hu et.al.|[2401.01178](http://arxiv.org/abs/2401.01178)|null|
+|**2024-01-02**|**DTBS: Dual-Teacher Bi-directional Self-training for Domain Adaptation in Nighttime Semantic Segmentation**|Fanding Huang et.al.|[2401.01066](http://arxiv.org/abs/2401.01066)|**[link](https://github.com/hf618/dtbs)**|
+|**2024-01-02**|**Online Continual Domain Adaptation for Semantic Image Segmentation Using Internal Representations**|Serban Stan et.al.|[2401.01035](http://arxiv.org/abs/2401.01035)|null|
+|**2023-12-31**|**Analyzing Local Representations of Self-supervised Vision Transformers**|Ani Vanyan et.al.|[2401.00463](http://arxiv.org/abs/2401.00463)|null|
+|**2023-12-28**|**Learning Vision from Models Rivals Learning Vision from Data**|Yonglong Tian et.al.|[2312.17742](http://arxiv.org/abs/2312.17742)|**[link](https://github.com/google-research/syn-rep-learn)**|
+|**2023-12-29**|**HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping**|Xin Zhang et.al.|[2312.17492](http://arxiv.org/abs/2312.17492)|null|
 |**2023-12-28**|**Unsupervised Universal Image Segmentation**|Dantong Niu et.al.|[2312.17243](http://arxiv.org/abs/2312.17243)|**[link](https://github.com/u2seg/u2seg)**|
-|**2023-12-28**|**An Improved Baseline for Reasoning Segmentation with Large Language Model**|Senqiao Yang et.al.|[2312.17240](http://arxiv.org/abs/2312.17240)|null|
+|**2024-01-03**|**An Improved Baseline for Reasoning Segmentation with Large Language Model**|Senqiao Yang et.al.|[2312.17240](http://arxiv.org/abs/2312.17240)|null|
 |**2023-12-28**|**SCTNet: Single-Branch CNN with Transformer Semantic Information for Real-Time Segmentation**|Zhengze Xu et.al.|[2312.17071](http://arxiv.org/abs/2312.17071)|null|
 |**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933](http://arxiv.org/abs/2312.16933)|null|
-|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
+|**2023-12-29**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
 |**2023-12-27**|**ConstScene: Dataset and Model for Advancing Robust Semantic Segmentation in Construction Environments**|Maghsood Salimi et.al.|[2312.16516](http://arxiv.org/abs/2312.16516)|**[link](https://github.com/robustinsight/constscene)**|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
 |**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|null|
@@ -2891,9 +2929,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-01**|**Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images**|Zhilu Zhang et.al.|[2401.00766](http://arxiv.org/abs/2401.00766)|**[link](https://github.com/cszhilu1998/bracketire)**|
+|**2023-12-31**|**UGPNet: Universal Generative Prior for Image Restoration**|Hwayoon Lee et.al.|[2401.00370](http://arxiv.org/abs/2401.00370)|null|
+|**2023-12-28**|**Improving Image Restoration through Removing Degradations in Textual Representations**|Jingbo Lin et.al.|[2312.17334](http://arxiv.org/abs/2312.17334)|**[link](https://github.com/mrluin/textualdegremoval)**|
 |**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234](http://arxiv.org/abs/2312.17234)|null|
 |**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161](http://arxiv.org/abs/2312.17161)|null|
-|**2023-12-28**|**DarkShot: Lighting Dark Images with Low-Compute and High-Quality**|Jiazhang Zheng et.al.|[2312.16805](http://arxiv.org/abs/2312.16805)|null|
+|**2023-12-29**|**DarkShot: Lighting Dark Images with Low-Compute and High-Quality**|Jiazhang Zheng et.al.|[2312.16805](http://arxiv.org/abs/2312.16805)|null|
 |**2023-12-27**|**Efficient Deweather Mixture-of-Experts with Uncertainty-aware Feature-wise Linear Modulation**|Rongyu Zhang et.al.|[2312.16610](http://arxiv.org/abs/2312.16610)|null|
 |**2023-12-27**|**Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance**|Tomer Garber et.al.|[2312.16519](http://arxiv.org/abs/2312.16519)|null|
 |**2023-12-25**|**Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration**|Jiahong Fu et.al.|[2312.15701](http://arxiv.org/abs/2312.15701)|**[link](https://github.com/jiahong-fu/equivariant-proximal-operator)**|
@@ -3050,6 +3091,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Discovery of a circular symmetry extended diffuse radio emission around an elliptical galaxy with the VLA FIRST survey**|Shobha Kumari et.al.|[2401.01278](http://arxiv.org/abs/2401.01278)|null|
+|**2024-01-02**|**Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt**|Jiaqi Liu et.al.|[2401.01010](http://arxiv.org/abs/2401.01010)|**[link](https://github.com/shirowalker/ucad)**|
+|**2023-12-30**|**Promoting Segment Anything Model towards Highly Accurate Dichotomous Image Segmentation**|Xianjie Liu et.al.|[2401.00248](http://arxiv.org/abs/2401.00248)|null|
 |**2023-12-28**|**Generalizable Visual Reinforcement Learning with Segment Anything Model**|Ziyu Wang et.al.|[2312.17116](http://arxiv.org/abs/2312.17116)|**[link](https://github.com/wadiuvatzy/sam-g)**|
 |**2023-12-27**|**Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings**|Xiaoliang Tan et.al.|[2312.16410](http://arxiv.org/abs/2312.16410)|**[link](https://github.com/stephenapx/ucd-scm)**|
 |**2023-12-24**|**Segment Any Events via Weighted Adaptation of Pivotal Tokens**|Zhiwen Chen et.al.|[2312.16222](http://arxiv.org/abs/2312.16222)|**[link](https://github.com/happychenpipi/eventsam)**|
