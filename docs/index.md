@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.01.29
+## Updated on 2024.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-27**|**Applications of Tao General Difference in Discrete Domain**|Linmi Tao et.al.|[2401.15287](http://arxiv.org/abs/2401.15287)|null|
 |**2024-01-18**|**False Discovery Rate Control for Gaussian Graphical Models via Neighborhood Screening**|Taulant Koka et.al.|[2401.09979](http://arxiv.org/abs/2401.09979)|null|
 |**2024-01-14**|**Photonic real time video image signal processor at 17Tb/s based on a Kerr microcomb**|Mengxi Tan et.al.|[2401.07197](http://arxiv.org/abs/2401.07197)|null|
 |**2024-01-12**|**Space-Time Nonlocal Metasurfaces for Event-Based Image Processing**|Sedigheh Esfahani et.al.|[2401.06586](http://arxiv.org/abs/2401.06586)|null|
@@ -103,6 +104,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Capturing Pertinent Symbolic Features for Enhanced Content-Based Misinformation Detection**|Flavio Merenda et.al.|[2401.16285](http://arxiv.org/abs/2401.16285)|null|
+|**2024-01-29**|**Domain adaptation strategies for 3D reconstruction of the lumbar spine using real fluoroscopy data**|Sascha Jecklin et.al.|[2401.16027](http://arxiv.org/abs/2401.16027)|null|
+|**2024-01-29**|**GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling**|Wei Ju et.al.|[2401.16011](http://arxiv.org/abs/2401.16011)|null|
+|**2024-01-29**|**MV2MAE: Multi-View Video Masked Autoencoders**|Ketul Shah et.al.|[2401.15900](http://arxiv.org/abs/2401.15900)|null|
+|**2024-01-27**|**Exploring the Transferability of a Foundation Model for Fundus Images: Application to Hypertensive Retinopathy**|Julio Silva-Rodriguez et.al.|[2401.15526](http://arxiv.org/abs/2401.15526)|null|
+|**2024-01-27**|**A New Method for Vehicle Logo Recognition Based on Swin Transformer**|Yang Li et.al.|[2401.15458](http://arxiv.org/abs/2401.15458)|null|
+|**2024-01-27**|**GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis**|Jing Hao et.al.|[2401.15282](http://arxiv.org/abs/2401.15282)|null|
+|**2024-01-26**|**Transfer Learning for the Prediction of Entity Modifiers in Clinical Text: Application to Opioid Use Disorder Case Detection**|Abdullateef I. Almudaifer et.al.|[2401.15222](http://arxiv.org/abs/2401.15222)|null|
+|**2024-01-26**|**Additional Look into GAN-based Augmentation for Deep Learning COVID-19 Image Classification**|Oleksandr Fedoruk et.al.|[2401.14705](http://arxiv.org/abs/2401.14705)|null|
+|**2024-01-26**|**Asymptotic Midpoint Mixup for Margin Balancing and Moderate Broadening**|Hoyong Kim et.al.|[2401.14696](http://arxiv.org/abs/2401.14696)|null|
+|**2024-01-23**|**Multi-Agent Based Transfer Learning for Data-Driven Air Traffic Applications**|Chuhao Deng et.al.|[2401.14421](http://arxiv.org/abs/2401.14421)|null|
 |**2024-01-25**|**Assessing the Portability of Parameter Matrices Trained by Parameter-Efficient Finetuning Methods**|Mohammed Sabry et.al.|[2401.14228](http://arxiv.org/abs/2401.14228)|null|
 |**2024-01-25**|**Deep Learning Innovations in Diagnosing Diabetic Retinopathy: The Potential of Transfer Learning and the DiaCNN Model**|Mohamed R. Shoaib et.al.|[2401.13990](http://arxiv.org/abs/2401.13990)|null|
 |**2024-01-25**|**StyleInject: Parameter Efficient Tuning of Text-to-Image Diffusion Models**|Yalong Bai et.al.|[2401.13942](http://arxiv.org/abs/2401.13942)|null|
@@ -899,6 +911,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Using multiple Dirac delta points to describe inhomogeneous flux density over a cell boundary in a single-cell diffusion model**|Qiyao Peng et.al.|[2401.16261](http://arxiv.org/abs/2401.16261)|null|
+|**2024-01-29**|**Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models**|Zhongjie Duan et.al.|[2401.16224](http://arxiv.org/abs/2401.16224)|null|
+|**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157](http://arxiv.org/abs/2401.16157)|null|
+|**2024-01-29**|**DMCE: Diffusion Model Channel Enhancer for Multi-User Semantic Communication Systems**|Youcheng Zeng et.al.|[2401.16017](http://arxiv.org/abs/2401.16017)|null|
+|**2024-01-29**|**Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling**|Xiaoyu Shi et.al.|[2401.15977](http://arxiv.org/abs/2401.15977)|null|
+|**2024-01-29**|**EmoDM: A Diffusion Model for Evolutionary Multi-objective Optimization**|Xueming Yan et.al.|[2401.15931](http://arxiv.org/abs/2401.15931)|null|
+|**2024-01-28**|**Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding**|Jianxiang Lu et.al.|[2401.15708](http://arxiv.org/abs/2401.15708)|null|
+|**2024-01-28**|**Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**|Qingcheng Zhao et.al.|[2401.15687](http://arxiv.org/abs/2401.15687)|null|
+|**2024-01-28**|**CPDM: Content-Preserving Diffusion Model for Underwater Image Enhancement**|Xiaowen Shi et.al.|[2401.15649](http://arxiv.org/abs/2401.15649)|null|
+|**2024-01-28**|**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models**|Feihong He et.al.|[2401.15636](http://arxiv.org/abs/2401.15636)|null|
+|**2024-01-28**|**Generative AI-enabled Blockchain Networks: Fundamentals, Applications, and Case Study**|Cong T. Nguyen et.al.|[2401.15625](http://arxiv.org/abs/2401.15625)|null|
+|**2024-01-28**|**Diffusion-based graph generative methods**|Hongyang Chen et.al.|[2401.15617](http://arxiv.org/abs/2401.15617)|null|
+|**2024-01-28**|**Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization**|Yinbin Han et.al.|[2401.15604](http://arxiv.org/abs/2401.15604)|null|
+|**2024-01-28**|**BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry**|Xiang Xu et.al.|[2401.15563](http://arxiv.org/abs/2401.15563)|null|
+|**2024-01-27**|**Wind speed super-resolution and validation: from ERA5 to CERRA via diffusion models**|Fabio Merizzi et.al.|[2401.15469](http://arxiv.org/abs/2401.15469)|null|
+|**2024-01-27**|**A Survey on Data Augmentation in Large Model Era**|Yue Zhou et.al.|[2401.15422](http://arxiv.org/abs/2401.15422)|null|
+|**2024-01-27**|**GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis**|Jing Hao et.al.|[2401.15282](http://arxiv.org/abs/2401.15282)|null|
+|**2024-01-26**|**Annotated Hands for Generative Models**|Yue Yang et.al.|[2401.15075](http://arxiv.org/abs/2401.15075)|**[link](https://github.com/YY-GX/Annotated-Hands-Dataset)**|
+|**2024-01-26**|**Text Image Inpainting via Global Structure-Guided Diffusion Models**|Shipeng Zhu et.al.|[2401.14832](http://arxiv.org/abs/2401.14832)|**[link](https://github.com/blackprotoss/gsdm)**|
+|**2024-01-25**|**Opposite variations for pore pressure on and off the fault during simulated earthquakes in the laboratory**|Dong Liu et.al.|[2401.14506](http://arxiv.org/abs/2401.14506)|null|
 |**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404](http://arxiv.org/abs/2401.14404)|null|
 |**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu et.al.|[2401.14398](http://arxiv.org/abs/2401.14398)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
 |**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379](http://arxiv.org/abs/2401.14379)|null|
@@ -2379,6 +2411,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-28**|**SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks**|Serdar Erisen et.al.|[2401.15741](http://arxiv.org/abs/2401.15741)|null|
+|**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647](http://arxiv.org/abs/2401.15647)|null|
+|**2024-01-27**|**Vanishing-Point-Guided Video Semantic Segmentation of Driving Scenes**|Diandian Guo et.al.|[2401.15261](http://arxiv.org/abs/2401.15261)|null|
+|**2024-01-26**|**Biological Valuation Map of Flanders: A Sentinel-2 Imagery Analysis**|Mingshi Li et.al.|[2401.15223](http://arxiv.org/abs/2401.15223)|null|
+|**2024-01-26**|**Kitchen Food Waste Image Segmentation and Classification for Compost Nutrients Estimation**|Raiyan Rahman et.al.|[2401.15175](http://arxiv.org/abs/2401.15175)|null|
+|**2024-01-26**|**SSR: SAM is a Strong Regularizer for domain adaptive semantic segmentation**|Yanqi Ge et.al.|[2401.14686](http://arxiv.org/abs/2401.14686)|null|
+|**2024-01-25**|**CloudTracks: A Dataset for Localizing Ship Tracks in Satellite Images of Clouds**|Muhammad Ahmed Chaudhry et.al.|[2401.14486](http://arxiv.org/abs/2401.14486)|null|
 |**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325](http://arxiv.org/abs/2401.14325)|null|
 |**2024-01-24**|**Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation**|Saiyang Na et.al.|[2401.13220](http://arxiv.org/abs/2401.13220)|null|
 |**2024-01-24**|**Boundary and Relation Distillation for Semantic Segmentation**|Dong Zhang et.al.|[2401.13174](http://arxiv.org/abs/2401.13174)|null|
@@ -2386,7 +2425,7 @@ layout: default
 |**2024-01-23**|**Self-Supervised Vision Transformers Are Efficient Segmentation Learners for Imperfect Labels**|Seungho Lee et.al.|[2401.12535](http://arxiv.org/abs/2401.12535)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
 |**2024-01-22**|**Scaling Up Quantization-Aware Neural Architecture Search for Efficient Deep Learning on the Edge**|Yao Lu et.al.|[2401.12350](http://arxiv.org/abs/2401.12350)|null|
-|**2024-01-22**|**Exploring Simple Open-Vocabulary Semantic Segmentation**|Zihang Lai et.al.|[2401.12217](http://arxiv.org/abs/2401.12217)|null|
+|**2024-01-22**|**Exploring Simple Open-Vocabulary Semantic Segmentation**|Zihang Lai et.al.|[2401.12217](http://arxiv.org/abs/2401.12217)|**[link](https://github.com/zlai0/s-seg)**|
 |**2024-01-22**|**Out-of-Distribution Detection & Applications With Ablated Learned Temperature Energy**|Will LeVine et.al.|[2401.12129](http://arxiv.org/abs/2401.12129)|**[link](https://github.com/anonymousoodauthor/abet)**|
 |**2024-01-22**|**HomeRobot Open Vocabulary Mobile Manipulation Challenge 2023 Participant Report (Team KuzHum)**|Volodymyr Kuzma et.al.|[2401.12048](http://arxiv.org/abs/2401.12048)|null|
 |**2024-01-22**|**SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation**|Ci-Siang Lin et.al.|[2401.11791](http://arxiv.org/abs/2401.11791)|null|
@@ -3191,6 +3230,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647](http://arxiv.org/abs/2401.15647)|null|
+|**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235](http://arxiv.org/abs/2401.15235)|null|
 |**2024-01-24**|**Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild**|Fanghua Yu et.al.|[2401.13627](http://arxiv.org/abs/2401.13627)|null|
 |**2024-01-24**|**Unified-Width Adaptive Dynamic Network for All-In-One Image Restoration**|Yimin Xu et.al.|[2401.13221](http://arxiv.org/abs/2401.13221)|**[link](https://github.com/xuyimin0926/u-wadn)**|
 |**2024-01-21**|**LLMRA: Multi-modal Large Language Model based Restoration Assistant**|Xiaoyu Jin et.al.|[2401.11401](http://arxiv.org/abs/2401.11401)|null|
@@ -3365,6 +3406,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection**|Yuxue Yang et.al.|[2401.16305](http://arxiv.org/abs/2401.16305)|null|
+|**2024-01-27**|**GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis**|Jing Hao et.al.|[2401.15282](http://arxiv.org/abs/2401.15282)|null|
+|**2024-01-27**|**SAM-based instance segmentation models for the automation of masonry crack detection**|Zehao Ye et.al.|[2401.15266](http://arxiv.org/abs/2401.15266)|null|
 |**2024-01-25**|**On generalisability of segment anything model for nuclear instance segmentation in histology images**|Kesi Xu et.al.|[2401.14248](http://arxiv.org/abs/2401.14248)|null|
 |**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|**[link](https://github.com/IDEA-Research/Grounded-Segment-Anything)**|
 |**2024-01-24**|**Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation**|Saiyang Na et.al.|[2401.13220](http://arxiv.org/abs/2401.13220)|null|
