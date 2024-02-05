@@ -251,7 +251,7 @@
 |**2023-12-13**|**Explainable AI in Grassland Monitoring: Enhancing Model Performance and Domain Adaptability**|Shanghua Liu et.al.|[2312.08408](http://arxiv.org/abs/2312.08408)|null|
 |**2023-12-12**|**Taking it further: leveraging pseudo labels for field delineation across label-scarce smallholder regions**|Philippe Rufin et.al.|[2312.08384](http://arxiv.org/abs/2312.08384)|null|
 |**2023-12-13**|**Robust Few-Shot Named Entity Recognition with Boundary Discrimination and Correlation Purification**|Xiaojun Xue et.al.|[2312.07961](http://arxiv.org/abs/2312.07961)|**[link](https://github.com/ckgconstruction/bdcp)**|
-|**2023-12-13**|**DTL: Disentangled Transfer Learning for Visual Recognition**|Minghao Fu et.al.|[2312.07856](http://arxiv.org/abs/2312.07856)|null|
+|**2023-12-13**|**DTL: Disentangled Transfer Learning for Visual Recognition**|Minghao Fu et.al.|[2312.07856](http://arxiv.org/abs/2312.07856)|**[link](https://github.com/heekhero/DTL)**|
 |**2023-12-12**|**Automated Behavioral Analysis Using Instance Segmentation**|Chen Yang et.al.|[2312.07723](http://arxiv.org/abs/2312.07723)|**[link](https://github.com/cplab/annolid)**|
 |**2023-12-12**|**Reacting like Humans: Incorporating Intrinsic Human Behaviors into NAO through Sound-Based Reactions for Enhanced Sociability**|Ali Ghadami et.al.|[2312.07671](http://arxiv.org/abs/2312.07671)|null|
 |**2023-12-10**|**COVID-19 Detection Using Slices Processing Techniques and a Modified Xception Classifier from Computed Tomography Images**|Kenan Morani et.al.|[2312.07580](http://arxiv.org/abs/2312.07580)|**[link](https://github.com/IDU-CVLab/COV19D_2nd)**|
@@ -432,7 +432,7 @@
 |**2023-10-26**|**Feature Extraction and Classification from Planetary Science Datasets enabled by Machine Learning**|Conor Nixon et.al.|[2310.17681](http://arxiv.org/abs/2310.17681)|null|
 |**2023-10-26**|**PETA: Evaluating the Impact of Protein Transfer Learning with Sub-word Tokenization on Downstream Applications**|Yang Tan et.al.|[2310.17415](http://arxiv.org/abs/2310.17415)|**[link](https://github.com/ginnm/proteinpretraining)**|
 |**2023-10-27**|**De-novo Chemical Reaction Generation by Means of Temporarily Convolutional Neural Networks**|Andrei Buin et.al.|[2310.17341](http://arxiv.org/abs/2310.17341)|null|
-|**2023-10-26**|**Deep Learning on SAR Imagery: Transfer Learning Versus Randomly Initialized Weights**|Morteza Karimzadeh et.al.|[2310.17126](http://arxiv.org/abs/2310.17126)|null|
+|**2023-10-26**|**Deep Learning on SAR Imagery: Transfer Learning Versus Randomly Initialized Weights**|Morteza Karimzadeh et.al.|[2310.17126](http://arxiv.org/abs/2310.17126)|**[link](https://github.com/geohai/sea-ice-segment)**|
 |**2023-10-25**|**An Efficient Deep Learning-based approach for Recognizing Agricultural Pests in the Wild**|Mohtasim Hadi Rafi et.al.|[2310.16991](http://arxiv.org/abs/2310.16991)|null|
 |**2023-10-25**|**Transferring a molecular foundation model for polymer property predictions**|Pei Zhang et.al.|[2310.16958](http://arxiv.org/abs/2310.16958)|null|
 |**2023-10-25**|**Learning Transfers over Several Programming Languages**|Razan Baltaji et.al.|[2310.16937](http://arxiv.org/abs/2310.16937)|null|
@@ -980,12 +980,12 @@
 |**2024-01-28**|**CPDM: Content-Preserving Diffusion Model for Underwater Image Enhancement**|Xiaowen Shi et.al.|[2401.15649](http://arxiv.org/abs/2401.15649)|null|
 |**2024-01-28**|**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models**|Feihong He et.al.|[2401.15636](http://arxiv.org/abs/2401.15636)|null|
 |**2024-01-28**|**Generative AI-enabled Blockchain Networks: Fundamentals, Applications, and Case Study**|Cong T. Nguyen et.al.|[2401.15625](http://arxiv.org/abs/2401.15625)|null|
-|**2024-01-28**|**Diffusion-based graph generative methods**|Hongyang Chen et.al.|[2401.15617](http://arxiv.org/abs/2401.15617)|null|
+|**2024-01-28**|**Diffusion-based graph generative methods**|Hongyang Chen et.al.|[2401.15617](http://arxiv.org/abs/2401.15617)|**[link](https://github.com/zhejiangzhuque/diffusion-based-graph-generative-methods)**|
 |**2024-01-28**|**Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization**|Yinbin Han et.al.|[2401.15604](http://arxiv.org/abs/2401.15604)|null|
 |**2024-01-28**|**BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry**|Xiang Xu et.al.|[2401.15563](http://arxiv.org/abs/2401.15563)|null|
 |**2024-01-27**|**Wind speed super-resolution and validation: from ERA5 to CERRA via diffusion models**|Fabio Merizzi et.al.|[2401.15469](http://arxiv.org/abs/2401.15469)|null|
-|**2024-01-27**|**A Survey on Data Augmentation in Large Model Era**|Yue Zhou et.al.|[2401.15422](http://arxiv.org/abs/2401.15422)|null|
-|**2024-01-27**|**GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis**|Jing Hao et.al.|[2401.15282](http://arxiv.org/abs/2401.15282)|null|
+|**2024-01-27**|**A Survey on Data Augmentation in Large Model Era**|Yue Zhou et.al.|[2401.15422](http://arxiv.org/abs/2401.15422)|**[link](https://github.com/mlgroup-jlu/llm-data-aug-survey)**|
+|**2024-01-27**|**GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis**|Jing Hao et.al.|[2401.15282](http://arxiv.org/abs/2401.15282)|**[link](https://github.com/isbrycee/gem-glass-segmentor)**|
 |**2024-01-26**|**Annotated Hands for Generative Models**|Yue Yang et.al.|[2401.15075](http://arxiv.org/abs/2401.15075)|**[link](https://github.com/YY-GX/Annotated-Hands-Dataset)**|
 |**2024-01-26**|**Text Image Inpainting via Global Structure-Guided Diffusion Models**|Shipeng Zhu et.al.|[2401.14832](http://arxiv.org/abs/2401.14832)|**[link](https://github.com/blackprotoss/gsdm)**|
 |**2024-01-25**|**Opposite variations for pore pressure on and off the fault during simulated earthquakes in the laboratory**|Dong Liu et.al.|[2401.14506](http://arxiv.org/abs/2401.14506)|null|
@@ -998,11 +998,11 @@
 |**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992](http://arxiv.org/abs/2401.13992)|null|
 |**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974](http://arxiv.org/abs/2401.13974)|null|
 |**2024-01-25**|**StyleInject: Parameter Efficient Tuning of Text-to-Image Diffusion Models**|Yalong Bai et.al.|[2401.13942](http://arxiv.org/abs/2401.13942)|null|
-|**2024-01-24**|**Inverse Molecular Design with Multi-Conditional Diffusion Guidance**|Gang Liu et.al.|[2401.13858](http://arxiv.org/abs/2401.13858)|null|
+|**2024-01-24**|**Inverse Molecular Design with Multi-Conditional Diffusion Guidance**|Gang Liu et.al.|[2401.13858](http://arxiv.org/abs/2401.13858)|**[link](https://github.com/liugangcode/MCD)**|
 |**2024-01-24**|**Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All**|Mehmet Saygin Seyfioglu et.al.|[2401.13795](http://arxiv.org/abs/2401.13795)|null|
 |**2024-01-24**|**Guided Diffusion for Fast Inverse Design of Density-based Mechanical Metamaterials**|Yanyan Yang et.al.|[2401.13570](http://arxiv.org/abs/2401.13570)|null|
 |**2024-01-25**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388](http://arxiv.org/abs/2401.13388)|null|
-|**2024-01-24**|**Generative Design of Crystal Structures by Point Cloud Representations and Diffusion Model**|Zhelin Li et.al.|[2401.13192](http://arxiv.org/abs/2401.13192)|null|
+|**2024-01-24**|**Generative Design of Crystal Structures by Point Cloud Representations and Diffusion Model**|Zhelin Li et.al.|[2401.13192](http://arxiv.org/abs/2401.13192)|**[link](https://zenodo.org/record/10570395)**|
 |**2024-01-24**|**Towards Multi-domain Face Landmark Detection with Synthetic Data from Diffusion model**|Yuanming Li et.al.|[2401.13191](http://arxiv.org/abs/2401.13191)|null|
 |**2024-01-24**|**Compositional Generative Inverse Design**|Tailin Wu et.al.|[2401.13171](http://arxiv.org/abs/2401.13171)|**[link](https://github.com/ai4science-westlakeu/cindm)**|
 |**2024-01-24**|**Choose Your Diffusion: Efficient and flexible ways to accelerate the diffusion model in fast high energy physics simulation**|Cheng Jiang et.al.|[2401.13162](http://arxiv.org/abs/2401.13162)|null|
@@ -1017,7 +1017,7 @@
 |**2024-01-22**|**Feature Denoising Diffusion Model for Blind Image Quality Assessment**|Xudong Li et.al.|[2401.11949](http://arxiv.org/abs/2401.11949)|null|
 |**2024-01-22**|**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models**|Koichi Namekata et.al.|[2401.11739](http://arxiv.org/abs/2401.11739)|null|
 |**2024-01-22**|**Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs**|Ling Yang et.al.|[2401.11708](http://arxiv.org/abs/2401.11708)|**[link](https://github.com/yangling0818/rpg-diffusionmaster)**|
-|**2024-01-21**|**Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers**|Katherine Crowson et.al.|[2401.11605](http://arxiv.org/abs/2401.11605)|null|
+|**2024-01-21**|**Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers**|Katherine Crowson et.al.|[2401.11605](http://arxiv.org/abs/2401.11605)|**[link](https://github.com/crowsonkb/k-diffusion)**|
 |**2024-01-20**|**Diffusion Model Conditioning on Gaussian Mixture Model and Negative Gaussian Mixture Gradient**|Weiguo Lu et.al.|[2401.11261](http://arxiv.org/abs/2401.11261)|null|
 |**2024-01-20**|**Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles**|Yanlong Zang et.al.|[2401.11239](http://arxiv.org/abs/2401.11239)|null|
 |**2024-01-20**|**MotionMix: Weakly-Supervised Diffusion for Controllable Motion Generation**|Nhat M. Hoang et.al.|[2401.11115](http://arxiv.org/abs/2401.11115)|null|
@@ -1092,7 +1092,7 @@
 |**2024-01-09**|**EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**|Jingyuan Yang et.al.|[2401.04608](http://arxiv.org/abs/2401.04608)|null|
 |**2024-01-09**|**Enhanced Distribution Alignment for Post-Training Quantization of Diffusion Models**|Xuewen Liu et.al.|[2401.04585](http://arxiv.org/abs/2401.04585)|null|
 |**2024-01-09**|**MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation**|Weimin Wang et.al.|[2401.04468](http://arxiv.org/abs/2401.04468)|null|
-|**2024-01-09**|**D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection**|Justin Tebbe et.al.|[2401.04463](http://arxiv.org/abs/2401.04463)|null|
+|**2024-01-09**|**D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection**|Justin Tebbe et.al.|[2401.04463](http://arxiv.org/abs/2401.04463)|**[link](https://github.com/JustinTebbe/D3AD)**|
 |**2024-01-09**|**SonicVisionLM: Playing Sound with Vision Language Models**|Zhifeng Xie et.al.|[2401.04394](http://arxiv.org/abs/2401.04394)|null|
 |**2024-01-09**|**Representative Feature Extraction During Diffusion Process for Sketch Extraction with One Example**|Kwan Yun et.al.|[2401.04362](http://arxiv.org/abs/2401.04362)|null|
 |**2024-01-09**|**Memory-Efficient Personalization using Quantized Diffusion Model**|Hyogon Ryu et.al.|[2401.04339](http://arxiv.org/abs/2401.04339)|null|
@@ -1583,7 +1583,7 @@
 |**2023-10-26**|**Towards Unifying Diffusion Models for Probabilistic Spatio-Temporal Graph Learning**|Junfeng Hu et.al.|[2310.17360](http://arxiv.org/abs/2310.17360)|null|
 |**2023-10-26**|**SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**|Haobo Jiang et.al.|[2310.17359](http://arxiv.org/abs/2310.17359)|null|
 |**2023-10-26**|**CADS: Unleashing the Diversity of Diffusion Models through Condition-Annealed Sampling**|Seyedmorteza Sadat et.al.|[2310.17347](http://arxiv.org/abs/2310.17347)|null|
-|**2023-10-26**|**Attribute Based Interpretable Evaluation Metrics for Generative Models**|Dongkyun Kim et.al.|[2310.17261](http://arxiv.org/abs/2310.17261)|null|
+|**2023-10-26**|**Attribute Based Interpretable Evaluation Metrics for Generative Models**|Dongkyun Kim et.al.|[2310.17261](http://arxiv.org/abs/2310.17261)|**[link](https://github.com/notou10/SaDPaD)**|
 |**2023-10-26**|**Exploring Iterative Refinement with Diffusion Models for Video Grounding**|Xiao Liang et.al.|[2310.17189](http://arxiv.org/abs/2310.17189)|**[link](https://github.com/mastervito/diffusionvg)**|
 |**2023-10-26**|**Improving Denoising Diffusion Models via Simultaneous Estimation of Image and Noise**|Zhenkai Zhang et.al.|[2310.17167](http://arxiv.org/abs/2310.17167)|null|
 |**2023-10-26**|**Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration**|Longlin Yu et.al.|[2310.17153](http://arxiv.org/abs/2310.17153)|**[link](https://github.com/longinyu/hsivi)**|
@@ -1735,7 +1735,7 @@
 |**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420](http://arxiv.org/abs/2310.03420)|**[link](https://github.com/WHU-USI3DV/FreeReg)**|
 |**2023-10-05**|**ACT-Net: Anchor-context Action Detection in Surgery Videos**|Luoying Hao et.al.|[2310.03377](http://arxiv.org/abs/2310.03377)|null|
 |**2023-10-05**|**Realistic Speech-to-Face Generation with Speech-Conditioned Latent Diffusion Model with Face Prior**|Jinting Wang et.al.|[2310.03363](http://arxiv.org/abs/2310.03363)|null|
-|**2023-10-05**|**Denoising Diffusion Step-aware Models**|Shuai Yang et.al.|[2310.03337](http://arxiv.org/abs/2310.03337)|null|
+|**2023-10-05**|**Denoising Diffusion Step-aware Models**|Shuai Yang et.al.|[2310.03337](http://arxiv.org/abs/2310.03337)|**[link](https://github.com/envision-research/ddsm)**|
 |**2023-10-05**|**EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**|Yefei He et.al.|[2310.03270](http://arxiv.org/abs/2310.03270)|null|
 |**2023-10-04**|**Low-Energy Radiative Backgrounds in CCD-Based Dark-Matter Detectors**|Peizhi Du et.al.|[2310.03068](http://arxiv.org/abs/2310.03068)|null|
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020](http://arxiv.org/abs/2310.03020)|null|
@@ -2074,7 +2074,7 @@
 |**2023-08-09**|**JEN-1: Text-Guided Universal Music Generation with Omnidirectional Diffusion Models**|Peike Li et.al.|[2308.04729](http://arxiv.org/abs/2308.04729)|null|
 |**2023-08-08**|**Semi-Supervised Semantic Segmentation of Cell Nuclei via Diffusion-based Large-Scale Pre-Training and Collaborative Learning**|Zhuchen Shao et.al.|[2308.04578](http://arxiv.org/abs/2308.04578)|null|
 |**2023-08-08**|**3D Scene Diffusion Guidance using Scene Graphs**|Mohammad Naanaa et.al.|[2308.04468](http://arxiv.org/abs/2308.04468)|null|
-|**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417](http://arxiv.org/abs/2308.04417)|null|
+|**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417](http://arxiv.org/abs/2308.04417)|**[link](https://github.com/xavierjiezou/diffcr)**|
 |**2023-08-08**|**Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On**|Daiheng Gao et.al.|[2308.04288](http://arxiv.org/abs/2308.04288)|null|
 |**2023-08-08**|**Synthetic Augmentation with Large-scale Unconditional Pre-training**|Jiarong Ye et.al.|[2308.04020](http://arxiv.org/abs/2308.04020)|**[link](https://github.com/karenyyy/histodiffaug)**|
 |**2023-08-08**|**Target Speech Extraction with Conditional Diffusion Model**|Naoyuki Kamo et.al.|[2308.03987](http://arxiv.org/abs/2308.03987)|null|
@@ -2297,7 +2297,7 @@
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 |**2023-06-23**|**Decoupled Diffusion Models with Explicit Transition Probability**|Yuhang Huang et.al.|[2306.13720](http://arxiv.org/abs/2306.13720)|null|
 |**2023-06-23**|**DreamEditor: Text-Driven 3D Scene Editing with Neural Fields**|Jingyu Zhuang et.al.|[2306.13455](http://arxiv.org/abs/2306.13455)|**[link](https://github.com/zjy526223908/dreameditor)**|
-|**2023-06-23**|**DiffInfinite: Large Mask-Image Synthesis via Parallel Random Patch Diffusion in Histopathology**|Marco Aversa et.al.|[2306.13384](http://arxiv.org/abs/2306.13384)|null|
+|**2023-06-23**|**DiffInfinite: Large Mask-Image Synthesis via Parallel Random Patch Diffusion in Histopathology**|Marco Aversa et.al.|[2306.13384](http://arxiv.org/abs/2306.13384)|**[link](https://github.com/marcoaversa/diffinfinite)**|
 |**2023-06-22**|**Directional diffusion models for graph representation learning**|Run Yang et.al.|[2306.13210](http://arxiv.org/abs/2306.13210)|null|
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Towards More Realistic Membership Inference Attacks on Large Diffusion Models**|Jan Dubiński et.al.|[2306.12983](http://arxiv.org/abs/2306.12983)|null|
@@ -2505,7 +2505,7 @@
 |**2024-01-21**|**A Survey on African Computer Vision Datasets, Topics and Researchers**|Abdul-Hakeem Omotayo et.al.|[2401.11617](http://arxiv.org/abs/2401.11617)|null|
 |**2024-01-21**|**Embedded Hyperspectral Band Selection with Adaptive Optimization for Image Semantic Segmentation**|Yaniv Zimmer et.al.|[2401.11420](http://arxiv.org/abs/2401.11420)|null|
 |**2024-01-21**|**S $^3$ M-Net: Joint Learning of Semantic Segmentation and Stereo Matching for Autonomous Driving**|Zhiyuan Wu et.al.|[2401.11414](http://arxiv.org/abs/2401.11414)|null|
-|**2024-01-21**|**ANNA: A Deep Learning Based Dataset in Heterogeneous Traffic for Autonomous Vehicles**|Mahedi Kamal et.al.|[2401.11358](http://arxiv.org/abs/2401.11358)|null|
+|**2024-01-21**|**ANNA: A Deep Learning Based Dataset in Heterogeneous Traffic for Autonomous Vehicles**|Mahedi Kamal et.al.|[2401.11358](http://arxiv.org/abs/2401.11358)|**[link](https://github.com/mahedikamal/anna-a-deep-learning-based-dataset-in-heterogenous-traffic-for-autonomous-vehicles)**|
 |**2024-01-20**|**Weakly-Supervised Semantic Segmentation of Circular-Scan, Synthetic-Aperture-Sonar Imagery**|Isaac J. Sledge et.al.|[2401.11313](http://arxiv.org/abs/2401.11313)|null|
 |**2024-01-20**|**A Novel Benchmark for Few-Shot Semantic Segmentation in the Era of Foundation Models**|Reda Bensaid et.al.|[2401.11311](http://arxiv.org/abs/2401.11311)|null|
 |**2024-01-20**|**Spatial Structure Constraints for Weakly Supervised Semantic Segmentation**|Tao Chen et.al.|[2401.11122](http://arxiv.org/abs/2401.11122)|**[link](https://github.com/nust-machine-intelligence-laboratory/ssc)**|
@@ -3578,7 +3578,7 @@
 |**2023-11-20**|**Broadband non-thermal emission of odd radio circles induced by galactic outflow remnants and their evolution**|Yutaka Fujita et.al.|[2311.12099](http://arxiv.org/abs/2311.12099)|null|
 |**2023-11-19**|**Few-Shot Classification & Segmentation Using Large Language Models Agent**|Tian Meng et.al.|[2311.12065](http://arxiv.org/abs/2311.12065)|null|
 |**2023-11-20**|**SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks**|Jin Ye et.al.|[2311.11969](http://arxiv.org/abs/2311.11969)|**[link](https://github.com/OpenGVLab/SAM-Med2D)**|
-|**2023-11-19**|**GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure**|Rafi Ibn Sultan et.al.|[2311.11319](http://arxiv.org/abs/2311.11319)|null|
+|**2023-11-19**|**GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure**|Rafi Ibn Sultan et.al.|[2311.11319](http://arxiv.org/abs/2311.11319)|**[link](https://github.com/rafiibnsultan/geosam)**|
 |**2023-11-18**|**A Foundation Model for Cell Segmentation**|Uriah Israel et.al.|[2311.11004](http://arxiv.org/abs/2311.11004)|null|
 |**2023-11-17**|**Zero-Shot Digital Rock Image Segmentation with a Fine-Tuned Segment Anything Model**|Zhaoyang Ma et.al.|[2311.10865](http://arxiv.org/abs/2311.10865)|null|
 |**2023-11-17**|**Segment Anything Model with Uncertainty Rectification for Auto-Prompting Medical Image Segmentation**|Yichi Zhang et.al.|[2311.10529](http://arxiv.org/abs/2311.10529)|null|
