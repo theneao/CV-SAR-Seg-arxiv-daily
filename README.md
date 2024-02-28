@@ -5,7 +5,7 @@
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.02.26
+## Updated on 2024.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2021-09-09**|**Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders**|Fangyu Liu et.al.|[2104.08027](http://arxiv.org/abs/2104.08027)|**[link](https://github.com/cambridgeltl/mirror-bert)**|
 |**2022-07-11**|**Learned Camera Gain and Exposure Control for Improved Visual Feature Detection and Matching**|Justin Tomasi et.al.|[2102.04341](http://arxiv.org/abs/2102.04341)|null|
 
-<p align=right>(<a href=#Updated-on-20240226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
 
 ## edge detection
 
@@ -115,12 +115,24 @@
 |**2023-03-02**|**Scalable optical neural networks based on temporal computing**|Shuang Zheng et.al.|[2303.01287](http://arxiv.org/abs/2303.01287)|null|
 |**2023-03-26**|**Attention-based Point Cloud Edge Sampling**|Chengzhi Wu et.al.|[2302.14673](http://arxiv.org/abs/2302.14673)|**[link](https://github.com/JunweiZheng93/APES)**|
 
-<p align=right>(<a href=#Updated-on-20240226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
 
 ## transfer learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Few-Shot Learning for Annotation-Efficient Nucleus Instance Segmentation**|Yu Ming et.al.|[2402.16280](http://arxiv.org/abs/2402.16280)|null|
+|**2024-02-25**|**StochCA: A Novel Approach for Exploiting Pretrained Models with Cross-Attention**|Seungwon Seo et.al.|[2402.16092](http://arxiv.org/abs/2402.16092)|**[link](https://github.com/daintlab/stochastic_cross_attention)**|
+|**2024-02-25**|**Emotion Classification in Short English Texts using Deep Learning Techniques**|Siddhanth Bhat et.al.|[2402.16034](http://arxiv.org/abs/2402.16034)|null|
+|**2024-02-25**|**Adversarial-Robust Transfer Learning for Medical Imaging via Domain Assimilation**|Xiaohui Chen et.al.|[2402.16005](http://arxiv.org/abs/2402.16005)|null|
+|**2024-02-25**|**Exploring the Power of Pure Attention Mechanisms in Blind Room Parameter Estimation**|Chunxi Wang et.al.|[2402.16003](http://arxiv.org/abs/2402.16003)|null|
+|**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
+|**2024-02-23**|**Artificial Bee Colony optimization of Deep Convolutional Neural Networks in the context of Biomedical Imaging**|Adri Gomez Martin et.al.|[2402.15246](http://arxiv.org/abs/2402.15246)|null|
+|**2024-02-23**|**Which Model to Transfer? A Survey on Transferability Estimation**|Yuhe Ding et.al.|[2402.15231](http://arxiv.org/abs/2402.15231)|null|
+|**2024-02-23**|**Substrate Prediction for RiPP Biosynthetic Enzymes via Masked Language Modeling and Transfer Learning**|Joseph D. Clark et.al.|[2402.15181](http://arxiv.org/abs/2402.15181)|null|
+|**2024-02-23**|**PEMT: Multi-Task Correlation Guided Mixture-of-Experts Enables Parameter-Efficient Transfer Learning**|Zhisheng Lin et.al.|[2402.15082](http://arxiv.org/abs/2402.15082)|null|
+|**2024-02-22**|**Smoothness Adaptive Hypothesis Transfer Learning**|Haotian Lin et.al.|[2402.14966](http://arxiv.org/abs/2402.14966)|null|
+|**2024-02-22**|**An image-based transfer learning approach for using in situ processing data to predict laser powder bed fusion additively manufactured Ti-6Al-4V mechanical properties**|Qixiang Luo et.al.|[2402.14945](http://arxiv.org/abs/2402.14945)|null|
 |**2024-02-22**|**SHM-Traffic: DRL and Transfer learning based UAV Control for Structural Health Monitoring of Bridges with Traffic**|Divija Swetha Gadiraju et.al.|[2402.14757](http://arxiv.org/abs/2402.14757)|null|
 |**2024-02-22**|**CLCE: An Approach to Refining Cross-Entropy and Contrastive Learning for Optimized Learning Fusion**|Zijun Long et.al.|[2402.14551](http://arxiv.org/abs/2402.14551)|null|
 |**2024-02-21**|**Simple and Effective Transfer Learning for Neuro-Symbolic Integration**|Alessandro Daniele et.al.|[2402.14047](http://arxiv.org/abs/2402.14047)|null|
@@ -1001,12 +1013,31 @@
 |**2023-05-31**|**Deep into The Domain Shift: Transfer Learning through Dependence Regularization**|Shumin Ma et.al.|[2305.19499](http://arxiv.org/abs/2305.19499)|**[link](https://github.com/yzr1991/deep_into_the_domain_shift)**|
 |**2023-05-30**|**Transfer Learning With Efficient Estimators to Optimally Leverage Historical Data in Analysis of Randomized Trials**|Lauren D. Liao et.al.|[2305.19180](http://arxiv.org/abs/2305.19180)|**[link](https://github.com/ldliao/tl4rct)**|
 
-<p align=right>(<a href=#Updated-on-20240226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
 
 ## diffusion model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Stochastic Conditional Diffusion Models for Semantic Image Synthesis**|Juyeon Ko et.al.|[2402.16506](http://arxiv.org/abs/2402.16506)|null|
+|**2024-02-26**|**Outline-Guided Object Inpainting with Diffusion Models**|Markus Pobitzer et.al.|[2402.16421](http://arxiv.org/abs/2402.16421)|null|
+|**2024-02-26**|**Placing Objects in Context via Inpainting for Out-of-distribution Segmentation**|Pau de Jorge et.al.|[2402.16392](http://arxiv.org/abs/2402.16392)|**[link](https://github.com/naver/poc)**|
+|**2024-02-26**|**Generative AI in Vision: A Survey on Models, Metrics and Applications**|Gaurav Raut et.al.|[2402.16369](http://arxiv.org/abs/2402.16369)|null|
+|**2024-02-26**|**Feedback Efficient Online Fine-Tuning of Diffusion Models**|Masatoshi Uehara et.al.|[2402.16359](http://arxiv.org/abs/2402.16359)|null|
+|**2024-02-26**|**Graph Diffusion Policy Optimization**|Yijing Liu et.al.|[2402.16302](http://arxiv.org/abs/2402.16302)|**[link](https://github.com/sail-sg/gdpo)**|
+|**2024-02-25**|**Photon-counting CT using a Conditional Diffusion Model for Super-resolution and Texture-preservation**|Christopher Wiedeman et.al.|[2402.16212](http://arxiv.org/abs/2402.16212)|null|
+|**2024-02-25**|**Towards Efficient Quantum Hybrid Diffusion Models**|Francesca De Falco et.al.|[2402.16147](http://arxiv.org/abs/2402.16147)|null|
+|**2024-02-25**|**Cinematographic Camera Diffusion Model**|Hongda Jiang et.al.|[2402.16143](http://arxiv.org/abs/2402.16143)|null|
+|**2024-02-25**|**Behavioral Refinement via Interpolant-based Policy Diffusion**|Kaiqi Chen et.al.|[2402.16075](http://arxiv.org/abs/2402.16075)|null|
+|**2024-02-24**|**HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models**|Li Pang et.al.|[2402.15865](http://arxiv.org/abs/2402.15865)|**[link](https://github.com/lipang/hirdiff)**|
+|**2024-02-23**|**Minimax Optimality of Score-based Diffusion Models: Beyond the Density Lower Bound Assumptions**|Kaihong Zhang et.al.|[2402.15602](http://arxiv.org/abs/2402.15602)|null|
+|**2024-02-23**|**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**|Chun-Hsiao Yeh et.al.|[2402.15504](http://arxiv.org/abs/2402.15504)|**[link](https://github.com/louisYen/Gen4Gen)**|
+|**2024-02-23**|**ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**|Yi Zhang et.al.|[2402.15429](http://arxiv.org/abs/2402.15429)|**[link](https://github.com/wellzline/protip)**|
+|**2024-02-23**|**Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models**|Shunyu Liu et.al.|[2402.15289](http://arxiv.org/abs/2402.15289)|**[link](https://github.com/qlb6x/diffusionabsa)**|
+|**2024-02-23**|**Weak Reproductive Solutions for a Convection-Diffusion Model Describing a Binary Alloy Solidification Processes**|Blanca Climent-Ezquerra et.al.|[2402.15221](http://arxiv.org/abs/2402.15221)|null|
+|**2024-02-23**|**Label-efficient Multi-organ Segmentation Method with Diffusion Model**|Yongzhi Huang et.al.|[2402.15216](http://arxiv.org/abs/2402.15216)|null|
+|**2024-02-23**|**Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**|Masatoshi Uehara et.al.|[2402.15194](http://arxiv.org/abs/2402.15194)|null|
+|**2024-02-23**|**Dynamics-Guided Diffusion Model for Robot Manipulator Design**|Xiaomeng Xu et.al.|[2402.15038](http://arxiv.org/abs/2402.15038)|null|
 |**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817](http://arxiv.org/abs/2402.14817)|null|
 |**2024-02-22**|**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**|Yixuan Ren et.al.|[2402.14780](http://arxiv.org/abs/2402.14780)|null|
 |**2024-02-22**|**Debiasing Text-to-Image Diffusion Models**|Ruifei He et.al.|[2402.14577](http://arxiv.org/abs/2402.14577)|null|
@@ -2686,16 +2717,19 @@
 |**2023-06-01**|**Random advection-diffusion models and their statistics**|Stefano Lepri et.al.|[2306.00463](http://arxiv.org/abs/2306.00463)|null|
 |**2023-06-01**|**Controllable Motion Diffusion Model**|Yi Shi et.al.|[2306.00416](http://arxiv.org/abs/2306.00416)|null|
 
-<p align=right>(<a href=#Updated-on-20240226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
 
 ## semantic segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Placing Objects in Context via Inpainting for Out-of-distribution Segmentation**|Pau de Jorge et.al.|[2402.16392](http://arxiv.org/abs/2402.16392)|**[link](https://github.com/naver/poc)**|
+|**2024-02-26**|**BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM**|Li Zhang et.al.|[2402.16338](http://arxiv.org/abs/2402.16338)|null|
+|**2024-02-23**|**Modified CycleGAN for the synthesization of samples for wheat head segmentation**|Jaden Myers et.al.|[2402.15135](http://arxiv.org/abs/2402.15135)|null|
 |**2024-02-22**|**Semantic Image Synthesis with Unconditional Generator**|Jungwoo Chae et.al.|[2402.14395](http://arxiv.org/abs/2402.14395)|null|
 |**2024-02-22**|**Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation**|Mingxuan Yan et.al.|[2402.14326](http://arxiv.org/abs/2402.14326)|null|
 |**2024-02-21**|**Tumor segmentation on whole slide images: training or prompting?**|Huaqian Wu et.al.|[2402.13932](http://arxiv.org/abs/2402.13932)|null|
-|**2024-02-21**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918](http://arxiv.org/abs/2402.13918)|**[link](https://github.com/toelt-llc/cloud_segmentation_comparative)**|
+|**2024-02-26**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918](http://arxiv.org/abs/2402.13918)|**[link](https://github.com/toelt-llc/cloud_segmentation_comparative)**|
 |**2024-02-21**|**Zero-BEV: Zero-shot Projection of Any First-Person Modality to BEV Maps**|Gianluca Monaci et.al.|[2402.13848](http://arxiv.org/abs/2402.13848)|null|
 |**2024-02-21**|**Generalizable Semantic Vision Query Generation for Zero-shot Panoptic and Semantic Segmentation**|Jialei Chen et.al.|[2402.13697](http://arxiv.org/abs/2402.13697)|null|
 |**2024-02-20**|**Cross-Domain Transfer Learning with CoRTe: Consistent and Reliable Transfer from Black-Box to Lightweight Segmentation Model**|Claudia Cuttano et.al.|[2402.13122](http://arxiv.org/abs/2402.13122)|null|
@@ -3565,12 +3599,16 @@
 |**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957](http://arxiv.org/abs/2305.15957)|null|
 |**2023-05-25**|**Knowledge Diffusion for Distillation**|Tao Huang et.al.|[2305.15712](http://arxiv.org/abs/2305.15712)|**[link](https://github.com/hunto/diffkd)**|
 
-<p align=right>(<a href=#Updated-on-20240226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
 
 ## image restoration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-24**|**Sandwich GAN: Image Reconstruction from Phase Mask based Anti-dazzle Imaging**|Xiaopeng Peng et.al.|[2402.15919](http://arxiv.org/abs/2402.15919)|null|
+|**2024-02-24**|**HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models**|Li Pang et.al.|[2402.15865](http://arxiv.org/abs/2402.15865)|**[link](https://github.com/lipang/hirdiff)**|
+|**2024-02-24**|**IRConStyle: Image Restoration Framework Using Contrastive Learning and Style Transfer**|Dongqi Fan et.al.|[2402.15784](http://arxiv.org/abs/2402.15784)|**[link](https://github.com/dongqi-fan/irconstyle)**|
+|**2024-02-23**|**MambaIR: A Simple Baseline for Image Restoration with State-Space Model**|Hang Guo et.al.|[2402.15648](http://arxiv.org/abs/2402.15648)|**[link](https://github.com/csguoh/mambair)**|
 |**2024-02-21**|**Adversarial Purification and Fine-tuning for Robust UDC Image Restoration**|Zhenbo Song et.al.|[2402.13629](http://arxiv.org/abs/2402.13629)|null|
 |**2024-02-14**|**DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping**|Shiqi Yang et.al.|[2402.09101](http://arxiv.org/abs/2402.09101)|null|
 |**2024-02-10**|**Gyroscope-Assisted Motion Deblurring Network**|Simin Luan et.al.|[2402.06854](http://arxiv.org/abs/2402.06854)|**[link](https://github.com/lsmlovefm/GAMD-Net)**|
@@ -3757,12 +3795,14 @@
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
 |**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979](http://arxiv.org/abs/2305.07979)|**[link](https://github.com/yunguo224/ug2_deraining)**|
 
-<p align=right>(<a href=#Updated-on-20240226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM**|Li Zhang et.al.|[2402.16338](http://arxiv.org/abs/2402.16338)|null|
+|**2024-02-24**|**Increasing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation**|Zekun Jiang et.al.|[2402.15759](http://arxiv.org/abs/2402.15759)|null|
 |**2024-02-22**|**WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition**|Lianghui Zhu et.al.|[2402.14812](http://arxiv.org/abs/2402.14812)|**[link](https://github.com/hustvl/weaksam)**|
 |**2024-02-22**|**Subobject-level Image Tokenization**|Delong Chen et.al.|[2402.14327](http://arxiv.org/abs/2402.14327)|**[link](https://github.com/chendelong1999/subobjects)**|
 |**2024-02-20**|**Object-level Geometric Structure Preserving for Natural Image Stitching**|Wenxiao Cai et.al.|[2402.12677](http://arxiv.org/abs/2402.12677)|**[link](https://github.com/russrobin/obj-gsp)**|
@@ -3774,7 +3814,7 @@
 |**2024-02-15**|**Are Odd Radio Circles phoenixes of powerful radio galaxies?**|Stanislav Shabala et.al.|[2402.09708](http://arxiv.org/abs/2402.09708)|null|
 |**2024-02-10**|**Domain Adaptable Fine-Tune Distillation Framework For Advancing Farm Surveillance**|Raza Imam et.al.|[2402.07059](http://arxiv.org/abs/2402.07059)|**[link](https://github.com/razaimam45/fine-tune-distillation)**|
 |**2024-02-09**|**Iris-SAM: Iris Segmentation Using a Foundational Model**|Parisa Farmanifard et.al.|[2402.06497](http://arxiv.org/abs/2402.06497)|null|
-|**2024-02-14**|**ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation**|Aimee Guo et.al.|[2402.05902](http://arxiv.org/abs/2402.05902)|null|
+|**2024-02-25**|**ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation**|Aimee Guo et.al.|[2402.05902](http://arxiv.org/abs/2402.05902)|null|
 |**2024-02-07**|**EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss**|Zhuoyang Zhang et.al.|[2402.05008](http://arxiv.org/abs/2402.05008)|**[link](https://github.com/mit-han-lab/efficientvit)**|
 |**2024-02-06**|**CAT-SAM: Conditional Tuning Network for Few-Shot Adaptation of Segmentation Anything Model**|Aoran Xiao et.al.|[2402.03631](http://arxiv.org/abs/2402.03631)|null|
 |**2024-02-03**|**Polyp-DAM: Polyp segmentation via depth anything model**|Zhuoran Zheng et.al.|[2402.02298](http://arxiv.org/abs/2402.02298)|null|
@@ -4005,7 +4045,7 @@
 |**2023-06-14**|**TomoSAM: a 3D Slicer extension using SAM for tomography segmentation**|Federico Semeraro et.al.|[2306.08609](http://arxiv.org/abs/2306.08609)|**[link](https://github.com/fsemerar/slicertomosam)**|
 |**2023-06-13**|**Robustness of SAM: Segment Anything Under Corruptions and Beyond**|Yu Qiao et.al.|[2306.07713](http://arxiv.org/abs/2306.07713)|null|
 
-<p align=right>(<a href=#Updated-on-20240226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
