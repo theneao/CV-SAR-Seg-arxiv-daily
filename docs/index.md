@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.03.25
+## Updated on 2024.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-23**|**An edge detection-based deep learning approach for tear meniscus height measurement**|Kesheng Wang et.al.|[2403.15853](http://arxiv.org/abs/2403.15853)|null|
 |**2024-03-18**|**Logistic regression to boost exoplanet detection performances**|Hadrien Cambazard et.al.|[2403.11571](http://arxiv.org/abs/2403.11571)|null|
 |**2024-03-17**|**Advanced Knowledge Extraction of Physical Design Drawings, Translation and conversion to CAD formats using Deep Learning**|Jesher Joshua M et.al.|[2403.11291](http://arxiv.org/abs/2403.11291)|null|
 |**2024-03-16**|**Texture Edge detection by Patch consensus (TEP)**|Guangyu Cui et.al.|[2403.11038](http://arxiv.org/abs/2403.11038)|null|
@@ -118,6 +119,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Can Machine Translation Bridge Multilingual Pretraining and Cross-lingual Transfer Learning?**|Shaoxiong Ji et.al.|[2403.16777](http://arxiv.org/abs/2403.16777)|null|
+|**2024-03-25**|**Grammatical vs Spelling Error Correction: An Investigation into the Responsiveness of Transformer-based Language Models using BART and MarianMT**|Rohit Raju et.al.|[2403.16655](http://arxiv.org/abs/2403.16655)|null|
+|**2024-03-25**|**Enhancing Industrial Transfer Learning with Style Filter: Cost Reduction and Defect-Focus**|Chen Li et.al.|[2403.16607](http://arxiv.org/abs/2403.16607)|null|
+|**2024-03-25**|**Exploit High-Dimensional RIS Information to Localization: What Is the Impact of Faulty Element?**|Tuo Wu et.al.|[2403.16529](http://arxiv.org/abs/2403.16529)|null|
+|**2024-03-25**|**Employing High-Dimensional RIS Information for RIS-aided Localization Systems**|Tuo Wu et.al.|[2403.16521](http://arxiv.org/abs/2403.16521)|null|
+|**2024-03-25**|**Self-Supervised Learning for Medical Image Data with Anatomy-Oriented Imaging Planes**|Tianwei Zhang et.al.|[2403.16499](http://arxiv.org/abs/2403.16499)|null|
+|**2024-03-25**|**Data-Driven Extrusion Force Control Tuning for 3D Printing**|Xavier Guidetti et.al.|[2403.16470](http://arxiv.org/abs/2403.16470)|null|
+|**2024-03-23**|**A Deep Learning Architectures for Kidney Disease Classification**|Muhammad Shoaib Farooq et.al.|[2403.15895](http://arxiv.org/abs/2403.15895)|null|
+|**2024-03-23**|**VLUE: A New Benchmark and Multi-task Knowledge Transfer Learning for Vietnamese Natural Language Understanding**|Phong Nguyen-Thuan Do et.al.|[2403.15882](http://arxiv.org/abs/2403.15882)|null|
+|**2024-03-22**|**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series**|Badri N. Patro et.al.|[2403.15360](http://arxiv.org/abs/2403.15360)|**[link](https://github.com/badripatro/simba)**|
+|**2024-03-22**|**Not All Attention is Needed: Parameter and Computation Efficient Transfer Learning for Multi-modal Large Language Models**|Qiong Wu et.al.|[2403.15226](http://arxiv.org/abs/2403.15226)|null|
+|**2024-03-22**|**Vehicle Detection Performance in Nordic Region**|Hamam Mokayed et.al.|[2403.15017](http://arxiv.org/abs/2403.15017)|null|
 |**2024-03-21**|**A Transfer Learning Causal Approach to Evaluate Racial/Ethnic and Geographic Variation in Outcomes Following Congenital Heart Surgery**|Larry Han et.al.|[2403.14573](http://arxiv.org/abs/2403.14573)|null|
 |**2024-03-21**|**Transfer Learning for Cross-dataset Isolated Sign Language Recognition in Under-Resourced Datasets**|Ahmet Alp Kindiroglu et.al.|[2403.14534](http://arxiv.org/abs/2403.14534)|**[link](https://github.com/alpk/tid-supervised-transfer-learning-dataset)**|
 |**2024-03-21**|**Exploring Task Unification in Graph Representation Learning via Generative Approach**|Yulan Hu et.al.|[2403.14340](http://arxiv.org/abs/2403.14340)|null|
@@ -1121,6 +1134,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning**|Sicong Pan et.al.|[2403.16803](http://arxiv.org/abs/2403.16803)|null|
+|**2024-03-25**|**Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases**|Sophie Starck et.al.|[2403.16776](http://arxiv.org/abs/2403.16776)|null|
+|**2024-03-25**|**Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss**|Artem Khrapov et.al.|[2403.16728](http://arxiv.org/abs/2403.16728)|null|
+|**2024-03-25**|**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**|Yuda Song et.al.|[2403.16627](http://arxiv.org/abs/2403.16627)|null|
+|**2024-03-25**|**SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation**|Aysim Toker et.al.|[2403.16605](http://arxiv.org/abs/2403.16605)|null|
+|**2024-03-25**|**Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization**|Xiangxin Zhou et.al.|[2403.16576](http://arxiv.org/abs/2403.16576)|null|
+|**2024-03-25**|**An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models**|Zizhao Hu et.al.|[2403.16530](http://arxiv.org/abs/2403.16530)|null|
+|**2024-03-25**|**Let Real Images be as a Judger, Spotting Fake Images Synthesized with Generative Models**|Ziyou Liang et.al.|[2403.16513](http://arxiv.org/abs/2403.16513)|null|
+|**2024-03-25**|**Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**|Ziyao Huang et.al.|[2403.16510](http://arxiv.org/abs/2403.16510)|**[link](https://github.com/ictmcg/make-your-anchor)**|
+|**2024-03-25**|**Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation**|Sanyam Lakhanpal et.al.|[2403.16422](http://arxiv.org/abs/2403.16422)|null|
+|**2024-03-25**|**FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models**|Lin Zhao et.al.|[2403.16379](http://arxiv.org/abs/2403.16379)|null|
+|**2024-03-24**|**Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis**|Atefeh Khoshkhahtinat et.al.|[2403.16258](http://arxiv.org/abs/2403.16258)|null|
+|**2024-03-24**|**Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing**|Yongqing Liang et.al.|[2403.16207](http://arxiv.org/abs/2403.16207)|null|
+|**2024-03-24**|**Diffusion Model is a Good Pose Estimator from 3D RF-Vision**|Junqiao Fan et.al.|[2403.16198](http://arxiv.org/abs/2403.16198)|null|
+|**2024-03-24**|**Pose-Guided Self-Training with Two-Stage Clustering for Unsupervised Landmark Discovery**|Siddharth Tourani et.al.|[2403.16194](http://arxiv.org/abs/2403.16194)|**[link](https://github.com/skt9/pose-proxy-uld)**|
+|**2024-03-26**|**Gaze-guided Hand-Object Interaction Synthesis: Benchmark and Method**|Jie Tian et.al.|[2403.16169](http://arxiv.org/abs/2403.16169)|null|
+|**2024-03-24**|**Robust Diffusion Models for Adversarial Purification**|Guang Lin et.al.|[2403.16067](http://arxiv.org/abs/2403.16067)|null|
+|**2024-03-24**|**A Unified Module for Accelerating STABLE-DIFFUSION: LCM-LORA**|Ayush Thakur et.al.|[2403.16024](http://arxiv.org/abs/2403.16024)|null|
+|**2024-03-23**|**Feature Manipulation for DDPM based Change Detection**|Zhenglin Li et.al.|[2403.15943](http://arxiv.org/abs/2403.15943)|null|
+|**2024-03-26**|**X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention**|You Xie et.al.|[2403.15931](http://arxiv.org/abs/2403.15931)|null|
 |**2024-03-21**|**GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation**|Yinghao Xu et.al.|[2403.14621](http://arxiv.org/abs/2403.14621)|**[link](https://github.com/justimyhxu/grm)**|
 |**2024-03-21**|**DreamReward: Text-to-3D Generation with Human Preference**|Junliang Ye et.al.|[2403.14613](http://arxiv.org/abs/2403.14613)|null|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
@@ -3022,6 +3055,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**HPL-ESS: Hybrid Pseudo-Labeling for Unsupervised Event-based Semantic Segmentation**|Linglin Jing et.al.|[2403.16788](http://arxiv.org/abs/2403.16788)|null|
+|**2024-03-25**|**SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation**|Aysim Toker et.al.|[2403.16605](http://arxiv.org/abs/2403.16605)|null|
+|**2024-03-25**|**Self-Supervised Learning for Medical Image Data with Anatomy-Oriented Imaging Planes**|Tianwei Zhang et.al.|[2403.16499](http://arxiv.org/abs/2403.16499)|null|
+|**2024-03-25**|**GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation**|Weiming Zhang et.al.|[2403.16370](http://arxiv.org/abs/2403.16370)|null|
+|**2024-03-24**|**Dual-modal Prior Semantic Guided Infrared and Visible Image Fusion for Intelligent Transportation System**|Jing Li et.al.|[2403.16227](http://arxiv.org/abs/2403.16227)|null|
+|**2024-03-24**|**Segment Anything Model for Road Network Graph Extraction**|Congrui Hetang et.al.|[2403.16051](http://arxiv.org/abs/2403.16051)|**[link](https://github.com/htcr/sam_road)**|
+|**2024-03-24**|**SM2C: Boost the Semi-supervised Segmentation for Medical Image by using Meta Pseudo Labels and Mixed Images**|Yifei Wang et.al.|[2403.16009](http://arxiv.org/abs/2403.16009)|null|
+|**2024-03-22**|**Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting**|Jun Guo et.al.|[2403.15624](http://arxiv.org/abs/2403.15624)|null|
+|**2024-03-22**|**A2DMN: Anatomy-Aware Dilated Multiscale Network for Breast Ultrasound Semantic Segmentation**|Kyle Lucke et.al.|[2403.15560](http://arxiv.org/abs/2403.15560)|null|
+|**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377](http://arxiv.org/abs/2403.15377)|null|
+|**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218](http://arxiv.org/abs/2403.15218)|**[link](https://github.com/um2ii/sam_dataannotation)**|
+|**2024-03-22**|**Your Image is My Video: Reshaping the Receptive Field via Image-To-Video Differentiable AutoAugmentation and Fusion**|Sofia Casarin et.al.|[2403.15194](http://arxiv.org/abs/2403.15194)|null|
+|**2024-03-22**|**Improve Cross-domain Mixed Sampling with Guidance Training for Adaptive Segmentation**|Wenlve Zhou et.al.|[2403.14995](http://arxiv.org/abs/2403.14995)|null|
+|**2024-03-21**|**WeatherProof: Leveraging Language Guidance for Semantic Segmentation in Adverse Weather**|Blake Gella et.al.|[2403.14874](http://arxiv.org/abs/2403.14874)|null|
 |**2024-03-21**|**Learning to Project for Cross-Task Knowledge Distillation**|Dylan Auty et.al.|[2403.14494](http://arxiv.org/abs/2403.14494)|null|
 |**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418](http://arxiv.org/abs/2403.14418)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2024-03-21**|**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models**|Pablo Marcos-Manchón et.al.|[2403.14291](http://arxiv.org/abs/2403.14291)|**[link](https://github.com/vpulab/ovam)**|
@@ -4005,6 +4052,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Distilling Semantic Priors from SAM to Efficient Image Restoration Models**|Quan Zhang et.al.|[2403.16368](http://arxiv.org/abs/2403.16368)|null|
+|**2024-03-23**|**Graph Image Prior for Unsupervised Dynamic MRI Reconstruction**|Zhongsen Li et.al.|[2403.15770](http://arxiv.org/abs/2403.15770)|**[link](https://github.com/lizs17/gip_cardiac_mri)**|
+|**2024-03-22**|**Latent Neural Cellular Automata for Resource-Efficient Image Restoration**|Andrea Menta et.al.|[2403.15525](http://arxiv.org/abs/2403.15525)|null|
+|**2024-03-21**|**Osmosis: RGBD Diffusion Prior for Underwater Image Restoration**|Opher Bar Nathan et.al.|[2403.14837](http://arxiv.org/abs/2403.14837)|null|
 |**2024-03-21**|**AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**|Yuning Cui et.al.|[2403.14614](http://arxiv.org/abs/2403.14614)|**[link](https://github.com/c-yn/adair)**|
 |**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|**[link](https://github.com/mlneurosurg/restorative_step-calibrated_diffusion)**|
 |**2024-03-20**|**A multilevel framework for accelerating uSARA in radio-interferometric imaging**|Guillaume Lauga et.al.|[2403.13385](http://arxiv.org/abs/2403.13385)|null|
@@ -4226,6 +4277,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation**|Weiming Zhang et.al.|[2403.16370](http://arxiv.org/abs/2403.16370)|null|
+|**2024-03-25**|**Distilling Semantic Priors from SAM to Efficient Image Restoration Models**|Quan Zhang et.al.|[2403.16368](http://arxiv.org/abs/2403.16368)|null|
+|**2024-03-24**|**Segment Anything Model for Road Network Graph Extraction**|Congrui Hetang et.al.|[2403.16051](http://arxiv.org/abs/2403.16051)|**[link](https://github.com/htcr/sam_road)**|
+|**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218](http://arxiv.org/abs/2403.15218)|**[link](https://github.com/um2ii/sam_dataannotation)**|
+|**2024-03-22**|**Towards a Comprehensive, Efficient and Promptable Anatomic Structure Segmentation Model using 3D Whole-body CT Scans**|Heng Guo et.al.|[2403.15063](http://arxiv.org/abs/2403.15063)|null|
 |**2024-03-21**|**Empowering Segmentation Ability to Multi-modal Large Language Models**|Yuqi Yang et.al.|[2403.14141](http://arxiv.org/abs/2403.14141)|**[link](https://github.com/yuqiyang213/llavaseg)**|
 |**2024-03-21**|**MaskSAM: Towards Auto-prompt SAM with Mask Classification for Medical Image Segmentation**|Bin Xie et.al.|[2403.14103](http://arxiv.org/abs/2403.14103)|null|
 |**2024-03-20**|**SAMCT: Segment Any CT Allowing Labor-Free Task-Indicator Prompts**|Xian Lin et.al.|[2403.13258](http://arxiv.org/abs/2403.13258)|**[link](https://github.com/xianlin7/samct)**|
