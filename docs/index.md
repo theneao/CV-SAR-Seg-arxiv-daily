@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.04.19
+## Updated on 2024.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -127,6 +127,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**sEMG-based Fine-grained Gesture Recognition via Improved LightGBM Model**|Xiupeng Qiao et.al.|[2404.11861](http://arxiv.org/abs/2404.11861)|null|
 |**2024-04-17**|**GenFighter: A Generative and Evolutive Textual Attack Removal**|Md Athikul Islam et.al.|[2404.11538](http://arxiv.org/abs/2404.11538)|null|
 |**2024-04-17**|**Explainable Lung Disease Classification from Chest X-Ray Images Utilizing Deep Learning and XAI**|Tanzina Taher Ifty et.al.|[2404.11428](http://arxiv.org/abs/2404.11428)|null|
 |**2024-04-17**|**Feature Corrective Transfer Learning: End-to-End Solutions to Object Detection in Non-Ideal Visual Conditions**|Chuheng Wei et.al.|[2404.11214](http://arxiv.org/abs/2404.11214)|null|
@@ -1221,6 +1222,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis**|Yufei Ye et.al.|[2404.12383](http://arxiv.org/abs/2404.12383)|null|
+|**2024-04-18**|**Learning the Domain Specific Inverse NUFFT for Accelerated Spiral MRI using Diffusion Models**|Trevor J. Chan et.al.|[2404.12361](http://arxiv.org/abs/2404.12361)|null|
+|**2024-04-18**|**AniClipart: Clipart Animation with Text-to-Video Priors**|Ronghuan Wu et.al.|[2404.12347](http://arxiv.org/abs/2404.12347)|null|
+|**2024-04-18**|**Guided Discrete Diffusion for Electronic Health Record Generation**|Zixiang Chen et.al.|[2404.12314](http://arxiv.org/abs/2404.12314)|null|
+|**2024-04-18**|**StyleBooth: Image Style Editing with Multimodal Instruction**|Zhen Han et.al.|[2404.12154](http://arxiv.org/abs/2404.12154)|**[link](https://github.com/modelscope/scepter)**|
+|**2024-04-18**|**LD-Pruner: Efficient Pruning of Latent Diffusion Models using Task-Agnostic Insights**|Thibault Castells et.al.|[2404.11936](http://arxiv.org/abs/2404.11936)|null|
+|**2024-04-18**|**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models**|Wei Wu et.al.|[2404.11895](http://arxiv.org/abs/2404.11895)|null|
+|**2024-04-17**|**Prompt-Driven Feature Diffusion for Open-World Semi-Supervised Learning**|Marzi Heidari et.al.|[2404.11795](http://arxiv.org/abs/2404.11795)|null|
+|**2024-04-17**|**Diffusion Schrödinger Bridge Models for High-Quality MR-to-CT Synthesis for Head and Neck Proton Treatment Planning**|Muheng Li et.al.|[2404.11741](http://arxiv.org/abs/2404.11741)|null|
 |**2024-04-17**|**Factorized Diffusion: Perceptual Illusions by Noise Decomposition**|Daniel Geng et.al.|[2404.11615](http://arxiv.org/abs/2404.11615)|null|
 |**2024-04-17**|**IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination**|Xi Chen et.al.|[2404.11593](http://arxiv.org/abs/2404.11593)|null|
 |**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589](http://arxiv.org/abs/2404.11589)|null|
@@ -1231,7 +1241,7 @@ layout: default
 |**2024-04-17**|**Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption**|Buzhen Huang et.al.|[2404.11291](http://arxiv.org/abs/2404.11291)|**[link](https://github.com/boycehbz/humaninteraction)**|
 |**2024-04-17**|**Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case**|João Gabriel Vinholi et.al.|[2404.11243](http://arxiv.org/abs/2404.11243)|null|
 |**2024-04-17**|**RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models**|Han Huang et.al.|[2404.11199](http://arxiv.org/abs/2404.11199)|**[link](https://github.com/ml4bio/ribodiffusion)**|
-|**2024-04-18**|**LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models**|Dingkun Zhang et.al.|[2404.11098](http://arxiv.org/abs/2404.11098)|null|
+|**2024-04-19**|**LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models**|Dingkun Zhang et.al.|[2404.11098](http://arxiv.org/abs/2404.11098)|null|
 |**2024-04-16**|**Molecular relaxation by reverse diffusion with time step prediction**|Khaled Kahouli et.al.|[2404.10935](http://arxiv.org/abs/2404.10935)|**[link](https://github.com/khaledkah/morered)**|
 |**2024-04-16**|**RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting**|Ashkan Mirzaei et.al.|[2404.10765](http://arxiv.org/abs/2404.10765)|null|
 |**2024-04-16**|**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**|Yuchi Wang et.al.|[2404.10763](http://arxiv.org/abs/2404.10763)|**[link](https://github.com/wangyuchi369/ladic)**|
@@ -3324,6 +3334,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**A Perspective on Deep Vision Performance with Standard Image and Video Codecs**|Christoph Reich et.al.|[2404.12330](http://arxiv.org/abs/2404.12330)|null|
+|**2024-04-18**|**Deep Gaussian mixture model for unsupervised image segmentation**|Matthias Schwab et.al.|[2404.12252](http://arxiv.org/abs/2404.12252)|null|
+|**2024-04-18**|**Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training**|Jin Gao et.al.|[2404.12210](http://arxiv.org/abs/2404.12210)|**[link](https://github.com/wangsr126/mae-lite)**|
+|**2024-04-18**|**How to Benchmark Vision Foundation Models for Semantic Segmentation?**|Tommie Kerssies et.al.|[2404.12172](http://arxiv.org/abs/2404.12172)|null|
+|**2024-04-19**|**Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation**|Chongjie Si et.al.|[2404.11981](http://arxiv.org/abs/2404.11981)|null|
+|**2024-04-18**|**Group-On: Boosting One-Shot Segmentation with Supportive Query**|Hanjing Zhou et.al.|[2404.11871](http://arxiv.org/abs/2404.11871)|null|
+|**2024-04-17**|**Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach**|Mir Rayat Imtiaz Hossain et.al.|[2404.11732](http://arxiv.org/abs/2404.11732)|null|
 |**2024-04-17**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302](http://arxiv.org/abs/2404.11302)|**[link](https://github.com/pro1944191/semanticalignnet)**|
 |**2024-04-17**|**Learning from Unlabelled Data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images**|Nikolaos Dionelis et.al.|[2404.11299](http://arxiv.org/abs/2404.11299)|**[link](https://github.com/esa-philab/learning_from_unlabeled_data_for_domain_adaptation_for_semantic_segmentation)**|
 |**2024-04-16**|**A Concise Tiling Strategy for Preserving Spatial Context in Earth Observation Imagery**|Ellianna Abrahams et.al.|[2404.10927](http://arxiv.org/abs/2404.10927)|**[link](https://github.com/elliesch/flipnslide)**|
@@ -4415,9 +4432,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration**|Rui Deng et.al.|[2404.11778](http://arxiv.org/abs/2404.11778)|null|
 |**2024-04-17**|**AdaIR: Exploiting Underlying Similarities of Image Restoration Tasks with Adapters**|Hao-Wei Chen et.al.|[2404.11475](http://arxiv.org/abs/2404.11475)|null|
 |**2024-04-16**|**Improving Bracket Image Restoration and Enhancement with Flow-guided Alignment and Enhanced Feature Aggregation**|Wenjie Lin et.al.|[2404.10358](http://arxiv.org/abs/2404.10358)|null|
-|**2024-04-16**|**Referring Flexible Image Restoration**|Runwei Guan et.al.|[2404.10342](http://arxiv.org/abs/2404.10342)|null|
+|**2024-04-16**|**Referring Flexible Image Restoration**|Runwei Guan et.al.|[2404.10342](http://arxiv.org/abs/2404.10342)|**[link](https://github.com/guanrunwei/fir-cp)**|
 |**2024-04-17**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312](http://arxiv.org/abs/2404.10312)|null|
 |**2024-04-15**|**The Problem Of Image Super-Resolution, Denoising And Some Image Restoration Methods In Deep Learning Models**|Ngoc-Giau Pham et.al.|[2404.09817](http://arxiv.org/abs/2404.09817)|null|
 |**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735](http://arxiv.org/abs/2404.09735)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
@@ -4663,6 +4681,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Moving Object Segmentation: All You Need Is SAM (and Flow)**|Junyu Xie et.al.|[2404.12389](http://arxiv.org/abs/2404.12389)|null|
+|**2024-04-18**|**SOHES: Self-supervised Open-world Hierarchical Entity Segmentation**|Shengcao Cao et.al.|[2404.12386](http://arxiv.org/abs/2404.12386)|null|
+|**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285](http://arxiv.org/abs/2404.12285)|null|
+|**2024-04-17**|**When are Foundation Models Effective? Understanding the Suitability for Pixel-Level Classification Using Multispectral Imagery**|Yiqun Xie et.al.|[2404.11797](http://arxiv.org/abs/2404.11797)|null|
 |**2024-04-15**|**How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model**|Hanxue Gu et.al.|[2404.09957](http://arxiv.org/abs/2404.09957)|**[link](https://github.com/mazurowski-lab/finetune-sam)**|
 |**2024-04-15**|**The Physalis system: Discovery of ORC-like radio shells around a massive pair of interacting early-type galaxies with offset X-ray emission**|Bärbel S. Koribalski et.al.|[2404.09522](http://arxiv.org/abs/2404.09522)|null|
 |**2024-04-15**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[2404.09431](http://arxiv.org/abs/2404.09431)|null|
