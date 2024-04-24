@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.04.22
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -127,14 +127,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Machine Learning Techniques for MRI Data Processing at Expanding Scale**|Taro Langner et.al.|[2404.14326](http://arxiv.org/abs/2404.14326)|null|
+|**2024-04-22**|**Automated Long Answer Grading with RiceChem Dataset**|Shashank Sonkar et.al.|[2404.14316](http://arxiv.org/abs/2404.14316)|null|
+|**2024-04-21**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711](http://arxiv.org/abs/2404.13711)|**[link](https://github.com/silence-tang/artnerf)**|
+|**2024-04-20**|**MultiConfederated Learning: Inclusive Non-IID Data handling with Decentralized Federated Learning**|Michael Duchesne et.al.|[2404.13421](http://arxiv.org/abs/2404.13421)|null|
+|**2024-04-20**|**Transfer Learning for Molecular Property Predictions from Small Data Sets**|Thorren Kirschbaum et.al.|[2404.13393](http://arxiv.org/abs/2404.13393)|null|
+|**2024-04-20**|**Federated Transfer Learning with Task Personalization for Condition Monitoring in Ultrasonic Metal Welding**|Ahmadreza Eslaminia et.al.|[2404.13278](http://arxiv.org/abs/2404.13278)|null|
+|**2024-04-19**|**Explainable AI for Fair Sepsis Mortality Predictive Model**|Chia-Hsuan Chang et.al.|[2404.13139](http://arxiv.org/abs/2404.13139)|null|
+|**2024-04-19**|**Cross-Modal Adapter: Parameter-Efficient Transfer Learning Approach for Vision-Language Models**|Juncheng Yang et.al.|[2404.12588](http://arxiv.org/abs/2404.12588)|null|
+|**2024-04-18**|**Understanding Optimal Feature Transfer via a Fine-Grained Bias-Variance Analysis**|Yufan Li et.al.|[2404.12481](http://arxiv.org/abs/2404.12481)|null|
 |**2024-04-18**|**sEMG-based Fine-grained Gesture Recognition via Improved LightGBM Model**|Xiupeng Qiao et.al.|[2404.11861](http://arxiv.org/abs/2404.11861)|null|
 |**2024-04-17**|**GenFighter: A Generative and Evolutive Textual Attack Removal**|Md Athikul Islam et.al.|[2404.11538](http://arxiv.org/abs/2404.11538)|null|
 |**2024-04-17**|**Explainable Lung Disease Classification from Chest X-Ray Images Utilizing Deep Learning and XAI**|Tanzina Taher Ifty et.al.|[2404.11428](http://arxiv.org/abs/2404.11428)|null|
-|**2024-04-17**|**Feature Corrective Transfer Learning: End-to-End Solutions to Object Detection in Non-Ideal Visual Conditions**|Chuheng Wei et.al.|[2404.11214](http://arxiv.org/abs/2404.11214)|null|
+|**2024-04-19**|**Feature Corrective Transfer Learning: End-to-End Solutions to Object Detection in Non-Ideal Visual Conditions**|Chuheng Wei et.al.|[2404.11214](http://arxiv.org/abs/2404.11214)|null|
 |**2024-04-18**|**Supervised Contrastive Vision Transformer for Breast Histopathological Image Classification**|Mohammad Shiri et.al.|[2404.11052](http://arxiv.org/abs/2404.11052)|null|
 |**2024-04-17**|**Control Theoretic Approach to Fine-Tuning and Transfer Learning**|Erkan Bayram et.al.|[2404.11013](http://arxiv.org/abs/2404.11013)|null|
 |**2024-04-16**|**Tao: Re-Thinking DL-based Microarchitecture Simulation**|Santosh Pandey et.al.|[2404.10921](http://arxiv.org/abs/2404.10921)|null|
-|**2024-04-16**|**Lighter, Better, Faster Multi-Source Domain Adaptation with Gaussian Mixture Models and Optimal Transport**|Eduardo Fernandes Montesuma et.al.|[2404.10261](http://arxiv.org/abs/2404.10261)|null|
+|**2024-04-21**|**Lighter, Better, Faster Multi-Source Domain Adaptation with Gaussian Mixture Models and Optimal Transport**|Eduardo Fernandes Montesuma et.al.|[2404.10261](http://arxiv.org/abs/2404.10261)|null|
 |**2024-04-16**|**Privacy-Preserving Training-as-a-Service for On-Device Intelligence: Concept, Architectural Scheme, and Open Problems**|Zhiyuan Wu et.al.|[2404.10255](http://arxiv.org/abs/2404.10255)|null|
 |**2024-04-15**|**High-Resolution Detection of Earth Structural Heterogeneities from Seismic Amplitudes using Convolutional Neural Networks with Attention layers**|Luiz Schirmer et.al.|[2404.10170](http://arxiv.org/abs/2404.10170)|null|
 |**2024-04-15**|**Self-Supervised Learning Featuring Small-Scale Image Dataset for Treatable Retinal Diseases Classification**|Luffina C. Huang et.al.|[2404.10166](http://arxiv.org/abs/2404.10166)|null|
@@ -1222,6 +1231,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses**|Inhee Lee et.al.|[2404.14410](http://arxiv.org/abs/2404.14410)|null|
+|**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403](http://arxiv.org/abs/2404.14403)|null|
+|**2024-04-22**|**TAVGBench: Benchmarking Text to Audible-Video Generation**|Yuxin Mao et.al.|[2404.14381](http://arxiv.org/abs/2404.14381)|**[link](https://github.com/opennlplab/tavgbench)**|
+|**2024-04-22**|**Full Event Particle-Level Unfolding with Variable-Length Latent Variational Diffusion**|Alexander Shmakov et.al.|[2404.14332](http://arxiv.org/abs/2404.14332)|null|
+|**2024-04-22**|**X-Ray: A Sequential 3D Representation for Generation**|Tao Hu et.al.|[2404.14329](http://arxiv.org/abs/2404.14329)|null|
+|**2024-04-22**|**Collaborative Filtering Based on Diffusion Models: Unveiling the Potential of High-Order Connectivity**|Yu Hou et.al.|[2404.14240](http://arxiv.org/abs/2404.14240)|null|
+|**2024-04-22**|**MultiBooth: Towards Generating All Your Concepts in an Image from Text**|Chenyang Zhu et.al.|[2404.14239](http://arxiv.org/abs/2404.14239)|**[link](https://github.com/chenyangzhu1/multibooth)**|
+|**2024-04-22**|**Face2Face: Label-driven Facial Retouching Restoration**|Guanhua Zhao et.al.|[2404.14177](http://arxiv.org/abs/2404.14177)|null|
+|**2024-04-22**|**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on**|Chenhui Wang et.al.|[2404.14162](http://arxiv.org/abs/2404.14162)|null|
+|**2024-04-22**|**Generative Artificial Intelligence Assisted Wireless Sensing: Human Flow Detection in Practical Communication Environments**|Jiacheng Wang et.al.|[2404.14140](http://arxiv.org/abs/2404.14140)|null|
+|**2024-04-23**|**RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-Key Identification**|Hai Ci et.al.|[2404.14055](http://arxiv.org/abs/2404.14055)|null|
+|**2024-04-22**|**RHanDS: Refining Malformed Hands for Generated Images with Decoupled Structure and Style Guidance**|Chengrui Wang et.al.|[2404.13984](http://arxiv.org/abs/2404.13984)|null|
+|**2024-04-22**|**MaterialSeg3D: Segmenting Dense Materials from 2D Priors for 3D Assets**|Zeyu Li et.al.|[2404.13923](http://arxiv.org/abs/2404.13923)|null|
+|**2024-04-23**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|
+|**2024-04-22**|**Towards Better Text-to-Image Generation Alignment via Attention Modulation**|Yihang Wu et.al.|[2404.13899](http://arxiv.org/abs/2404.13899)|null|
+|**2024-04-23**|**Decoherence of a charged Brownian particle in a magnetic field : an analysis of the roles of coupling via position and momentum variables**|Suraka Bhattacharjee et.al.|[2404.13883](http://arxiv.org/abs/2404.13883)|null|
+|**2024-04-21**|**Universal Fingerprint Generation: Controllable Diffusion Model with Multimodal Conditions**|Steven A. Grosz et.al.|[2404.13791](http://arxiv.org/abs/2404.13791)|null|
+|**2024-04-21**|**Object-Attribute Binding in Text-to-Image Generation: Evaluation and Control**|Maria Mihaela Trusca et.al.|[2404.13766](http://arxiv.org/abs/2404.13766)|null|
+|**2024-04-21**|**A Splice Method for Local-to-Nonlocal Coupling of Weak Forms**|Shuai Jiang et.al.|[2404.13744](http://arxiv.org/abs/2404.13744)|null|
+|**2024-04-21**|**Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models**|Vitali Petsiuk et.al.|[2404.13706](http://arxiv.org/abs/2404.13706)|null|
 |**2024-04-18**|**G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis**|Yufei Ye et.al.|[2404.12383](http://arxiv.org/abs/2404.12383)|null|
 |**2024-04-18**|**Learning the Domain Specific Inverse NUFFT for Accelerated Spiral MRI using Diffusion Models**|Trevor J. Chan et.al.|[2404.12361](http://arxiv.org/abs/2404.12361)|null|
 |**2024-04-18**|**AniClipart: Clipart Animation with Text-to-Video Priors**|Ronghuan Wu et.al.|[2404.12347](http://arxiv.org/abs/2404.12347)|null|
@@ -3334,6 +3363,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks**|Sophia Sirko-Galouchenko et.al.|[2404.14027](http://arxiv.org/abs/2404.14027)|null|
+|**2024-04-21**|**Semantic-Rearrangement-Based Multi-Level Alignment for Domain Generalized Segmentation**|Guanlong Jiao et.al.|[2404.13701](http://arxiv.org/abs/2404.13701)|null|
+|**2024-04-21**|**PV-S3: Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al.|[2404.13693](http://arxiv.org/abs/2404.13693)|null|
+|**2024-04-21**|**A Complete System for Automated 3D Semantic-Geometric Mapping of Corrosion in Industrial Environments**|Rui Pimentel de Figueiredo et.al.|[2404.13691](http://arxiv.org/abs/2404.13691)|null|
+|**2024-04-21**|**LMFNet: An Efficient Multimodal Fusion Approach for Semantic Segmentation in High-Resolution Remote Sensing**|Tong Wang et.al.|[2404.13659](http://arxiv.org/abs/2404.13659)|null|
+|**2024-04-21**|**Towards Unified Representation of Multi-Modal Pre-training for 3D Understanding via Differentiable Rendering**|Ben Fei et.al.|[2404.13619](http://arxiv.org/abs/2404.13619)|null|
+|**2024-04-20**|**AMMUNet: Multi-Scale Attention Map Merging for Remote Sensing Image Segmentation**|Yang Yang et.al.|[2404.13408](http://arxiv.org/abs/2404.13408)|null|
+|**2024-04-19**|**BACS: Background Aware Continual Semantic Segmentation**|Mostafa ElAraby et.al.|[2404.13148](http://arxiv.org/abs/2404.13148)|null|
+|**2024-04-19**|**ToNNO: Tomographic Reconstruction of a Neural Network's Output for Weakly Supervised Segmentation of 3D Medical Images**|Marius Schmidt-Mengin et.al.|[2404.13103](http://arxiv.org/abs/2404.13103)|null|
+|**2024-04-19**|**Foundation Model assisted Weakly Supervised LiDAR Semantic Segmentation**|Yilong Chen et.al.|[2404.12861](http://arxiv.org/abs/2404.12861)|null|
+|**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832](http://arxiv.org/abs/2404.12832)|**[link](https://github.com/dmytro-shvetsov/counterfactual-search)**|
+|**2024-04-19**|**A Point-Based Approach to Efficient LiDAR Multi-Task Perception**|Christopher Lang et.al.|[2404.12798](http://arxiv.org/abs/2404.12798)|null|
+|**2024-04-19**|**Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework**|Zhuohong Li et.al.|[2404.12721](http://arxiv.org/abs/2404.12721)|**[link](https://github.com/lizhuohong/segland)**|
+|**2024-04-19**|**Improving Prediction Accuracy of Semantic Segmentation Methods Using Convolutional Autoencoder Based Pre-processing Layers**|Hisashi Shimodaira et.al.|[2404.12718](http://arxiv.org/abs/2404.12718)|null|
+|**2024-04-19**|**Show and Grasp: Few-shot Semantic Segmentation for Robot Grasping through Zero-shot Foundation Models**|Leonardo Barcellona et.al.|[2404.12717](http://arxiv.org/abs/2404.12717)|null|
 |**2024-04-18**|**A Perspective on Deep Vision Performance with Standard Image and Video Codecs**|Christoph Reich et.al.|[2404.12330](http://arxiv.org/abs/2404.12330)|null|
 |**2024-04-18**|**Deep Gaussian mixture model for unsupervised image segmentation**|Matthias Schwab et.al.|[2404.12252](http://arxiv.org/abs/2404.12252)|null|
 |**2024-04-18**|**Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training**|Jin Gao et.al.|[2404.12210](http://arxiv.org/abs/2404.12210)|**[link](https://github.com/wangsr126/mae-lite)**|
@@ -4432,6 +4476,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Face2Face: Label-driven Facial Retouching Restoration**|Guanhua Zhao et.al.|[2404.14177](http://arxiv.org/abs/2404.14177)|null|
+|**2024-04-22**|**CRNet: A Detail-Preserving Network for Unified Image Restoration and Enhancement Task**|Kangzhen Yang et.al.|[2404.14132](http://arxiv.org/abs/2404.14132)|**[link](https://github.com/calvinyang0/crnet)**|
+|**2024-04-21**|**Bracketing Image Restoration and Enhancement with High-Low Frequency Decomposition**|Genggeng Chen et.al.|[2404.13537](http://arxiv.org/abs/2404.13537)|null|
+|**2024-04-20**|**PCQA: A Strong Baseline for AIGC Quality Assessment Based on Prompt Condition**|Xi Fang et.al.|[2404.13299](http://arxiv.org/abs/2404.13299)|null|
 |**2024-04-17**|**CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration**|Rui Deng et.al.|[2404.11778](http://arxiv.org/abs/2404.11778)|null|
 |**2024-04-17**|**AdaIR: Exploiting Underlying Similarities of Image Restoration Tasks with Adapters**|Hao-Wei Chen et.al.|[2404.11475](http://arxiv.org/abs/2404.11475)|null|
 |**2024-04-16**|**Improving Bracket Image Restoration and Enhancement with Flow-guided Alignment and Enhanced Feature Aggregation**|Wenjie Lin et.al.|[2404.10358](http://arxiv.org/abs/2404.10358)|null|
@@ -4681,6 +4729,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation**|Siru Zhong et.al.|[2404.14241](http://arxiv.org/abs/2404.14241)|null|
+|**2024-04-22**|**Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery**|Yuyang Sheng et.al.|[2404.14040](http://arxiv.org/abs/2404.14040)|null|
+|**2024-04-22**|**PM-VIS: High-Performance Box-Supervised Video Instance Segmentation**|Zhangjing Yang et.al.|[2404.13863](http://arxiv.org/abs/2404.13863)|null|
+|**2024-04-20**|**Beyond Pixel-Wise Supervision for Medical Image Segmentation: From Traditional Models to Foundation Models**|Yuyan Shi et.al.|[2404.13239](http://arxiv.org/abs/2404.13239)|null|
+|**2024-04-19**|**ELEV-VISION-SAM: Integrated Vision Language and Foundation Model for Automated Estimation of Building Lowest Floor Elevation**|Yu-Hsuan Ho et.al.|[2404.12606](http://arxiv.org/abs/2404.12606)|null|
 |**2024-04-18**|**Moving Object Segmentation: All You Need Is SAM (and Flow)**|Junyu Xie et.al.|[2404.12389](http://arxiv.org/abs/2404.12389)|**[link](https://github.com/Jyxarthur/flowsam)**|
 |**2024-04-18**|**SOHES: Self-supervised Open-world Hierarchical Entity Segmentation**|Shengcao Cao et.al.|[2404.12386](http://arxiv.org/abs/2404.12386)|null|
 |**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285](http://arxiv.org/abs/2404.12285)|null|
