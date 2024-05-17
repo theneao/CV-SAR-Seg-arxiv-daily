@@ -5,7 +5,7 @@
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.05.15
+## Updated on 2024.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,12 +28,13 @@
 |**2021-09-09**|**Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders**|Fangyu Liu et.al.|[2104.08027](http://arxiv.org/abs/2104.08027)|**[link](https://github.com/cambridgeltl/mirror-bert)**|
 |**2022-07-11**|**Learned Camera Gain and Exposure Control for Improved Visual Feature Detection and Matching**|Justin Tomasi et.al.|[2102.04341](http://arxiv.org/abs/2102.04341)|null|
 
-<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240517>back to top</a>)</p>
 
 ## edge detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423](http://arxiv.org/abs/2405.08423)|null|
 |**2024-05-13**|**AnomalyLLM: Few-shot Anomaly Edge Detection for Dynamic Graphs using Large Language Models**|Shuo Liu et.al.|[2405.07626](http://arxiv.org/abs/2405.07626)|**[link](https://github.com/anomalyllm/anomalyllm)**|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
 |**2024-05-06**|**Statistical Edge Detection And UDF Learning For Shape Representation**|Virgile Foy et.al.|[2405.03381](http://arxiv.org/abs/2405.03381)|null|
@@ -137,12 +138,20 @@
 |**2023-03-02**|**Scalable optical neural networks based on temporal computing**|Shuang Zheng et.al.|[2303.01287](http://arxiv.org/abs/2303.01287)|null|
 |**2023-03-26**|**Attention-based Point Cloud Edge Sampling**|Chengzhi Wu et.al.|[2302.14673](http://arxiv.org/abs/2302.14673)|**[link](https://github.com/JunweiZheng93/APES)**|
 
-<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240517>back to top</a>)</p>
 
 ## transfer learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**SA-FedLora: Adaptive Parameter Allocation for Efficient Federated Learning with LoRA Tuning**|Yuning Yang et.al.|[2405.09394](http://arxiv.org/abs/2405.09394)|null|
+|**2024-05-15**|**Transfer Learning in Pre-Trained Large Language Models for Malware Detection Based on System Calls**|Pedro Miguel Sánchez Sánchez et.al.|[2405.09318](http://arxiv.org/abs/2405.09318)|null|
+|**2024-05-15**|**Deep Learning in Earthquake Engineering: A Comprehensive Review**|Yazhou Xie et.al.|[2405.09021](http://arxiv.org/abs/2405.09021)|null|
+|**2024-05-15**|**Feature-based Federated Transfer Learning: Communication Efficiency, Robustness and Privacy**|Feng Wang et.al.|[2405.09014](http://arxiv.org/abs/2405.09014)|null|
+|**2024-05-16**|**Neural Collapse Meets Differential Privacy: Curious Behaviors of NoisyGD with Near-perfect Representation Learning**|Chendi Wang et.al.|[2405.08920](http://arxiv.org/abs/2405.08920)|null|
+|**2024-05-14**|**FLEXIBLE: Forecasting Cellular Traffic by Leveraging Explicit Inductive Graph-Based Learning**|Duc Thinh Ngo et.al.|[2405.08843](http://arxiv.org/abs/2405.08843)|null|
+|**2024-05-14**|**Using autoencoders and deep transfer learning to determine the stellar parameters of 286 CARMENES M dwarfs**|P. Mas-Buitrago et.al.|[2405.08703](http://arxiv.org/abs/2405.08703)|null|
+|**2024-05-13**|**Modeling of Time-varying Wireless Communication Channel with Fading and Shadowing**|Lee Youngmin et.al.|[2405.08199](http://arxiv.org/abs/2405.08199)|null|
 |**2024-05-13**|**Enhancing Clinically Significant Prostate Cancer Prediction in T2-weighted Images through Transfer Learning from Breast Cancer**|Chi-en Amy Tai et.al.|[2405.07869](http://arxiv.org/abs/2405.07869)|null|
 |**2024-05-13**|**Automatic Recognition of Food Ingestion Environment from the AIM-2 Wearable Sensor**|Yuning Huang et.al.|[2405.07827](http://arxiv.org/abs/2405.07827)|null|
 |**2024-05-11**|**Fractals as Pre-training Datasets for Anomaly Detection and Localization**|C. I. Ugwu et.al.|[2405.06980](http://arxiv.org/abs/2405.06980)|null|
@@ -1307,12 +1316,27 @@
 |**2023-05-31**|**Deep into The Domain Shift: Transfer Learning through Dependence Regularization**|Shumin Ma et.al.|[2305.19499](http://arxiv.org/abs/2305.19499)|**[link](https://github.com/yzr1991/deep_into_the_domain_shift)**|
 |**2023-05-30**|**Transfer Learning With Efficient Estimators to Optimally Leverage Historical Data in Analysis of Randomized Trials**|Lauren D. Liao et.al.|[2305.19180](http://arxiv.org/abs/2305.19180)|**[link](https://github.com/ldliao/tl4rct)**|
 
-<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240517>back to top</a>)</p>
 
 ## diffusion model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539](http://arxiv.org/abs/2405.09539)|**[link](https://github.com/wuchengyu123/mmfusion)**|
+|**2024-05-15**|**Diffusion-based Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2405.09369](http://arxiv.org/abs/2405.09369)|null|
+|**2024-05-15**|**Dance Any Beat: Blending Beats with Visuals in Dance Video Generation**|Xuanchen Wang et.al.|[2405.09266](http://arxiv.org/abs/2405.09266)|null|
+|**2024-05-15**|**SOEDiff: Efficient Distillation for Small Object Editing**|Qihe Pan et.al.|[2405.09114](http://arxiv.org/abs/2405.09114)|null|
+|**2024-05-15**|**RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing**|Jiamei Xiong et.al.|[2405.09083](http://arxiv.org/abs/2405.09083)|**[link](https://github.com/jm-xiong/rshazediff)**|
+|**2024-05-15**|**Naturalistic Music Decoding from EEG Data via Latent Diffusion Models**|Emilian Postolache et.al.|[2405.09062](http://arxiv.org/abs/2405.09062)|null|
+|**2024-05-15**|**Response Matching for generating materials and molecules**|Bingqing Cheng et.al.|[2405.09057](http://arxiv.org/abs/2405.09057)|null|
+|**2024-05-15**|**CTS: A Consistency-Based Medical Image Segmentation Model**|Kejia Zhang et.al.|[2405.09056](http://arxiv.org/abs/2405.09056)|null|
+|**2024-05-14**|**Expensive Multi-Objective Bayesian Optimization Based on Diffusion Models**|Bingdong Li et.al.|[2405.08674](http://arxiv.org/abs/2405.08674)|null|
+|**2024-05-14**|**Towards Multi-Task Generative-AI Edge Services with an Attention-based Diffusion DRL Approach**|Yaju Liu et.al.|[2405.08328](http://arxiv.org/abs/2405.08328)|null|
+|**2024-05-14**|**Compositional Text-to-Image Generation with Dense Blob Representations**|Weili Nie et.al.|[2405.08246](http://arxiv.org/abs/2405.08246)|null|
+|**2024-05-13**|**Infinite Texture: Text-guided High Resolution Diffusion Texture Synthesis**|Yifan Wang et.al.|[2405.08210](http://arxiv.org/abs/2405.08210)|null|
+|**2024-05-13**|**Do Bayesian imaging methods report trustworthy probabilities?**|David Y. W. Thong et.al.|[2405.08179](http://arxiv.org/abs/2405.08179)|null|
+|**2024-05-13**|**DiffTF++: 3D-aware Diffusion Transformer for Large-Vocabulary 3D Generation**|Ziang Cao et.al.|[2405.08055](http://arxiv.org/abs/2405.08055)|**[link](https://github.com/ziangcao0312/DiffTF)**|
+|**2024-05-13**|**Coin3D: Controllable and Interactive 3D Assets Generation with Proxy-Guided Conditioning**|Wenqi Dong et.al.|[2405.08054](http://arxiv.org/abs/2405.08054)|null|
 |**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
 |**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
 |**2024-05-13**|**SAR Image Synthesis with Diffusion Models**|Denisa Qosja et.al.|[2405.07776](http://arxiv.org/abs/2405.07776)|null|
@@ -3603,18 +3627,21 @@
 |**2023-06-01**|**Random advection-diffusion models and their statistics**|Stefano Lepri et.al.|[2306.00463](http://arxiv.org/abs/2306.00463)|null|
 |**2023-06-01**|**Controllable Motion Diffusion Model**|Yi Shi et.al.|[2306.00416](http://arxiv.org/abs/2306.00416)|null|
 
-<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240517>back to top</a>)</p>
 
 ## semantic segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
+|**2024-05-14**|**Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study**|Qinfeng Zhu et.al.|[2405.08493](http://arxiv.org/abs/2405.08493)|null|
+|**2024-05-14**|**TEDNet: Twin Encoder Decoder Neural Network for 2D Camera and LiDAR Road Detection**|Martín Bayón-Gutiérrez et.al.|[2405.08429](http://arxiv.org/abs/2405.08429)|**[link](https://github.com/martin-bayon/tednet)**|
 |**2024-05-13**|**IMAFD: An Interpretable Multi-stage Approach to Flood Detection from time series Multispectral Data**|Ziyang Zhang et.al.|[2405.07916](http://arxiv.org/abs/2405.07916)|null|
 |**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|null|
-|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|null|
+|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|**[link](https://github.com/SLDGroup/GreedyViG)**|
 |**2024-05-10**|**Enhancing Weakly Supervised Semantic Segmentation with Multi-modal Foundation Models: An End-to-End Approach**|Elham Ravanbakhsh et.al.|[2405.06586](http://arxiv.org/abs/2405.06586)|null|
 |**2024-05-10**|**Semantic and Spatial Adaptive Pixel-level Classifier for Semantic Segmentation**|Xiaowen Ma et.al.|[2405.06525](http://arxiv.org/abs/2405.06525)|**[link](https://github.com/xwmaxwma/ssa)**|
-|**2024-05-10**|**Multi-Target Unsupervised Domain Adaptation for Semantic Segmentation without External Data**|Yonghao Xu et.al.|[2405.06502](http://arxiv.org/abs/2405.06502)|null|
+|**2024-05-10**|**Multi-Target Unsupervised Domain Adaptation for Semantic Segmentation without External Data**|Yonghao Xu et.al.|[2405.06502](http://arxiv.org/abs/2405.06502)|**[link](https://github.com/yonghaoxu/ut-kd)**|
 |**2024-05-10**|**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**|Rongyu Zhang et.al.|[2405.06413](http://arxiv.org/abs/2405.06413)|null|
 |**2024-05-10**|**Context-Guided Spatial Feature Reconstruction for Efficient Semantic Segmentation**|Zhenliang Ni et.al.|[2405.06228](http://arxiv.org/abs/2405.06228)|**[link](https://github.com/nizhenliang/cgrseg)**|
 |**2024-05-10**|**Zero-shot Degree of Ill-posedness Estimation for Active Small Object Change Detection**|Koji Takeda et.al.|[2405.06185](http://arxiv.org/abs/2405.06185)|null|
@@ -4763,7 +4790,7 @@
 |**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957](http://arxiv.org/abs/2305.15957)|null|
 |**2023-05-25**|**Knowledge Diffusion for Distillation**|Tao Huang et.al.|[2305.15712](http://arxiv.org/abs/2305.15712)|**[link](https://github.com/hunto/diffkd)**|
 
-<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240517>back to top</a>)</p>
 
 ## image restoration
 
@@ -4774,7 +4801,7 @@
 |**2024-05-07**|**DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks**|Jiaxin Zhang et.al.|[2405.04408](http://arxiv.org/abs/2405.04408)|**[link](https://github.com/zzzhang-jx/docres)**|
 |**2024-05-11**|**Residual-Conditioned Optimal Transport: Towards Structure-Preserving Unpaired and Paired Image Restoration**|Xiaole Tang et.al.|[2405.02843](http://arxiv.org/abs/2405.02843)|null|
 |**2024-05-04**|**Deep Image Restoration For Image Anti-Forensics**|Eren Tahir et.al.|[2405.02751](http://arxiv.org/abs/2405.02751)|**[link](https://github.com/99eren99/dirfiaf)**|
-|**2024-05-12**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
+|**2024-05-15**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
 |**2024-04-29**|**Reconstructing Satellites in 3D from Amateur Telescope Images**|Zhiming Chang et.al.|[2404.18394](http://arxiv.org/abs/2404.18394)|null|
 |**2024-04-26**|**PromptCIR: Blind Compressed Image Restoration with Prompt Learning**|Bingchen Li et.al.|[2404.17433](http://arxiv.org/abs/2404.17433)|**[link](https://github.com/lbc12345/promptcir-ntire24)**|
 |**2024-04-26**|**One-Shot Image Restoration**|Deborah Pereg et.al.|[2404.17426](http://arxiv.org/abs/2404.17426)|null|
@@ -5030,7 +5057,7 @@
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
 |**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979](http://arxiv.org/abs/2305.07979)|**[link](https://github.com/yunguo224/ug2_deraining)**|
 
-<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240517>back to top</a>)</p>
 
 ## SAM
 
@@ -5377,7 +5404,7 @@
 |**2023-06-14**|**TomoSAM: a 3D Slicer extension using SAM for tomography segmentation**|Federico Semeraro et.al.|[2306.08609](http://arxiv.org/abs/2306.08609)|**[link](https://github.com/fsemerar/slicertomosam)**|
 |**2023-06-13**|**Robustness of SAM: Segment Anything Under Corruptions and Beyond**|Yu Qiao et.al.|[2306.07713](http://arxiv.org/abs/2306.07713)|null|
 
-<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240517>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
