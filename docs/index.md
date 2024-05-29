@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.05.27
+## Updated on 2024.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Improving and Evaluating Machine Learning Methods for Forensic Shoeprint Matching**|Divij Jain et.al.|[2405.14878](http://arxiv.org/abs/2405.14878)|null|
 |**2024-05-21**|**Automating Attendance Management in Human Resources: A Design Science Approach Using Computer Vision and Facial Recognition**|Bao-Thien Nguyen-Tat et.al.|[2405.12633](http://arxiv.org/abs/2405.12633)|null|
 |**2024-05-19**|**The Effectiveness of Edge Detection Evaluation Metrics for Automated Coastline Detection**|Conor O'Sullivan et.al.|[2405.11498](http://arxiv.org/abs/2405.11498)|null|
 |**2024-05-19**|**Automated Coastline Extraction Using Edge Detection Algorithms**|Conor O'Sullivan et.al.|[2405.11494](http://arxiv.org/abs/2405.11494)|**[link](https://github.com/conorosully/swed-edge-detection)**|
@@ -135,6 +136,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Flow control of three-dimensional cylinders transitioning to turbulence via multi-agent reinforcement learning**|P. Suárez et.al.|[2405.17210](http://arxiv.org/abs/2405.17210)|null|
+|**2024-05-27**|**Harnessing the Power of Vicinity-Informed Analysis for Classification under Covariate Shift**|Mitsuhiro Fujikawa et.al.|[2405.16906](http://arxiv.org/abs/2405.16906)|null|
+|**2024-05-28**|**Transfer Learning for Diffusion Models**|Yidong Ouyang et.al.|[2405.16876](http://arxiv.org/abs/2405.16876)|null|
+|**2024-05-27**|**Enhancing Accuracy in Generative Models via Knowledge Transfer**|Xinyu Tian et.al.|[2405.16837](http://arxiv.org/abs/2405.16837)|null|
+|**2024-05-27**|**Dual-State Personalized Knowledge Tracing with Emotional Incorporation**|Shanshan Wang et.al.|[2405.16799](http://arxiv.org/abs/2405.16799)|null|
+|**2024-05-26**|**Transfer Learning Under High-Dimensional Graph Convolutional Regression Model for Node Classification**|Jiachen Chen et.al.|[2405.16672](http://arxiv.org/abs/2405.16672)|null|
+|**2024-05-26**|**Mixture of Experts Using Tensor Products**|Zhan Su et.al.|[2405.16671](http://arxiv.org/abs/2405.16671)|null|
+|**2024-05-26**|**Acceleration of Grokking in Learning Arithmetic Operations via Kolmogorov-Arnold Representation**|Yeachan Park et.al.|[2405.16658](http://arxiv.org/abs/2405.16658)|null|
+|**2024-05-26**|**From Macro to Micro: Boosting micro-expression recognition via pre-training on macro-expression videos**|Hanting Li et.al.|[2405.16451](http://arxiv.org/abs/2405.16451)|null|
+|**2024-05-26**|**Daily Physical Activity Monitoring -- Adaptive Learning from Multi-source Motion Sensor Data**|Haoting Zhang et.al.|[2405.16395](http://arxiv.org/abs/2405.16395)|null|
+|**2024-05-25**|**LoGAH: Predicting 774-Million-Parameter Transformers using Graph HyperNetworks with 1/100 Parameters**|Xinyu Zhou et.al.|[2405.16287](http://arxiv.org/abs/2405.16287)|**[link](https://github.com/blackzxy/logah)**|
+|**2024-05-25**|**Generation of synthetic data using breast cancer dataset and classification with resnet18**|Dilsat Berin Aytar et.al.|[2405.16286](http://arxiv.org/abs/2405.16286)|null|
+|**2024-05-25**|**Transfer learning in predicting quantum many-body dynamics: from physical observables to entanglement entropy**|Philipp Schmidt et.al.|[2405.16254](http://arxiv.org/abs/2405.16254)|null|
+|**2024-05-25**|**A statistical framework for weak-to-strong generalization**|Seamus Somerstep et.al.|[2405.16236](http://arxiv.org/abs/2405.16236)|null|
+|**2024-05-24**|**Disease-informed Adaptation of Vision-Language Models**|Jiajin Zhang et.al.|[2405.15728](http://arxiv.org/abs/2405.15728)|**[link](https://github.com/rpidial/disease-informed-vlm-adaptation)**|
+|**2024-05-28**|**The Impact of Geometric Complexity on Neural Collapse in Transfer Learning**|Michael Munn et.al.|[2405.15706](http://arxiv.org/abs/2405.15706)|null|
+|**2024-05-24**|**Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported**|Ethan Harvey et.al.|[2405.15583](http://arxiv.org/abs/2405.15583)|**[link](https://github.com/tufts-ml/bdl-transfer-learning)**|
+|**2024-05-24**|**Unsteady aerodynamic prediction using limited samples based on transfer learning**|Wen Ji et.al.|[2405.15470](http://arxiv.org/abs/2405.15470)|null|
+|**2024-05-24**|**Environment Sensing-aided Beam Prediction with Transfer Learning for Smart Factory**|Yuan Feng et.al.|[2405.15339](http://arxiv.org/abs/2405.15339)|null|
+|**2024-05-24**|**Detection and Positive Reconstruction of Cognitive Distortion sentences: Mandarin Dataset and Evaluation**|Shuya Lin et.al.|[2405.15334](http://arxiv.org/abs/2405.15334)|null|
 |**2024-05-23**|**Deep learning lattice gauge theories**|Anuj Apte et.al.|[2405.14830](http://arxiv.org/abs/2405.14830)|null|
 |**2024-05-23**|**Implicit In-context Learning**|Zhuowei Li et.al.|[2405.14660](http://arxiv.org/abs/2405.14660)|null|
 |**2024-05-23**|**SolNet: Open-source deep learning models for photovoltaic power forecasting across the globe**|Joris Depoortere et.al.|[2405.14472](http://arxiv.org/abs/2405.14472)|null|
@@ -1341,6 +1362,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer**|Ruizhi Shao et.al.|[2405.17405](http://arxiv.org/abs/2405.17405)|null|
+|**2024-05-27**|**A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training**|Kai Wang et.al.|[2405.17403](http://arxiv.org/abs/2405.17403)|**[link](https://github.com/1zeryu/speed)**|
+|**2024-05-27**|**RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control**|Litu Rout et.al.|[2405.17401](http://arxiv.org/abs/2405.17401)|null|
+|**2024-05-27**|**EASI-Tex: Edge-Aware Mesh Texturing from Single Image**|Sai Raj Kishore Perla et.al.|[2405.17393](http://arxiv.org/abs/2405.17393)|null|
+|**2024-05-28**|**Controllable Longer Image Animation with Diffusion Models**|Qiang Wang et.al.|[2405.17306](http://arxiv.org/abs/2405.17306)|null|
+|**2024-05-27**|**Does Diffusion Beat GAN in Image Super Resolution?**|Denis Kuznedelev et.al.|[2405.17261](http://arxiv.org/abs/2405.17261)|null|
+|**2024-05-27**|**DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models**|Yuqing Zhang et.al.|[2405.17176](http://arxiv.org/abs/2405.17176)|null|
+|**2024-05-27**|**Partitioned Hankel-based Diffusion Models for Few-shot Low-dose CT Reconstruction**|Wenhao Zhang et.al.|[2405.17167](http://arxiv.org/abs/2405.17167)|null|
+|**2024-05-27**|**PatchScaler: An Efficient Patch-independent Diffusion Model for Super-Resolution**|Yong Liu et.al.|[2405.17158](http://arxiv.org/abs/2405.17158)|**[link](https://github.com/yongliuy/patchscaler)**|
+|**2024-05-27**|**Ensembling Diffusion Models via Adaptive Feature Aggregation**|Cong Wang et.al.|[2405.17082](http://arxiv.org/abs/2405.17082)|null|
+|**2024-05-27**|**The Poisson Midpoint Method for Langevin Dynamics: Provably Efficient Discretization for Diffusion Models**|Saravanan Kandasamy et.al.|[2405.17068](http://arxiv.org/abs/2405.17068)|null|
+|**2024-05-27**|**Glauber Generative Model: Discrete Diffusion Models via Binary Classification**|Harshit Varma et.al.|[2405.17035](http://arxiv.org/abs/2405.17035)|null|
+|**2024-05-27**|**$\text{Di}^2\text{Pose}$ : Discrete Diffusion Model for Occluded 3D Human Pose Estimation**|Weiquan Wang et.al.|[2405.17016](http://arxiv.org/abs/2405.17016)|null|
+|**2024-05-28**|**MotionLLM: Multimodal Motion-Language Learning with Large Language Models**|Qi Wu et.al.|[2405.17013](http://arxiv.org/abs/2405.17013)|null|
+|**2024-05-27**|**A Variance-Preserving Interpolation Approach for Diffusion Models with Applications to Single Channel Speech Enhancement and Recognition**|Zilu Guo et.al.|[2405.16952](http://arxiv.org/abs/2405.16952)|null|
+|**2024-05-27**|**Zero-Shot Video Semantic Segmentation based on Pre-Trained Diffusion Models**|Qian Wang et.al.|[2405.16947](http://arxiv.org/abs/2405.16947)|null|
+|**2024-05-27**|**PASTA: Pathology-Aware MRI to PET Cross-Modal Translation with Diffusion Models**|Yitong Li et.al.|[2405.16942](http://arxiv.org/abs/2405.16942)|null|
+|**2024-05-28**|**GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning**|Jaewoo Lee et.al.|[2405.16907](http://arxiv.org/abs/2405.16907)|**[link](https://github.com/jaewoopudding/gta)**|
+|**2024-05-27**|**Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation**|Liang Shi et.al.|[2405.16895](http://arxiv.org/abs/2405.16895)|null|
+|**2024-05-27**|**Part123: Part-aware 3D Reconstruction from a Single-view Image**|Anran Liu et.al.|[2405.16888](http://arxiv.org/abs/2405.16888)|null|
 |**2024-05-23**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864](http://arxiv.org/abs/2405.14864)|null|
 |**2024-05-23**|**Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models**|Gen Li et.al.|[2405.14861](http://arxiv.org/abs/2405.14861)|null|
@@ -3713,6 +3754,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Evaluation of Multi-task Uncertainties in Joint Semantic Segmentation and Monocular Depth Estimation**|Steven Landgraf et.al.|[2405.17097](http://arxiv.org/abs/2405.17097)|null|
+|**2024-05-27**|**DSU-Net: Dynamic Snake U-Net for 2-D Seismic First Break Picking**|Hongtao Wang et.al.|[2405.16980](http://arxiv.org/abs/2405.16980)|null|
+|**2024-05-27**|**Collective Perception Datasets for Autonomous Driving: A Comprehensive Review**|Sven Teufel et.al.|[2405.16973](http://arxiv.org/abs/2405.16973)|null|
+|**2024-05-27**|**Zero-Shot Video Semantic Segmentation based on Pre-Trained Diffusion Models**|Qian Wang et.al.|[2405.16947](http://arxiv.org/abs/2405.16947)|null|
+|**2024-05-27**|**A re-calibration method for object detection with multi-modal alignment bias in autonomous driving**|Zhihang Song et.al.|[2405.16848](http://arxiv.org/abs/2405.16848)|null|
+|**2024-05-25**|**BOLD: Boolean Logic Deep Learning**|Van Minh Nguyen et.al.|[2405.16339](http://arxiv.org/abs/2405.16339)|null|
+|**2024-05-25**|**Improving 3D Occupancy Prediction through Class-balancing Loss and Multi-scale Representation**|Huizhou Chen et.al.|[2405.16099](http://arxiv.org/abs/2405.16099)|null|
+|**2024-05-25**|**Intensity and Texture Correction of Omnidirectional Image Using Camera Images for Indirect Augmented Reality**|Hakim Ikebayashi et.al.|[2405.16008](http://arxiv.org/abs/2405.16008)|null|
+|**2024-05-24**|**Visualize and Paint GAN Activations**|Rudolf Herdt et.al.|[2405.15636](http://arxiv.org/abs/2405.15636)|null|
+|**2024-05-24**|**Leveraging knowledge distillation for partial multi-task learning from multiple remote sensing datasets**|Hoàng-Ân Lê et.al.|[2405.15394](http://arxiv.org/abs/2405.15394)|null|
+|**2024-05-24**|**U3M: Unbiased Multiscale Modal Fusion Model for Multimodal Semantic Segmentation**|Bingyu Li et.al.|[2405.15365](http://arxiv.org/abs/2405.15365)|**[link](https://github.com/libingyu01/u3m-multimodal-semantic-segmentation)**|
+|**2024-05-24**|**Cross-Domain Few-Shot Semantic Segmentation via Doubly Matching Transformation**|Jiayi Chen et.al.|[2405.15265](http://arxiv.org/abs/2405.15265)|null|
 |**2024-05-23**|**Mamba-R: Vision Mamba ALSO Needs Registers**|Feng Wang et.al.|[2405.14858](http://arxiv.org/abs/2405.14858)|null|
 |**2024-05-23**|**Segformer++: Efficient Token-Merging Strategies for High-Resolution Semantic Segmentation**|Daniel Kienzle et.al.|[2405.14467](http://arxiv.org/abs/2405.14467)|null|
 |**2024-05-23**|**MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models**|Jiuming Liu et.al.|[2405.14338](http://arxiv.org/abs/2405.14338)|null|
@@ -4896,6 +4949,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-26**|**Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models**|Regev Cohen et.al.|[2405.16475](http://arxiv.org/abs/2405.16475)|null|
+|**2024-05-24**|**Hierarchical Uncertainty Exploration via Feedforward Posterior Trees**|Elias Nehme et.al.|[2405.15719](http://arxiv.org/abs/2405.15719)|null|
+|**2024-05-24**|**Efficient Degradation-aware Any Image Restoration**|Eduard Zamfir et.al.|[2405.15475](http://arxiv.org/abs/2405.15475)|null|
+|**2024-05-24**|**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving**|Jia He et.al.|[2405.15241](http://arxiv.org/abs/2405.15241)|null|
 |**2024-05-23**|**Efficient Visual State Space Model for Image Deblurring**|Lingshun Kong et.al.|[2405.14343](http://arxiv.org/abs/2405.14343)|null|
 |**2024-05-22**|**Perceptual Fairness in Image Restoration**|Guy Ohayon et.al.|[2405.13805](http://arxiv.org/abs/2405.13805)|null|
 |**2024-05-21**|**DARK: Denoising, Amplification, Restoration Kit**|Zhuoheng Li et.al.|[2405.12891](http://arxiv.org/abs/2405.12891)|**[link](https://github.com/hollinsStuart/dark)**|
@@ -5172,6 +5229,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Part123: Part-aware 3D Reconstruction from a Single-view Image**|Anran Liu et.al.|[2405.16888](http://arxiv.org/abs/2405.16888)|null|
+|**2024-05-27**|**PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation**|Md Mostafijur Rahman et.al.|[2405.16740](http://arxiv.org/abs/2405.16740)|**[link](https://github.com/sldgroup/pp-sam)**|
+|**2024-05-24**|**Open-Vocabulary SAM3D: Understand Any 3D Scene**|Hanchen Tai et.al.|[2405.15580](http://arxiv.org/abs/2405.15580)|null|
 |**2024-05-22**|**Accelerated Evaluation of Ollivier-Ricci Curvature Lower Bounds: Bridging Theory and Computation**|Wonwoo Kang et.al.|[2405.13302](http://arxiv.org/abs/2405.13302)|null|
 |**2024-05-20**|**Improving the Explain-Any-Concept by Introducing Nonlinearity to the Trainable Surrogate Model**|Mounes Zaval et.al.|[2405.11837](http://arxiv.org/abs/2405.11837)|null|
 |**2024-05-20**|**Universal Organizer of SAM for Unsupervised Semantic Segmentation**|Tingting Li et.al.|[2405.11742](http://arxiv.org/abs/2405.11742)|null|
