@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.06.12
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**A New Class Biorthogonal Spline Wavelet for Image Edge Detection**|Dujuan Zhou et.al.|[2406.08285](http://arxiv.org/abs/2406.08285)|null|
 |**2024-06-09**|**Learning to utilize gradient information for crisp edge detection**|Changsong Liu et.al.|[2406.05779](http://arxiv.org/abs/2406.05779)|null|
 |**2024-06-04**|**RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting**|Qi Wang et.al.|[2406.02461](http://arxiv.org/abs/2406.02461)|null|
 |**2024-06-02**|**An Optimized Toolbox for Advanced Image Processing with Tsetlin Machine Composites**|Ylva Grønningsæter et.al.|[2406.00704](http://arxiv.org/abs/2406.00704)|**[link](https://github.com/cair/An-Optimized-Toolbox-for-Advanced-Image-Processing-with-Tsetlin-Machine-Composites)**|
@@ -141,6 +142,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Strategies for Pretraining Neural Operators**|Anthony Zhou et.al.|[2406.08473](http://arxiv.org/abs/2406.08473)|**[link](https://github.com/anthonyzhou-1/pretraining_pdes)**|
+|**2024-06-12**|**PRIBOOT: A New Data-Driven Expert for Improved Driving Simulations**|Daniel Coelho et.al.|[2406.08421](http://arxiv.org/abs/2406.08421)|null|
+|**2024-06-12**|**Measuring model variability using robust non-parametric testing**|Sinjini Banerjee et.al.|[2406.08307](http://arxiv.org/abs/2406.08307)|null|
+|**2024-06-12**|**Beyond the Mean: Differentially Private Prototypes for Private Transfer Learning**|Dariush Wahdany et.al.|[2406.08039](http://arxiv.org/abs/2406.08039)|null|
+|**2024-06-11**|**Unleashing the Power of Transfer Learning Model for Sophisticated Insect Detection: Revolutionizing Insect Classification**|Md. Mahmudul Hasan et.al.|[2406.07716](http://arxiv.org/abs/2406.07716)|null|
+|**2024-06-11**|**Transferring Knowledge from Large Foundation Models to Small Downstream Models**|Shikai Qiu et.al.|[2406.07337](http://arxiv.org/abs/2406.07337)|null|
+|**2024-06-10**|**SecureNet: A Comparative Study of DeBERTa and Large Language Models for Phishing Detection**|Sakshi Mahendru et.al.|[2406.06663](http://arxiv.org/abs/2406.06663)|null|
+|**2024-06-10**|**Network-Based Transfer Learning Helps Improve Short-Term Crime Prediction Accuracy**|Jiahui Wu et.al.|[2406.06645](http://arxiv.org/abs/2406.06645)|null|
 |**2024-06-10**|**Contrastive learning of T cell receptor representations**|Yuta Nagano et.al.|[2406.06397](http://arxiv.org/abs/2406.06397)|**[link](https://github.com/yutanagano/sceptr)**|
 |**2024-06-09**|**Few-Shot Load Forecasting Under Data Scarcity in Smart Grids: A Meta-Learning Approach**|Georgios Tsoumplekas et.al.|[2406.05887](http://arxiv.org/abs/2406.05887)|null|
 |**2024-06-09**|**Utilizing Grounded SAM for self-supervised frugal camouflaged human detection**|Matthias Pijarowski et.al.|[2406.05776](http://arxiv.org/abs/2406.05776)|null|
@@ -1418,6 +1427,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482](http://arxiv.org/abs/2406.08482)|null|
+|**2024-06-12**|**Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models**|Yuxuan Xue et.al.|[2406.08475](http://arxiv.org/abs/2406.08475)|null|
+|**2024-06-12**|**$\texttt{DiffLense}$ : A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442](http://arxiv.org/abs/2406.08442)|null|
+|**2024-06-12**|**Diffusion Soup: Model Merging for Text-to-Image Diffusion Models**|Benjamin Biggs et.al.|[2406.08431](http://arxiv.org/abs/2406.08431)|null|
+|**2024-06-12**|**FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation**|Xinzhi Mu et.al.|[2406.08392](http://arxiv.org/abs/2406.08392)|null|
+|**2024-06-12**|**Diff-A-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models**|Javier Nistal et.al.|[2406.08384](http://arxiv.org/abs/2406.08384)|null|
+|**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374](http://arxiv.org/abs/2406.08374)|null|
+|**2024-06-12**|**WMAdapter: Adding WaterMark Control to Latent Diffusion Models**|Hai Ci et.al.|[2406.08337](http://arxiv.org/abs/2406.08337)|null|
+|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|**[link](https://github.com/KupynOrest/instance_augmentation)**|
+|**2024-06-12**|**Diffusion-Promoted HDR Video Reconstruction**|Yuanshen Guan et.al.|[2406.08204](http://arxiv.org/abs/2406.08204)|null|
+|**2024-06-12**|**LAFMA: A Latent Flow Matching Model for Text-to-Audio Generation**|Wenhao Guan et.al.|[2406.08203](http://arxiv.org/abs/2406.08203)|null|
+|**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177](http://arxiv.org/abs/2406.08177)|**[link](https://github.com/cswry/osediff)**|
+|**2024-06-12**|**Defect-related Anomalous Mobility of Small polarons in Oxides: the Case of Congruent Lithium Niobate**|Anton Pfannstiel et.al.|[2406.08123](http://arxiv.org/abs/2406.08123)|null|
+|**2024-06-12**|**Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**|Runyi Yu et.al.|[2406.08096](http://arxiv.org/abs/2406.08096)|null|
+|**2024-06-12**|**CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models**|Hyungjin Chung et.al.|[2406.08070](http://arxiv.org/abs/2406.08070)|null|
+|**2024-06-12**|**Ablation Based Counterfactuals**|Zheng Dai et.al.|[2406.07908](http://arxiv.org/abs/2406.07908)|null|
+|**2024-06-12**|**DiffPop: Plausibility-Guided Object Placement Diffusion for Image Composition**|Jiacheng Liu et.al.|[2406.07852](http://arxiv.org/abs/2406.07852)|null|
+|**2024-06-12**|**Hierarchical Patch Diffusion Models for High-Resolution Video Generation**|Ivan Skorokhodov et.al.|[2406.07792](http://arxiv.org/abs/2406.07792)|null|
+|**2024-06-11**|**HOI-Swap: Swapping Objects in Videos with Hand-Object Interaction Awareness**|Zihui Xue et.al.|[2406.07754](http://arxiv.org/abs/2406.07754)|null|
+|**2024-06-11**|**CUPID: Contextual Understanding of Prompt-conditioned Image Distributions**|Yayan Zhao et.al.|[2406.07699](http://arxiv.org/abs/2406.07699)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527](http://arxiv.org/abs/2406.06527)|null|
 |**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525](http://arxiv.org/abs/2406.06525)|**[link](https://github.com/foundationvision/llamagen)**|
 |**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508](http://arxiv.org/abs/2406.06508)|**[link](https://github.com/monkeyseedocg/momo-code)**|
@@ -3930,6 +3959,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentation**|Weizhao He et.al.|[2406.08372](http://arxiv.org/abs/2406.08372)|null|
+|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|**[link](https://github.com/KupynOrest/instance_augmentation)**|
+|**2024-06-13**|**A $^{2}$ -MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079](http://arxiv.org/abs/2406.08079)|null|
+|**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009](http://arxiv.org/abs/2406.08009)|**[link](https://github.com/BIT-DYN/OpenObj)**|
+|**2024-06-12**|**SimSAM: Simple Siamese Representations Based Semantic Affinity Matrix for Unsupervised Image Segmentation**|Chanda Grover Kamra et.al.|[2406.07986](http://arxiv.org/abs/2406.07986)|**[link](https://github.com/chandagrover/simsam)**|
+|**2024-06-12**|**Small Scale Data-Free Knowledge Distillation**|He Liu et.al.|[2406.07876](http://arxiv.org/abs/2406.07876)|**[link](https://github.com/osvai/ssd-kd)**|
+|**2024-06-11**|**Beyond Bare Queries: Open-Vocabulary Object Retrieval with 3D Scene Graph**|Sergey Linok et.al.|[2406.07113](http://arxiv.org/abs/2406.07113)|null|
+|**2024-06-11**|**PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving**|Yining Shi et.al.|[2406.07037](http://arxiv.org/abs/2406.07037)|null|
+|**2024-06-12**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
+|**2024-06-10**|**Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation**|Dong Zhao et.al.|[2406.06813](http://arxiv.org/abs/2406.06813)|**[link](https://github.com/DZhaoXd/SND)**|
+|**2024-06-09**|**Transforming Heart Chamber Imaging: Self-Supervised Learning for Whole Heart Reconstruction and Segmentation**|Abdul Qayyum et.al.|[2406.06643](http://arxiv.org/abs/2406.06643)|null|
 |**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512](http://arxiv.org/abs/2406.06512)|null|
 |**2024-06-10**|**UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06370](http://arxiv.org/abs/2406.06370)|null|
 |**2024-06-09**|**Scaling Graph Convolutions for Mobile Vision**|William Avery et.al.|[2406.05850](http://arxiv.org/abs/2406.05850)|**[link](https://github.com/sldgroup/mobilevigv2)**|
@@ -5179,6 +5219,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377](http://arxiv.org/abs/2406.08377)|null|
+|**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177](http://arxiv.org/abs/2406.08177)|**[link](https://github.com/cswry/osediff)**|
+|**2024-06-12**|**3D CBCT Challenge 2024: Improved Cone Beam CT Reconstruction using SwinIR-Based Sinogram and Image Enhancement**|Sasidhar Alavala et.al.|[2406.08048](http://arxiv.org/abs/2406.08048)|null|
+|**2024-06-12**|**DemosaicFormer: Coarse-to-Fine Demosaicing Network for HybridEVS Camera**|Senyan Xu et.al.|[2406.07951](http://arxiv.org/abs/2406.07951)|**[link](https://github.com/queahren/demosaicformer)**|
+|**2024-06-11**|**Beware of Aliases -- Signal Preservation is Crucial for Robust Image Restoration**|Shashank Agnihotri et.al.|[2406.07435](http://arxiv.org/abs/2406.07435)|null|
+|**2024-06-11**|**Unleashing the Denoising Capability of Diffusion Prior for Solving Inverse Problems**|Jiawei Zhang et.al.|[2406.06959](http://arxiv.org/abs/2406.06959)|**[link](https://github.com/weigerzan/projdiff)**|
 |**2024-06-07**|**Optimal Eye Surgeon: Finding Image Priors through Sparse Generators at Initialization**|Avrajit Ghosh et.al.|[2406.05288](http://arxiv.org/abs/2406.05288)|**[link](https://github.com/avra98/optimal-eye-surgeon)**|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206](http://arxiv.org/abs/2406.04206)|null|
 |**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458](http://arxiv.org/abs/2406.02458)|null|
@@ -5467,6 +5513,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentation**|Weizhao He et.al.|[2406.08372](http://arxiv.org/abs/2406.08372)|null|
+|**2024-06-11**|**Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation**|Jinyuan Li et.al.|[2406.07268](http://arxiv.org/abs/2406.07268)|**[link](https://github.com/JinYuanLi0012/RiVEG)**|
 |**2024-06-10**|**Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation**|Juhyeong Seon et.al.|[2406.06163](http://arxiv.org/abs/2406.06163)|null|
 |**2024-06-10**|**Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset**|Shijie Lian et.al.|[2406.06039](http://arxiv.org/abs/2406.06039)|**[link](https://github.com/liamlian0727/usis10k)**|
 |**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|**[link](https://github.com/spidernitt/sam-pm)**|
@@ -5479,7 +5527,7 @@ layout: default
 |**2024-06-03**|**Improving Segment Anything on the Fly: Auxiliary Online Learning and Adaptive Fusion for Medical Image Segmentation**|Tianyu Huang et.al.|[2406.00956](http://arxiv.org/abs/2406.00956)|null|
 |**2024-06-02**|**SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction**|Benjamin Towle et.al.|[2406.00663](http://arxiv.org/abs/2406.00663)|**[link](https://github.com/benjamintowle/simsam)**|
 |**2024-06-05**|**SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection**|Yun Peng et.al.|[2406.00625](http://arxiv.org/abs/2406.00625)|null|
-|**2024-06-11**|**Artificial General Intelligence (AGI) for the oil and gas industry: a review**|Jimmy Xuekai Li et.al.|[2406.00594](http://arxiv.org/abs/2406.00594)|null|
+|**2024-06-12**|**Artificial General Intelligence (AGI) for the oil and gas industry: a review**|Jimmy Xuekai Li et.al.|[2406.00594](http://arxiv.org/abs/2406.00594)|null|
 |**2024-06-01**|**AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning**|Duojun Huang et.al.|[2406.00480](http://arxiv.org/abs/2406.00480)|**[link](https://github.com/duojun-huang/alignsam-cvpr2024)**|
 |**2024-05-29**|**FocSAM: Delving Deeply into Focused Objects in Segmenting Anything**|You Huang et.al.|[2405.18706](http://arxiv.org/abs/2405.18706)|**[link](https://github.com/YouHuang67/focsam)**|
 |**2024-05-28**|**Adapting Pre-Trained Vision Models for Novel Instance Detection and Segmentation**|Yangxiao Lu et.al.|[2405.17859](http://arxiv.org/abs/2405.17859)|**[link](https://github.com/youngsean/nids-net)**|
