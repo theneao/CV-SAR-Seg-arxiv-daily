@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.06.19
+## Updated on 2024.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -144,6 +144,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Latent Intuitive Physics: Learning to Transfer Hidden Physics from A 3D Video**|Xiangming Zhu et.al.|[2406.12769](http://arxiv.org/abs/2406.12769)|null|
+|**2024-06-18**|**BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity**|Zahra Gharaee et.al.|[2406.12723](http://arxiv.org/abs/2406.12723)|**[link](https://github.com/zahrag/BIOSCAN-5M)**|
+|**2024-06-18**|**Online-Adaptive Anomaly Detection for Defect Identification in Aircraft Assembly**|Siddhant Shete et.al.|[2406.12698](http://arxiv.org/abs/2406.12698)|null|
+|**2024-06-18**|**Spatial Sequence Attention Network for Schizophrenia Classification from Structural Brain MR Images**|Nagur Shareef Shaik et.al.|[2406.12683](http://arxiv.org/abs/2406.12683)|null|
+|**2024-06-18**|**Automated MRI Quality Assessment of Brain T1-weighted MRI in Clinical Data Warehouses: A Transfer Learning Approach Relying on Artefact Simulation**|Sophie Loizillon et.al.|[2406.12448](http://arxiv.org/abs/2406.12448)|null|
+|**2024-06-18**|**The Wisdom of a Crowd of Brains: A Universal Brain Encoder**|Roman Beliy et.al.|[2406.12179](http://arxiv.org/abs/2406.12179)|null|
+|**2024-06-17**|**UniGLM: Training One Unified Language Model for Text-Attributed Graphs**|Yi Fang et.al.|[2406.12052](http://arxiv.org/abs/2406.12052)|null|
+|**2024-06-17**|**Large Scale Transfer Learning for Tabular Data via Language Modeling**|Josh Gardner et.al.|[2406.12031](http://arxiv.org/abs/2406.12031)|**[link](https://github.com/mlfoundations/tabliblib)**|
+|**2024-06-15**|**A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges**|Yuqi Nie et.al.|[2406.11903](http://arxiv.org/abs/2406.11903)|null|
 |**2024-06-17**|**Faces of Experimental Pain: Transferability of Deep Learned Heat Pain Features to Electrical Pain**|Pooja Prajod et.al.|[2406.11808](http://arxiv.org/abs/2406.11808)|null|
 |**2024-06-16**|**A Unified View of Abstract Visual Reasoning Problems**|Mikołaj Małkiński et.al.|[2406.11068](http://arxiv.org/abs/2406.11068)|null|
 |**2024-06-16**|**Generalization and Knowledge Transfer in Abstract Visual Reasoning Models**|Mikołaj Małkiński et.al.|[2406.11061](http://arxiv.org/abs/2406.11061)|null|
@@ -151,7 +160,7 @@ layout: default
 |**2024-06-16**|**ExPLoRA: Parameter-Efficient Extended Pre-Training to Adapt Vision Transformers under Domain Shifts**|Samar Khanna et.al.|[2406.10973](http://arxiv.org/abs/2406.10973)|null|
 |**2024-06-16**|**On the Effectiveness of Supervision in Asymmetric Non-Contrastive Learning**|Jeongheon Oh et.al.|[2406.10815](http://arxiv.org/abs/2406.10815)|null|
 |**2024-06-16**|**ShareLoRA: Parameter Efficient and Robust Large Language Model Fine-tuning via Shared Low-Rank Adaptation**|Yurun Song et.al.|[2406.10785](http://arxiv.org/abs/2406.10785)|null|
-|**2024-06-15**|**Augmenting Biomedical Named Entity Recognition with General-domain Resources**|Yu Yin et.al.|[2406.10671](http://arxiv.org/abs/2406.10671)|**[link](https://github.com/qingyu-qc/bioner_gerbera)**|
+|**2024-06-18**|**Augmenting Biomedical Named Entity Recognition with General-domain Resources**|Yu Yin et.al.|[2406.10671](http://arxiv.org/abs/2406.10671)|**[link](https://github.com/qingyu-qc/bioner_gerbera)**|
 |**2024-06-15**|**ADSNet: Cross-Domain LTV Prediction with an Adaptive Siamese Network in Advertising**|Ruize Wang et.al.|[2406.10517](http://arxiv.org/abs/2406.10517)|null|
 |**2024-06-14**|**Comparison of fine-tuning strategies for transfer learning in medical image classification**|Ana Davila et.al.|[2406.10050](http://arxiv.org/abs/2406.10050)|null|
 |**2024-06-14**|**Deep Learning Models to Automate the Scoring of Hand Radiographs for Rheumatoid Arthritis**|Zhiyan Bo et.al.|[2406.09980](http://arxiv.org/abs/2406.09980)|null|
@@ -1445,6 +1454,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839](http://arxiv.org/abs/2406.12839)|null|
+|**2024-06-18**|**Neural Approximate Mirror Maps for Constrained Diffusion Models**|Berthy T. Feng et.al.|[2406.12816](http://arxiv.org/abs/2406.12816)|null|
+|**2024-06-18**|**Extracting Training Data from Unconditional Diffusion Models**|Yunhao Chen et.al.|[2406.12752](http://arxiv.org/abs/2406.12752)|null|
+|**2024-06-18**|**Speak in the Scene: Diffusion-based Acoustic Scene Transfer toward Immersive Speech Generation**|Miseul Kim et.al.|[2406.12688](http://arxiv.org/abs/2406.12688)|null|
+|**2024-06-18**|**GeoBench: Benchmarking and Analyzing Monocular Geometry Estimation Models**|Yongtao Ge et.al.|[2406.12671](http://arxiv.org/abs/2406.12671)|**[link](https://github.com/aim-uofa/geobench)**|
+|**2024-06-18**|**Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images**|Shivank Garg et.al.|[2406.12592](http://arxiv.org/abs/2406.12592)|**[link](https://github.com/vlgiitr/unmasking-the-veil)**|
+|**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575](http://arxiv.org/abs/2406.12575)|null|
+|**2024-06-18**|**Variational Distillation of Diffusion Policies into Mixture of Experts**|Hongyi Zhou et.al.|[2406.12538](http://arxiv.org/abs/2406.12538)|null|
+|**2024-06-18**|**HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors**|Panwang Pan et.al.|[2406.12459](http://arxiv.org/abs/2406.12459)|**[link](https://github.com/humansplat/humansplat.github.io)**|
+|**2024-06-18**|**Planning Using Schrödinger Bridge Diffusion Models**|Adarsh Srivastava et.al.|[2406.12458](http://arxiv.org/abs/2406.12458)|**[link](https://github.com/adrshsrvstv/bridge_diffusion_planning)**|
+|**2024-06-18**|**Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models**|David Bergström et.al.|[2406.12423](http://arxiv.org/abs/2406.12423)|null|
+|**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
+|**2024-06-18**|**Effective Generation of Feasible Solutions for Integer Programming via Guided Diffusion**|Hao Zeng et.al.|[2406.12349](http://arxiv.org/abs/2406.12349)|null|
+|**2024-06-18**|**Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment**|Yiheng Li et.al.|[2406.12303](http://arxiv.org/abs/2406.12303)|null|
+|**2024-06-17**|**COT Flow: Learning Optimal-Transport Image Sampling and Editing by Contrastive Pairs**|Xinrui Zu et.al.|[2406.12140](http://arxiv.org/abs/2406.12140)|null|
+|**2024-06-17**|**Adding Conditional Control to Diffusion Models with Reinforcement Learning**|Yulai Zhao et.al.|[2406.12120](http://arxiv.org/abs/2406.12120)|null|
+|**2024-06-17**|**Optimal withdrawals in a general diffusion model with control rates subject to a state-dependent upper bound**|Hélène Guérin et.al.|[2406.12067](http://arxiv.org/abs/2406.12067)|null|
+|**2024-06-17**|**ARTIST: Improving the Generation of Text-rich Images by Disentanglement**|Jianyi Zhang et.al.|[2406.12044](http://arxiv.org/abs/2406.12044)|null|
+|**2024-06-17**|**Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models**|Alireza Ganjdanesh et.al.|[2406.12042](http://arxiv.org/abs/2406.12042)|null|
+|**2024-06-17**|**Decomposed evaluations of geographic disparities in text-to-image models**|Abhishek Sureddy et.al.|[2406.11988](http://arxiv.org/abs/2406.11988)|null|
 |**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
 |**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819](http://arxiv.org/abs/2406.11819)|null|
 |**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781](http://arxiv.org/abs/2406.11781)|null|
@@ -3997,6 +4026,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Reparameterizable Dual-Resolution Network for Real-time Semantic Segmentation**|Guoyu Yang et.al.|[2406.12496](http://arxiv.org/abs/2406.12496)|null|
+|**2024-06-18**|**Agriculture-Vision Challenge 2024 -- The Runner-Up Solution for Agricultural Pattern Recognition via Class Balancing and Model Ensemble**|Wang Liu et.al.|[2406.12271](http://arxiv.org/abs/2406.12271)|null|
 |**2024-06-17**|**OoDIS: Anomaly Instance Segmentation Benchmark**|Alexey Nekrasov et.al.|[2406.11835](http://arxiv.org/abs/2406.11835)|**[link](https://github.com/kumuji/ugains)**|
 |**2024-06-17**|**Multimodal Learning To Improve Segmentation With Intraoperative CBCT & Preoperative CT**|Maximilian E. Tschuchnig et.al.|[2406.11650](http://arxiv.org/abs/2406.11650)|null|
 |**2024-06-17**|**SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation**|Zhenchao Lin et.al.|[2406.11441](http://arxiv.org/abs/2406.11441)|**[link](https://github.com/Sylva-Lin/SWCF-Net)**|
@@ -5271,6 +5302,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters**|Jiawei Mao et.al.|[2406.12587](http://arxiv.org/abs/2406.12587)|null|
 |**2024-06-13**|**DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer**|Wei-Ting Chen et.al.|[2406.09622](http://arxiv.org/abs/2406.09622)|null|
 |**2024-06-13**|**Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation**|Jingyuan Xia et.al.|[2406.08896](http://arxiv.org/abs/2406.08896)|**[link](https://github.com/xylgroup/mlmc)**|
 |**2024-06-12**|**LayeredDoc: Domain Adaptive Document Restoration with a Layer Separation Approach**|Maria Pilligua et.al.|[2406.08610](http://arxiv.org/abs/2406.08610)|**[link](https://github.com/mpilligua/layereddoc)**|
@@ -5568,6 +5600,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**An Empirical Study on the Fairness of Foundation Models for Multi-Organ Image Segmentation**|Qin Li et.al.|[2406.12646](http://arxiv.org/abs/2406.12646)|null|
 |**2024-06-16**|**Boosting Medical Image Classification with Segmentation Foundation Model**|Pengfei Gu et.al.|[2406.11026](http://arxiv.org/abs/2406.11026)|null|
 |**2024-06-16**|**ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model**|Song Zhang et.al.|[2406.10855](http://arxiv.org/abs/2406.10855)|**[link](https://github.com/strivezs/alps)**|
 |**2024-06-13**|**RobustSAM: Segment Anything Robustly on Degraded Images**|Wei-Ting Chen et.al.|[2406.09627](http://arxiv.org/abs/2406.09627)|null|
