@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.07.01
+## Updated on 2024.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -145,10 +145,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Minimax And Adaptive Transfer Learning for Nonparametric Classification under Distributed Differential Privacy Constraints**|Arnab Auddy et.al.|[2406.20088](http://arxiv.org/abs/2406.20088)|null|
+|**2024-06-28**|**Malaria Cell Detection Using Deep Neural Networks**|Saurabh Sawant et.al.|[2406.20005](http://arxiv.org/abs/2406.20005)|null|
+|**2024-06-28**|**Fine-tuning of Geospatial Foundation Models for Aboveground Biomass Estimation**|Michal Muszynski et.al.|[2406.19888](http://arxiv.org/abs/2406.19888)|null|
 |**2024-06-27**|**T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for Memory-Efficient Embeddings**|Björn Deiseroth et.al.|[2406.19223](http://arxiv.org/abs/2406.19223)|null|
 |**2024-06-27**|**Towards Learning Abductive Reasoning using VSA Distributed Representations**|Giacomo Camposampiero et.al.|[2406.19121](http://arxiv.org/abs/2406.19121)|**[link](https://github.com/ibm/abductive-rule-learner-with-context-awareness)**|
-|**2024-06-26**|**RouteLLM: Learning to Route LLMs with Preference Data**|Isaac Ong et.al.|[2406.18665](http://arxiv.org/abs/2406.18665)|null|
-|**2024-06-26**|**VIPriors 4: Visual Inductive Priors for Data-Efficient Deep Learning Challenges**|Robert-Jan Bruintjes et.al.|[2406.18176](http://arxiv.org/abs/2406.18176)|null|
+|**2024-07-01**|**RouteLLM: Learning to Route LLMs with Preference Data**|Isaac Ong et.al.|[2406.18665](http://arxiv.org/abs/2406.18665)|**[link](https://github.com/lm-sys/routellm)**|
+|**2024-07-01**|**VIPriors 4: Visual Inductive Priors for Data-Efficient Deep Learning Challenges**|Robert-Jan Bruintjes et.al.|[2406.18176](http://arxiv.org/abs/2406.18176)|null|
 |**2024-06-25**|**LABOR-LLM: Language-Based Occupational Representations with Large Language Models**|Tianyu Du et.al.|[2406.17972](http://arxiv.org/abs/2406.17972)|null|
 |**2024-06-25**|**Transfer Learning for High Dimensional Robust Regression**|Xiaohui Yuan et.al.|[2406.17567](http://arxiv.org/abs/2406.17567)|null|
 |**2024-06-25**|**Leveraging Parameter-Efficient Transfer Learning for Multi-Lingual Text-to-Speech Adaptation**|Yingting Li et.al.|[2406.17257](http://arxiv.org/abs/2406.17257)|null|
@@ -1483,6 +1486,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model**|Hieu T. Nguyen et.al.|[2406.20077](http://arxiv.org/abs/2406.20077)|null|
+|**2024-06-28**|**Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence**|Xiantao Fan et.al.|[2406.20047](http://arxiv.org/abs/2406.20047)|null|
+|**2024-06-28**|**HAITCH: A Framework for Distortion and Motion Correction in Fetal Multi-Shell Diffusion-Weighted MRI**|Haykel Snoussi et.al.|[2406.20042](http://arxiv.org/abs/2406.20042)|null|
+|**2024-06-28**|**Deceptive Diffusion: Generating Synthetic Adversarial Examples**|Lucas Beerens et.al.|[2406.19807](http://arxiv.org/abs/2406.19807)|null|
+|**2024-06-28**|**Comprehensive Generative Replay for Task-Incremental Segmentation with Concurrent Appearance and Semantic Forgetting**|Wei Li et.al.|[2406.19796](http://arxiv.org/abs/2406.19796)|**[link](https://github.com/jingyzhang/cgr)**|
+|**2024-06-28**|**Decision Transformer for IRS-Assisted Systems with Diffusion-Driven Generative Channels**|Jie Zhang et.al.|[2406.19769](http://arxiv.org/abs/2406.19769)|null|
+|**2024-06-28**|**DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems**|Kexiong Yu et.al.|[2406.19705](http://arxiv.org/abs/2406.19705)|null|
+|**2024-06-28**|**Network Bending of Diffusion Models for Audio-Visual Generation**|Luke Dzwonczyk et.al.|[2406.19589](http://arxiv.org/abs/2406.19589)|null|
+|**2024-06-27**|**A Thermal Study of Terahertz Induced Protein Interactions**|Hadeel Elayan et.al.|[2406.19521](http://arxiv.org/abs/2406.19521)|null|
+|**2024-06-27**|**pop-cosmos: Scaleable inference of galaxy properties and redshifts with a data-driven population model**|Stephen Thorp et.al.|[2406.19437](http://arxiv.org/abs/2406.19437)|null|
 |**2024-06-27**|**Accelerating Multiphase Flow Simulations with Denoising Diffusion Model Driven Initializations**|Jaehong Chung et.al.|[2406.19333](http://arxiv.org/abs/2406.19333)|null|
 |**2024-06-27**|**Subtractive Training for Music Stem Insertion using Latent Diffusion Models**|Ivan Villa-Renteria et.al.|[2406.19328](http://arxiv.org/abs/2406.19328)|null|
 |**2024-06-27**|**Compositional Image Decomposition with Diffusion Models**|Jocelin Su et.al.|[2406.19298](http://arxiv.org/abs/2406.19298)|null|
@@ -4123,9 +4136,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding**|Yifan Tang et.al.|[2406.19791](http://arxiv.org/abs/2406.19791)|null|
+|**2024-06-28**|**Precision matters: Precision-aware ensemble for weakly supervised semantic segmentation**|Junsung Park et.al.|[2406.19638](http://arxiv.org/abs/2406.19638)|**[link](https://github.com/engineerJPark/ORANDNet)**|
+|**2024-06-28**|**PPTFormer: Pseudo Multi-Perspective Transformer for UAV Segmentation**|Deyi Ji et.al.|[2406.19632](http://arxiv.org/abs/2406.19632)|null|
 |**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369](http://arxiv.org/abs/2406.19369)|null|
 |**2024-06-27**|**ProtoGMM: Multi-prototype Gaussian-Mixture-based Domain Adaptation Model for Semantic Segmentation**|Nazanin Moradinasab et.al.|[2406.19225](http://arxiv.org/abs/2406.19225)|null|
-|**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057](http://arxiv.org/abs/2406.19057)|null|
+|**2024-06-30**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057](http://arxiv.org/abs/2406.19057)|null|
 |**2024-06-27**|**Divide, Ensemble and Conquer: The Last Mile on Unsupervised Domain Adaptation for On-Board Semantic Segmentation**|Tao Lian et.al.|[2406.18809](http://arxiv.org/abs/2406.18809)|null|
 |**2024-06-26**|**CAS: Confidence Assessments of classification algorithms for Semantic segmentation of EO data**|Nikolaos Dionelis et.al.|[2406.18279](http://arxiv.org/abs/2406.18279)|null|
 |**2024-06-26**|**The Surprising Effectiveness of Multimodal Large Language Models for Video Moment Retrieval**|Meinardus Boris et.al.|[2406.18113](http://arxiv.org/abs/2406.18113)|**[link](https://github.com/sudo-Boris/mr-Blip)**|
@@ -5732,8 +5748,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Segment Anything without Supervision**|XuDong Wang et.al.|[2406.20081](http://arxiv.org/abs/2406.20081)|**[link](https://github.com/frank-xwang/unsam)**|
+|**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|null|
+|**2024-06-28**|**Parallax-tolerant Image Stitching via Segmentation-guided Multi-homography Warping**|Tianli Liao et.al.|[2406.19922](http://arxiv.org/abs/2406.19922)|null|
 |**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369](http://arxiv.org/abs/2406.19369)|null|
-|**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057](http://arxiv.org/abs/2406.19057)|null|
+|**2024-06-30**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057](http://arxiv.org/abs/2406.19057)|null|
 |**2024-06-27**|**Structural Attention: Rethinking Transformer for Unpaired Medical Image Synthesis**|Vu Minh Hieu Phan et.al.|[2406.18967](http://arxiv.org/abs/2406.18967)|**[link](https://github.com/hieuphan33/miccai2024-unest)**|
 |**2024-06-07**|**Composition Vision-Language Understanding via Segment and Depth Anything Model**|Mingxiao Huo et.al.|[2406.18591](http://arxiv.org/abs/2406.18591)|**[link](https://github.com/anthonyhuo/sam-dam-for-compositional-reasoning)**|
 |**2024-06-25**|**Point-SAM: Promptable 3D Segmentation Model for Point Clouds**|Yuchen Zhou et.al.|[2406.17741](http://arxiv.org/abs/2406.17741)|**[link](https://github.com/zyc00/point-sam)**|
