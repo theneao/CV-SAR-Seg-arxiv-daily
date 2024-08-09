@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.08.07
+## Updated on 2024.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**GUI Element Detection Using SOTA YOLO Deep Learning Models**|Seyed Shayan Daneshvar et.al.|[2408.03507](http://arxiv.org/abs/2408.03507)|null|
 |**2024-07-19**|**How Homogenizing the Channel-wise Magnitude Can Enhance EEG Classification Model?**|Huyen Ngo et.al.|[2407.20247](http://arxiv.org/abs/2407.20247)|null|
 |**2024-07-29**|**More precise edge detections**|Hao Shu et.al.|[2407.19992](http://arxiv.org/abs/2407.19992)|null|
 |**2024-06-28**|**DCSM 2.0: Deep Conditional Shape Models for Data Efficient Segmentation**|Athira J Jacob et.al.|[2407.00186](http://arxiv.org/abs/2407.00186)|null|
@@ -148,7 +149,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-05**|**FPT+: A Parameter and Memory Efficient Transfer Learning Method for High-resolution Medical Image Classification**|Yijin Huang et.al.|[2408.02426](http://arxiv.org/abs/2408.02426)|null|
+|**2024-08-06**|**An Interactive Augmented Reality Interface for Personalized Proxemics Modeling**|Massimiliano Nigro et.al.|[2408.03453](http://arxiv.org/abs/2408.03453)|null|
+|**2024-08-05**|**Quantum Transfer Learning for MNIST Classification Using a Hybrid Quantum-Classical Approach**|Soumyadip Sarkar et.al.|[2408.03351](http://arxiv.org/abs/2408.03351)|null|
+|**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326](http://arxiv.org/abs/2408.03326)|null|
+|**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322](http://arxiv.org/abs/2408.03322)|null|
+|**2024-08-06**|**Fast Whole-Brain MR Multi-Parametric Mapping with Scan-Specific Self-Supervised Networks**|Amir Heydari et.al.|[2408.02988](http://arxiv.org/abs/2408.02988)|null|
+|**2024-08-05**|**FPT+: A Parameter and Memory Efficient Transfer Learning Method for High-resolution Medical Image Classification**|Yijin Huang et.al.|[2408.02426](http://arxiv.org/abs/2408.02426)|**[link](https://github.com/yijinhuang/fpt)**|
 |**2024-08-05**|**FE-Adapter: Adapting Image-based Emotion Classifiers to Videos**|Shreyank N Gowda et.al.|[2408.02421](http://arxiv.org/abs/2408.02421)|null|
 |**2024-08-05**|**Dialogue Ontology Relation Extraction via Constrained Chain-of-Thought Decoding**|Renato Vukovic et.al.|[2408.02361](http://arxiv.org/abs/2408.02361)|null|
 |**2024-08-05**|**Machine Learning Applications in Medical Prognostics: A Comprehensive Review**|Michael Fascia et.al.|[2408.02344](http://arxiv.org/abs/2408.02344)|null|
@@ -161,7 +167,7 @@ layout: default
 |**2024-08-02**|**PiCoGen2: Piano cover generation with transfer learning approach and weakly aligned data**|Chih-Pin Tan et.al.|[2408.01551](http://arxiv.org/abs/2408.01551)|null|
 |**2024-08-02**|**Analyzing LLMs' Capabilities to Establish Implicit User Sentiment of Software Desirability**|Sherri Weitl-Harms et.al.|[2408.01527](http://arxiv.org/abs/2408.01527)|null|
 |**2024-08-02**|**IAI Group at CheckThat! 2024: Transformer Models and Data Augmentation for Checkworthy Claim Detection**|Peter Røysland Aarnes et.al.|[2408.01118](http://arxiv.org/abs/2408.01118)|null|
-|**2024-08-02**|**Cross-domain Named Entity Recognition via Graph Matching**|Junhao Zheng et.al.|[2408.00981](http://arxiv.org/abs/2408.00981)|null|
+|**2024-08-08**|**Cross-domain Named Entity Recognition via Graph Matching**|Junhao Zheng et.al.|[2408.00981](http://arxiv.org/abs/2408.00981)|null|
 |**2024-08-01**|**A deep learning-enabled smart garment for versatile sleep behaviour monitoring**|Chenyu Tang et.al.|[2408.00753](http://arxiv.org/abs/2408.00753)|null|
 |**2024-08-01**|**Accelerating Full Waveform Inversion By Transfer Learning**|Divya Shyam Singh et.al.|[2408.00695](http://arxiv.org/abs/2408.00695)|null|
 |**2024-08-03**|**Scaling Backwards: Minimal Synthetic Pre-training?**|Ryo Nakamura et.al.|[2408.00677](http://arxiv.org/abs/2408.00677)|null|
@@ -1614,6 +1620,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
+|**2024-08-07**|**Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models**|Markus Ditlev Sjøgren Olsen et.al.|[2408.03654](http://arxiv.org/abs/2408.03654)|null|
+|**2024-08-07**|**TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization**|Kien T. Pham et.al.|[2408.03637](http://arxiv.org/abs/2408.03637)|null|
+|**2024-08-07**|**Dirichlet forms of diffusion processes on Thoma simplex**|Sergei Korotkikh et.al.|[2408.03553](http://arxiv.org/abs/2408.03553)|null|
+|**2024-08-06**|**Hybrid diffusion models: combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models**|Bruno Sauvalle et.al.|[2408.03433](http://arxiv.org/abs/2408.03433)|null|
+|**2024-08-06**|**Attacks and Defenses for Generative Diffusion Models: A Comprehensive Survey**|Vu Tuan Truong et.al.|[2408.03400](http://arxiv.org/abs/2408.03400)|null|
+|**2024-08-06**|**Adversarial Domain Adaptation for Cross-user Activity Recognition Using Diffusion-based Noise-centred Learning**|Xiaozhou Ye et.al.|[2408.03353](http://arxiv.org/abs/2408.03353)|null|
+|**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312](http://arxiv.org/abs/2408.03312)|null|
+|**2024-08-06**|**IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts**|Ciara Rowles et.al.|[2408.03209](http://arxiv.org/abs/2408.03209)|null|
+|**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156](http://arxiv.org/abs/2408.03156)|null|
+|**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035](http://arxiv.org/abs/2408.03035)|null|
+|**2024-08-06**|**Diffusion Model Meets Non-Exemplar Class-Incremental Learning and Beyond**|Jichuan Zhang et.al.|[2408.02983](http://arxiv.org/abs/2408.02983)|null|
+|**2024-08-06**|**Data-Driven Stochastic Closure Modeling via Conditional Diffusion Model and Neural Operator**|Xinghao Dong et.al.|[2408.02965](http://arxiv.org/abs/2408.02965)|null|
+|**2024-08-06**|**Diverse Generation while Maintaining Semantic Coordination: A Diffusion-Based Data Augmentation Method for Object Detection**|Sen Nie et.al.|[2408.02891](http://arxiv.org/abs/2408.02891)|null|
+|**2024-08-05**|**Back-Projection Diffusion: Solving the Wideband Inverse Scattering Problem with Diffusion Models**|Borong Zhang et.al.|[2408.02866](http://arxiv.org/abs/2408.02866)|null|
+|**2024-08-05**|**Text Conditioned Symbolic Drumbeat Generation using Latent Diffusion Models**|Pushkar Jajoria et.al.|[2408.02711](http://arxiv.org/abs/2408.02711)|null|
+|**2024-08-05**|**RCDM: Enabling Robustness for Conditional Diffusion Model**|Weifeng Xu et.al.|[2408.02710](http://arxiv.org/abs/2408.02710)|null|
 |**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|null|
 |**2024-08-05**|**Multi-weather Cross-view Geo-localization Using Denoising Diffusion Models**|Tongtong Feng et.al.|[2408.02408](http://arxiv.org/abs/2408.02408)|null|
 |**2024-08-05**|**A Sharp Convergence Theory for The Probability Flow ODEs of Diffusion Models**|Gen Li et.al.|[2408.02320](http://arxiv.org/abs/2408.02320)|null|
@@ -4524,6 +4547,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
+|**2024-08-07**|**SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology**|Mingya Zhang et.al.|[2408.03651](http://arxiv.org/abs/2408.03651)|**[link](https://github.com/simzhangbest/sam2path)**|
+|**2024-08-06**|**Post-Mortem Human Iris Segmentation Analysis with Deep Learning**|Afzal Hossain et.al.|[2408.03448](http://arxiv.org/abs/2408.03448)|null|
+|**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046](http://arxiv.org/abs/2408.03046)|**[link](https://github.com/cranken/cpd)**|
 |**2024-08-05**|**Perception Matters: Enhancing Embodied AI with Uncertainty-Aware Semantic Segmentation**|Sai Prasanna et.al.|[2408.02297](http://arxiv.org/abs/2408.02297)|null|
 |**2024-08-05**|**Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs**|Jeongkee Lim et.al.|[2408.02261](http://arxiv.org/abs/2408.02261)|null|
 |**2024-08-05**|**Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**|Muhammad Abdullah Jamal et.al.|[2408.02245](http://arxiv.org/abs/2408.02245)|null|
@@ -4534,7 +4561,7 @@ layout: default
 |**2024-08-02**|**Multi-Unit Floor Plan Recognition and Reconstruction Using Improved Semantic Segmentation of Raster-Wise Floor Plans**|Lukas Kratochvila et.al.|[2408.01526](http://arxiv.org/abs/2408.01526)|null|
 |**2024-08-02**|**Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation**|Yuanzhi Su et.al.|[2408.01356](http://arxiv.org/abs/2408.01356)|null|
 |**2024-08-02**|**StitchFusion: Weaving Any Visual Modalities to Enhance Multimodal Semantic Segmentation**|Bingyu Li et.al.|[2408.01343](http://arxiv.org/abs/2408.01343)|null|
-|**2024-08-02**|**Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**|Yabin Zhu et.al.|[2408.00969](http://arxiv.org/abs/2408.00969)|null|
+|**2024-08-02**|**Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**|Yabin Zhu et.al.|[2408.00969](http://arxiv.org/abs/2408.00969)|**[link](https://github.com/wqw123wqw/pftrack)**|
 |**2024-08-01**|**Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation**|Siyu Jiao et.al.|[2408.00744](http://arxiv.org/abs/2408.00744)|null|
 |**2024-08-01**|**Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function**|Matias Oscar Volman Stern et.al.|[2408.00707](http://arxiv.org/abs/2408.00707)|null|
 |**2024-08-01**|**AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**|Asbjørn Munk et.al.|[2408.00640](http://arxiv.org/abs/2408.00640)|null|
@@ -6322,12 +6349,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-05**|**Interactive 3D Medical Image Segmentation with SAM 2**|Chuyun Shen et.al.|[2408.02635](http://arxiv.org/abs/2408.02635)|null|
+|**2024-08-07**|**SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology**|Mingya Zhang et.al.|[2408.03651](http://arxiv.org/abs/2408.03651)|**[link](https://github.com/simzhangbest/sam2path)**|
+|**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322](http://arxiv.org/abs/2408.03322)|null|
+|**2024-08-06**|**Biomedical SAM 2: Segment Anything in Biomedical Images and Videos**|Zhiling Yan et.al.|[2408.03286](http://arxiv.org/abs/2408.03286)|null|
+|**2024-08-06**|**Evaluation of Segment Anything Model 2: The Role of SAM2 in the Underwater Environment**|Shijie Lian et.al.|[2408.02924](http://arxiv.org/abs/2408.02924)|**[link](https://github.com/liamlian0727/underwatersam2eval)**|
+|**2024-08-05**|**Interactive 3D Medical Image Segmentation with SAM 2**|Chuyun Shen et.al.|[2408.02635](http://arxiv.org/abs/2408.02635)|**[link](https://github.com/chuyun-shen/sam_2_medical_3d)**|
 |**2024-08-04**|**PromptSAM+: Malware Detection based on Prompt Segment Anything Model**|Xingyuan Wei et.al.|[2408.02066](http://arxiv.org/abs/2408.02066)|null|
 |**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
-|**2024-08-03**|**TS-SAM: Fine-Tuning Segment-Anything Model for Downstream Tasks**|Yang Yu et.al.|[2408.01835](http://arxiv.org/abs/2408.01835)|null|
+|**2024-08-03**|**TS-SAM: Fine-Tuning Segment-Anything Model for Downstream Tasks**|Yang Yu et.al.|[2408.01835](http://arxiv.org/abs/2408.01835)|**[link](https://github.com/maoyangou147/ts-sam)**|
 |**2024-08-03**|**Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2**|Ange Lou et.al.|[2408.01648](http://arxiv.org/abs/2408.01648)|null|
-|**2024-08-01**|**Medical SAM 2: Segment medical images as video via Segment Anything Model 2**|Jiayuan Zhu et.al.|[2408.00874](http://arxiv.org/abs/2408.00874)|null|
+|**2024-08-01**|**Medical SAM 2: Segment medical images as video via Segment Anything Model 2**|Jiayuan Zhu et.al.|[2408.00874](http://arxiv.org/abs/2408.00874)|**[link](https://github.com/medicinetoken/medical-sam2)**|
 |**2024-08-06**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756](http://arxiv.org/abs/2408.00756)|null|
 |**2024-08-01**|**SAM 2: Segment Anything in Images and Videos**|Nikhila Ravi et.al.|[2408.00714](http://arxiv.org/abs/2408.00714)|null|
 |**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706](http://arxiv.org/abs/2408.00706)|null|
