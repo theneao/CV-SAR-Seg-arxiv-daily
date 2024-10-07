@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.10.04
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -170,6 +170,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Ethio-Fake: Cutting-Edge Approaches to Combat Fake News in Under-Resourced Languages Using Explainable AI**|Mesay Gemeda Yigezu et.al.|[2410.02609](http://arxiv.org/abs/2410.02609)|null|
+|**2024-10-03**|**Source Data Selection for Brain-Computer Interfaces based on Simple Features**|Frida Heskebeck et.al.|[2410.02360](http://arxiv.org/abs/2410.02360)|null|
+|**2024-10-03**|**QDGset: A Large Scale Grasping Dataset Generated with Quality-Diversity**|Johann Huber et.al.|[2410.02319](http://arxiv.org/abs/2410.02319)|null|
+|**2024-10-03**|**The Comparison of Individual Cat Recognition Using Neural Networks**|Mingxuan Li et.al.|[2410.02305](http://arxiv.org/abs/2410.02305)|null|
+|**2024-10-03**|**A Novel Method for Accurate & Real-time Food Classification: The Synergistic Integration of EfficientNetB7, CBAM, Transfer Learning, and Data Augmentation**|Shayan Rokhva et.al.|[2410.02304](http://arxiv.org/abs/2410.02304)|null|
+|**2024-10-03**|**Universality in Transfer Learning for Linear Models**|Reza Ghane et.al.|[2410.02164](http://arxiv.org/abs/2410.02164)|null|
 |**2024-10-02**|**In-Context Transfer Learning: Demonstration Synthesis by Transferring Similar Tasks**|Dingzirui Wang et.al.|[2410.01548](http://arxiv.org/abs/2410.01548)|**[link](https://github.com/zirui-HIT/ICTL)**|
 |**2024-10-02**|**RS-FME-SwinT: A Novel Feature Map Enhancement Framework Integrating Customized SwinT with Residual and Spatial CNN for Monkeypox Diagnosis**|Saddam Hussain Khan et.al.|[2410.01216](http://arxiv.org/abs/2410.01216)|null|
 |**2024-10-02**|**Recovering Manifold Structure Using Ollivier-Ricci Curvature**|Tristan Luca Saidi et.al.|[2410.01149](http://arxiv.org/abs/2410.01149)|**[link](https://github.com/tristansaidi/orcml)**|
@@ -1821,6 +1827,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
+|**2024-10-03**|**SteerDiff: Steering towards Safe Text-to-Image Diffusion Models**|Hongxiang Zhang et.al.|[2410.02710](http://arxiv.org/abs/2410.02710)|null|
+|**2024-10-03**|**ControlAR: Controllable Image Generation with Autoregressive Models**|Zongming Li et.al.|[2410.02705](http://arxiv.org/abs/2410.02705)|**[link](https://github.com/hustvl/controlar)**|
+|**2024-10-03**|**GUD: Generation with Unified Diffusion**|Mathis Gerdes et.al.|[2410.02667](http://arxiv.org/abs/2410.02667)|null|
+|**2024-10-03**|**Efficient calibration of the shifted square-root diffusion model to credit default swap spreads using asymptotic approximations**|Ankush Agarwal et.al.|[2410.02645](http://arxiv.org/abs/2410.02645)|null|
+|**2024-10-04**|**Diffusion Models are Evolutionary Algorithms**|Yanbo Zhang et.al.|[2410.02543](http://arxiv.org/abs/2410.02543)|**[link](https://github.com/Zhangyanbo/diffusion-evolution)**|
+|**2024-10-03**|**Lightweight Diffusion Models for Resource-Constrained Semantic Communication**|Giovanni Pignata et.al.|[2410.02491](http://arxiv.org/abs/2410.02491)|null|
+|**2024-10-03**|**Towards a Theoretical Understanding of Memorization in Diffusion Models**|Yunhao Chen et.al.|[2410.02467](http://arxiv.org/abs/2410.02467)|null|
+|**2024-10-03**|**Eliminating Oversaturation and Artifacts of High Guidance Scales in Diffusion Models**|Seyedmorteza Sadat et.al.|[2410.02416](http://arxiv.org/abs/2410.02416)|null|
+|**2024-10-03**|**Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks**|Zeyu Feng et.al.|[2410.02389](http://arxiv.org/abs/2410.02389)|null|
+|**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
+|**2024-10-03**|**Convergence of Score-Based Discrete Diffusion Models: A Discrete-Time Analysis**|Zikun Zhang et.al.|[2410.02321](http://arxiv.org/abs/2410.02321)|null|
+|**2024-10-03**|**Channel-aware Contrastive Conditional Diffusion for Multivariate Probabilistic Time Series Forecasting**|Siyang Li et.al.|[2410.02168](http://arxiv.org/abs/2410.02168)|**[link](https://github.com/LSY-Cython/CCDM)**|
+|**2024-10-03**|**SoundMorpher: Perceptually-Uniform Sound Morphing with Diffusion Model**|Xinlei Niu et.al.|[2410.02144](http://arxiv.org/abs/2410.02144)|null|
+|**2024-10-03**|**MDSGen: Fast and Efficient Masked Diffusion Temporal-Aware Transformers for Open-Domain Sound Generation**|Trung X. Pham et.al.|[2410.02130](http://arxiv.org/abs/2410.02130)|null|
+|**2024-10-03**|**SC-CDM: Enhancing Quality of Image Semantic Communication with a Compact Diffusion Model**|Kexin Zhang et.al.|[2410.02121](http://arxiv.org/abs/2410.02121)|null|
+|**2024-10-02**|**Stochastic Deep Restoration Priors for Imaging Inverse Problems**|Yuyang Hu et.al.|[2410.02057](http://arxiv.org/abs/2410.02057)|null|
+|**2024-10-02**|**Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data**|Sreyan Ghosh et.al.|[2410.02056](http://arxiv.org/abs/2410.02056)|null|
+|**2024-10-02**|**Using Style Ambiguity Loss to Improve Aesthetics of Diffusion Models**|James Baker et.al.|[2410.02055](http://arxiv.org/abs/2410.02055)|**[link](https://github.com/jamesbaker361/clipcreate)**|
+|**2024-10-02**|**Discrete Copula Diffusion**|Anji Liu et.al.|[2410.01949](http://arxiv.org/abs/2410.01949)|null|
 |**2024-10-02**|**FabricDiffusion: High-Fidelity Texture Transfer for 3D Garments Generation from In-The-Wild Clothing Images**|Cheng Zhang et.al.|[2410.01801](http://arxiv.org/abs/2410.01801)|null|
 |**2024-10-02**|**Dynamical-generative downscaling of climate model ensembles**|Ignacio Lopez-Gomez et.al.|[2410.01776](http://arxiv.org/abs/2410.01776)|null|
 |**2024-10-02**|**ImageFolder: Autoregressive Image Generation with Folded Tokens**|Xiang Li et.al.|[2410.01756](http://arxiv.org/abs/2410.01756)|**[link](https://github.com/lxa9867/imagefolder)**|
@@ -5110,7 +5136,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-02**|**SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images**|Kaiyu Li et.al.|[2410.01768](http://arxiv.org/abs/2410.01768)|null|
+|**2024-10-03**|**HiFiSeg: High-Frequency Information Enhanced Polyp Segmentation with Global-Local Vision Transformer**|Jingjing Ren et.al.|[2410.02528](http://arxiv.org/abs/2410.02528)|null|
+|**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
+|**2024-10-03**|**RESSCAL3D++: Joint Acquisition and Semantic Segmentation of 3D Point Clouds**|Remco Royen et.al.|[2410.02323](http://arxiv.org/abs/2410.02323)|null|
+|**2024-10-03**|**Efficient Semantic Segmentation via Lightweight Multiple-Information Interaction Network**|Yangyang Qiu et.al.|[2410.02224](http://arxiv.org/abs/2410.02224)|null|
+|**2024-10-03**|**Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images**|Qingyuan Liu et.al.|[2410.02207](http://arxiv.org/abs/2410.02207)|null|
+|**2024-10-02**|**SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images**|Kaiyu Li et.al.|[2410.01768](http://arxiv.org/abs/2410.01768)|**[link](https://github.com/likyoo/SegEarth-OV)**|
 |**2024-10-02**|**One-Shot Robust Imitation Learning for Long-Horizon Visuomotor Tasks from Unsegmented Demonstrations**|Shaokang Wu et.al.|[2410.01630](http://arxiv.org/abs/2410.01630)|null|
 |**2024-10-02**|**Cognition Transferring and Decoupling for Text-supervised Egocentric Semantic Segmentation**|Zhaofeng Shi et.al.|[2410.01341](http://arxiv.org/abs/2410.01341)|null|
 |**2024-10-02**|**VectorGraphNET: Graph Attention Networks for Accurate Segmentation of Complex Technical Drawings**|Andrea Carrara et.al.|[2410.01336](http://arxiv.org/abs/2410.01336)|null|
@@ -5123,7 +5154,7 @@ layout: default
 |**2024-10-01**|**Deep Multimodal Fusion for Semantic Segmentation of Remote Sensing Earth Observation Data**|Ivica Dimitrovski et.al.|[2410.00469](http://arxiv.org/abs/2410.00469)|null|
 |**2024-10-01**|**AARK: An Open Toolkit for Autonomous Racing Research**|James Bockman et.al.|[2410.00358](http://arxiv.org/abs/2410.00358)|null|
 |**2024-09-30**|**Class-Agnostic Visio-Temporal Scene Sketch Semantic Segmentation**|Aleyna Kütük et.al.|[2410.00266](http://arxiv.org/abs/2410.00266)|null|
-|**2024-09-30**|**AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation**|Boyu Han et.al.|[2409.20398](http://arxiv.org/abs/2409.20398)|null|
+|**2024-09-30**|**AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation**|Boyu Han et.al.|[2409.20398](http://arxiv.org/abs/2409.20398)|**[link](https://github.com/boyuh/aucseg)**|
 |**2024-09-30**|**Leveraging CAM Algorithms for Explaining Medical Semantic Segmentation**|Tillmann Rheude et.al.|[2409.20287](http://arxiv.org/abs/2409.20287)|**[link](https://github.com/TillmannRheude/SegHiResGrad_CAM)**|
 |**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164](http://arxiv.org/abs/2409.20164)|null|
 |**2024-09-30**|**Segmenting Wood Rot using Computer Vision Models**|Roland Kammerbauer et.al.|[2409.20137](http://arxiv.org/abs/2409.20137)|null|
@@ -6731,6 +6762,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|null|
+|**2024-10-02**|**Posterior sampling via Langevin dynamics based on generative priors**|Vishal Purohit et.al.|[2410.02078](http://arxiv.org/abs/2410.02078)|null|
 |**2024-10-01**|**Three-Operator Splitting Method with Two-Step Inertial Extrapolation**|Olaniyi S. Iyiola et.al.|[2410.01099](http://arxiv.org/abs/2410.01099)|null|
 |**2024-10-01**|**Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration**|Guy Ohayon et.al.|[2410.00418](http://arxiv.org/abs/2410.00418)|**[link](https://github.com/ohayonguy/PMRF)**|
 |**2024-10-01**|**GLMHA A Guided Low-rank Multi-Head Self-Attention for Efficient Image Restoration and Spectral Reconstruction**|Zaid Ilyas et.al.|[2410.00380](http://arxiv.org/abs/2410.00380)|null|
@@ -7120,6 +7153,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images**|Qingyuan Liu et.al.|[2410.02207](http://arxiv.org/abs/2410.02207)|null|
 |**2024-10-02**|**SinkSAM: A Monocular Depth-Guided SAM Framework for Automatic Sinkhole Segmentation**|Osher Rafaeli et.al.|[2410.01473](http://arxiv.org/abs/2410.01473)|**[link](https://github.com/osherr1996/sinksam)**|
 |**2024-10-02**|**Recovering Manifold Structure Using Ollivier-Ricci Curvature**|Tristan Luca Saidi et.al.|[2410.01149](http://arxiv.org/abs/2410.01149)|**[link](https://github.com/tristansaidi/orcml)**|
 |**2024-09-30**|**Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision**|Mélanie Gaillochet et.al.|[2409.20293](http://arxiv.org/abs/2409.20293)|null|
