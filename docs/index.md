@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.10.11
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -171,11 +171,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Features are fate: a theory of transfer learning in high-dimensional regression**|Javan Tahir et.al.|[2410.08194](http://arxiv.org/abs/2410.08194)|null|
+|**2024-10-10**|**Non-transferable Pruning**|Ruyi Ding et.al.|[2410.08015](http://arxiv.org/abs/2410.08015)|null|
+|**2024-10-10**|**CL3: A Collaborative Learning Framework for the Medical Data Ensuring Data Privacy in the Hyperconnected Environment**|Mohamamd Zavid Parvez et.al.|[2410.07900](http://arxiv.org/abs/2410.07900)|null|
+|**2024-10-10**|**Unsupervised Data Validation Methods for Efficient Model Training**|Yurii Paniv et.al.|[2410.07880](http://arxiv.org/abs/2410.07880)|null|
+|**2024-10-10**|**Robustness and Security Enhancement of Radio Frequency Fingerprint Identification in Time-Varying Channels**|Lu Yang et.al.|[2410.07591](http://arxiv.org/abs/2410.07591)|null|
+|**2024-10-10**|**Physics-informed neural networks for multi-field visualization with single-color laser induced fluorescence**|Nagahiro Ohashi et.al.|[2410.07568](http://arxiv.org/abs/2410.07568)|null|
 |**2024-10-09**|**Collusion Detection with Graph Neural Networks**|Lucas Gomes et.al.|[2410.07091](http://arxiv.org/abs/2410.07091)|null|
 |**2024-10-09**|**Z-upscaling: Optical Flow Guided Frame Interpolation for Isotropic Reconstruction of 3D EM Volumes**|Fisseha A. Ferede et.al.|[2410.07043](http://arxiv.org/abs/2410.07043)|**[link](https://github.com/fisseha21/z-upscaling)**|
-|**2024-10-09**|**Selecting the Best Sequential Transfer Path for Medical Image Segmentation with Limited Labeled Data**|Jingyun Yang et.al.|[2410.06892](http://arxiv.org/abs/2410.06892)|null|
+|**2024-10-09**|**Selecting the Best Sequential Transfer Path for Medical Image Segmentation with Limited Labeled Data**|Jingyun Yang et.al.|[2410.06892](http://arxiv.org/abs/2410.06892)|**[link](https://github.com/hiyoochan/sequentialtransfer)**|
 |**2024-10-09**|**Transfer Learning for a Class of Cascade Dynamical Systems**|Shima Rabiei et.al.|[2410.06828](http://arxiv.org/abs/2410.06828)|null|
-|**2024-10-09**|**Seg2Act: Global Context-aware Action Generation for Document Logical Structuring**|Zichao Li et.al.|[2410.06802](http://arxiv.org/abs/2410.06802)|null|
+|**2024-10-09**|**Seg2Act: Global Context-aware Action Generation for Document Logical Structuring**|Zichao Li et.al.|[2410.06802](http://arxiv.org/abs/2410.06802)|**[link](https://github.com/cascip/seg2act)**|
 |**2024-10-09**|**Utilizing Transfer Learning and pre-trained Models for Effective Forest Fire Detection: A Case Study of Uttarakhand**|Hari Prabhat Gupta et.al.|[2410.06743](http://arxiv.org/abs/2410.06743)|null|
 |**2024-10-09**|**On The Relationship between Visual Anomaly-free and Anomalous Representations**|Riya Sadrani et.al.|[2410.06576](http://arxiv.org/abs/2410.06576)|null|
 |**2024-10-09**|**Model-assisted and Knowledge-guided Transfer Regression for the Underrepresented Population**|Doudou Zhou et.al.|[2410.06484](http://arxiv.org/abs/2410.06484)|null|
@@ -1850,6 +1856,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
+|**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
+|**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
+|**2024-10-10**|**ZeroComp: Zero-shot Object Compositing from Image Intrinsics via Diffusion**|Zitian Zhang et.al.|[2410.08168](http://arxiv.org/abs/2410.08168)|null|
+|**2024-10-10**|**DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**|Jiatao Gu et.al.|[2410.08159](http://arxiv.org/abs/2410.08159)|null|
+|**2024-10-10**|**Progressive Autoregressive Video Diffusion Models**|Desai Xie et.al.|[2410.08151](http://arxiv.org/abs/2410.08151)|**[link](https://github.com/desaixie/pa_vdm)**|
+|**2024-10-10**|**Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**|Jarrid Rector-Brooks et.al.|[2410.08134](http://arxiv.org/abs/2410.08134)|null|
+|**2024-10-10**|**Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models**|Vinith M. Suriyakumar et.al.|[2410.08074](http://arxiv.org/abs/2410.08074)|null|
+|**2024-10-10**|**LADIMO: Face Morph Generation through Biometric Template Inversion with Latent Diffusion**|Marcel Grimmer et.al.|[2410.07988](http://arxiv.org/abs/2410.07988)|**[link](https://github.com/dasec/ladimo)**|
+|**2024-10-10**|**AI Surrogate Model for Distributed Computing Workloads**|David K. Park et.al.|[2410.07940](http://arxiv.org/abs/2410.07940)|null|
+|**2024-10-10**|**Generated Bias: Auditing Internal Bias Dynamics of Text-To-Image Generative Models**|Abhishek Mandal et.al.|[2410.07884](http://arxiv.org/abs/2410.07884)|null|
+|**2024-10-10**|**FDDM: Frequency-Decomposed Diffusion Model for Rectum Cancer Dose Prediction in Radiotherapy**|Xin Liao et.al.|[2410.07876](http://arxiv.org/abs/2410.07876)|null|
+|**2024-10-10**|**RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**|Songming Liu et.al.|[2410.07864](http://arxiv.org/abs/2410.07864)|null|
+|**2024-10-10**|**MinorityPrompt: Text to Minority Image Generation via Prompt Optimization**|Soobin Um et.al.|[2410.07838](http://arxiv.org/abs/2410.07838)|**[link](https://github.com/anonymous-6898/MinorityPrompt)**|
+|**2024-10-10**|**Simulating images of radio galaxies with diffusion models**|Tobias Vičánek Martínez et.al.|[2410.07794](http://arxiv.org/abs/2410.07794)|null|
+|**2024-10-10**|**$\textit{Jump Your Steps}$ : Optimizing Sampling Schedule of Discrete Diffusion Models**|Yong-Hyun Park et.al.|[2410.07761](http://arxiv.org/abs/2410.07761)|null|
+|**2024-10-10**|**Synthesizing Multi-Class Surgical Datasets with Anatomy-Aware Diffusion Models**|Danush Kumar Venkatesh et.al.|[2410.07753](http://arxiv.org/abs/2410.07753)|**[link](https://gitlab.com/nct_tso_public/muli-class-image-synthesis)**|
+|**2024-10-10**|**Flow control-oriented coherent mode prediction via Grassmann-kNN manifold learning**|Hongfu Zhang et.al.|[2410.07683](http://arxiv.org/abs/2410.07683)|null|
+|**2024-10-10**|**Relational Diffusion Distillation for Efficient Image Generation**|Weilun Feng et.al.|[2410.07679](http://arxiv.org/abs/2410.07679)|**[link](https://github.com/cantbebetter2/rdd)**|
+|**2024-10-10**|**MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion**|Onkar Susladkar et.al.|[2410.07659](http://arxiv.org/abs/2410.07659)|null|
 |**2024-10-09**|**IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**|Xinchen Zhang et.al.|[2410.07171](http://arxiv.org/abs/2410.07171)|**[link](https://github.com/yangling0818/itercomp)**|
 |**2024-10-09**|**AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**|Yukang Cao et.al.|[2410.07164](http://arxiv.org/abs/2410.07164)|null|
 |**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
@@ -5199,7 +5225,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-09**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964](http://arxiv.org/abs/2410.06964)|null|
+|**2024-10-10**|**Distribution Guidance Network for Weakly Supervised Point Cloud Semantic Segmentation**|Zhiyi Pan et.al.|[2410.08091](http://arxiv.org/abs/2410.08091)|null|
+|**2024-10-10**|**Shift and matching queries for video semantic segmentation**|Tsubasa Mizuno et.al.|[2410.07635](http://arxiv.org/abs/2410.07635)|null|
+|**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577](http://arxiv.org/abs/2410.07577)|null|
+|**2024-10-11**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964](http://arxiv.org/abs/2410.06964)|null|
 |**2024-10-09**|**Learning from Spatio-temporal Correlation for Semi-Supervised LiDAR Semantic Segmentation**|Seungho Lee et.al.|[2410.06893](http://arxiv.org/abs/2410.06893)|null|
 |**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811](http://arxiv.org/abs/2410.06811)|**[link](https://github.com/yixuan-2002/sea)**|
 |**2024-10-10**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|**[link](https://github.com/vision-sjtu/quadmamba)**|
@@ -6842,6 +6871,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration**|Hsing-Hua Wang et.al.|[2410.08177](http://arxiv.org/abs/2410.08177)|null|
 |**2024-10-09**|**InstantIR: Blind Image Restoration with Instant Generative Reference**|Jen-Yuan Huang et.al.|[2410.06551](http://arxiv.org/abs/2410.06551)|null|
 |**2024-10-08**|**ReFIR: Grounding Large Restoration Models with Retrieval Augmentation**|Hang Guo et.al.|[2410.05601](http://arxiv.org/abs/2410.05601)|**[link](https://github.com/csguoh/refir)**|
 |**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
@@ -7239,8 +7269,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-09**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964](http://arxiv.org/abs/2410.06964)|null|
-|**2024-10-08**|**Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images**|Shiyu Miao et.al.|[2410.06194](http://arxiv.org/abs/2410.06194)|null|
+|**2024-10-11**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964](http://arxiv.org/abs/2410.06964)|null|
+|**2024-10-08**|**Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images**|Shiyu Miao et.al.|[2410.06194](http://arxiv.org/abs/2410.06194)|**[link](https://github.com/stevenmsy/directsam-rs)**|
 |**2024-10-08**|**Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts**|Zhiwei Lin et.al.|[2410.05963](http://arxiv.org/abs/2410.05963)|null|
 |**2024-10-07**|**On Efficient Variants of Segment Anything Model: A Survey**|Xiaorui Sun et.al.|[2410.04960](http://arxiv.org/abs/2410.04960)|null|
 |**2024-10-07**|**Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting**|Matthew Strong et.al.|[2410.04680](http://arxiv.org/abs/2410.04680)|null|
@@ -7252,7 +7282,7 @@ layout: default
 |**2024-09-30**|**Medical Image Segmentation with SAM-generated Annotations**|Iira Häkkinen et.al.|[2409.20253](http://arxiv.org/abs/2409.20253)|null|
 |**2024-09-29**|**One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos**|Zechen Bai et.al.|[2409.19603](http://arxiv.org/abs/2409.19603)|null|
 |**2024-09-29**|**RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model**|Shunlei Li et.al.|[2409.19590](http://arxiv.org/abs/2409.19590)|null|
-|**2024-09-28**|**MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation**|Taha Koleilat et.al.|[2409.19483](http://arxiv.org/abs/2409.19483)|**[link](https://github.com/healthx-lab/medclip-samv2)**|
+|**2024-10-10**|**MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation**|Taha Koleilat et.al.|[2409.19483](http://arxiv.org/abs/2409.19483)|**[link](https://github.com/healthx-lab/medclip-samv2)**|
 |**2024-09-27**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653](http://arxiv.org/abs/2409.18653)|**[link](https://github.com/zhoustan/sam2-vcos)**|
 |**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101](http://arxiv.org/abs/2409.18101)|null|
 |**2024-09-26**|**DarkSAM: Fooling Segment Anything Model to Segment Nothing**|Ziqi Zhou et.al.|[2409.17874](http://arxiv.org/abs/2409.17874)|**[link](https://github.com/cgcl-codes/darksam)**|
