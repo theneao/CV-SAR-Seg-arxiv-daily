@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.10.14
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-13**|**Energy-Efficient and Fast Memristor-based Serial Multipliers Applicable in Image Processing**|Seyed Erfan Fatemieh et.al.|[2410.09953](http://arxiv.org/abs/2410.09953)|null|
 |**2024-10-04**|**Generative Edge Detection with Stable Diffusion**|Caixia Zhou et.al.|[2410.03080](http://arxiv.org/abs/2410.03080)|null|
 |**2024-09-27**|**Learning from Pattern Completion: Self-supervised Controllable Generation**|Zhiqiang Chen et.al.|[2409.18694](http://arxiv.org/abs/2409.18694)|**[link](https://github.com/BAAI-Brain-Inspired-Group/OPEN-Vis-ControlSD)**|
 |**2024-09-26**|**Photon Inhibition for Energy-Efficient Single-Photon Imaging**|Lucas J. Koerner et.al.|[2409.18337](http://arxiv.org/abs/2409.18337)|null|
@@ -171,6 +172,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**TL-PCA: Transfer Learning of Principal Component Analysis**|Sharon Hendy et.al.|[2410.10805](http://arxiv.org/abs/2410.10805)|null|
+|**2024-10-14**|**Cross-Modal Few-Shot Learning: a Generative Transfer Learning Framework**|Zhengwei Yang et.al.|[2410.10663](http://arxiv.org/abs/2410.10663)|null|
+|**2024-10-14**|**SpeGCL: Self-supervised Graph Spectrum Contrastive Learning without Positive Samples**|Yuntao Shou et.al.|[2410.10365](http://arxiv.org/abs/2410.10365)|null|
+|**2024-10-12**|**Bayesian Transfer Learning for Artificially Intelligent Geospatial Systems: A Predictive Stacking Approach**|Luca Presicce et.al.|[2410.09504](http://arxiv.org/abs/2410.09504)|**[link](https://github.com/lucapresicce/Bayesian-Transfer-Learning-for-GeoAI)**|
+|**2024-10-12**|**Deep Transfer Learning: Model Framework and Error Analysis**|Yuling Jiao et.al.|[2410.09383](http://arxiv.org/abs/2410.09383)|null|
+|**2024-10-12**|**Hey AI Can You Grade My Essay?: Automatic Essay Grading**|Maisha Maliha et.al.|[2410.09319](http://arxiv.org/abs/2410.09319)|null|
+|**2024-10-11**|**Meta-Transfer Learning Empowered Temporal Graph Networks for Cross-City Real Estate Appraisal**|Weijia Zhang et.al.|[2410.08947](http://arxiv.org/abs/2410.08947)|null|
 |**2024-10-10**|**Features are fate: a theory of transfer learning in high-dimensional regression**|Javan Tahir et.al.|[2410.08194](http://arxiv.org/abs/2410.08194)|null|
 |**2024-10-10**|**Non-transferable Pruning**|Ruyi Ding et.al.|[2410.08015](http://arxiv.org/abs/2410.08015)|null|
 |**2024-10-10**|**CL3: A Collaborative Learning Framework for the Medical Data Ensuring Data Privacy in the Hyperconnected Environment**|Mohamamd Zavid Parvez et.al.|[2410.07900](http://arxiv.org/abs/2410.07900)|null|
@@ -1856,6 +1864,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|null|
+|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|null|
+|**2024-10-14**|**HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**|Haotian Tang et.al.|[2410.10812](http://arxiv.org/abs/2410.10812)|**[link](https://github.com/mit-han-lab/hart)**|
+|**2024-10-14**|**TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction**|Qingze et.al.|[2410.10804](http://arxiv.org/abs/2410.10804)|**[link](https://github.com/tl-qz/trajdiffuse)**|
+|**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802](http://arxiv.org/abs/2410.10802)|null|
+|**2024-10-14**|**Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations**|Litu Rout et.al.|[2410.10792](http://arxiv.org/abs/2410.10792)|null|
+|**2024-10-14**|**ControlMM: Controllable Masked Motion Generation**|Ekkasit Pinyoanuntapong et.al.|[2410.10780](http://arxiv.org/abs/2410.10780)|null|
+|**2024-10-14**|**Adaptive Diffusion Terrain Generator for Autonomous Uneven Terrain Navigation**|Youwei Yu et.al.|[2410.10766](http://arxiv.org/abs/2410.10766)|null|
+|**2024-10-14**|**DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships**|Zhang Wan et.al.|[2410.10751](http://arxiv.org/abs/2410.10751)|null|
+|**2024-10-14**|**FlexGen: Flexible Multi-View Generation from Text and Image Inputs**|Xinli Xu et.al.|[2410.10745](http://arxiv.org/abs/2410.10745)|null|
+|**2024-10-14**|**Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models**|Junyu Chen et.al.|[2410.10733](http://arxiv.org/abs/2410.10733)|**[link](https://github.com/mit-han-lab/efficientvit)**|
+|**2024-10-14**|**TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model**|Jiazhi Guan et.al.|[2410.10696](http://arxiv.org/abs/2410.10696)|null|
+|**2024-10-14**|**Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation**|Peiwen Sun et.al.|[2410.10676](http://arxiv.org/abs/2410.10676)|null|
+|**2024-10-14**|**Generating Model Parameters for Controlling: Parameter Diffusion for Controllable Multi-Task Recommendation**|Chenglei Shen et.al.|[2410.10639](http://arxiv.org/abs/2410.10639)|null|
+|**2024-10-15**|**SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers**|Enze Xie et.al.|[2410.10629](http://arxiv.org/abs/2410.10629)|null|
+|**2024-10-14**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
+|**2024-10-14**|**Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing**|Kejie Wang et.al.|[2410.10496](http://arxiv.org/abs/2410.10496)|null|
+|**2024-10-14**|**An efficient numerical method for American options and their Greeks under the two-asset Kou jump-diffusion model**|Karel J. in 't Hout et.al.|[2410.10444](http://arxiv.org/abs/2410.10444)|null|
+|**2024-10-14**|**Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models**|Boheng Li et.al.|[2410.10437](http://arxiv.org/abs/2410.10437)|null|
+|**2024-10-14**|**DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**|Songen Gu et.al.|[2410.10429](http://arxiv.org/abs/2410.10429)|null|
 |**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
 |**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
 |**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
@@ -5225,6 +5253,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
+|**2024-10-14**|**UniMatch V2: Pushing the Limit of Semi-Supervised Semantic Segmentation**|Lihe Yang et.al.|[2410.10777](http://arxiv.org/abs/2410.10777)|**[link](https://github.com/LiheYoung/UniMatch-V2)**|
+|**2024-10-14**|**Exploiting Local Features and Range Images for Small Data Real-Time Point Cloud Semantic Segmentation**|Daniel Fusaro et.al.|[2410.10510](http://arxiv.org/abs/2410.10510)|**[link](https://github.com/bender97/waffleandrange)**|
+|**2024-10-14**|**LKASeg:Remote-Sensing Image Semantic Segmentation with Large Kernel Attention and Full-Scale Skip Connections**|Xuezhi Xiang et.al.|[2410.10433](http://arxiv.org/abs/2410.10433)|null|
+|**2024-10-14**|**V2M: Visual 2-Dimensional Mamba for Image Representation Learning**|Chengkun Wang et.al.|[2410.10382](http://arxiv.org/abs/2410.10382)|**[link](https://github.com/wangck20/v2m)**|
+|**2024-10-14**|**GlobalMamba: Global Image Serialization for Vision Mamba**|Chengkun Wang et.al.|[2410.10316](http://arxiv.org/abs/2410.10316)|**[link](https://github.com/wangck20/globalmamba)**|
+|**2024-10-13**|**AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model**|Yuchen Li et.al.|[2410.09714](http://arxiv.org/abs/2410.09714)|null|
+|**2024-10-12**|**An Expeditious Spatial Mean Radiant Temperature Mapping Framework using Visual SLAM and Semantic Segmentation**|Wei Liang et.al.|[2410.09443](http://arxiv.org/abs/2410.09443)|null|
+|**2024-10-11**|**Parallel Watershed Partitioning: GPU-Based Hierarchical Image Segmentation**|Varduhi Yeghiazaryan et.al.|[2410.08946](http://arxiv.org/abs/2410.08946)|null|
+|**2024-10-11**|**Uncertainty Estimation and Out-of-Distribution Detection for LiDAR Scene Semantic Segmentation**|Hanieh Shojaei et.al.|[2410.08687](http://arxiv.org/abs/2410.08687)|null|
+|**2024-10-11**|**DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention**|Nguyen Huu Bao Long et.al.|[2410.08582](http://arxiv.org/abs/2410.08582)|**[link](https://github.com/maclong01/DeBiFormer)**|
+|**2024-10-10**|**Are We Ready for Real-Time LiDAR Semantic Segmentation in Autonomous Driving?**|Samir Abou Haidar et.al.|[2410.08365](http://arxiv.org/abs/2410.08365)|null|
 |**2024-10-10**|**Distribution Guidance Network for Weakly Supervised Point Cloud Semantic Segmentation**|Zhiyi Pan et.al.|[2410.08091](http://arxiv.org/abs/2410.08091)|null|
 |**2024-10-10**|**Shift and matching queries for video semantic segmentation**|Tsubasa Mizuno et.al.|[2410.07635](http://arxiv.org/abs/2410.07635)|null|
 |**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577](http://arxiv.org/abs/2410.07577)|null|
@@ -6871,6 +6911,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Chain-of-Restoration: Multi-Task Image Restoration Models are Zero-Shot Step-by-Step Universal Image Restorers**|Jin Cao et.al.|[2410.08688](http://arxiv.org/abs/2410.08688)|**[link](https://github.com/toummhus/chain-of-restoration)**|
 |**2024-10-10**|**TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration**|Hsing-Hua Wang et.al.|[2410.08177](http://arxiv.org/abs/2410.08177)|null|
 |**2024-10-09**|**InstantIR: Blind Image Restoration with Instant Generative Reference**|Jen-Yuan Huang et.al.|[2410.06551](http://arxiv.org/abs/2410.06551)|null|
 |**2024-10-08**|**ReFIR: Grounding Large Restoration Models with Retrieval Augmentation**|Hang Guo et.al.|[2410.05601](http://arxiv.org/abs/2410.05601)|**[link](https://github.com/csguoh/refir)**|
@@ -7269,6 +7310,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-13**|**UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation**|Ye Sun et.al.|[2410.09909](http://arxiv.org/abs/2410.09909)|null|
+|**2024-10-13**|**AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model**|Yuchen Li et.al.|[2410.09714](http://arxiv.org/abs/2410.09714)|null|
+|**2024-10-12**|**Distribution-aware Noisy-label Crack Segmentation**|Xiaoyan Jiang et.al.|[2410.09409](http://arxiv.org/abs/2410.09409)|**[link](https://github.com/sky-visionx/cracksegmentation)**|
+|**2024-10-11**|**VideoSAM: Open-World Video Segmentation**|Pinxue Guo et.al.|[2410.08781](http://arxiv.org/abs/2410.08781)|null|
 |**2024-10-11**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964](http://arxiv.org/abs/2410.06964)|null|
 |**2024-10-08**|**Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images**|Shiyu Miao et.al.|[2410.06194](http://arxiv.org/abs/2410.06194)|**[link](https://github.com/stevenmsy/directsam-rs)**|
 |**2024-10-08**|**Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts**|Zhiwei Lin et.al.|[2410.05963](http://arxiv.org/abs/2410.05963)|null|
