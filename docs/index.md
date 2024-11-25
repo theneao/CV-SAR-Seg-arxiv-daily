@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.11.22
+## Updated on 2024.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Transforming Engineering Diagrams: A Novel Approach for P&ID Digitization using Transformers**|Jan Marius Stürmer et.al.|[2411.13929](http://arxiv.org/abs/2411.13929)|null|
 |**2024-11-20**|**Edge-Detected 4DSTEM -- effective low-dose diffraction data acquisition method for nanopowder samples in a SEM instrument**|Nikita Denisov et.al.|[2411.13265](http://arxiv.org/abs/2411.13265)|null|
 |**2024-11-12**|**Well-posedness of a Variable-Exponent Telegraph Equation Applied to Image Despeckling**|Sudeb Majee et.al.|[2411.08175](http://arxiv.org/abs/2411.08175)|null|
 |**2024-11-12**|**WavShadow: Wavelet Based Shadow Segmentation and Removal**|Shreyans Jain et.al.|[2411.05747](http://arxiv.org/abs/2411.05747)|null|
@@ -181,6 +182,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**POS-tagging to highlight the skeletal structure of sentences**|Grigorii Churakov et.al.|[2411.14393](http://arxiv.org/abs/2411.14393)|**[link](https://github.com/disk0Dancer/rubert-finetuned-pos)**|
+|**2024-11-21**|**Data Formats in Analytical DBMSs: Performance Trade-offs and Future Directions**|Chunwei Liu et.al.|[2411.14331](http://arxiv.org/abs/2411.14331)|null|
+|**2024-11-21**|**BERT-Based Approach for Automating Course Articulation Matrix Construction with Explainable AI**|Natenaile Asmamaw Shiferaw et.al.|[2411.14254](http://arxiv.org/abs/2411.14254)|**[link](https://github.com/natenaile/bert-based-approach-for-automating-course-articulation-matrix-construction-with-explainable-ai)**|
+|**2024-11-21**|**Uncertainty-Aware Regression for Socio-Economic Estimation via Multi-View Remote Sensing**|Fan Yang et.al.|[2411.14119](http://arxiv.org/abs/2411.14119)|**[link](https://github.com/lukeyf/multiview_remote_sensing)**|
 |**2024-11-20**|**Machine Learning Domain Adaptation in Spin Models with Continuous Phase Transitions**|Vladislav Chertenkov et.al.|[2411.13027](http://arxiv.org/abs/2411.13027)|null|
 |**2024-11-15**|**FedCL-Ensemble Learning: A Framework of Federated Continual Learning with Ensemble Transfer Learning Enhanced for Alzheimer's MRI Classifications while Preserving Privacy**|Rishit Kapoor et.al.|[2411.12756](http://arxiv.org/abs/2411.12756)|null|
 |**2024-11-19**|**Multivariate and Online Transfer Learning with Uncertainty Quantification**|Jimmy Hickey et.al.|[2411.12555](http://arxiv.org/abs/2411.12555)|null|
@@ -1991,6 +1996,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430](http://arxiv.org/abs/2411.14430)|null|
+|**2024-11-21**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384](http://arxiv.org/abs/2411.14384)|null|
+|**2024-11-21**|**CoNFiLD-inlet: Synthetic Turbulence Inflow Using Generative Latent Diffusion Models with Neural Fields**|Xin-Yang Liu et.al.|[2411.14378](http://arxiv.org/abs/2411.14378)|null|
+|**2024-11-21**|**Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models**|Houze Liu et.al.|[2411.14353](http://arxiv.org/abs/2411.14353)|null|
+|**2024-11-21**|**StereoCrafter-Zero: Zero-Shot Stereo Video Generation with Noisy Restart**|Jian Shi et.al.|[2411.14295](http://arxiv.org/abs/2411.14295)|null|
+|**2024-11-21**|**Guided MRI Reconstruction via Schrödinger Bridge**|Yue Wang et.al.|[2411.14269](http://arxiv.org/abs/2411.14269)|null|
+|**2024-11-21**|**TaQ-DiT: Time-aware Quantization for Diffusion Transformers**|Xinyan Liu et.al.|[2411.14172](http://arxiv.org/abs/2411.14172)|null|
+|**2024-11-21**|**RestorerID: Towards Tuning-Free Face Restoration with ID Preservation**|Jiacheng Ying et.al.|[2411.14125](http://arxiv.org/abs/2411.14125)|**[link](https://github.com/yingjiacheng/restorerid)**|
+|**2024-11-21**|**Point Cloud Resampling with Learnable Heat Diffusion**|Wenqiang Xu et.al.|[2411.14120](http://arxiv.org/abs/2411.14120)|null|
+|**2024-11-21**|**Transforming Static Images Using Generative Models for Video Salient Object Detection**|Suhwan Cho et.al.|[2411.13975](http://arxiv.org/abs/2411.13975)|**[link](https://github.com/suhwan-cho/realflow)**|
+|**2024-11-21**|**Decoupled Sparse Priors Guided Diffusion Compression Model for Point Clouds**|Xiaoge Zhang et.al.|[2411.13860](http://arxiv.org/abs/2411.13860)|null|
+|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842](http://arxiv.org/abs/2411.13842)|**[link](https://github.com/wangkaihong/hadm)**|
+|**2024-11-21**|**CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation**|Lin Sun et.al.|[2411.13836](http://arxiv.org/abs/2411.13836)|**[link](https://github.com/linsun449/cliper.code)**|
+|**2024-11-21**|**MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control**|Ruiyuan Gao et.al.|[2411.13807](http://arxiv.org/abs/2411.13807)|null|
+|**2024-11-20**|**Non-Linear Outlier Synthesis for Out-of-Distribution Detection**|Lars Doorenbos et.al.|[2411.13619](http://arxiv.org/abs/2411.13619)|**[link](https://github.com/larsdoorenbos/ncis)**|
 |**2024-11-20**|**REDUCIO! Generating 1024 $\times$ 1024 Video within 16 Seconds using Extremely Compressed Motion Latents**|Rui Tian et.al.|[2411.13552](http://arxiv.org/abs/2411.13552)|**[link](https://github.com/microsoft/reducio-vae)**|
 |**2024-11-20**|**Identity Preserving 3D Head Stylization with Multiview Score Distillation**|Bahri Batuhan Bilecen et.al.|[2411.13536](http://arxiv.org/abs/2411.13536)|null|
 |**2024-11-20**|**Heuristically Adaptive Diffusion-Model Evolutionary Strategy**|Benedikt Hartl et.al.|[2411.13420](http://arxiv.org/abs/2411.13420)|null|
@@ -5685,6 +5705,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Revisiting the Integration of Convolution and Attention for Vision Backbone**|Lei Zhu et.al.|[2411.14429](http://arxiv.org/abs/2411.14429)|**[link](https://github.com/rayleizhu/glmix)**|
+|**2024-11-21**|**CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation**|Lin Sun et.al.|[2411.13836](http://arxiv.org/abs/2411.13836)|**[link](https://github.com/linsun449/cliper.code)**|
+|**2024-11-21**|**Segment Any Class (SAC): Multi-Class Few-Shot Semantic Segmentation via Class Region Proposals**|Hussni Mohd Zakir et.al.|[2411.13774](http://arxiv.org/abs/2411.13774)|null|
+|**2024-11-20**|**FAST-Splat: Fast, Ambiguity-Free Semantics Transfer in Gaussian Splatting**|Ola Shorinwa et.al.|[2411.13753](http://arxiv.org/abs/2411.13753)|null|
 |**2024-11-20**|**BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation**|Umamaheswaran Raman Kumar et.al.|[2411.13251](http://arxiv.org/abs/2411.13251)|null|
 |**2024-11-20**|**XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation**|Ziyi Wang et.al.|[2411.13243](http://arxiv.org/abs/2411.13243)|**[link](https://github.com/wangzy22/xmask3d)**|
 |**2024-11-20**|**Automating Sonologists USG Commands with AI and Voice Interface**|Emad Mohamed et.al.|[2411.13006](http://arxiv.org/abs/2411.13006)|null|
@@ -7869,6 +7893,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Data Formats in Analytical DBMSs: Performance Trade-offs and Future Directions**|Chunwei Liu et.al.|[2411.14331](http://arxiv.org/abs/2411.14331)|null|
+|**2024-11-21**|**Segment Anything in Light Fields for Real-Time Applications via Constrained Prompting**|Nikolai Goncharov et.al.|[2411.13840](http://arxiv.org/abs/2411.13840)|null|
+|**2024-11-21**|**Segment Any Class (SAC): Multi-Class Few-Shot Semantic Segmentation via Class Region Proposals**|Hussni Mohd Zakir et.al.|[2411.13774](http://arxiv.org/abs/2411.13774)|null|
 |**2024-11-20**|**Click; Single Object Tracking; Video Object Segmentation; Real-time Interaction**|Kuiran Wang et.al.|[2411.13183](http://arxiv.org/abs/2411.13183)|null|
 |**2024-11-13**|**SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation**|Jiayu Huo et.al.|[2411.12755](http://arxiv.org/abs/2411.12755)|null|
 |**2024-11-19**|**SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation**|Ron Keuth et.al.|[2411.12602](http://arxiv.org/abs/2411.12602)|**[link](https://github.com/multimodallearning/samcarriestheburden)**|
