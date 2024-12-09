@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2024.12.06
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -186,7 +186,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-04**|**Streaming Detection of Queried Event Start**|Cristobal Eyzaguirre et.al.|[2412.03567](http://arxiv.org/abs/2412.03567)|null|
+|**2024-12-05**|**Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**|Yi Chen et.al.|[2412.04445](http://arxiv.org/abs/2412.04445)|null|
+|**2024-12-05**|**Adult Glioma Segmentation in Sub-Saharan Africa using Transfer Learning on Stratified Finetuning Data**|Abhijeet Parida et.al.|[2412.04111](http://arxiv.org/abs/2412.04111)|**[link](https://github.com/MIC-DKFZ/MedNeXt)**|
+|**2024-12-04**|**Automated galaxy sizes in Euclid images using the Segment Anything Model**|J. Vega-Ferrero et.al.|[2412.03642](http://arxiv.org/abs/2412.03642)|null|
+|**2024-12-04**|**Streaming Detection of Queried Event Start**|Cristobal Eyzaguirre et.al.|[2412.03567](http://arxiv.org/abs/2412.03567)|**[link](https://github.com/sdqesdataset/sdqes_generation)**|
 |**2024-12-04**|**Hybrid deep learning-based strategy for the hepatocellular carcinoma cancer grade classification of H&E stained liver histopathology images**|Ajinkya Deshpande et.al.|[2412.03084](http://arxiv.org/abs/2412.03084)|null|
 |**2024-12-04**|**Bayesian Transfer Learning for Enhanced Estimation and Inference**|Daoyuan Lai et.al.|[2412.02986](http://arxiv.org/abs/2412.02986)|null|
 |**2024-12-02**|**Pooling Solvent Mixtures for Solvation Free Energy Predictions**|Roel J. Leenhouts et.al.|[2412.01982](http://arxiv.org/abs/2412.01982)|null|
@@ -2048,6 +2051,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**PaintScene4D: Consistent 4D Scene Generation from Text Prompts**|Vinayak Gupta et.al.|[2412.04471](http://arxiv.org/abs/2412.04471)|null|
+|**2024-12-05**|**LayerFusion: Harmonized Multi-Layer Text-to-Image Generation with Generative Priors**|Yusuf Dalva et.al.|[2412.04460](http://arxiv.org/abs/2412.04460)|null|
+|**2024-12-05**|**Four-Plane Factorized Video Autoencoders**|Mohammed Suhail et.al.|[2412.04452](http://arxiv.org/abs/2412.04452)|null|
+|**2024-12-05**|**MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**|Longtao Zheng et.al.|[2412.04448](http://arxiv.org/abs/2412.04448)|null|
+|**2024-12-05**|**DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**|Yizhuo Li et.al.|[2412.04446](http://arxiv.org/abs/2412.04446)|null|
+|**2024-12-05**|**Learning Artistic Signatures: Symmetry Discovery and Style Transfer**|Emma Finn et.al.|[2412.04441](http://arxiv.org/abs/2412.04441)|null|
+|**2024-12-05**|**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**|Yuying Ge et.al.|[2412.04432](http://arxiv.org/abs/2412.04432)|**[link](https://github.com/tencentarc/divot)**|
+|**2024-12-05**|**Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis**|Jian Han et.al.|[2412.04431](http://arxiv.org/abs/2412.04431)|**[link](https://github.com/FoundationVision/Infinity)**|
+|**2024-12-05**|**Reversible molecular simulation for training classical and machine learning force fields**|Joe G Greener et.al.|[2412.04374](http://arxiv.org/abs/2412.04374)|null|
+|**2024-12-05**|**ActFusion: a Unified Diffusion Model for Action Segmentation and Anticipation**|Dayoung Gong et.al.|[2412.04353](http://arxiv.org/abs/2412.04353)|null|
+|**2024-12-05**|**RMD: A Simple Baseline for More General Human Motion Generation via Training-free Retrieval-Augmented Motion Diffuse**|Zhouyingcheng Liao et.al.|[2412.04343](http://arxiv.org/abs/2412.04343)|null|
+|**2024-12-05**|**Multi-Subject Image Synthesis as a Generative Prior for Single-Subject PET Image Reconstruction**|George Webber et.al.|[2412.04324](http://arxiv.org/abs/2412.04324)|null|
+|**2024-12-05**|**Structure-Aware Stylized Image Synthesis for Robust Medical Image Segmentation**|Jie Bao et.al.|[2412.04296](http://arxiv.org/abs/2412.04296)|null|
+|**2024-12-05**|**LMDM:Latent Molecular Diffusion Model For 3D Molecule Generation**|Xiang Chen et.al.|[2412.04242](http://arxiv.org/abs/2412.04242)|null|
+|**2024-12-05**|**CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**|Ruoyu Yao et.al.|[2412.04209](http://arxiv.org/abs/2412.04209)|null|
+|**2024-12-05**|**Instructional Video Generation**|Yayuan Li et.al.|[2412.04189](http://arxiv.org/abs/2412.04189)|null|
+|**2024-12-05**|**AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models**|Xinghui Li et.al.|[2412.04146](http://arxiv.org/abs/2412.04146)|null|
+|**2024-12-05**|**Understanding Memorization in Generative Models via Sharpness in Probability Landscapes**|Dongjae Jeon et.al.|[2412.04140](http://arxiv.org/abs/2412.04140)|null|
+|**2024-12-05**|**Compositional Generative Multiphysics and Multi-component Simulation**|Tao Zhang et.al.|[2412.04134](http://arxiv.org/abs/2412.04134)|**[link](https://github.com/AI4Science-WestlakeU/MultiSimDiff)**|
+|**2024-12-05**|**IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation**|Sejong Yang et.al.|[2412.04000](http://arxiv.org/abs/2412.04000)|null|
 |**2024-12-04**|**MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**|Zehuan Huang et.al.|[2412.03558](http://arxiv.org/abs/2412.03558)|null|
 |**2024-12-04**|**NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**|Lingen Li et.al.|[2412.03517](http://arxiv.org/abs/2412.03517)|null|
 |**2024-12-04**|**Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion**|Shengyuan Zhang et.al.|[2412.03515](http://arxiv.org/abs/2412.03515)|**[link](https://github.com/happyw1nd/scorelidar)**|
@@ -5837,6 +5860,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**A Hitchhiker's Guide to Understanding Performances of Two-Class Classifiers**|Anaïs Halin et.al.|[2412.04377](http://arxiv.org/abs/2412.04377)|null|
+|**2024-12-05**|**Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts**|Chenyang Zhu et.al.|[2412.04220](http://arxiv.org/abs/2412.04220)|null|
+|**2024-12-05**|**Text Change Detection in Multilingual Documents Using Image Comparison**|Doyoung Park et.al.|[2412.04137](http://arxiv.org/abs/2412.04137)|null|
+|**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|null|
+|**2024-12-05**|**Quality Control in Open-Ended Crowdsourcing: A Survey**|Lei Chai et.al.|[2412.03991](http://arxiv.org/abs/2412.03991)|null|
+|**2024-12-05**|**Exact: Exploring Space-Time Perceptive Clues for Weakly Supervised Satellite Image Time Series Semantic Segmentation**|Hao Zhu et.al.|[2412.03968](http://arxiv.org/abs/2412.03968)|**[link](https://github.com/missu-hh/exact)**|
+|**2024-12-05**|**LL-ICM: Image Compression for Low-level Machine Vision via Large Vision-Language Model**|Yuan Xue et.al.|[2412.03841](http://arxiv.org/abs/2412.03841)|null|
+|**2024-12-04**|**Designing DNNs for a trade-off between robustness and processing performance in embedded devices**|Jon Gutiérrez-Zaballa et.al.|[2412.03682](http://arxiv.org/abs/2412.03682)|null|
+|**2024-12-04**|**Evaluating Single Event Upsets in Deep Neural Networks for Semantic Segmentation: an embedded system perspective**|Jon Gutiérrez-Zaballa et.al.|[2412.03630](http://arxiv.org/abs/2412.03630)|**[link](https://github.com/jonguti13/parameterprotection)**|
 |**2024-12-04**|**FLAIR: VLM with Fine-grained Language-informed Image Representations**|Rui Xiao et.al.|[2412.03561](http://arxiv.org/abs/2412.03561)|**[link](https://github.com/explainableml/flair)**|
 |**2024-12-04**|**Benchmarking Pretrained Attention-based Models for Real-Time Recognition in Robot-Assisted Esophagectomy**|Ronald L. P. D. de Jong et.al.|[2412.03401](http://arxiv.org/abs/2412.03401)|null|
 |**2024-12-04**|**Task-driven Image Fusion with Learnable Fusion Loss**|Haowen Bai et.al.|[2412.03240](http://arxiv.org/abs/2412.03240)|null|
@@ -7650,8 +7682,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Deep priors for satellite image restoration with accurate uncertainties**|Biquard Maud et.al.|[2412.04130](http://arxiv.org/abs/2412.04130)|null|
+|**2024-12-05**|**Blind Underwater Image Restoration using Co-Operational Regressor Networks**|Ozer Can Devecioglu et.al.|[2412.03995](http://arxiv.org/abs/2412.03995)|null|
+|**2024-12-05**|**LL-ICM: Image Compression for Low-level Machine Vision via Large Vision-Language Model**|Yuan Xue et.al.|[2412.03841](http://arxiv.org/abs/2412.03841)|null|
+|**2024-12-05**|**Exploring Real&Synthetic Dataset and Linear Attention in Image Restoration**|Yuzhen Du et.al.|[2412.03814](http://arxiv.org/abs/2412.03814)|null|
 |**2024-12-04**|**Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution**|Jiahua Xiao et.al.|[2412.02960](http://arxiv.org/abs/2412.02960)|null|
-|**2024-12-03**|**Relaxed and Inertial Nonlinear Forward-Backward with Momentum**|Fernando Roldán et.al.|[2412.02045](http://arxiv.org/abs/2412.02045)|null|
+|**2024-12-03**|**Relaxed and Inertial Nonlinear Forward-Backward with Momentum**|Fernando Roldán et.al.|[2412.02045](http://arxiv.org/abs/2412.02045)|**[link](https://github.com/cristianvega1995/Relaxed-and-Inertial-Nonlinear-Forward-Backward-with-Momentum)**|
 |**2024-12-02**|**Phaseformer: Phase-based Attention Mechanism for Underwater Image Restoration and Beyond**|MD Raqib Khan et.al.|[2412.01456](http://arxiv.org/abs/2412.01456)|**[link](https://github.com/Mdraqibkhan/Phaseformer)**|
 |**2024-12-02**|**FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration**|Hao Li et.al.|[2412.01427](http://arxiv.org/abs/2412.01427)|null|
 |**2024-12-01**|**Beyond Pixels: Text Enhances Generalization in Real-World Image Restoration**|Haoze Sun et.al.|[2412.00878](http://arxiv.org/abs/2412.00878)|null|
@@ -8096,6 +8132,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Quantifying the Limits of Segment Anything Model: Analyzing Challenges in Segmenting Tree-Like and Low-Contrast Structures**|Yixin Zhang et.al.|[2412.04243](http://arxiv.org/abs/2412.04243)|**[link](https://github.com/mazurowski-lab/sam-texturalconfusion-metrics)**|
+|**2024-12-05**|**Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts**|Chenyang Zhu et.al.|[2412.04220](http://arxiv.org/abs/2412.04220)|null|
+|**2024-12-04**|**Automated galaxy sizes in Euclid images using the Segment Anything Model**|J. Vega-Ferrero et.al.|[2412.03642](http://arxiv.org/abs/2412.03642)|null|
 |**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472](http://arxiv.org/abs/2412.03472)|null|
 |**2024-12-04**|**MRNet: Multifaceted Resilient Networks for Medical Image-to-Image Translation**|Hyojeong Lee et.al.|[2412.03039](http://arxiv.org/abs/2412.03039)|null|
 |**2024-12-02**|**CellSeg1: Robust Cell Segmentation with One Training Image**|Peilin Zhou et.al.|[2412.01410](http://arxiv.org/abs/2412.01410)|**[link](https://github.com/Nuisal/cellseg1)**|
