@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2025.03.14
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -211,7 +211,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-11**|**Are ECGs enough? Deep learning classification of cardiac anomalies using only electrocardiograms**|Joao D. S. Marques et.al.|[2503.08960](http://arxiv.org/abs/2503.08960)|null|
+|**2025-03-13**|**SOLA-GCL: Subgraph-Oriented Learnable Augmentation Method for Graph Contrastive Learning**|Tianhao Peng et.al.|[2503.10100](http://arxiv.org/abs/2503.10100)|null|
+|**2025-03-11**|**Are ECGs enough? Deep learning classification of cardiac anomalies using only electrocardiograms**|Joao D. S. Marques et.al.|[2503.08960](http://arxiv.org/abs/2503.08960)|**[link](https://github.com/joaodsmarques/are-ecgs-enough-deep-learning-classifiers)**|
 |**2025-03-11**|**Beam Selection in ISAC using Contextual Bandit with Multi-modal Transformer and Transfer Learning**|Mohammad Farzanullah et.al.|[2503.08937](http://arxiv.org/abs/2503.08937)|null|
 |**2025-03-11**|**Towards species' classification of the \textit{Anastrepha pseudoparallela} group**|Gabriel R. Palma et.al.|[2503.08598](http://arxiv.org/abs/2503.08598)|null|
 |**2025-03-11**|**MMRL: Multi-Modal Representation Learning for Vision-Language Models**|Yuncheng Guo et.al.|[2503.08497](http://arxiv.org/abs/2503.08497)|**[link](https://github.com/yunncheng/MMRL)**|
@@ -224,7 +225,7 @@ layout: default
 |**2025-03-10**|**Are We Truly Forgetting? A Critical Re-examination of Machine Unlearning Evaluation Protocols**|Yongwoo Kim et.al.|[2503.06991](http://arxiv.org/abs/2503.06991)|null|
 |**2025-03-09**|**Transfer Learning for LQR Control**|Taosha Guo et.al.|[2503.06755](http://arxiv.org/abs/2503.06755)|null|
 |**2025-03-09**|**MetaXCR: Reinforcement-Based Meta-Transfer Learning for Cross-Lingual Commonsense Reasoning**|Jie He et.al.|[2503.06531](http://arxiv.org/abs/2503.06531)|null|
-|**2025-03-09**|**R+R: Security Vulnerability Dataset Quality Is Critical**|Anurag Swarnim Yadav et.al.|[2503.06387](http://arxiv.org/abs/2503.06387)|null|
+|**2025-03-09**|**R+R: Security Vulnerability Dataset Quality Is Critical**|Anurag Swarnim Yadav et.al.|[2503.06387](http://arxiv.org/abs/2503.06387)|**[link](https://github.com/Anurag-Swarnim-Yadav/DatasetQuality)**|
 |**2025-03-08**|**Adversarial Robustness of Discriminative Self-Supervised Learning in Vision**|Ömer Veysel Çağatan et.al.|[2503.06361](http://arxiv.org/abs/2503.06361)|null|
 |**2025-03-08**|**NeuroADDA: Active Discriminative Domain Adaptation in Connectomic**|Shashata Sawmya et.al.|[2503.06196](http://arxiv.org/abs/2503.06196)|null|
 |**2025-03-07**|**CACTUS: An Open Dataset and Framework for Automated Cardiac Assessment and Classification of Ultrasound Images Using Deep Transfer Learning**|Hanae Elmekki et.al.|[2503.05604](http://arxiv.org/abs/2503.05604)|null|
@@ -2420,6 +2421,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|**[link](https://github.com/rongyaofang/got)**|
+|**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638](http://arxiv.org/abs/2503.10638)|null|
+|**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
+|**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631](http://arxiv.org/abs/2503.10631)|null|
+|**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626](http://arxiv.org/abs/2503.10626)|null|
+|**2025-03-13**|**DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation**|Chen Chen et.al.|[2503.10618](http://arxiv.org/abs/2503.10618)|null|
+|**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
+|**2025-03-13**|**CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models**|Hao He et.al.|[2503.10592](http://arxiv.org/abs/2503.10592)|null|
+|**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589](http://arxiv.org/abs/2503.10589)|null|
+|**2025-03-13**|**Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion**|Evgeniia Vu et.al.|[2503.10488](http://arxiv.org/abs/2503.10488)|null|
+|**2025-03-13**|**CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance**|Yufan Deng et.al.|[2503.10391](http://arxiv.org/abs/2503.10391)|null|
+|**2025-03-13**|**Enhancing Facial Privacy Protection via Weakening Diffusion Purification**|Ali Salar et.al.|[2503.10350](http://arxiv.org/abs/2503.10350)|**[link](https://github.com/parham1998/facial-privacy-protection)**|
+|**2025-03-13**|**DreamInsert: Zero-Shot Image-to-Video Object Insertion from A Single Image**|Qi Zhao et.al.|[2503.10342](http://arxiv.org/abs/2503.10342)|null|
+|**2025-03-13**|**CoDiPhy: A General Framework for Applying Denoising Diffusion Models to the Physical Layer of Wireless Communication Systems**|Peyman Neshaastegaran et.al.|[2503.10297](http://arxiv.org/abs/2503.10297)|null|
+|**2025-03-13**|**Efficient Diffusion Posterior Sampling for Noisy Inverse Problems**|Ji Li et.al.|[2503.10237](http://arxiv.org/abs/2503.10237)|null|
+|**2025-03-13**|**Probability-Flow ODE in Infinite-Dimensional Function Spaces**|Kunwoo Na et.al.|[2503.10219](http://arxiv.org/abs/2503.10219)|null|
+|**2025-03-13**|**Data augmentation using diffusion models to enhance inverse Ising inference**|Yechan Lim et.al.|[2503.10154](http://arxiv.org/abs/2503.10154)|null|
+|**2025-03-13**|**Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation**|Yi Wu et.al.|[2503.10125](http://arxiv.org/abs/2503.10125)|null|
+|**2025-03-13**|**Improving Diffusion-based Inverse Algorithms under Few-Step Constraint via Learnable Linear Extrapolation**|Jiawei Zhang et.al.|[2503.10103](http://arxiv.org/abs/2503.10103)|**[link](https://github.com/weigerzan/lle_inverse_problem)**|
+|**2025-03-13**|**Light-weighted foundation model for seismic data processing based on representative and non-redundant pre-training dataset**|Xintong Dong et.al.|[2503.10092](http://arxiv.org/abs/2503.10092)|null|
 |**2025-03-12**|**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**|Chenyu Li et.al.|[2503.09595](http://arxiv.org/abs/2503.09595)|null|
 |**2025-03-12**|**Minimax Optimality of the Probability Flow ODE for Diffusion Models**|Changxiao Cai et.al.|[2503.09583](http://arxiv.org/abs/2503.09583)|null|
 |**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
@@ -6941,6 +6962,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392](http://arxiv.org/abs/2503.10392)|**[link](https://github.com/mililab/roma)**|
+|**2025-03-13**|**OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions**|Maxim Popov et.al.|[2503.10331](http://arxiv.org/abs/2503.10331)|null|
+|**2025-03-12**|**CleverDistiller: Simple and Spatially Consistent Cross-modal Distillation**|Hariprasath Govindarajan et.al.|[2503.09878](http://arxiv.org/abs/2503.09878)|null|
 |**2025-03-12**|**Active Learning Inspired ControlNet Guidance for Augmenting Semantic Segmentation Datasets**|Hannah Kniesel et.al.|[2503.09221](http://arxiv.org/abs/2503.09221)|null|
 |**2025-03-07**|**Real-Time Semantic Segmentation of Aerial Images Using an Embedded U-Net: A Comparison of CPU, GPU, and FPGA Workflows**|Julien Posso et.al.|[2503.08700](http://arxiv.org/abs/2503.08700)|null|
 |**2025-03-11**|**SegDesicNet: Lightweight Semantic Segmentation in Remote Sensing with Geo-Coordinate Embeddings for Domain Adaptation**|Sachin Verma et.al.|[2503.08290](http://arxiv.org/abs/2503.08290)|null|
@@ -6952,7 +6976,7 @@ layout: default
 |**2025-03-10**|**OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation**|Ding Zhong et.al.|[2503.07098](http://arxiv.org/abs/2503.07098)|null|
 |**2025-03-10**|**Approximate Size Targets Are Sufficient for Accurate Semantic Segmentation**|Xingye Fan et.al.|[2503.06954](http://arxiv.org/abs/2503.06954)|null|
 |**2025-03-10**|**Aligning Instance-Semantic Sparse Representation towards Unsupervised Object Segmentation and Shape Abstraction with Repeatable Primitives**|Jiaxin Li et.al.|[2503.06947](http://arxiv.org/abs/2503.06947)|null|
-|**2025-03-10**|**HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors**|Siyu Li et.al.|[2503.06821](http://arxiv.org/abs/2503.06821)|null|
+|**2025-03-10**|**HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors**|Siyu Li et.al.|[2503.06821](http://arxiv.org/abs/2503.06821)|**[link](https://github.com/lynn-yu/hierdamap)**|
 |**2025-03-09**|**CoDa-4DGS: Dynamic Gaussian Splatting with Context and Deformation Awareness for Autonomous Driving**|Rui Song et.al.|[2503.06744](http://arxiv.org/abs/2503.06744)|null|
 |**2025-03-09**|**MemorySAM: Memorize Modalities and Semantics with Segment Anything Model 2 for Multi-modal Semantic Segmentation**|Chenfei Liao et.al.|[2503.06700](http://arxiv.org/abs/2503.06700)|null|
 |**2025-03-09**|**Asymmetric Decision-Making in Online Knowledge Distillation:Unifying Consensus and Divergence**|Zhaowei Chen et.al.|[2503.06685](http://arxiv.org/abs/2503.06685)|null|
@@ -9031,12 +9055,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Hybrid Agents for Image Restoration**|Bingchen Li et.al.|[2503.10120](http://arxiv.org/abs/2503.10120)|null|
+|**2025-03-13**|**Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion**|Xingxin Xu et.al.|[2503.10109](http://arxiv.org/abs/2503.10109)|null|
 |**2025-03-12**|**Multi-Agent Image Restoration**|Xu Jiang et.al.|[2503.09403](http://arxiv.org/abs/2503.09403)|null|
-|**2025-03-12**|**MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration**|Zhehui Wu et.al.|[2503.09131](http://arxiv.org/abs/2503.09131)|null|
+|**2025-03-12**|**MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration**|Zhehui Wu et.al.|[2503.09131](http://arxiv.org/abs/2503.09131)|**[link](https://github.com/zhehuiwu/mp-hsir)**|
 |**2025-03-12**|**Prompt to Restore, Restore to Prompt: Cyclic Prompting for Universal Adverse Weather Removal**|Rongxin Liao et.al.|[2503.09013](http://arxiv.org/abs/2503.09013)|null|
 |**2025-03-11**|**QUIET-SR: Quantum Image Enhancement Transformer for Single Image Super-Resolution**|Siddhant Dutta et.al.|[2503.08759](http://arxiv.org/abs/2503.08759)|null|
 |**2025-03-11**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232](http://arxiv.org/abs/2503.07232)|null|
-|**2025-03-03**|**Hyperspectral Image Restoration and Super-resolution with Physics-Aware Deep Learning for Biomedical Applications**|Yuchen Xiang et.al.|[2503.02908](http://arxiv.org/abs/2503.02908)|**[link](https://github.com/oycxyd/HyReS)**|
+|**2025-03-03**|**Hyperspectral Image Restoration and Super-resolution with Physics-Aware Deep Learning for Biomedical Applications**|Yuchen Xiang et.al.|[2503.02908](http://arxiv.org/abs/2503.02908)|null|
 |**2025-03-04**|**ERetinex: Event Camera Meets Retinex Theory for Low-Light Image Enhancement**|Xuejian Guo et.al.|[2503.02484](http://arxiv.org/abs/2503.02484)|**[link](https://github.com/lodew920/eretinex)**|
 |**2025-03-04**|**Semantic Prior Distillation with Vision Foundation Model for Enhanced Rapid Bone Scintigraphy Image Restoration**|Pengchen Liang et.al.|[2503.02321](http://arxiv.org/abs/2503.02321)|null|
 |**2025-03-03**|**MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting**|Mojtaba Safari et.al.|[2503.01576](http://arxiv.org/abs/2503.01576)|**[link](https://github.com/mosaf/res-srdiff)**|
@@ -9581,9 +9607,9 @@ layout: default
 |**2025-03-07**|**S4M: Segment Anything with 4 Extreme Points**|Adrien Meyer et.al.|[2503.05534](http://arxiv.org/abs/2503.05534)|null|
 |**2025-03-05**|**Rethinking Few-Shot Medical Image Segmentation by SAM2: A Training-Free Framework with Augmentative Prompting and Dynamic Matching**|Haiyue Zu et.al.|[2503.04826](http://arxiv.org/abs/2503.04826)|null|
 |**2025-03-06**|**Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation**|Aishik Konwer et.al.|[2503.04639](http://arxiv.org/abs/2503.04639)|null|
-|**2025-03-07**|**GBT-SAM: A Parameter-Efficient Depth-Aware Model for Generalizable Brain tumour Segmentation on mp-MRI**|Cecilia Diana-Albelda et.al.|[2503.04325](http://arxiv.org/abs/2503.04325)|null|
-|**2025-03-06**|**WeakMedSAM: Weakly-Supervised Medical Image Segmentation via SAM with Sub-Class Exploration and Prompt Affinity Mining**|Haoran Wang et.al.|[2503.04106](http://arxiv.org/abs/2503.04106)|null|
-|**2025-03-05**|**Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model**|Steve Andreas Immanuel et.al.|[2503.03785](http://arxiv.org/abs/2503.03785)|null|
+|**2025-03-07**|**GBT-SAM: A Parameter-Efficient Depth-Aware Model for Generalizable Brain tumour Segmentation on mp-MRI**|Cecilia Diana-Albelda et.al.|[2503.04325](http://arxiv.org/abs/2503.04325)|**[link](https://github.com/vpulab/med-sam-brain)**|
+|**2025-03-06**|**WeakMedSAM: Weakly-Supervised Medical Image Segmentation via SAM with Sub-Class Exploration and Prompt Affinity Mining**|Haoran Wang et.al.|[2503.04106](http://arxiv.org/abs/2503.04106)|**[link](https://github.com/wanghr64/weakmedsam)**|
+|**2025-03-05**|**Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model**|Steve Andreas Immanuel et.al.|[2503.03785](http://arxiv.org/abs/2503.03785)|**[link](https://github.com/SteveImmanuel/rs-paint)**|
 |**2025-03-05**|**AHCPTQ: Accurate and Hardware-Compatible Post-Training Quantization for Segment Anything Model**|Wenlun Zhang et.al.|[2503.03088](http://arxiv.org/abs/2503.03088)|null|
 |**2025-03-04**|**Unveiling the Potential of Segment Anything Model 2 for RGB-Thermal Semantic Segmentation with Language Guidance**|Jiayi Zhao et.al.|[2503.02581](http://arxiv.org/abs/2503.02581)|**[link](https://github.com/iasakit3t/shifnet)**|
 |**2025-03-04**|**Semantic Prior Distillation with Vision Foundation Model for Enhanced Rapid Bone Scintigraphy Image Restoration**|Pengchen Liang et.al.|[2503.02321](http://arxiv.org/abs/2503.02321)|null|
