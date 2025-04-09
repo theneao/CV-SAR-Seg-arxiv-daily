@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2025.04.07
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-06**|**Evaluation framework for Image Segmentation Algorithms**|Tatiana Merkulova et.al.|[2504.04435](http://arxiv.org/abs/2504.04435)|null|
 |**2025-03-26**|**Hybrid Multi-Stage Learning Framework for Edge Detection: A Survey**|Mark Phil Pacot et.al.|[2503.21827](http://arxiv.org/abs/2503.21827)|null|
 |**2025-03-21**|**Model reduction of convection-dominated viscous conservation laws using implicit feature tracking and landmark image registration**|Victor Zucatti et.al.|[2503.17463](http://arxiv.org/abs/2503.17463)|null|
 |**2025-03-21**|**Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection**|Gensheng Pei et.al.|[2503.17080](http://arxiv.org/abs/2503.17080)|null|
@@ -217,6 +218,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Cellular Network Design for UAV Corridors via Data-driven High-dimensional Bayesian Optimization**|Mohamed Benzaghta et.al.|[2504.05176](http://arxiv.org/abs/2504.05176)|null|
+|**2025-04-07**|**Sparse Optimization for Transfer Learning: A L0-Regularized Framework for Multi-Source Domain Adaptation**|Chenqi Gong et.al.|[2504.04812](http://arxiv.org/abs/2504.04812)|null|
+|**2025-04-05**|**ADA-Net: Attention-Guided Domain Adaptation Network with Contrastive Learning for Standing Dead Tree Segmentation Using Aerial Imagery**|Mete Ahishali et.al.|[2504.04271](http://arxiv.org/abs/2504.04271)|null|
+|**2025-04-05**|**Quantum parallel information exchange (QPIE) hybrid network with transfer learning**|Ziqing Guo et.al.|[2504.04235](http://arxiv.org/abs/2504.04235)|null|
+|**2025-04-05**|**PIORF: Physics-Informed Ollivier-Ricci Flow for Long-Range Interactions in Mesh Graph Neural Networks**|Youn-Yeol Yu et.al.|[2504.04052](http://arxiv.org/abs/2504.04052)|null|
+|**2025-04-04**|**Optimizing Specific and Shared Parameters for Efficient Parameter Tuning**|Van-Anh Nguyen et.al.|[2504.03450](http://arxiv.org/abs/2504.03450)|null|
+|**2025-04-04**|**Early detection of diabetes through transfer learning-based eye (vision) screening and improvement of machine learning model performance and advanced parameter setting algorithms**|Mohammad Reza Yousefi et.al.|[2504.03439](http://arxiv.org/abs/2504.03439)|null|
+|**2025-04-04**|**Block Toeplitz Sparse Precision Matrix Estimation for Large-Scale Interval-Valued Time Series Forecasting**|Wan Tian et.al.|[2504.03322](http://arxiv.org/abs/2504.03322)|null|
+|**2025-04-04**|**A model-free feature extraction procedure for interval-valued time series prediction**|Wan Tian et.al.|[2504.03310](http://arxiv.org/abs/2504.03310)|null|
+|**2025-04-04**|**Mitigating the Impact of Electrode Shift on Classification Performance in Electromyography-Based Motion Prediction Using Sliding-Window Normalization**|Taichi Tanaka et.al.|[2504.03196](http://arxiv.org/abs/2504.03196)|null|
 |**2025-04-03**|**Data-Driven Design of 3GPP Handover Parameters with Bayesian Optimization and Transfer Learning**|Mohamed Benzaghta et.al.|[2504.02633](http://arxiv.org/abs/2504.02633)|null|
 |**2025-04-02**|**Instruction-Guided Autoregressive Neural Network Parameter Generation**|Soro Bedionita et.al.|[2504.02012](http://arxiv.org/abs/2504.02012)|null|
 |**2025-04-02**|**Q-Adapt: Adapting LMM for Visual Quality Assessment with Progressive Instruction Tuning**|Yiting Lu et.al.|[2504.01655](http://arxiv.org/abs/2504.01655)|**[link](https://github.com/yeppp27/q-adapt)**|
@@ -2505,6 +2516,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
+|**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|null|
+|**2025-04-07**|**Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures**|Gen Li et.al.|[2504.05300](http://arxiv.org/abs/2504.05300)|null|
+|**2025-04-07**|**DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration**|Jiamei Xiong et.al.|[2504.05135](http://arxiv.org/abs/2504.05135)|null|
+|**2025-04-07**|**Graph-based Diffusion Model for Collaborative Filtering**|Xuan Zhang et.al.|[2504.05029](http://arxiv.org/abs/2504.05029)|null|
+|**2025-04-08**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
+|**2025-04-08**|**TabRep: a Simple and Effective Continuous Representation for Training Tabular Diffusion Models**|Jacob Si et.al.|[2504.04798](http://arxiv.org/abs/2504.04798)|null|
+|**2025-04-07**|**Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing**|Hui Liu et.al.|[2504.04784](http://arxiv.org/abs/2504.04784)|null|
+|**2025-04-07**|**Continuous Locomotive Crowd Behavior Generation**|Inhwan Bae et.al.|[2504.04756](http://arxiv.org/abs/2504.04756)|null|
+|**2025-04-07**|**Unsupervised Estimation of Nonlinear Audio Effects: Comparing Diffusion-Based and Adversarial approaches**|Eloi Moliner et.al.|[2504.04751](http://arxiv.org/abs/2504.04751)|null|
+|**2025-04-06**|**Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions**|Pau Marquez Julbe et.al.|[2504.04603](http://arxiv.org/abs/2504.04603)|null|
+|**2025-04-08**|**Your Image Generator Is Your New Private Dataset**|Nicolo Resmini et.al.|[2504.04582](http://arxiv.org/abs/2504.04582)|null|
+|**2025-04-06**|**Cramer-Rao Bounds for Laplacian Matrix Estimation**|Morad Halihal et.al.|[2504.04576](http://arxiv.org/abs/2504.04576)|null|
+|**2025-04-06**|**BrainMRDiff: A Diffusion Model for Anatomically Consistent Brain MRI Synthesis**|Moinak Bhattacharya et.al.|[2504.04532](http://arxiv.org/abs/2504.04532)|null|
+|**2025-04-06**|**PRISM: Probabilistic Representation for Integrated Shape Modeling and Generation**|Lei Cheng et.al.|[2504.04454](http://arxiv.org/abs/2504.04454)|null|
+|**2025-04-06**|**From Coarse to Fine: A Physics-Informed Self-Guided Flow Diffusion Model**|Ruoyan Li et.al.|[2504.04375](http://arxiv.org/abs/2504.04375)|null|
+|**2025-04-06**|**DDPT: Diffusion-Driven Prompt Tuning for Large Language Model Code Generation**|Jinyang Li et.al.|[2504.04351](http://arxiv.org/abs/2504.04351)|null|
+|**2025-04-05**|**Multi-resolution Score-Based Variational Graphical Diffusion for Causal Disaster System Modeling and Inference**|Xuechun Li et.al.|[2504.04015](http://arxiv.org/abs/2504.04015)|null|
+|**2025-04-05**|**DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion**|Maksim Siniukov et.al.|[2504.04010](http://arxiv.org/abs/2504.04010)|null|
+|**2025-04-04**|**Enhancing Causal Effect Estimation with Diffusion-Generated Data**|Li Chen et.al.|[2504.03630](http://arxiv.org/abs/2504.03630)|null|
 |**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828](http://arxiv.org/abs/2504.02828)|null|
 |**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801](http://arxiv.org/abs/2504.02801)|null|
 |**2025-04-03**|**Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model**|Shengjun Zhang et.al.|[2504.02764](http://arxiv.org/abs/2504.02764)|null|
@@ -7219,6 +7250,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Balancing Robustness and Efficiency in Embedded DNNs Through Activation Function Selection**|Jon Gutiérrez Zaballa et.al.|[2504.05119](http://arxiv.org/abs/2504.05119)|null|
+|**2025-04-07**|**DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation**|Bo-Wen Yin et.al.|[2504.04701](http://arxiv.org/abs/2504.04701)|**[link](https://github.com/VCIP-RGBD/DFormer)**|
+|**2025-04-05**|**CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation**|Kai Fang et.al.|[2504.04156](http://arxiv.org/abs/2504.04156)|null|
+|**2025-04-05**|**DocSAM: Unified Document Image Segmentation via Query Decomposition and Heterogeneous Mixed Learning**|Xiao-Hui Li et.al.|[2504.04085](http://arxiv.org/abs/2504.04085)|null|
+|**2025-04-01**|**Input Resolution Downsizing as a Compression Technique for Vision Deep Learning Systems**|Jeremy Morlier et.al.|[2504.03749](http://arxiv.org/abs/2504.03749)|null|
+|**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|null|
+|**2025-04-02**|**Global Rice Multi-Class Segmentation Dataset (RiceSEG): A Comprehensive and Diverse High-Resolution RGB-Annotated Images for the Development and Benchmarking of Rice Segmentation Algorithms**|Junchi Zhou et.al.|[2504.02880](http://arxiv.org/abs/2504.02880)|null|
 |**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647](http://arxiv.org/abs/2504.02647)|null|
 |**2025-04-03**|**Semantic segmentation of forest stands using deep learning**|Håkon Næss Sandum et.al.|[2504.02471](http://arxiv.org/abs/2504.02471)|null|
 |**2025-04-03**|**Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation**|Changshuo Wang et.al.|[2504.02454](http://arxiv.org/abs/2504.02454)|null|
@@ -9395,6 +9433,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration**|Jiamei Xiong et.al.|[2504.05135](http://arxiv.org/abs/2504.05135)|null|
+|**2025-04-08**|**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**|Yuandong Pu et.al.|[2504.04903](http://arxiv.org/abs/2504.04903)|null|
+|**2025-04-07**|**Content-Aware Transformer for All-in-one Image Restoration**|Gang Wu et.al.|[2504.04869](http://arxiv.org/abs/2504.04869)|null|
+|**2025-04-05**|**JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration**|Yunlong Lin et.al.|[2504.04158](http://arxiv.org/abs/2504.04158)|null|
+|**2025-04-04**|**Multimodal Diffusion Bridge with Attention-Based SAR Fusion for Satellite Image Cloud Removal**|Yuyang Hu et.al.|[2504.03607](http://arxiv.org/abs/2504.03607)|null|
+|**2025-04-04**|**Finding the Reflection Point: Unpadding Images to Remove Data Augmentation Artifacts in Large Open Source Image Datasets for Machine Learning**|Lucas Choi et.al.|[2504.03168](http://arxiv.org/abs/2504.03168)|null|
 |**2025-04-03**|**RoSMM: A Robust and Secure Multi-Modal Watermarking Framework for Diffusion Models**|ZhongLi Fang et.al.|[2504.02640](http://arxiv.org/abs/2504.02640)|null|
 |**2025-04-02**|**Bridge the Gap between SNN and ANN for Image Restoration**|Xin Su et.al.|[2504.01755](http://arxiv.org/abs/2504.01755)|null|
 |**2025-04-01**|**Deconver: A Deconvolutional Network for Medical Image Segmentation**|Pooya Ashtari et.al.|[2504.00302](http://arxiv.org/abs/2504.00302)|**[link](https://github.com/pashtari/deconver)**|
@@ -9957,6 +10001,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**S^4M: Boosting Semi-Supervised Instance Segmentation with SAM**|Heeji Yoon et.al.|[2504.05301](http://arxiv.org/abs/2504.05301)|null|
+|**2025-04-07**|**CMaP-SAM: Contraction Mapping Prior for SAM-driven Few-shot Segmentation**|Shuai Chen et.al.|[2504.05049](http://arxiv.org/abs/2504.05049)|null|
+|**2025-04-05**|**PIORF: Physics-Informed Ollivier-Ricci Flow for Long-Range Interactions in Mesh Graph Neural Networks**|Youn-Yeol Yu et.al.|[2504.04052](http://arxiv.org/abs/2504.04052)|null|
+|**2025-04-05**|**UCS: A Universal Model for Curvilinear Structure Segmentation**|Dianshuo Li et.al.|[2504.04034](http://arxiv.org/abs/2504.04034)|null|
+|**2025-04-04**|**MedSAM2: Segment Anything in 3D Medical Images and Videos**|Jun Ma et.al.|[2504.03600](http://arxiv.org/abs/2504.03600)|null|
 |**2025-04-03**|**APSeg: Auto-Prompt Model with Acquired and Injected Knowledge for Nuclear Instance Segmentation and Classification**|Liying Xu et.al.|[2504.02222](http://arxiv.org/abs/2504.02222)|null|
 |**2025-04-02**|**BiSeg-SAM: Weakly-Supervised Post-Processing Framework for Boosting Binary Segmentation in Segment Anything Models**|Encheng Su et.al.|[2504.01452](http://arxiv.org/abs/2504.01452)|null|
 |**2025-04-01**|**CamoSAM2: Motion-Appearance Induced Auto-Refining Prompts for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2504.00375](http://arxiv.org/abs/2504.00375)|null|
