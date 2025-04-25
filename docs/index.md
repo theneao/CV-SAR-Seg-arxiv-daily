@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2025.04.23
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**DeepCS-TRD, a Deep Learning-based Cross-Section Tree Ring Detector**|Henry Marichal et.al.|[2504.16242](http://arxiv.org/abs/2504.16242)|null|
+|**2025-04-22**|**Multi-Scale Tensorial Summation and Dimensional Reduction Guided Neural Network for Edge Detection**|Lei Xu et.al.|[2504.15770](http://arxiv.org/abs/2504.15770)|null|
 |**2025-04-21**|**Novel Concept-Oriented Synthetic Data approach for Training Generative AI-Driven Crystal Grain Analysis Using Diffusion Model**|Ahmed Sobhi Saleh et.al.|[2504.14782](http://arxiv.org/abs/2504.14782)|null|
 |**2025-04-18**|**DADU: Dual Attention-based Deep Supervised UNet for Automated Semantic Segmentation of Cardiac Images**|Racheal Mukisa et.al.|[2504.13415](http://arxiv.org/abs/2504.13415)|null|
 |**2025-04-07**|**Advanced Knife-Edge free Self-Aligned Colour Schlieren Imaging with Extended Measuring Range**|Shubham Saxena et.al.|[2504.05433](http://arxiv.org/abs/2504.05433)|null|
@@ -221,6 +223,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**An Adaptive ML Framework for Power Converter Monitoring via Federated Transfer Learning**|Panagiotis Kakosimos et.al.|[2504.16866](http://arxiv.org/abs/2504.16866)|null|
+|**2025-04-22**|**SparseJEPA: Sparse Representation Learning of Joint Embedding Predictive Architectures**|Max Hartman et.al.|[2504.16140](http://arxiv.org/abs/2504.16140)|null|
+|**2025-04-21**|**Active Learning Methods for Efficient Data Utilization and Model Performance Enhancement**|Chiung-Yi Tseng et.al.|[2504.16136](http://arxiv.org/abs/2504.16136)|null|
+|**2025-04-22**|**Efficient Adaptation of Deep Neural Networks for Semantic Segmentation in Space Applications**|Leonardo Olivi et.al.|[2504.15991](http://arxiv.org/abs/2504.15991)|null|
+|**2025-04-23**|**MedNNS: Supernet-based Medical Task-Adaptive Neural Network Search**|Lotfi Abdelkrim Mecharbat et.al.|[2504.15865](http://arxiv.org/abs/2504.15865)|null|
+|**2025-04-22**|**Transfer Learning for High-dimensional Reduced Rank Time Series Models**|Mingliang Ma Abolfazl Safikhani et.al.|[2504.15691](http://arxiv.org/abs/2504.15691)|null|
+|**2025-04-21**|**Fourier analysis of the physics of transfer learning for data-driven subgrid-scale models of ocean turbulence**|Moein Darman et.al.|[2504.15487](http://arxiv.org/abs/2504.15487)|null|
+|**2025-04-21**|**Transferable Learning of Reaction Pathways from Geometric Priors**|Juno Nam et.al.|[2504.15370](http://arxiv.org/abs/2504.15370)|null|
 |**2025-04-22**|**Histogram-based Parameter-efficient Tuning for Passive Sonar Classification**|Amirmohammad Mohammadi et.al.|[2504.15214](http://arxiv.org/abs/2504.15214)|null|
 |**2025-04-21**|**Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?**|Xinglei Dou et.al.|[2504.15021](http://arxiv.org/abs/2504.15021)|null|
 |**2025-04-21**|**PIV-FlowDiffuser:Transfer-learning-based denoising diffusion models for PIV**|Qianyu Zhu et.al.|[2504.14952](http://arxiv.org/abs/2504.14952)|**[link](https://github.com/zhu-qianyu/piv-flowdiffuser)**|
@@ -2563,6 +2573,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Practical approaches for crystal structure predictions with inpainting generation and universal interatomic potentials**|Peichen Zhong et.al.|[2504.16893](http://arxiv.org/abs/2504.16893)|null|
+|**2025-04-23**|**Planning with Diffusion Models for Target-Oriented Dialogue Systems**|Hanwen Du et.al.|[2504.16858](http://arxiv.org/abs/2504.16858)|null|
+|**2025-04-23**|**Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models**|Ilyass Taouil et.al.|[2504.16843](http://arxiv.org/abs/2504.16843)|null|
+|**2025-04-24**|**Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks**|Yanan Zhao et.al.|[2504.16748](http://arxiv.org/abs/2504.16748)|null|
+|**2025-04-23**|**MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning**|Itamar Mishani et.al.|[2504.16738](http://arxiv.org/abs/2504.16738)|null|
+|**2025-04-24**|**Hyper-Transforming Latent Diffusion Models**|Ignacio Peis et.al.|[2504.16580](http://arxiv.org/abs/2504.16580)|null|
+|**2025-04-23**|**A Comprehensive Survey of Synthetic Tabular Data Generation**|Ruxue Shi et.al.|[2504.16506](http://arxiv.org/abs/2504.16506)|null|
+|**2025-04-23**|**The Dance of Atoms-De Novo Protein Design with Diffusion Model**|Yujie Qin et.al.|[2504.16479](http://arxiv.org/abs/2504.16479)|null|
+|**2025-04-23**|**Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion**|Ruixiang Zhang et.al.|[2504.16431](http://arxiv.org/abs/2504.16431)|null|
+|**2025-04-23**|**VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models**|Xuming Hu et.al.|[2504.16359](http://arxiv.org/abs/2504.16359)|null|
+|**2025-04-22**|**SignX: The Foundation Model for Sign Recognition**|Sen Fang et.al.|[2504.16315](http://arxiv.org/abs/2504.16315)|null|
+|**2025-04-22**|**Aerial Active STAR-RIS-assisted Satellite-Terrestrial Covert Communications**|Chuang Zhang et.al.|[2504.16146](http://arxiv.org/abs/2504.16146)|null|
+|**2025-04-22**|**Survey of Video Diffusion Models: Foundations, Implementations, and Applications**|Yimu Wang et.al.|[2504.16081](http://arxiv.org/abs/2504.16081)|null|
+|**2025-04-22**|**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning**|Le Zhuo et.al.|[2504.16080](http://arxiv.org/abs/2504.16080)|null|
+|**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077](http://arxiv.org/abs/2504.16077)|null|
+|**2025-04-22**|**Boosting Generative Image Modeling via Joint Image-Feature Synthesis**|Theodoros Kouzelis et.al.|[2504.16064](http://arxiv.org/abs/2504.16064)|null|
+|**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016](http://arxiv.org/abs/2504.16016)|null|
+|**2025-04-22**|**Adversarial Observations in Weather Forecasting**|Erik Imgrund et.al.|[2504.15942](http://arxiv.org/abs/2504.15942)|null|
+|**2025-04-22**|**Text-based Animatable 3D Avatars with Morphable Model Alignment**|Yiqian Wu et.al.|[2504.15835](http://arxiv.org/abs/2504.15835)|null|
+|**2025-04-22**|**Satellite to GroundScape -- Large-scale Consistent Ground View Generation from Satellite Views**|Ningli Xu et.al.|[2504.15786](http://arxiv.org/abs/2504.15786)|null|
 |**2025-04-21**|**Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction**|Vaishnavh Nagarajan et.al.|[2504.15266](http://arxiv.org/abs/2504.15266)|**[link](https://github.com/chenwu98/algorithmic-creativity)**|
 |**2025-04-21**|**Bringing Diversity from Diffusion Models to Semantic-Guided Face Asset Generation**|Yunxuan Cai et.al.|[2504.15259](http://arxiv.org/abs/2504.15259)|null|
 |**2025-04-21**|**DRAGON: Distributional Rewards Optimize Diffusion Generative Models**|Yatong Bai et.al.|[2504.15217](http://arxiv.org/abs/2504.15217)|null|
@@ -7404,6 +7434,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**SemanticSugarBeets: A Multi-Task Framework and Dataset for Inspecting Harvest and Storage Characteristics of Sugar Beets**|Gerardus Croonen et.al.|[2504.16684](http://arxiv.org/abs/2504.16684)|null|
+|**2025-04-23**|**Federated EndoViT: Pretraining Vision Transformers via Federated Learning on Endoscopic Image Collections**|Max Kirchner et.al.|[2504.16612](http://arxiv.org/abs/2504.16612)|null|
+|**2025-04-23**|**SAIP-Net: Enhancing Remote Sensing Image Segmentation via Spectral Adaptive Information Propagation**|Zhongtao Wang et.al.|[2504.16564](http://arxiv.org/abs/2504.16564)|null|
+|**2025-04-22**|**Efficient Adaptation of Deep Neural Networks for Semantic Segmentation in Space Applications**|Leonardo Olivi et.al.|[2504.15991](http://arxiv.org/abs/2504.15991)|null|
+|**2025-04-22**|**DINOv2-powered Few-Shot Semantic Segmentation: A Unified Framework via Cross-Model Distillation and 4D Correlation Mining**|Wei Zhuo et.al.|[2504.15669](http://arxiv.org/abs/2504.15669)|null|
 |**2025-04-21**|**Segmentation with Noisy Labels via Spatially Correlated Distributions**|Ryu Tadokoro et.al.|[2504.14795](http://arxiv.org/abs/2504.14795)|**[link](https://github.com/pfnet-research/bayesian_spatialcorr)**|
 |**2025-04-19**|**Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation**|Johannes Spoecklberger et.al.|[2504.14231](http://arxiv.org/abs/2504.14231)|null|
 |**2025-04-19**|**Segment Any Crack: Deep Semantic Segmentation Adaptation for Crack Detection**|Ghodsiyeh Rostami et.al.|[2504.14138](http://arxiv.org/abs/2504.14138)|null|
@@ -9634,6 +9669,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**RouteWinFormer: A Route-Window Transformer for Middle-range Attention in Image Restoration**|Qifan Li et.al.|[2504.16637](http://arxiv.org/abs/2504.16637)|null|
+|**2025-04-23**|**Cross Paradigm Representation and Alignment Transformer for Image Deraining**|Shun Zou et.al.|[2504.16455](http://arxiv.org/abs/2504.16455)|null|
 |**2025-04-21**|**Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration**|Junyuan Deng et.al.|[2504.15159](http://arxiv.org/abs/2504.15159)|null|
 |**2025-04-21**|**Distribution-aware Dataset Distillation for Efficient Image Restoration**|Zhuoran Zheng et.al.|[2504.14826](http://arxiv.org/abs/2504.14826)|null|
 |**2025-04-19**|**Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation**|Bin Ren et.al.|[2504.14249](http://arxiv.org/abs/2504.14249)|null|
@@ -10224,9 +10261,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Prompt-Tuning SAM: From Generalist to Specialist with only 2048 Parameters and 16 Training Images**|Tristan Piater et.al.|[2504.16739](http://arxiv.org/abs/2504.16739)|null|
+|**2025-04-23**|**RGB-D Video Object Segmentation via Enhanced Multi-store Feature Memory**|Boyue Xu et.al.|[2504.16471](http://arxiv.org/abs/2504.16471)|null|
 |**2025-04-19**|**Segment Any Crack: Deep Semantic Segmentation Adaptation for Crack Detection**|Ghodsiyeh Rostami et.al.|[2504.14138](http://arxiv.org/abs/2504.14138)|null|
 |**2025-04-18**|**HSACNet: Hierarchical Scale-Aware Consistency Regularized Semi-Supervised Change Detection**|Qi'ao Xu et.al.|[2504.13428](http://arxiv.org/abs/2504.13428)|null|
-|**2025-04-17**|**Putting the Segment Anything Model to the Test with 3D Knee MRI -- A Comparison with State-of-the-Art Performance**|Oliver Mills et.al.|[2504.13340](http://arxiv.org/abs/2504.13340)|null|
+|**2025-04-24**|**Putting the Segment Anything Model to the Test with 3D Knee MRI - A Comparison with State-of-the-Art Performance**|Oliver Mills et.al.|[2504.13340](http://arxiv.org/abs/2504.13340)|null|
 |**2025-04-17**|**SAM-Based Building Change Detection with Distribution-Aware Fourier Adaptation and Edge-Constrained Warping**|Yun-Cheng Li et.al.|[2504.12619](http://arxiv.org/abs/2504.12619)|null|
 |**2025-04-17**|**Contour Field based Elliptical Shape Prior for the Segment Anything Model**|Xinyu Zhao et.al.|[2504.12556](http://arxiv.org/abs/2504.12556)|null|
 |**2025-04-17**|**DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**|Mengshi Qi et.al.|[2504.12080](http://arxiv.org/abs/2504.12080)|**[link](https://github.com/zaplm/dc-sam)**|
