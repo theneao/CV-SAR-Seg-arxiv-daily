@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2025.06.04
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Heliostat Optical Error Inspection with Polarimetric Imaging Drone**|Mo Tian et.al.|[2506.02333](http://arxiv.org/abs/2506.02333)|null|
+|**2025-06-01**|**Hybridizing Expressive Rendering: Stroke-Based Rendering with Classic and Neural Methods**|Kapil Dev et.al.|[2506.00870](http://arxiv.org/abs/2506.00870)|null|
 |**2025-05-28**|**Depth to magnetic source estimation using TDX contour**|Hammed Oyekan et.al.|[2505.22780](http://arxiv.org/abs/2505.22780)|null|
 |**2025-05-24**|**Tropical Geometry Based Edge Detection Using Min-Plus and Max-Plus Algebra**|Shivam Kumar Jha S et.al.|[2505.18625](http://arxiv.org/abs/2505.18625)|null|
 |**2025-05-07**|**Hyb-KAN ViT: Hybrid Kolmogorov-Arnold Networks Augmented Vision Transformer**|Sainath Dey et.al.|[2505.04740](http://arxiv.org/abs/2505.04740)|null|
@@ -230,6 +232,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Joint Beamforming and Resource Allocation for Delay Optimization in RIS-Assisted OFDM Systems: A DRL Approach**|Yu Ma et.al.|[2506.03586](http://arxiv.org/abs/2506.03586)|null|
+|**2025-06-03**|**Culture Matters in Toxic Language Detection in Persian**|Zahra Bokaei et.al.|[2506.03458](http://arxiv.org/abs/2506.03458)|null|
+|**2025-06-03**|**StARS DCM: A Sleep Stage-Decoding Forehead EEG Patch for Real-time Modulation of Sleep Physiology**|William G. Coon et.al.|[2506.03442](http://arxiv.org/abs/2506.03442)|null|
+|**2025-06-03**|**Semiconductor SEM Image Defect Classification Using Supervised and Semi-Supervised Learning with Vision Transformers**|Chien-Fu et.al.|[2506.03345](http://arxiv.org/abs/2506.03345)|null|
+|**2025-06-03**|**Extremely large oblate deformation of the first excited state in $^{12}$ C: a new challenge to modern nuclear theory**|C. Ngwetsheni et.al.|[2506.03236](http://arxiv.org/abs/2506.03236)|null|
+|**2025-05-31**|**Human Fall Detection using Transfer Learning-based 3D CNN**|Ekram Alam et.al.|[2506.03193](http://arxiv.org/abs/2506.03193)|null|
+|**2025-06-04**|**MMM4Rec: A Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
+|**2025-06-03**|**MVTD: A Benchmark Dataset for Maritime Visual Object Tracking**|Ahsan Baidar Bakht et.al.|[2506.02866](http://arxiv.org/abs/2506.02866)|null|
+|**2025-06-03**|**Self-attention U-Net decoder for toric codes**|Wei-Wei Zhang et.al.|[2506.02734](http://arxiv.org/abs/2506.02734)|**[link](https://github.com/xiazhuo/SUNetQD)**|
+|**2025-06-03**|**MLaGA: Multimodal Large Language and Graph Assistant**|Dongzhe Fan et.al.|[2506.02568](http://arxiv.org/abs/2506.02568)|null|
+|**2025-06-02**|**Benchmarking Large Language Models for Polymer Property Predictions**|Sonakshi Gupta et.al.|[2506.02129](http://arxiv.org/abs/2506.02129)|null|
+|**2025-06-02**|**Principled data augmentation for learning to solve quadratic programming problems**|Chendi Qian et.al.|[2506.01728](http://arxiv.org/abs/2506.01728)|null|
+|**2025-06-02**|**Computing Diverse and Nice Triangulations**|Waldo Gálvez et.al.|[2506.01323](http://arxiv.org/abs/2506.01323)|null|
+|**2025-06-01**|**Advancing from Automated to Autonomous Beamline by Leveraging Computer Vision**|Baolu Li et.al.|[2506.00836](http://arxiv.org/abs/2506.00836)|null|
+|**2025-05-31**|**Getting More from Less: Transfer Learning Improves Sleep Stage Decoding Accuracy in Peripheral Wearable Devices**|William G Coon et.al.|[2506.00730](http://arxiv.org/abs/2506.00730)|null|
+|**2025-05-31**|**Temporal Chunking Enhances Recognition of Implicit Sequential Patterns**|Jayanta Dey et.al.|[2506.00588](http://arxiv.org/abs/2506.00588)|null|
+|**2025-05-31**|**COGNATE: Acceleration of Sparse Tensor Programs on Emerging Hardware using Transfer Learning**|Chamika Sudusinghe et.al.|[2506.00424](http://arxiv.org/abs/2506.00424)|null|
+|**2025-05-31**|**Neuro2Semantic: A Transfer Learning Framework for Semantic Reconstruction of Continuous Language from Human Intracranial EEG**|Siavash Shams et.al.|[2506.00381](http://arxiv.org/abs/2506.00381)|null|
 |**2025-05-30**|**Conformal Prediction for Zero-Shot Models**|Julio Silva-Rodríguez et.al.|[2505.24693](http://arxiv.org/abs/2505.24693)|null|
 |**2025-05-30**|**Density Ratio Permutation Tests with connections to distributional shifts and conditional two-sample testing**|Alberto Bordino et.al.|[2505.24529](http://arxiv.org/abs/2505.24529)|null|
 |**2025-05-30**|**Attractor learning for spatiotemporally chaotic dynamical systems using echo state networks with transfer learning**|Mohammad Shah Alam et.al.|[2505.24099](http://arxiv.org/abs/2505.24099)|null|
@@ -2710,6 +2730,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Sounding that Object: Interactive Object-Aware Image to Audio Generation**|Tingle Li et.al.|[2506.04214](http://arxiv.org/abs/2506.04214)|null|
+|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**|
+|**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
+|**2025-06-04**|**Global convergence rates in the relaxation limits for the compressible Euler and Euler-Maxwell systems in Sobolev spaces**|Timothée Crin-Barat et.al.|[2506.04103](http://arxiv.org/abs/2506.04103)|null|
+|**2025-06-04**|**A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning**|Zhiyu Zhang et.al.|[2506.04083](http://arxiv.org/abs/2506.04083)|null|
+|**2025-06-04**|**Beyond water limitation in vegetation-autotoxicity patterning: a cross-diffusion model**|Francesco Giannino et.al.|[2506.03981](http://arxiv.org/abs/2506.03981)|null|
+|**2025-06-05**|**Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach**|Haoxuan Chen et.al.|[2506.03979](http://arxiv.org/abs/2506.03979)|null|
+|**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Jia Fu et.al.|[2506.03933](http://arxiv.org/abs/2506.03933)|null|
+|**2025-06-04**|**Personalized MR-Informed Diffusion Models for 3D PET Image Reconstruction**|George Webber et.al.|[2506.03804](http://arxiv.org/abs/2506.03804)|null|
+|**2025-06-04**|**EmoArt: A Multidimensional Dataset for Emotion-Aware Artistic Generation**|Cheng Zhang et.al.|[2506.03652](http://arxiv.org/abs/2506.03652)|null|
+|**2025-06-04**|**DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models**|Ziyi Wu et.al.|[2506.03517](http://arxiv.org/abs/2506.03517)|null|
+|**2025-06-04**|**CHIME: Conditional Hallucination and Integrated Multi-scale Enhancement for Time Series Diffusion Model**|Yuxuan Chen et.al.|[2506.03502](http://arxiv.org/abs/2506.03502)|null|
+|**2025-06-04**|**Facial Appearance Capture at Home with Patch-Level Reflectance Prior**|Yuxuan Han et.al.|[2506.03478](http://arxiv.org/abs/2506.03478)|null|
+|**2025-06-03**|**A Data-Driven Diffusion-based Approach for Audio Deepfake Explanations**|Petr Grinberg et.al.|[2506.03425](http://arxiv.org/abs/2506.03425)|null|
+|**2025-06-03**|**Robustness in Both Domains: CLIP Needs a Robust Text Encoder**|Elias Abad Rocamora et.al.|[2506.03355](http://arxiv.org/abs/2506.03355)|null|
+|**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
+|**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
+|**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111](http://arxiv.org/abs/2506.03111)|null|
+|**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
+|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
 |**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857](http://arxiv.org/abs/2505.24857)|null|
@@ -7871,12 +7911,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709](http://arxiv.org/abs/2506.03709)|null|
+|**2025-06-04**|**OV-COAST: Cost Aggregation with Optimal Transport for Open-Vocabulary Semantic Segmentation**|Aditya Gandhamal et.al.|[2506.03706](http://arxiv.org/abs/2506.03706)|null|
+|**2025-06-04**|**BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in Multi-Modal Semantic Segmentation**|Jialei Chen et.al.|[2506.03675](http://arxiv.org/abs/2506.03675)|null|
+|**2025-06-03**|**Cross-Modal Urban Sensing: Evaluating Sound-Vision Alignment Across Street-Level and Aerial Imagery**|Pengyu Chen et.al.|[2506.03388](http://arxiv.org/abs/2506.03388)|null|
+|**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
+|**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
+|**2025-06-03**|**Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.02396](http://arxiv.org/abs/2506.02396)|null|
+|**2025-06-04**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
+|**2025-06-02**|**SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation**|Rafael Flor-Rodríguez et.al.|[2506.01418](http://arxiv.org/abs/2506.01418)|null|
+|**2025-06-01**|**Perceptual Inductive Bias Is What You Need Before Contrastive Learning**|Tianqin Li et.al.|[2506.01201](http://arxiv.org/abs/2506.01201)|null|
+|**2025-06-01**|**GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning**|Sahiti Yerramilli et.al.|[2506.00785](http://arxiv.org/abs/2506.00785)|null|
+|**2025-05-31**|**BAGNet: A Boundary-Aware Graph Attention Network for 3D Point Cloud Semantic Segmentation**|Wei Tao et.al.|[2506.00475](http://arxiv.org/abs/2506.00475)|null|
 |**2025-05-30**|**Bi-Manual Joint Camera Calibration and Scene Representation**|Haozhan Tang et.al.|[2505.24819](http://arxiv.org/abs/2505.24819)|null|
 |**2025-06-02**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634](http://arxiv.org/abs/2505.24634)|null|
 |**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[2505.24361](http://arxiv.org/abs/2505.24361)|null|
 |**2025-05-30**|**Weakly-Supervised Affordance Grounding Guided by Part-Level Semantic Priors**|Peiran Xu et.al.|[2505.24103](http://arxiv.org/abs/2505.24103)|null|
 |**2025-05-29**|**MaskAdapt: Unsupervised Geometry-Aware Domain Adaptation Using Multimodal Contextual Learning and RGB-Depth Masking**|Numair Nadeem et.al.|[2505.24026](http://arxiv.org/abs/2505.24026)|null|
-|**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|null|
+|**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|**[link](https://github.com/CrashedBboy/SGGIC)**|
 |**2025-05-29**|**Point-MoE: Towards Cross-Domain Generalization in 3D Semantic Segmentation via Mixture-of-Experts**|Xuweiyi Chen et.al.|[2505.23926](http://arxiv.org/abs/2505.23926)|null|
 |**2025-05-29**|**TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models**|Yao Xiao et.al.|[2505.23769](http://arxiv.org/abs/2505.23769)|**[link](https://github.com/avaxiao/TextRegion)**|
 |**2025-05-29**|**Bridging Classical and Modern Computer Vision: PerceptiveNet for Tree Crown Semantic Segmentation**|Georgios Voulgaris et.al.|[2505.23597](http://arxiv.org/abs/2505.23597)|null|
@@ -10225,6 +10277,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**|Xiaohong Liu et.al.|[2506.02875](http://arxiv.org/abs/2506.02875)|null|
+|**2025-06-03**|**ControlMambaIR: Conditional Controls with State-Space Model for Image Restoration**|Cheng Yang et.al.|[2506.02633](http://arxiv.org/abs/2506.02633)|null|
+|**2025-06-04**|**NTIRE 2025 Challenge on RAW Image Restoration and Super-Resolution**|Marcos V. Conde et.al.|[2506.02197](http://arxiv.org/abs/2506.02197)|null|
+|**2025-06-02**|**RAW Image Reconstruction from RGB on Smartphones. NTIRE 2025 Challenge Report**|Marcos V. Conde et.al.|[2506.01947](http://arxiv.org/abs/2506.01947)|null|
+|**2025-06-02**|**NTIRE 2025 the 2nd Restore Any Image Model (RAIM) in the Wild Challenge**|Jie Liang et.al.|[2506.01394](http://arxiv.org/abs/2506.01394)|null|
+|**2025-05-31**|**Image Restoration Learning via Noisy Supervision in the Fourier Domain**|Haosen Liu et.al.|[2506.00564](http://arxiv.org/abs/2506.00564)|null|
 |**2025-05-30**|**IRBridge: Solving Image Restoration Bridge with Pre-trained Generative Diffusion Models**|Hanting Wang et.al.|[2505.24406](http://arxiv.org/abs/2505.24406)|null|
 |**2025-05-30**|**Boosting All-in-One Image Restoration via Self-Improved Privilege Learning**|Gang Wu et.al.|[2505.24207](http://arxiv.org/abs/2505.24207)|null|
 |**2025-05-29**|**Proximal Algorithm Unrolling: Flexible and Efficient Reconstruction Networks for Single-Pixel Imaging**|Ping Wang et.al.|[2505.23180](http://arxiv.org/abs/2505.23180)|**[link](https://github.com/pwangcs/proxunroll)**|
@@ -10866,6 +10924,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Extremely large oblate deformation of the first excited state in $^{12}$ C: a new challenge to modern nuclear theory**|C. Ngwetsheni et.al.|[2506.03236](http://arxiv.org/abs/2506.03236)|null|
+|**2025-06-03**|**Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery**|Michelle Chen et.al.|[2506.03114](http://arxiv.org/abs/2506.03114)|null|
+|**2025-06-05**|**GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation**|Sohyun Lee et.al.|[2506.02882](http://arxiv.org/abs/2506.02882)|null|
+|**2025-06-03**|**Hierarchical Self-Prompting SAM: A Prompt-Free Medical Image Segmentation Framework**|Mengmeng Zhang et.al.|[2506.02854](http://arxiv.org/abs/2506.02854)|null|
+|**2025-06-03**|**SAMJ: Fast Image Annotation on ImageJ/Fiji via Segment Anything Model**|Carlos Garcia-Lopez-de-Haro et.al.|[2506.02783](http://arxiv.org/abs/2506.02783)|null|
+|**2025-06-02**|**SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes**|Yuji Wang et.al.|[2506.01558](http://arxiv.org/abs/2506.01558)|null|
+|**2025-06-02**|**Computing Diverse and Nice Triangulations**|Waldo Gálvez et.al.|[2506.01323](http://arxiv.org/abs/2506.01323)|null|
+|**2025-06-02**|**SAM-I2V: Upgrading SAM to Support Promptable Video Segmentation with Less than 0.2% Training Cost**|Haiyang Mei et.al.|[2506.01304](http://arxiv.org/abs/2506.01304)|null|
+|**2025-06-01**|**AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting**|Yuyuan Liu et.al.|[2506.01015](http://arxiv.org/abs/2506.01015)|null|
 |**2025-05-30**|**KairosAD: A SAM-Based Model for Industrial Anomaly Detection on Embedded Devices**|Uzair Khan et.al.|[2505.24334](http://arxiv.org/abs/2505.24334)|null|
 |**2025-05-28**|**SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning**|Jiaqi Huang et.al.|[2505.22596](http://arxiv.org/abs/2505.22596)|null|
 |**2025-05-28**|**Adapting Segment Anything Model for Power Transmission Corridor Hazard Segmentation**|Hang Chen et.al.|[2505.22105](http://arxiv.org/abs/2505.22105)|null|
