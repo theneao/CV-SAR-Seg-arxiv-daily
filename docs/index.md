@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2025.06.16
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-14**|**Binarization-Aware Adjuster: Bridging Continuous Optimization and Binary Inference in Edge Detection**|Hao Shu et.al.|[2506.12460](http://arxiv.org/abs/2506.12460)|null|
+|**2025-06-13**|**Exploring the Effectiveness of Deep Features from Domain-Specific Foundation Models in Retinal Image Synthesis**|Zuzanna Skorniewska et.al.|[2506.11753](http://arxiv.org/abs/2506.11753)|null|
 |**2025-06-11**|**A new approach for image segmentation based on diffeomorphic registration and gradient fields**|Junchao Zhou et.al.|[2506.09357](http://arxiv.org/abs/2506.09357)|null|
 |**2025-06-10**|**Machine Learning for the Cluster Reconstruction in the CALIFA Calorimeter at R3B**|Tobias Jenegger et.al.|[2506.09088](http://arxiv.org/abs/2506.09088)|null|
 |**2025-06-06**|**Elementary Cellular Automata as Non-Cryptographic Hash Functions**|Daniel McKinley et.al.|[2506.06551](http://arxiv.org/abs/2506.06551)|null|
@@ -236,6 +238,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Understand the Implication: Learning to Think for Pragmatic Understanding**|Settaluri Lakshmi Sravanthi et.al.|[2506.13559](http://arxiv.org/abs/2506.13559)|null|
+|**2025-06-16**|**Advancing Image-Based Grapevine Variety Classification with a New Benchmark and Evaluation of Masked Autoencoders**|Gabriel A. Carneiro et.al.|[2506.13335](http://arxiv.org/abs/2506.13335)|null|
+|**2025-06-16**|**Evolution of ReID: From Early Methods to LLM Integration**|Amran Bhuiyan et.al.|[2506.13039](http://arxiv.org/abs/2506.13039)|null|
+|**2025-06-16**|**Geometric Embedding Alignment via Curvature Matching in Transfer Learning**|Sung Moon Ko et.al.|[2506.13015](http://arxiv.org/abs/2506.13015)|null|
+|**2025-06-14**|**Konooz: Multi-domain Multi-dialect Corpus for Named Entity Recognition**|Nagham Hamad et.al.|[2506.12615](http://arxiv.org/abs/2506.12615)|null|
+|**2025-06-14**|**A Transfer Learning Framework for Multilayer Networks via Model Averaging**|Yongqin Qiu et.al.|[2506.12455](http://arxiv.org/abs/2506.12455)|null|
+|**2025-06-14**|**Hierarchical Deep Feature Fusion and Ensemble Learning for Enhanced Brain Tumor MRI Classification**|Zahid Ullah et.al.|[2506.12363](http://arxiv.org/abs/2506.12363)|null|
+|**2025-06-13**|**Interpretable Classification of Levantine Ceramic Thin Sections via Neural Networks**|Sara Capriotti et.al.|[2506.12250](http://arxiv.org/abs/2506.12250)|null|
+|**2025-06-13**|**Coefficient Shape Transfer Learning for Functional Linear Regression**|Shuhao Jiao et.al.|[2506.11367](http://arxiv.org/abs/2506.11367)|null|
+|**2025-06-12**|**Many-Body Neural Network Wavefunction for a Non-Hermitian Ising Chain**|Lavoisier Wah et.al.|[2506.11222](http://arxiv.org/abs/2506.11222)|null|
+|**2025-06-12**|**PromptTSS: A Prompting-Based Approach for Interactive Multi-Granularity Time Series Segmentation**|Ching Chang et.al.|[2506.11170](http://arxiv.org/abs/2506.11170)|null|
 |**2025-06-12**|**Instance-Based Transfer Learning with Similarity-Aware Subject Selection for Cross-Subject SSVEP-Based BCIs**|Ziwen Wang et.al.|[2506.10933](http://arxiv.org/abs/2506.10933)|null|
 |**2025-06-12**|**Efficient nanophotonic devices optimization using deep neural network trained with physics-based transfer learning (PBTL) methodology**|Gibaek Kim et.al.|[2506.10418](http://arxiv.org/abs/2506.10418)|null|
 |**2025-06-12**|**Uncertainty-Aware Deep Learning for Automated Skin Cancer Classification: A Comprehensive Evaluation**|Hamzeh Asgharnezhad et.al.|[2506.10302](http://arxiv.org/abs/2506.10302)|null|
@@ -2762,6 +2775,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763](http://arxiv.org/abs/2506.13763)|null|
+|**2025-06-17**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754](http://arxiv.org/abs/2506.13754)|null|
+|**2025-06-16**|**MultiViT2: A Data-augmented Multimodal Neuroimaging Prediction Framework via Latent Diffusion Model**|Bi Yuda et.al.|[2506.13667](http://arxiv.org/abs/2506.13667)|null|
+|**2025-06-16**|**Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**|Gregory Bellchambers et.al.|[2506.13614](http://arxiv.org/abs/2506.13614)|null|
+|**2025-06-16**|**Dive3D: Diverse Distillation-based Text-to-3D Generation via Score Implicit Matching**|Weimin Bai et.al.|[2506.13594](http://arxiv.org/abs/2506.13594)|null|
+|**2025-06-16**|**Flexible-length Text Infilling for Discrete Diffusion Models**|Andrew Zhang et.al.|[2506.13579](http://arxiv.org/abs/2506.13579)|null|
+|**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[2506.13558](http://arxiv.org/abs/2506.13558)|null|
+|**2025-06-16**|**Seismic Acoustic Impedance Inversion Framework Based on Conditional Latent Generative Diffusion Model**|Jie Chen et.al.|[2506.13529](http://arxiv.org/abs/2506.13529)|null|
+|**2025-06-16**|**Deep Diffusion Models and Unsupervised Hyperspectral Unmixing for Realistic Abundance Map Synthesis**|Martina Pastorino et.al.|[2506.13484](http://arxiv.org/abs/2506.13484)|null|
+|**2025-06-16**|**PRO: Projection Domain Synthesis for CT Imaging**|Kang Chen et.al.|[2506.13443](http://arxiv.org/abs/2506.13443)|null|
+|**2025-06-16**|**Zero-Shot Solving of Imaging Inverse Problems via Noise-Refined Likelihood Guided Diffusion Models**|Zhen Wang et.al.|[2506.13391](http://arxiv.org/abs/2506.13391)|null|
+|**2025-06-16**|**LapDDPM: A Conditional Graph Diffusion Model for scRNA-seq Generation with Spectral Adversarial Perturbations**|Lorenzo Bini et.al.|[2506.13344](http://arxiv.org/abs/2506.13344)|null|
+|**2025-06-16**|**Quantitative Comparison of Fine-Tuning Techniques for Pretrained Latent Diffusion Models in the Generation of Unseen SAR Image Concepts**|Solène Debuysère et.al.|[2506.13307](http://arxiv.org/abs/2506.13307)|null|
+|**2025-06-16**|**AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing**|Biao Yang et.al.|[2506.13301](http://arxiv.org/abs/2506.13301)|null|
+|**2025-06-16**|**Overcoming Overfitting in Reinforcement Learning via Gaussian Process Diffusion Policy**|Amornyos Horprasert et.al.|[2506.13111](http://arxiv.org/abs/2506.13111)|null|
+|**2025-06-16**|**DualFast: Dual-Speedup Framework for Fast Sampling of Diffusion Models**|Hu Yu et.al.|[2506.13058](http://arxiv.org/abs/2506.13058)|null|
+|**2025-06-16**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|null|
+|**2025-06-15**|**Generative modeling of seismic data using diffusion models and its application to multi-purpose posterior sampling for noisy inverse problems**|Chuangji Meng et.al.|[2506.12897](http://arxiv.org/abs/2506.12897)|null|
+|**2025-06-15**|**EraserDiT: Fast Video Inpainting with Diffusion Transformer Model**|Jie Liu et.al.|[2506.12853](http://arxiv.org/abs/2506.12853)|null|
+|**2025-06-15**|**DiffS-NOCS: 3D Point Cloud Reconstruction through Coloring Sketches to NOCS Maps Using Diffusion Models**|Di Kong et.al.|[2506.12835](http://arxiv.org/abs/2506.12835)|null|
 |**2025-06-12**|**SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis**|Weiliang Chen et.al.|[2506.10981](http://arxiv.org/abs/2506.10981)|null|
 |**2025-06-12**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978](http://arxiv.org/abs/2506.10978)|null|
 |**2025-06-12**|**What Exactly Does Guidance Do in Masked Discrete Diffusion Models**|He Ye et.al.|[2506.10971](http://arxiv.org/abs/2506.10971)|null|
@@ -8001,7 +8034,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-12**|**Description and Discussion on DCASE 2025 Challenge Task 4: Spatial Semantic Segmentation of Sound Scenes**|Masahiro Yasuda et.al.|[2506.10676](http://arxiv.org/abs/2506.10676)|null|
+|**2025-06-16**|**A Comprehensive Survey on Video Scene Parsing:Advances, Challenges, and Prospects**|Guohuan Xie et.al.|[2506.13552](http://arxiv.org/abs/2506.13552)|null|
+|**2025-06-16**|**Open-Set LiDAR Panoptic Segmentation Guided by Uncertainty-Aware Learning**|Rohit Mohan et.al.|[2506.13265](http://arxiv.org/abs/2506.13265)|null|
+|**2025-06-16**|**ViewPCL: a point cloud based active learning method for multi-view segmentation**|Christian Hilaire et.al.|[2506.13043](http://arxiv.org/abs/2506.13043)|null|
+|**2025-06-15**|**A large-scale, physically-based synthetic dataset for satellite pose estimation**|Szabolcs Velkei et.al.|[2506.12782](http://arxiv.org/abs/2506.12782)|null|
+|**2025-06-15**|**Unleashing Diffusion and State Space Models for Medical Image Segmentation**|Rong Wu et.al.|[2506.12747](http://arxiv.org/abs/2506.12747)|null|
+|**2025-06-15**|**Combining Self-attention and Dilation Convolutional for Semantic Segmentation of Coal Maceral Groups**|Zhenghao Xi et.al.|[2506.12712](http://arxiv.org/abs/2506.12712)|null|
+|**2025-06-13**|**A $^2$ LC: Active and Automated Label Correction for Semantic Segmentation**|Youjin Jeon et.al.|[2506.11599](http://arxiv.org/abs/2506.11599)|null|
+|**2025-06-12**|**GynSurg: A Comprehensive Gynecology Laparoscopic Surgery Dataset**|Sahar Nasirihaghighi et.al.|[2506.11356](http://arxiv.org/abs/2506.11356)|null|
+|**2025-06-11**|**FARCLUSS: Fuzzy Adaptive Rebalancing and Contrastive Uncertainty Learning for Semi-Supervised Semantic Segmentation**|Ebenezer Tarubinga et.al.|[2506.11142](http://arxiv.org/abs/2506.11142)|**[link](https://github.com/psychofict/FARCLUSS)**|
+|**2025-06-12**|**Description and Discussion on DCASE 2025 Challenge Task 4: Spatial Semantic Segmentation of Sound Scenes**|Masahiro Yasuda et.al.|[2506.10676](http://arxiv.org/abs/2506.10676)|**[link](https://github.com/nttcslab/dcase2025_task4_baseline)**|
 |**2025-06-12**|**Symmetrical Flow Matching: Unified Image Generation, Segmentation, and Classification with Score-Based Generative Models**|Francisco Caetano et.al.|[2506.10634](http://arxiv.org/abs/2506.10634)|null|
 |**2025-06-12**|**Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration**|Jun Wang et.al.|[2506.10573](http://arxiv.org/abs/2506.10573)|null|
 |**2025-06-12**|**Semantic Localization Guiding Segment Anything Model For Reference Remote Sensing Image Segmentation**|Shuyang Li et.al.|[2506.10503](http://arxiv.org/abs/2506.10503)|null|
@@ -10400,6 +10442,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**|Gregory Bellchambers et.al.|[2506.13614](http://arxiv.org/abs/2506.13614)|null|
+|**2025-06-15**|**Adaptive Dropout: Unleashing Dropout across Layers for Generalizable Image Super-Resolution**|Hang Xu et.al.|[2506.12738](http://arxiv.org/abs/2506.12738)|null|
+|**2025-06-14**|**UniDet-D: A Unified Dynamic Spectral Attention Model for Object Detection under Adverse Weathers**|Yuantao Wang et.al.|[2506.12324](http://arxiv.org/abs/2506.12324)|null|
+|**2025-06-10**|**Adaptive Object Detection with ESRGAN-Enhanced Resolution & Faster R-CNN**|Divya Swetha K et.al.|[2506.11122](http://arxiv.org/abs/2506.11122)|null|
 |**2025-06-11**|**Text-Aware Image Restoration with Diffusion Models**|Jaewon Min et.al.|[2506.09993](http://arxiv.org/abs/2506.09993)|null|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
 |**2025-06-08**|**Multi-Step Guided Diffusion for Image Restoration on Edge Devices: Toward Lightweight Perception in Embodied AI**|Aditya Chakravarty et.al.|[2506.07286](http://arxiv.org/abs/2506.07286)|null|
@@ -11054,6 +11100,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**MorphSAM: Learning the Morphological Prompts from Atlases for Spine Image Segmentation**|Dingwei Fan et.al.|[2506.13094](http://arxiv.org/abs/2506.13094)|null|
+|**2025-06-13**|**Prohibited Items Segmentation via Occlusion-aware Bilayer Modeling**|Yunhan Ren et.al.|[2506.11661](http://arxiv.org/abs/2506.11661)|null|
 |**2025-06-12**|**Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches**|Andrea Moglia et.al.|[2506.10825](http://arxiv.org/abs/2506.10825)|null|
 |**2025-06-12**|**Semantic Localization Guiding Segment Anything Model For Reference Remote Sensing Image Segmentation**|Shuyang Li et.al.|[2506.10503](http://arxiv.org/abs/2506.10503)|null|
 |**2025-06-11**|**Q-SAM2: Accurate Quantization for Segment Anything Model 2**|Nicola Farronato et.al.|[2506.09782](http://arxiv.org/abs/2506.09782)|null|
