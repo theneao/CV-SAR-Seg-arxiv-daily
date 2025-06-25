@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2025.06.23
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Programmable electro-optic frequency comb empowers integrated parallel convolution processing**|Jinze He et.al.|[2506.18310](http://arxiv.org/abs/2506.18310)|null|
+|**2025-06-22**|**Mobile Image Analysis Application for Mantoux Skin Test**|Liong Gele et.al.|[2506.17954](http://arxiv.org/abs/2506.17954)|null|
+|**2025-06-04**|**Mechanistic Interpretability of Diffusion Models: Circuit-Level Analysis and Causal Validation**|Dip Roy et.al.|[2506.17237](http://arxiv.org/abs/2506.17237)|null|
+|**2025-06-20**|**Self-supervised Feature Extraction for Enhanced Ball Detection on Soccer Robots**|Can Lin et.al.|[2506.16821](http://arxiv.org/abs/2506.16821)|null|
 |**2025-06-14**|**Binarization-Aware Adjuster: Bridging Continuous Optimization and Binary Inference in Edge Detection**|Hao Shu et.al.|[2506.12460](http://arxiv.org/abs/2506.12460)|null|
 |**2025-06-13**|**Exploring the Effectiveness of Deep Features from Domain-Specific Foundation Models in Retinal Image Synthesis**|Zuzanna Skorniewska et.al.|[2506.11753](http://arxiv.org/abs/2506.11753)|null|
 |**2025-06-11**|**A new approach for image segmentation based on diffeomorphic registration and gradient fields**|Junchao Zhou et.al.|[2506.09357](http://arxiv.org/abs/2506.09357)|null|
@@ -238,6 +242,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Focus Your Attention: Towards Data-Intuitive Lightweight Vision Transformers**|Suyash Gaurav et.al.|[2506.18791](http://arxiv.org/abs/2506.18791)|null|
+|**2025-06-23**|**Leveraging Transfer Learning to Overcome Data Limitations in Czochralski Crystal Growth**|Milena Petkovic et.al.|[2506.18774](http://arxiv.org/abs/2506.18774)|null|
+|**2025-06-23**|**Benchmarking histopathology foundation models in a multi-center dataset for skin cancer subtyping**|Pablo Meseguer et.al.|[2506.18668](http://arxiv.org/abs/2506.18668)|null|
+|**2025-06-23**|**When Fine-Tuning Fails: Lessons from MS MARCO Passage Ranking**|Manu Pande et.al.|[2506.18535](http://arxiv.org/abs/2506.18535)|null|
+|**2025-06-23**|**Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey**|Xinyao Li et.al.|[2506.18504](http://arxiv.org/abs/2506.18504)|null|
+|**2025-06-23**|**Leveraging neural network interatomic potentials for a foundation model of chemistry**|So Yeon Kim et.al.|[2506.18497](http://arxiv.org/abs/2506.18497)|null|
+|**2025-06-23**|**These are Not All the Features You are Looking For: A Fundamental Bottleneck In Supervised Pretraining**|Xingyu Alice Yang et.al.|[2506.18221](http://arxiv.org/abs/2506.18221)|null|
+|**2025-06-22**|**Deep Supervised LSTM for 3D morphology estimation from Multi-View RGB Images of Wheat Spikes**|Olivia Zumsteg et.al.|[2506.18060](http://arxiv.org/abs/2506.18060)|null|
+|**2025-06-22**|**Classification of Tents in Street Bazaars Using CNN**|Azamat Ibragimov et.al.|[2506.17946](http://arxiv.org/abs/2506.17946)|null|
+|**2025-06-21**|**Rethinking the Role of Operating Conditions for Learning-based Multi-condition Fault Diagnosis**|Pengyu Han et.al.|[2506.17740](http://arxiv.org/abs/2506.17740)|null|
+|**2025-06-21**|**Numerical simulation of transient heat conduction with moving heat source using Physics Informed Neural Networks**|Anirudh Kalyan et.al.|[2506.17726](http://arxiv.org/abs/2506.17726)|null|
+|**2025-06-21**|**Unveiling Factors for Enhanced POS Tagging: A Study of Low-Resource Medieval Romance Languages**|Matthias Schöffel et.al.|[2506.17715](http://arxiv.org/abs/2506.17715)|null|
+|**2025-06-20**|**Trustworthy Few-Shot Transfer of Medical VLMs through Split Conformal Prediction**|Julio Silva-Rodríguez et.al.|[2506.17503](http://arxiv.org/abs/2506.17503)|null|
+|**2025-06-19**|**Energy-Based Transfer for Reinforcement Learning**|Zeyun Deng et.al.|[2506.16590](http://arxiv.org/abs/2506.16590)|null|
 |**2025-06-17**|**Large Language Models -- the Future of Fundamental Physics?**|Caroline Heneka et.al.|[2506.14757](http://arxiv.org/abs/2506.14757)|null|
 |**2025-06-17**|**DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning**|Kunal Swami et.al.|[2506.14709](http://arxiv.org/abs/2506.14709)|null|
 |**2025-06-17**|**Bayesian Knowledge Transfer for a Kalman Fixed-Lag Interval Smoother**|Ondřej Skalský et.al.|[2506.14572](http://arxiv.org/abs/2506.14572)|null|
@@ -2781,6 +2799,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900](http://arxiv.org/abs/2506.18900)|null|
+|**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897](http://arxiv.org/abs/2506.18897)|null|
+|**2025-06-23**|**Let Your Video Listen to Your Music!**|Xinyu Zhang et.al.|[2506.18881](http://arxiv.org/abs/2506.18881)|null|
+|**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792](http://arxiv.org/abs/2506.18792)|null|
+|**2025-06-23**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671](http://arxiv.org/abs/2506.18671)|null|
+|**2025-06-23**|**GANs vs. Diffusion Models for virtual staining with the HER2match dataset**|Pascal Klöckner et.al.|[2506.18484](http://arxiv.org/abs/2506.18484)|null|
+|**2025-06-23**|**DIP: Unsupervised Dense In-Context Post-training of Visual Representations**|Sophia Sirko-Galouchenko et.al.|[2506.18463](http://arxiv.org/abs/2506.18463)|null|
+|**2025-06-23**|**CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing**|Dinh-Khoi Vo et.al.|[2506.18438](http://arxiv.org/abs/2506.18438)|null|
+|**2025-06-23**|**How Robust is Model Editing after Fine-Tuning? An Empirical Study on Text-to-Image Diffusion Models**|Feng He et.al.|[2506.18428](http://arxiv.org/abs/2506.18428)|null|
+|**2025-06-23**|**Generative Diffusion Receivers: Achieving Pilot-Efficient MIMO-OFDM Communications**|Yuzhi Yang et.al.|[2506.18419](http://arxiv.org/abs/2506.18419)|null|
+|**2025-06-23**|**Large-Scale Training Data Attribution for Music Generative Models via Unlearning**|Woosung Choi et.al.|[2506.18312](http://arxiv.org/abs/2506.18312)|null|
+|**2025-06-23**|**Instability in Diffusion ODEs: An Explanation for Inaccurate Image Reconstruction**|Han Zhang et.al.|[2506.18290](http://arxiv.org/abs/2506.18290)|null|
+|**2025-06-23**|**Adaptive Mask-guided K-space Diffusion for Accelerated MRI Reconstruction**|Qinrong Cai et.al.|[2506.18270](http://arxiv.org/abs/2506.18270)|null|
+|**2025-06-23**|**Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models**|Chao Li et.al.|[2506.18251](http://arxiv.org/abs/2506.18251)|null|
+|**2025-06-23**|**Exact Conditional Score-Guided Generative Modeling for Amortized Inference in Uncertainty Quantification**|Zezhong Zhang et.al.|[2506.18227](http://arxiv.org/abs/2506.18227)|null|
+|**2025-06-23**|**American options valuation in time-dependent jump-diffusion models via integral equations and characteristic functions**|Andrey Itkin et.al.|[2506.18210](http://arxiv.org/abs/2506.18210)|null|
+|**2025-06-22**|**CDG-MAE: Learning Correspondences from Diffusion Generated Views**|Varun Belagali et.al.|[2506.18164](http://arxiv.org/abs/2506.18164)|null|
+|**2025-06-22**|**Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection**|Quan Zhou et.al.|[2506.18134](http://arxiv.org/abs/2506.18134)|null|
+|**2025-06-22**|**Enabling PSO-Secure Synthetic Data Sharing Using Diversity-Aware Diffusion Models**|Mischa Dombrowski et.al.|[2506.17975](http://arxiv.org/abs/2506.17975)|null|
+|**2025-06-24**|**GD-Retriever: Controllable Generative Text-Music Retrieval with Diffusion Models**|Julien Guinot et.al.|[2506.17886](http://arxiv.org/abs/2506.17886)|null|
 |**2025-06-18**|**Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards**|Qingming Liu et.al.|[2506.15684](http://arxiv.org/abs/2506.15684)|null|
 |**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
 |**2025-06-18**|**UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting**|Kai He et.al.|[2506.15673](http://arxiv.org/abs/2506.15673)|null|
@@ -8060,9 +8098,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Multi-Scale Spectral Attention Module-based Hyperspectral Segmentation in Autonomous Driving Scenarios**|Imad Ali Shah et.al.|[2506.18682](http://arxiv.org/abs/2506.18682)|null|
+|**2025-06-22**|**OSDMamba: Enhancing Oil Spill Detection from Remote Sensing Images Using Selective State Space Model**|Shuaiyu Chen et.al.|[2506.18006](http://arxiv.org/abs/2506.18006)|null|
+|**2025-06-22**|**Cross-modal State Space Modeling for Real-time RGB-thermal Wild Scene Semantic Segmentation**|Xiaodong Guo et.al.|[2506.17869](http://arxiv.org/abs/2506.17869)|null|
+|**2025-06-20**|**ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds**|Binbin Xiang et.al.|[2506.16991](http://arxiv.org/abs/2506.16991)|null|
+|**2025-06-19**|**From Semantic To Instance: A Semi-Self-Supervised Learning Approach**|Keyhan Najafian et.al.|[2506.16563](http://arxiv.org/abs/2506.16563)|null|
+|**2025-06-19**|**Structured Semantic 3D Reconstruction (S23DR) Challenge 2025 -- Winning solution**|Jan Skvrna et.al.|[2506.16421](http://arxiv.org/abs/2506.16421)|null|
+|**2025-06-19**|**LBMamba: Locally Bi-directional Mamba**|Jingwei Zhang et.al.|[2506.15976](http://arxiv.org/abs/2506.15976)|null|
+|**2025-06-19**|**Heterogeneous-Modal Unsupervised Domain Adaptation via Latent Space Bridging**|Jiawen Yang et.al.|[2506.15971](http://arxiv.org/abs/2506.15971)|null|
+|**2025-06-19**|**Polyline Path Masked Attention for Vision Transformer**|Zhongchen Zhao et.al.|[2506.15940](http://arxiv.org/abs/2506.15940)|**[link](https://github.com/zhongchenzhao/ppma)**|
 |**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[2506.15313](http://arxiv.org/abs/2506.15313)|**[link](https://github.com/livanoff/mapfm)**|
 |**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160](http://arxiv.org/abs/2506.15160)|**[link](https://github.com/agent9717/pointdistribution)**|
-|**2025-06-17**|**Scaling-Up the Pretraining of the Earth Observation Foundation Model PhilEO to the MajorTOM Dataset**|Nikolaos Dionelis et.al.|[2506.14765](http://arxiv.org/abs/2506.14765)|null|
+|**2025-06-17**|**Scaling-Up the Pretraining of the Earth Observation Foundation Model PhilEO to the MajorTOM Dataset**|Nikolaos Dionelis et.al.|[2506.14765](http://arxiv.org/abs/2506.14765)|**[link](https://github.com/ESA-PhiLab/PhilEO-MajorTOM)**|
 |**2025-06-17**|**VisLanding: Monocular 3D Perception for UAV Safe Landing via Depth-Normal Synergy**|Zhuoyue Tan et.al.|[2506.14525](http://arxiv.org/abs/2506.14525)|null|
 |**2025-06-17**|**DepthSeg: Depth prompting in remote sensing semantic segmentation**|Ning Zhou et.al.|[2506.14382](http://arxiv.org/abs/2506.14382)|null|
 |**2025-06-16**|**HierVL: Semi-Supervised Segmentation leveraging Hierarchical Vision-Language Synergy with Dynamic Text-Spatial Query Alignment**|Numair Nadeem et.al.|[2506.13925](http://arxiv.org/abs/2506.13925)|null|
@@ -10474,9 +10521,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Enhancing Image Restoration Transformer via Adaptive Translation Equivariance**|JiaKui Hu et.al.|[2506.18520](http://arxiv.org/abs/2506.18520)|null|
+|**2025-06-23**|**BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement**|Tongshun Zhang et.al.|[2506.18346](http://arxiv.org/abs/2506.18346)|null|
+|**2025-06-20**|**Reversing Flow for Image Restoration**|Haina Qin et.al.|[2506.16961](http://arxiv.org/abs/2506.16961)|null|
+|**2025-06-20**|**Visual-Instructed Degradation Diffusion for All-in-One Image Restoration**|Wenyang Luo et.al.|[2506.16960](http://arxiv.org/abs/2506.16960)|**[link](https://github.com/luowyang/defusion)**|
+|**2025-06-23**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|**[link](https://github.com/junboooo/realsr-r1)**|
+|**2025-06-19**|**MoiréXNet: Adaptive Multi-Scale Demoiréing with Linear Attention Test-Time Training and Truncated Flow Matching Prior**|Liangyan Li et.al.|[2506.15929](http://arxiv.org/abs/2506.15929)|null|
+|**2025-06-16**|**ADAM-Dehaze: Adaptive Density-Aware Multi-Stage Dehazing for Improved Object Detection in Foggy Conditions**|Fatmah AlHindaassi et.al.|[2506.15837](http://arxiv.org/abs/2506.15837)|null|
 |**2025-06-17**|**Optimization-Based Image Restoration under Implementation Constraints in Optical Analog Circuits**|Taisei Kato et.al.|[2506.14624](http://arxiv.org/abs/2506.14624)|null|
 |**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|**[link](https://github.com/inria-thoth/ddm4ip)**|
-|**2025-06-17**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|
+|**2025-06-22**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|
 |**2025-06-16**|**Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**|Gregory Bellchambers et.al.|[2506.13614](http://arxiv.org/abs/2506.13614)|null|
 |**2025-06-15**|**Adaptive Dropout: Unleashing Dropout across Layers for Generalizable Image Super-Resolution**|Hang Xu et.al.|[2506.12738](http://arxiv.org/abs/2506.12738)|null|
 |**2025-06-14**|**UniDet-D: A Unified Dynamic Spectral Attention Model for Object Detection under Adverse Weathers**|Yuantao Wang et.al.|[2506.12324](http://arxiv.org/abs/2506.12324)|null|
@@ -11135,6 +11189,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807](http://arxiv.org/abs/2506.18807)|null|
+|**2025-06-23**|**MedSeg-R: Medical Image Segmentation with Clinical Reasoning**|Hao Shao et.al.|[2506.18669](http://arxiv.org/abs/2506.18669)|null|
+|**2025-06-23**|**Segment Anything for Satellite Imagery: A Strong Baseline and a Regional Dataset for Automatic Field Delineation**|Carmelo Scribano et.al.|[2506.16318](http://arxiv.org/abs/2506.16318)|**[link](https://github.com/cscribano/eras-dataset)**|
 |**2025-06-16**|**MorphSAM: Learning the Morphological Prompts from Atlases for Spine Image Segmentation**|Dingwei Fan et.al.|[2506.13094](http://arxiv.org/abs/2506.13094)|null|
 |**2025-06-13**|**Prohibited Items Segmentation via Occlusion-aware Bilayer Modeling**|Yunhan Ren et.al.|[2506.11661](http://arxiv.org/abs/2506.11661)|**[link](https://github.com/ryh1218/occ)**|
 |**2025-06-12**|**Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches**|Andrea Moglia et.al.|[2506.10825](http://arxiv.org/abs/2506.10825)|null|
