@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2025.07.09
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
@@ -23,6 +23,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Quantum algorithm for edge detection in digital grayscale images**|Mohit Rohida et.al.|[2507.06642](http://arxiv.org/abs/2507.06642)|null|
+|**2025-07-09**|**Edge-Boundary-Texture Loss: A Tri-Class Generalization of Weighted Binary Cross-Entropy for Enhanced Edge Detection**|Hao Shu et.al.|[2507.06569](http://arxiv.org/abs/2507.06569)|null|
 |**2025-06-29**|**Multimodal image registration for effective thermographic fever screening**|C. Y. N. Dwith et.al.|[2507.02955](http://arxiv.org/abs/2507.02955)|null|
 |**2025-07-01**|**LIGHTS. A robust technique to identify galaxy edges**|Giulia Golini et.al.|[2507.01085](http://arxiv.org/abs/2507.01085)|null|
 |**2025-06-25**|**U-R-VEDA: Integrating UNET, Residual Links, Edge and Dual Attention, and Vision Transformer for Accurate Semantic Segmentation of CMRs**|Racheal Mukisa et.al.|[2506.20689](http://arxiv.org/abs/2506.20689)|null|
@@ -245,6 +247,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Deep Brain Net: An Optimized Deep Learning Model for Brain tumor Detection in MRI Images Using EfficientNetB0 and ResNet50 with Transfer Learning**|Daniel Onah et.al.|[2507.07011](http://arxiv.org/abs/2507.07011)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Detecting Subjectivity via Transfer-Learning and Corrective Data Augmentation**|Maximilian Heil et.al.|[2507.06189](http://arxiv.org/abs/2507.06189)|null|
+|**2025-07-09**|**A Survey on Prompt Tuning**|Zongqian Li et.al.|[2507.06085](http://arxiv.org/abs/2507.06085)|null|
+|**2025-07-08**|**Contrastive and Transfer Learning for Effective Audio Fingerprinting through a Real-World Evaluation Protocol**|Christos Nikou et.al.|[2507.06070](http://arxiv.org/abs/2507.06070)|null|
+|**2025-07-08**|**PSAT: Pediatric Segmentation Approaches via Adult Augmentations and Transfer Learning**|Tristan Kirscher et.al.|[2507.05764](http://arxiv.org/abs/2507.05764)|null|
+|**2025-07-07**|**Predicting mutational effects on protein binding from folding energy**|Arthur Deng et.al.|[2507.05502](http://arxiv.org/abs/2507.05502)|null|
+|**2025-07-07**|**Conditional Graph Neural Network for Predicting Soft Tissue Deformation and Forces**|Madina Kojanazarova et.al.|[2507.05315](http://arxiv.org/abs/2507.05315)|null|
 |**2025-07-07**|**HGNet: High-Order Spatial Awareness Hypergraph and Multi-Scale Context Attention Network for Colorectal Polyp Detection**|Xiaofang Liu et.al.|[2507.04880](http://arxiv.org/abs/2507.04880)|null|
 |**2025-07-07**|**Towards Human-in-the-Loop Onset Detection: A Transfer Learning Approach for Maracatu**|António Sá Pinto et.al.|[2507.04858](http://arxiv.org/abs/2507.04858)|null|
 |**2025-07-07**|**Model Compression using Progressive Channel Pruning**|Jinyang Guo et.al.|[2507.04792](http://arxiv.org/abs/2507.04792)|null|
@@ -2842,6 +2851,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
+|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|
+|**2025-07-09**|**DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models**|Liang Wang et.al.|[2507.06853](http://arxiv.org/abs/2507.06853)|null|
+|**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
+|**2025-07-09**|**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management**|Hongjie Wu et.al.|[2507.06656](http://arxiv.org/abs/2507.06656)|null|
+|**2025-07-09**|**Diff $^2$ I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior**|Juncheng Mu et.al.|[2507.06651](http://arxiv.org/abs/2507.06651)|null|
+|**2025-07-09**|**Denoising Multi-Beta VAE: Representation Learning for Disentanglement and Generation**|Anshuk Uppal et.al.|[2507.06613](http://arxiv.org/abs/2507.06613)|null|
+|**2025-07-09**|**MOST: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction**|Yin Wang et.al.|[2507.06590](http://arxiv.org/abs/2507.06590)|null|
+|**2025-07-09**|**Concept-TRAK: Understanding how diffusion models learn concepts through concept-level attribution**|Yonghyun Park et.al.|[2507.06547](http://arxiv.org/abs/2507.06547)|null|
+|**2025-07-10**|**Concept Unlearning by Modeling Key Steps of Diffusion Process**|Chaoshuo Zhang et.al.|[2507.06526](http://arxiv.org/abs/2507.06526)|null|
+|**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482](http://arxiv.org/abs/2507.06482)|null|
+|**2025-07-08**|**FedPhD: Federated Pruning with Hierarchical Learning of Diffusion Models**|Qianyu Long et.al.|[2507.06449](http://arxiv.org/abs/2507.06449)|null|
+|**2025-07-08**|**Mitigating Multi-Sequence 3D Prostate MRI Data Scarcity through Domain Adaptation using Locally-Trained Latent Diffusion Models for Prostate Cancer Detection**|Emerson P. Grabke et.al.|[2507.06384](http://arxiv.org/abs/2507.06384)|null|
+|**2025-07-08**|**Too Human to Model:The Uncanny Valley of LLMs in Social Simulation -- When Generative Language Agents Misalign with Modelling Principles**|Yongchao Zeng et.al.|[2507.06310](http://arxiv.org/abs/2507.06310)|null|
+|**2025-07-08**|**Modern Methods in Associative Memory**|Dmitry Krotov et.al.|[2507.06211](http://arxiv.org/abs/2507.06211)|null|
+|**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
+|**2025-07-10**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
+|**2025-07-08**|**Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**|Haoyu Wang et.al.|[2507.06146](http://arxiv.org/abs/2507.06146)|null|
+|**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
 |**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198](http://arxiv.org/abs/2507.05198)|null|
 |**2025-07-07**|**SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model**|Chun Xie et.al.|[2507.05148](http://arxiv.org/abs/2507.05148)|null|
 |**2025-07-07**|**VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems**|Aadi Srivastava et.al.|[2507.05146](http://arxiv.org/abs/2507.05146)|null|
@@ -8261,6 +8290,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Know Your Attention Maps: Class-specific Token Masking for Weakly Supervised Semantic Segmentation**|Joelle Hanna et.al.|[2507.06848](http://arxiv.org/abs/2507.06848)|null|
+|**2025-07-09**|**Ambiguity-aware Point Cloud Segmentation by Adaptive Margin Contrastive Learning**|Yang Chen et.al.|[2507.06592](http://arxiv.org/abs/2507.06592)|null|
+|**2025-07-08**|**Centralized Copy-Paste: Enhanced Data Augmentation Strategy for Wildland Fire Semantic Segmentation**|Joon Tai Kim et.al.|[2507.06321](http://arxiv.org/abs/2507.06321)|null|
+|**2025-07-08**|**FineGrasp: Towards Robust Grasping for Delicate Objects**|Yun Du et.al.|[2507.05978](http://arxiv.org/abs/2507.05978)|null|
+|**2025-07-08**|**I $^2$ R: Inter and Intra-image Refinement in Few Shot Segmentation**|Ourui Fu et.al.|[2507.05838](http://arxiv.org/abs/2507.05838)|null|
+|**2025-07-09**|**Empowering Bridge Digital Twins by Bridging the Data Gap with a Unified Synthesis Framework**|Wang Wang et.al.|[2507.05814](http://arxiv.org/abs/2507.05814)|null|
 |**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260](http://arxiv.org/abs/2507.05260)|null|
 |**2025-07-07**|**MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding**|Jing Liang et.al.|[2507.04686](http://arxiv.org/abs/2507.04686)|null|
 |**2025-07-06**|**Street design and driving behavior: evidence from a large-scale study in Milan, Amsterdam, and Dubai**|Giacomo Orsi et.al.|[2507.04434](http://arxiv.org/abs/2507.04434)|null|
@@ -10735,13 +10770,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management**|Hongjie Wu et.al.|[2507.06656](http://arxiv.org/abs/2507.06656)|null|
+|**2025-07-08**|**Kernel Density Steering: Inference-Time Scaling via Mode Seeking for Image Restoration**|Yuyang Hu et.al.|[2507.05604](http://arxiv.org/abs/2507.05604)|null|
+|**2025-07-07**|**Simulating Refractive Distortions and Weather-Induced Artifacts for Resource-Constrained Autonomous Perception**|Moseli Mots'oehli et.al.|[2507.05536](http://arxiv.org/abs/2507.05536)|null|
 |**2025-07-06**|**Quick Bypass Mechanism of Zero-Shot Diffusion-Based Image Restoration**|Yu-Shan Tai et.al.|[2507.04207](http://arxiv.org/abs/2507.04207)|null|
 |**2025-07-04**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
 |**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
 |**2025-06-29**|**Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction**|Hanlin Dong et.al.|[2506.23053](http://arxiv.org/abs/2506.23053)|null|
 |**2025-06-27**|**EAMamba: Efficient All-Around Vision State Space Model for Image Restoration**|Yu-Cheng Lin et.al.|[2506.22246](http://arxiv.org/abs/2506.22246)|null|
 |**2025-06-26**|**Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration**|Xin Lu et.al.|[2506.21722](http://arxiv.org/abs/2506.21722)|null|
-|**2025-06-26**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
+|**2025-07-08**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
 |**2025-06-25**|**TDiR: Transformer based Diffusion for Image Restoration Tasks**|Abbas Anwar et.al.|[2506.20302](http://arxiv.org/abs/2506.20302)|null|
 |**2025-06-24**|**A Comparative Study of NAFNet Baselines for Image Restoration**|Vladislav Esaulov et.al.|[2506.19845](http://arxiv.org/abs/2506.19845)|null|
 |**2025-06-24**|**NAADA: A Noise-Aware Attention Denoising Autoencoder for Dental Panoramic Radiographs**|Khuram Naveed et.al.|[2506.19387](http://arxiv.org/abs/2506.19387)|null|
@@ -11413,6 +11451,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding**|Zhenyang Liu et.al.|[2507.06719](http://arxiv.org/abs/2507.06719)|null|
+|**2025-07-07**|**OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts**|Shiting Xiao et.al.|[2507.05427](http://arxiv.org/abs/2507.05427)|null|
 |**2025-07-04**|**SAMed-2: Selective Memory Enhanced Medical Segment Anything Model**|Zhiling Yan et.al.|[2507.03698](http://arxiv.org/abs/2507.03698)|null|
 |**2025-07-04**|**Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation**|Tao Tang et.al.|[2507.03585](http://arxiv.org/abs/2507.03585)|null|
 |**2025-07-05**|**No time to train! Training-Free Reference-Based Instance Segmentation**|Miguel Espinosa et.al.|[2507.02798](http://arxiv.org/abs/2507.02798)|null|
@@ -11421,7 +11461,7 @@ layout: default
 |**2025-07-02**|**Autoadaptive Medical Segment Anything Model**|Tyler Ward et.al.|[2507.01828](http://arxiv.org/abs/2507.01828)|null|
 |**2025-07-02**|**Mamba Guided Boundary Prior Matters: A New Perspective for Generalized Polyp Segmentation**|Tapas K. Dutta et.al.|[2507.01509](http://arxiv.org/abs/2507.01509)|null|
 |**2025-06-30**|**Foundation Models for Zero-Shot Segmentation of Scientific Images without AI-Ready Data**|Shubhabrata Mukherjee et.al.|[2506.24039](http://arxiv.org/abs/2506.24039)|null|
-|**2025-06-30**|**Diffusion Model-based Data Augmentation Method for Fetal Head Ultrasound Segmentation**|Fangyijie Wang et.al.|[2506.23664](http://arxiv.org/abs/2506.23664)|null|
+|**2025-07-10**|**Diffusion Model-based Data Augmentation Method for Fetal Head Ultrasound Segmentation**|Fangyijie Wang et.al.|[2506.23664](http://arxiv.org/abs/2506.23664)|null|
 |**2025-07-01**|**SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting**|Yiming Huang et.al.|[2506.23309](http://arxiv.org/abs/2506.23309)|null|
 |**2025-06-29**|**DC-TTA: Divide-and-Conquer Framework for Test-Time Adaptation of Interactive Segmentation**|Jihun Kim et.al.|[2506.23104](http://arxiv.org/abs/2506.23104)|null|
 |**2025-06-28**|**VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding**|Minchao Jiang et.al.|[2506.22799](http://arxiv.org/abs/2506.22799)|null|
