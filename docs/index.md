@@ -9,7 +9,7 @@ layout: default
 
 ## GitPages on https://theneao.github.io/CV-SAR-Seg-arxiv-daily
 
-## Updated on 2026.05.18
+## Updated on 2026.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## self-supervised
